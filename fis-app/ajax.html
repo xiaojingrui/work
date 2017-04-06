@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ajax</title>
+</head>
+<body>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script  type="text/javascript">
+	
+
+	$.ajax({
+			url: "http://192.168.8.79:5001/add_pic",
+			type: "get",
+			dataType: 'json',
+			//data: data,
+			success: function(data){
+				console.log(data)
+				callback && callback(data);
+			}
+		});
+</script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+.all-rank {
+    font-size: 13px;
+    color: @morning_gray3_cor;
+    background-color: @morning_white_cor;
+
+    .mod-no-result {
+    	padding-top: 10px;
+    	padding-bottom: 10px;
+    	text-align: center;
+    	color: @morning_gray2_cor;
+    }
+
+    .mod-title {
+    	width: 100%;
+		tr {
+            height: 26px;
+			background-color: @morning_gray1_cor;
+		}
+
+		td:nth-of-type(1) {
+            text-indent: 10px;
+		}
+    }
+
+    .mod-table {
+    	width: 100%;
+
+		tr {
+			height: 45px;
+			border-bottom: 1px solid @morning_gray1_cor;
+		}
+
+        tr:active {
+            .num {
+    			background-color: #dcdfe3;
+    		}
+    		background-color: #e1e6eb;
+        }
+
+    	.num {
+    		display: inline-block;
+    		width: 100%;
+            line-height: 45px;
+    		text-align: center;
+    		font-weight: bold;
+    		background-color: @morning_gray0_cor;
+            border-left: 1px solid @morning_gray1_cor;
+    	}
+
+    	.red {
+    		color: @morning_red_cor;
+            border-left: 1px solid @morning_red_cor;
+    	}
+
+    	.logo {
+            position: relative;
+            display: block;
+            width: 26px;
+    		height: 36px;
+            margin: 0 auto;
+            border-radius: 4px;
+    		overflow: hidden;
+
+            img {
+    			width: 26px;
+    			height: 36px;
+    			border-radius: 4px;
+    		}
+
+    		.mask {
+    			position: absolute;
+                top: 0;
+    			left: 0;
+    			width: 100%;
+    			height: 100%;
+    			border-radius: 4px;
+    			background-color: rgba(0,0,0,0);
+    			overflow: hidden;
+    		}
+    	}
+    }
+}
+
+body.night {
+    .all-rank {
+        color: @night_gray3_cor;
+        background-color: @night_white_cor;
+
+        .mod-no-result {
+        	color: @night_gray2_cor;
+        }
+
+        .mod-title {
+    		tr {
+    			background-color: @night_gray1_cor;
+    		}
+        }
+
+        .mod-table {
+    		tr {
+    			border-bottom-color: @night_gray1_cor;
+    		}
+
+            tr:active {
+                .num {
+        			background-color: #dcdfe3;
+        		}
+        		background-color: #e1e6eb;
+            }
+
+        	.num {
+        		background-color: @night_gray0_cor;
+                border-left-color: @night_gray1_cor;
+        	}
+
+        	.red {
+        		color: @night_red_cor;
+                border-left-color: @night_red_cor;
+        	}
+
+            .logo {
+                .mask {
+            		background-color: rgba(0,0,0,.5);
+                }
+            }
+        }
+    }
+}

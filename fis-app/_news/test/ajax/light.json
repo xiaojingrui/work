@@ -1,0 +1,64 @@
+{
+  "light_comments": [
+    {
+      "ncid": "10076468",
+      "uid": "0",
+      "light_count": "11",
+      "unlight_count": "5",
+      "user_name": "叶子青青青",
+      "content": "嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻",
+      "create_time": "1446200750",
+      "lighted": 0
+    },
+    {
+      "ncid": "10076415",
+      "light_count": "11",
+      "unlight_count": "0",
+      "user_name": "路然0003",
+      "is_hide": "1",
+      "content": "哈哈哈哈哈哈哈哈哈",
+      "create_time": "1445933440",
+      "lighted": 0
+    },
+    {
+      "ncid": "10076529",
+      "light_count": "0",
+      "unlight_count": "0",
+      "uid": "19043680",
+      "user_name": "安静向日葵28",
+      "content": "呼呼呼呼呼呼",
+      "create_time": "1446726004",
+      "lighted": 0,
+      "quote_data": {
+        "is_hide": "1",
+        "content": "我,呼呼呼呼",
+        "user_name": "安静向日葵28"
+      }
+    },
+    {
+      "ncid": "10076529",
+      "light_count": "0",
+      "unlight_count": "0",
+      "uid": "19043680",
+      "user_name": "安静向日葵28",
+      "content": "呼呼呼呼呼呼",
+      "create_time": "1446726004",
+      "lighted": 0,
+      "quote_data": {
+        "content": "我,呼呼呼呼",
+        "user_name": "安静向日葵28"
+      }
+    },
+    {
+      "ncid": "10076415",
+      "light_count": "11",
+      "unlight_count": "0",
+      "user_name": "路然0003",
+      "content": "哈哈哈哈哈哈哈哈哈",
+      "create_time": "1445933440",
+      "lighted": 0
+    }
+  ],
+  "count": "25",
+  "is_login": 0
+}

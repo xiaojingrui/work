@@ -1,0 +1,136 @@
+{
+	"news": {
+		"nid": "110447",
+		"snid": "34",
+		"top_title": "专题",
+		"title": "热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻",
+		"summary": "热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻热门专题新闻",
+		"addtime": "1458710990",
+		"league": "7",
+		"is_top": "0",
+		"is_top_value": "0",
+		"img_m": "http://i2.hoopchina.com.cn/hupuapp/kanqiu/201603/kanqiu_0_20160318112234_1972219537.jpg",
+		"img_pei": "http://i2.hoopchina.com.cn/hupuapp/kanqiu/201603/kanqiu_0_20160318112234_1972219537.jpg",
+		"groups": [{
+			"orderby": "0",
+			"title": "1/2 一二三四五六七八九十",
+			"news": [{
+				"nid": "110436",
+				"league": "7",
+				"title": "专题新闻测试",
+				"summary": "专题新闻测试",
+				"uptime": "1458213020",
+				"img": "http://image.photophoto.cn/nm-6/018/030/0180300244.jpg",
+				"type": 2,
+				"lights": 0,
+				"replies": "0",
+				"link": null,
+				"hid": "",
+				"un_replay": "0",
+				"badge": [{
+					"name": "专题",
+					"color": "ff6000"
+				}],
+				"url": "http://kanqiu-test.hupu.com/s?u=fran/news/110436",
+				"read": "110436020"
+			}, {
+				"nid": "121792",
+				"league": "1",
+				"title": "虎扑体育社区管理规范",
+				"summary": "测试",
+				"uptime": "1458640217",
+				"img": "",
+				"type": 1,
+				"lights": 0,
+				"replies": "0",
+				"link": null,
+				"hid": "",
+				"un_replay": "0",
+				"url": "http://kanqiu-test.hupu.com/s?u=nba/news/121792",
+				"read": "121792"
+			}]
+		}, {
+			"orderby": "0",
+			"title": "3/3 一一二三四五六七八九十",
+			"news": [{
+				"nid": "110446",
+				"league": "7",
+				"title": "动图图集新闻",
+				"summary": "",
+				"uptime": "1461650583",
+				"img": "",
+				"type": 3,
+				"lights": 0,
+				"replies": "5",
+				"link": null,
+				"hid": "",
+				"un_replay": "0",
+				"thumbs": [
+					"http://i3.hoopchina.com.cn/hupuapp/kanqiu/201603/kanqiu_0_20160323114045_685829329.gif",
+					"http://i1.hoopchina.com.cn/hupuapp/kanqiu/201603/kanqiu_0_20160323114047_675705536.gif",
+					"http://i3.hoopchina.com.cn/hupuapp/kanqiu/201603/kanqiu_0_20160323114048_963052058.gif"
+				],
+				"url": "http://kanqiu-test.hupu.com/s?u=fran/news/110446",
+				"read": "110446"
+			}, {
+				"nid": "110436",
+				"league": "7",
+				"title": "专题新闻测试",
+				"summary": "专题新闻测试",
+				"uptime": "1458213020",
+				"img": "http://image.photophoto.cn/nm-6/018/030/0180300244.jpg",
+				"type": 2,
+				"lights": 0,
+				"replies": "0",
+				"link": null,
+				"hid": "",
+				"un_replay": "0",
+				"badge": [{
+					"name": "专题",
+					"color": "ff6000"
+				}],
+				"url": "http://kanqiu-test.hupu.com/s?u=fran/news/110436",
+				"read": "110436020"
+			}, {
+				"nid": "121792",
+				"league": "1",
+				"title": "虎扑体育社区管理规范",
+				"summary": "测试",
+				"uptime": "1458640217",
+				"img": "",
+				"type": 1,
+				"lights": 0,
+				"replies": "0",
+				"link": null,
+				"hid": "",
+				"un_replay": "0",
+				"url": "http://kanqiu-test.hupu.com/s?u=nba/news/121792",
+				"read": "121792"
+			}]
+		}],
+		"iscollected": "2",
+		"share": {
+			"url": "http://kanqiu-test.hupu.com/s?u=nba/news/110447",
+			"wechat_moments": "热门专题新闻",
+			"wechat": "热门专题新闻",
+			"qzone": "热门专题新闻 http://kanqiu-test.hupu.com/s?u=nba/news/110447",
+			"weibo": "热门专题新闻 http://kanqiu-test.hupu.com/s?u=nba/news/110447 （分享自 @虎扑体育App）",
+			"img": "http://i2.hoopchina.com.cn/hupuapp/kanqiu/201603/kanqiu_0_20160318112234_1972219537.jpg"
+		},
+		"light_comments": []
+	},
+	"appUrl": "kanqiu://soccerleagues/fran/news/110447",
+	"webUrl": "http://kanqiu-test.hupu.com/s?u=fran/news/110447",
+	"deepLink": "android-app://com.hupu.games/kanqiu/soccerleagues/fran/news/110447",
+	"top_title": "纵览新闻资讯，玩转体育社区！",
+	"top_download_url": "http://mobile.hupu.com/download/games?r=shareSoccerNewsTop1",
+	"bottom_title": "想成为朋友圈里最快掌握体育资讯的达人？",
+	"bottom_url": "http://mobile.hupu.com/download/games?r=shareSoccerNewsBottom2",
+	"top_event": "SoccerNewsTop1",
+	"bottom_event": "SoccerNewsBottom2",
+	"is_login": 0,
+	"night": 0,
+	"projectId": 1,
+	"version": null,
+	"client": ""
+}

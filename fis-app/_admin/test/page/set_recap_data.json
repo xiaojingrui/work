@@ -1,0 +1,69 @@
+{
+	"lid": "9",
+	"gid": "11000832",
+	"title": "战报标题",
+	"video_url": "视频地址",
+	"video_cover": "视频封面",
+	"tid": "13067421",
+	"list": [{
+		"match_time": "12",
+		"img_url": "",
+		"img_size": "13",
+		"desc": "第一条战报内容aa"
+	}, {
+		"match_time": "12",
+		"img_url": "",
+		"img_size": "13",
+		"desc": "第二条战报内容"
+	}, {
+		"match_time": "12",
+		"img_url": "",
+		"img_size": "13",
+		"desc": "第三条战报内容"
+	}],
+	"light_reply": [{
+		"pid": "5128",
+		"userName": "消息23363",
+		"userImg": "http://i1.hoopchina.com.cn/user/515/26013515/26013515-1460538609.png",
+		"light_count": "0",
+		"content": " 测试回帖显示的双引号",
+		"is_hidden": "0"
+	}, {
+		"pid": "5129",
+		"userName": "hp_9d09",
+		"userImg": "http://i1.hoopchina.com.cn/user/586/18639586/18639586jpg",
+		"light_count": "0",
+		"content": "123",
+		"is_hidden": "0"
+	}, {
+		"pid": "5130",
+		"userName": "消息23363",
+		"userImg": "http://i1.hoopchina.com.cn/user/515/26013515/26013515-1460538609.png",
+		"light_count": "0",
+		"content": "但是我输入的时候是没加空格的",
+		"is_hidden": "0"
+	}, {
+		"pid": "5131",
+		"userName": "消息23363",
+		"userImg": "http://i1.hoopchina.com.cn/user/515/26013515/26013515-1460538609.png",
+		"light_count": "0",
+		"content": " APP同步回帖",
+		"is_hidden": "0"
+	}],
+	"key_event": [],
+	"begin_time": "1460678400",
+	"home_name": "上海申花",
+	"away_name": "广州恒大",
+	"home_score": "0",
+	"away_score": "0",
+	"status": {
+		"id": "1",
+		"desc": "8:00开球"
+	},
+	"is_login": 0,
+	"night": 0,
+	"projectId": 1,
+	"no_pic": 1,
+	"version": null,
+	"client": ""
+}

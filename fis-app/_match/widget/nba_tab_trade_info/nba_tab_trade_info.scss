@@ -1,0 +1,92 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/function";
+
+.trade-info {
+	.td2, .td3, .td4, .contract { line-height: normal;}
+	.td3, .td4 {
+		@include box-sizing(border-box);
+		word-break: break-all;
+	}
+
+	.td2, .td3, .td4 { padding-top: 6px; padding-bottom: 0px;}
+
+	.th3, .th4 { padding-left: 2px; padding-right: 2px;}
+
+	.name { line-height: normal;}
+	.logo { margin-left: 8px;}
+
+	.contract { padding: 0px 0 6px 0px; color: $morning_gray2_cor;}
+
+	.data-table { width: 100%;}
+
+	.special-table {
+		.td2, .td3, .td4 { padding: 14px 2px 0 2px;}
+
+		tr {
+			border-bottom: none;
+		}
+
+		tr:last-child {
+			border-bottom: 1px solid $morning_gray0_cor;
+		}
+
+		.last-tr {
+			border-top: 1px solid $morning_gray0_cor;
+			border-bottom: 1px solid $morning_gray0_cor
+		}
+
+		.line {
+			width: 100%;
+			height: 6px;
+			background-image: url(./line_bg.png);
+			@include background-size(cover);
+			background-position: center;
+			background-repeat: no-repeat;
+		}
+
+		.logo { position: relative; top: -3px; height: auto;}
+		.logo img { height: auto;}
+	}
+
+	.no-data {
+		color: $morning_gray2_cor;
+	}
+
+	.special-table .no-data {
+		border-bottom: 1px solid $morning_gray0_cor;
+	}
+}
+
+
+body.night {
+	.trade-info {
+		.contract { color: $night_gray2_cor;}
+
+		.special-table {
+			tr {
+				border-bottom: none;
+			}
+
+			tr:last-child {
+				border-bottom: 1px solid $night_gray0_cor;
+			}
+
+			.last-tr {
+				border-top-color: $night_gray0_cor;
+				border-bottom-color: $night_gray0_cor;
+			}
+
+			.line {
+				background-image: url(./line_bg_night.png);
+			}
+		}
+	}
+
+	.no-data {
+		color: $night_gray2_cor;
+	}
+
+	.special-table .no-data {
+		border-bottom-color: $night_gray0_cor;
+	}
+}

@@ -1,0 +1,111 @@
+{
+  "league_name": "zxb",
+  "league_chinese": "足协杯",
+  "against_figure": {
+    "1": [
+      {
+        "home_tid": "3150",
+        "away_tid": "10000001",
+        "home_name": "上海申花",
+        "away_name": "天津权健",
+        "home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3150_1.png",
+        "away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_10000001_1.png",
+        "round_1": "1:3",
+        "round_2": "未赛",
+        "type": 0,
+        "win": "1"
+      }
+    ],
+    "2": [
+      {
+        "home_tid": "3149",
+        "away_tid": "3151",
+        "home_name": "广州恒大",
+        "away_name": "江苏苏宁",
+        "home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+        "away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3151_2.png",
+        "round_1": "1:1",
+        "round_2": "2:1",
+        "type": "2",
+        "win": "1"
+      },
+      {
+        "home_tid": "3149",
+        "away_tid": "147339",
+        "home_name": "广州恒大",
+        "away_name": "河北华夏幸福",
+        "home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+        "away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_43292_2.png",
+        "round_1": "2:3",
+        "round_2": "未赛",
+        "type": 0,
+        "win": "2"
+      }
+    ],
+    "4": [
+      {
+        "home_tid": "3148",
+        "away_tid": "147339",
+        "home_name": "北京国安",
+        "away_name": "河北华夏幸福",
+        "home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3148_1.png",
+        "away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_43292_2.png",
+        "round_1": "1:2",
+        "round_2": "未赛",
+        "type": 0,
+        "win": "2"
+      },
+      {
+        "home_tid": "3151",
+        "away_tid": "3159",
+        "home_name": "江苏苏宁",
+        "away_name": "河南建业",
+        "home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3151_2.png",
+        "away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3159_1.png",
+        "round_1": "1:1",
+        "round_2": "1:2",
+        "type": "2",
+        "win": "2"
+      },
+      {
+        "home_tid": "3154",
+        "away_tid": "3151",
+        "home_name": "广州富力",
+        "away_name": "江苏苏宁",
+        "home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+        "away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3151_2.png",
+        "round_1": "1:0",
+        "round_2": "未赛",
+        "type": 0,
+        "win": "1"
+      },
+      {
+        "home_tid": "3154",
+        "away_tid": "3151",
+        "home_name": "广州富力",
+        "away_name": "江苏苏宁",
+        "home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+        "away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3151_2.png",
+        "round_1": "0:0",
+        "round_2": "1:0",
+        "type": "1",
+        "win": "1"
+      }
+    ]
+  },
+  "is_login": 0,
+  "night": 0,
+  "projectId": "1",
+  "version": "7.0.9",
+  "client": "867068025158311",
+  "stat": {
+    "redis": {
+      "gamesMajorSlave": 1
+    },
+    "db": {
+      "conn_192.168.8.49_hupu_games_user": 1,
+      "query_select mid uid,puid,email,mobile,balance,token,nickname,last_time,vip from g_user_info where mid='1701085' limit 1": 1
+    },
+    "net": []
+  }
+}

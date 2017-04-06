@@ -1,0 +1,257 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+i { font-style: normal;}
+img { pointer-events: none; max-width: 100%;}
+body {
+	min-height: 100%;
+	-webkit-user-select: none;
+	-webkit-tap-highlight-color: transparent;
+}
+
+.iwidth {
+	width: 100%;
+	height: 0;
+}
+
+.map-wrap {
+	position: relative;
+	padding: 10px 8% 2px;
+	color: #434341;
+	background-color: #fff;
+
+	.close {
+		position: fixed;
+		top: 0;
+		right: 0;
+		display: block;
+		width: 30px;
+		height: 30px;
+		background: url(./img/map_close.png) no-repeat center;
+		background-size: 50%;
+	}
+
+	a.header {
+		@include display-flex();
+		position: relative;
+		width: 100%;
+		margin-bottom: 10px;
+		color: #434341;
+	}
+
+	.mask {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.mask:active {
+		background-color: rgba(225, 230, 235, .5);
+	}
+
+	.name {
+		margin-top: 6px;
+	}
+
+	.line {
+		position: relative;
+		top: -1px;
+		left: 2px;
+		display: inline-block;
+		width: 6px;
+		height: 6px;
+		border-top: 1px solid #505050;
+		border-right: 1px solid #505050;
+		@include rotate(45deg);
+	}
+
+	.num {
+		color: #a9a9b2;
+	}
+
+	.head {
+		position: relative;
+		width: 70px;
+		height: 50px;
+		border-radius: 4px;
+		overflow: hidden;
+
+		img {
+			width: 70px;
+			height: 50px;
+			overflow: hidden;
+		}
+
+		.mask {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			line-height: normal;
+			border-radius: 4px;
+			background-color: rgba(0,0,0,.5);
+			overflow: hidden;
+		}
+	}
+
+	.info {
+		height: 50px;
+		margin-left: 15px;
+	}
+
+	.tabs {
+		@include display-flex();
+		padding: 1px;
+		line-height: 27px;
+		font-size: 13px;
+		text-align: center;
+		background-color: #f0f0f0;
+		border-radius: 27px;
+
+		span {
+			@include flex(1);
+			display: block;
+		}
+
+		a {
+			display: inline-block;
+			width: 100%;
+		}
+
+		span a.absent {
+			color: #a9a9b2;
+		}
+
+		span.active a {
+			display: inline-block;
+			background-color: #fff;
+			color: #c01e2f;
+			border-radius: 27px;
+		}
+	}
+
+	.datas {
+		margin-top: 6px;
+		margin-bottom: 4px;
+
+		ul {
+			@include display-flex();
+		}
+
+		li {
+			@include flex(1);
+			text-align: center;
+		}
+
+		.key {
+			margin-top: -4px;
+			font-size: 12px;
+			color: #959595;
+		}
+
+		.value {
+			font-size: 15px;
+			font-weight: bold;
+		}
+	}
+
+	.datas-bottom {
+		ul:first-child {
+			margin-bottom: 10px;
+		}
+	}
+
+	.datas-map {
+		position: relative;
+
+		.dot {
+			position: absolute;
+			display: block;
+			width: 9px;
+			height: 9px;
+			background-size: 100%;
+		}
+
+		.get {
+			background-image: url(./img/map_goals.png);
+		}
+
+		.notget {
+			background-image: url(./img/map_no_goals.png);
+		}
+	}
+}
+
+@media (max-width: 320px){
+	.map-wrap {
+		.datas {
+			.value {
+				font-size: 12px;
+			}
+		}
+	}
+}
+
+
+.night {
+	background-color: #2c2c2c;
+	.map-wrap {
+		color: #959595;
+		background-color: #2c2c2c;
+
+		.close {
+			background-image: url(./img/map_close_night.png);
+		}
+
+		a.header {
+			color: #959595;
+		}
+
+		a.header:active {
+			background-color: #1f1f1f;
+		}
+
+		.line {
+			border-top-color: #959595;
+			border-right-color: #959595;
+		}
+
+		.num {
+			color: #5a5a5f;
+		}
+
+
+		.tabs {
+			color: #373737;
+			background-color: #232323;
+
+			span.active a {
+				color: #959595;
+				background-color: #99222c;
+			}
+
+			span a.absent {
+				color: #5a5a5f;
+			}
+		}
+
+		.datas {
+			.key {
+				color: #5a5a5f;
+			}
+		}
+
+		.datas-map {
+			.get {
+				background-image: url(./img/map_goals_night.png);
+			}
+
+			.notget {
+				background-image: url(./img/map_no_goals_night.png);
+			}
+		}
+	}
+}

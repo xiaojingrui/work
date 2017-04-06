@@ -1,0 +1,11 @@
+@import "../../static/sass/sassCore/function";
+
+.basketball-wrap {
+    overflow: auto;
+
+    .red { color: $morning_red_cor;}
+}
+
+body.night {
+    .red { color: $night_red_cor;}
+}

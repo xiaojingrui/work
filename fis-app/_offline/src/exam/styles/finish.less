@@ -1,0 +1,97 @@
+.finish {
+	.result-pic {
+		display: block;
+		width: 200px;
+		height: 60px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 10px;
+
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+	.good .result-pic {
+		background-image: url(http://w10.hoopchina.com.cn/hybrid/exam/static/test_bg_5.jpg);
+	}
+
+	.bad .result-pic {
+		background-image: url(http://w10.hoopchina.com.cn/hybrid/exam/static/test_bg_6.jpg);
+	}
+
+	.result {
+		width: 270px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 30px;
+
+		.item {
+			width: 105px;
+			text-align: center;
+
+			.title {
+				margin-bottom: 12px;
+				font-size: 14px;
+				color: #424242;
+			}
+
+			.num {
+				width: 105px;
+				height: 105px;
+				line-height: 105px;
+				border-radius: 50%;
+				border: 1px solid #424242;
+
+				span {
+					position: relative;
+					font-size: 36px;
+					font-weight: bold;
+					color: #424242;
+				}
+
+				i {
+					position: absolute;
+					right: -14px;
+					bottom: 6px;
+					line-height: normal;
+					font-size: 12px;
+					color: #b1b1b1;
+					font-weight: normal;
+				}
+			}
+		}
+	}
+
+	.good .fr {
+		.num {
+			border-color: #08c408;
+			span {
+				color: #08c408;
+			}
+		}
+	}
+
+	.bad .fr {
+		.num {
+			border-color: #ff001b;
+			span {
+				color: #ff001b;
+			}
+		}
+	}
+
+	.tip {
+		width: 300px;
+		margin-left: auto;
+		margin-right: auto;
+		color: #424242;
+	}
+
+	.bottom {
+		position: absolute;
+		left: 50%;
+		bottom: 30px;
+		width: 300px;
+		margin-left: -150px;
+	}
+}

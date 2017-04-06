@@ -1,0 +1,41 @@
+{
+    "status": 200,
+    "result": {
+        "all_count": "65",
+        "list": [{
+            "pid": "72982",
+            "puid": "17788375",
+            "via": "0",
+            "content": "什么东西啊，1300这他妈真奸商<br /><small class=\"f666\"><a href='http://www.windowsphone.com/s?appid=4ee0110b-3205-4aac-866e-fea8630fed22' target='_blank'><font color='#326ca6'>发自虎扑WindowsPhone客户端</font></a></small>",
+            "create_time": "1418623625",
+            "update_info": "",
+            "light_count": 1000,
+            "time": "2014-12",
+            "userName": "请叫我66号",
+            "userImg": "",
+            "smallcontent": "什么东西啊...",
+            "togglecontent": "",
+            "quote": []
+        }, {
+            "pid": "71934",
+            "puid": "15621774",
+            "via": "0",
+            "content": "\r<br />后来我给他装了个原版的，装好之后手动激活了一下，收他了50",
+            "create_time": "1418623048",
+            "update_info": "",
+            "light_count": 1000,
+            "time": "2014-12",
+            "userName": "a939469159",
+            "userImg": "",
+            "smallcontent": "后来我给他...",
+            "togglecontent": "",
+            "quote": [{
+                "header": [
+                    "引用55楼 @<a href='http://my.hupu.com/zhoulengzhu' target='_blank'><font color='#326ca6'>周棱柱</font></a> 发表的"
+                ],
+                "content": "正版不是400多吗<p><img src='http://kanqiu.hupucdn.com/kanqiu_26012730_20151029211452.octet-stream'/></p><p><img src='http://kanqiu.hupucdn.com/kanqiu_26012730_20151029211453.octet-stream'/></p><p><img src='http://kanqiu.hupucdn.com/kanqiu_26012730_20151029211453.octet-stream'/></p><p><img src='http://kanqiu.hupucdn.com/kanqiu_26012730_20151029211453.octet-stream'/></p>",
+                "togglecontent": ""
+            }]
+        }]
+    }
+}

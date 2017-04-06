@@ -1,0 +1,19 @@
+@import "../../static/sass/sassCore/function";
+
+.football-wrap {
+    overflow: auto;
+
+    .num {
+        display: inline-block;
+        width: 100%;
+        line-height: 35px;
+    }
+
+    .red {
+        color: $morning_red_cor;
+    }
+}
+
+body.night {
+    .red { color: $night_red_cor;}
+}

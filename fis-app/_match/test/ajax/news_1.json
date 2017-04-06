@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "nid": "110827",
+      "league": "888",
+      "title": "奥运会球员球队标签测试",
+      "summary": "测试",
+      "uptime": "1467267015",
+      "img": "",
+      "type": 1,
+      "lights": 0,
+      "replies": "2",
+      "read": "110827",
+      "m_url": "https://m.hupu.com/soccer/news/110827.html",
+      "app_url": "kanqiu://olympic/olympic/news/110827&type=1"
+    },
+    {
+      "nid": "110822",
+      "league": "1",
+      "title": "新闻标签添加退役球员（测试分享新闻）",
+      "summary": "测试分享",
+      "uptime": "1467185604",
+      "img": "",
+      "type": 1,
+      "lights": 0,
+      "replies": "2",
+      "read": "110822",
+      "m_url": "https://m.hupu.com/soccer/news/110822.html",
+      "app_url": "kanqiu://nba/nba/news/110822&type=1"
+    },
+    {
+      "nid": "110800",
+      "league": "888",
+      "title": "奥运会新闻标签测试",
+      "summary": "测试",
+      "uptime": "1466762611",
+      "img": "",
+      "type": 1,
+      "lights": 0,
+      "replies": "5",
+      "read": "110800",
+      "m_url": "https://m.hupu.com/soccer/news/110800.html",
+      "app_url": "kanqiu://olympic/olympic/news/110800&type=1"
+    },
+    {
+      "nid": "110769",
+      "league": "1",
+      "title": "球员和球队重名：填写的是球队",
+      "summary": "测试",
+      "uptime": "1466686592",
+      "img": "",
+      "type": 1,
+      "lights": 0,
+      "replies": "5",
+      "read": "110769",
+      "m_url": "https://m.hupu.com/soccer/news/110769.html",
+      "app_url": "kanqiu://nba/nba/news/110769&type=1"
+    },
+    {
+      "nid": "110755",
+      "league": "1",
+      "title": "看得到选秀栏的球员",
+      "summary": "看得到的选秀栏",
+      "uptime": "1465810636",
+      "img": "",
+      "type": 1,
+      "lights": 0,
+      "replies": "4",
+      "read": "110755",
+      "m_url": "https://m.hupu.com/soccer/news/110755.html",
+      "app_url": "kanqiu://nba/nba/news/110755&type=1"
+    },
+    {
+      "nid": "110752",
+      "league": "1",
+      "title": "新闻球员标签支持所有的NBA和CBA球员",
+      "summary": "测试",
+      "uptime": "1465785813",
+      "img": "",
+      "type": 1,
+      "lights": 0,
+      "replies": "1",
+      "read": "110752",
+      "m_url": "https://m.hupu.com/soccer/news/110752.html",
+      "app_url": "kanqiu://nba/nba/news/110752&type=1"
+    },
+    {
+      "nid": "110744",
+      "league": "1",
+      "title": "新闻标签",
+      "summary": "新闻标签",
+      "uptime": "1465293194",
+      "img": "http://i1.hoopchina.com.cn/blogfile/201605/16/BbsImg146339763243624_750x350big.png@150w_1l_60q",
+      "type": 1,
+      "lights": 0,
+      "replies": "1",
+      "read": "110744",
+      "m_url": "https://m.hupu.com/soccer/news/110744.html",
+      "app_url": "kanqiu://nba/nba/news/110744&type=1"
+    }
+  ],
+  "next": "2"
+}

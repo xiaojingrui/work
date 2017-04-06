@@ -1,0 +1,368 @@
+[
+  {
+    "name": "得分",
+    "allURL": "http://test.mobileapi.hupu.com/nba/getNbaPlayerRank?client=htlm&category=daily&type=pts&rank_type=nba_rank_pts",
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "3016",
+        "player_name": "威斯布鲁克",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/98d1b808fd75524c1919df2e8ed09b84.png",
+        "team_name": "雷霆",
+        "val": "28",
+        "pts": "28",
+        "reb": "2",
+        "asts": "9"
+      },
+      {
+        "rank": 2,
+        "player_id": "3010",
+        "player_name": "罗斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/9265035595ba7f6a39e78c8f399dbe48.png",
+        "team_name": "公牛",
+        "val": "23",
+        "pts": "23",
+        "reb": "2",
+        "asts": "6"
+      },
+      {
+        "rank": 3,
+        "player_id": "3613",
+        "player_name": "以赛亚-托马斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/cd83840c7d8917773e0e5ef51916d299.png",
+        "team_name": "凯尔特人",
+        "val": "23",
+        "pts": "23",
+        "reb": "3",
+        "asts": "6"
+      },
+      {
+        "rank": 4,
+        "player_id": "3040",
+        "player_name": "查默斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/f57d2e6a609794790261beb82c6f9dfa.png",
+        "team_name": "灰熊",
+        "val": "21",
+        "pts": "21",
+        "reb": "2",
+        "asts": "0"
+      },
+      {
+        "rank": 5,
+        "player_id": "3458",
+        "player_name": "保罗-乔治",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/43a6ada60976e30ac7e9bb07265949e3.png",
+        "team_name": "步行者",
+        "val": "21",
+        "pts": "21",
+        "reb": "4",
+        "asts": "5"
+      }
+    ]
+  },
+  {
+    "name": "篮板",
+    "allURL": "http://test.mobileapi.hupu.com/nba/getNbaPlayerRank?client=htlm&category=daily&type=reb&rank_type=nba_rank_reb",
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "15",
+        "player_name": "加索尔",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/52f4d08a983b7f50c474b3fb33da6be9.png",
+        "team_name": "公牛",
+        "val": "13",
+        "pts": "4",
+        "reb": "13",
+        "asts": "3"
+      },
+      {
+        "rank": 2,
+        "player_id": "3305",
+        "player_name": "乔丹-希尔",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/0722e82eb8b575c8cb42d3b112ddd919.png",
+        "team_name": "步行者",
+        "val": "12",
+        "pts": "5",
+        "reb": "12",
+        "asts": "3"
+      },
+      {
+        "rank": 3,
+        "player_id": "683",
+        "player_name": "霍华德",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/80b41f3eb7d5e23f27d1a9f0316981ad.png",
+        "team_name": "火箭",
+        "val": "12",
+        "pts": "5",
+        "reb": "12",
+        "asts": "3"
+      },
+      {
+        "rank": 4,
+        "player_id": "4818",
+        "player_name": "诺埃尔",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/aae831be4930f87d4bb972d8270173c0.png",
+        "team_name": "76人",
+        "val": "12",
+        "pts": "12",
+        "reb": "12",
+        "asts": "1"
+      },
+      {
+        "rank": 5,
+        "player_id": "1446",
+        "player_name": "马辛米",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/dab2669afe232b20c63bf1bc9366fa7f.png",
+        "team_name": "步行者",
+        "val": "11",
+        "pts": "4",
+        "reb": "11",
+        "asts": "3"
+      }
+    ]
+  },
+  {
+    "name": "助攻",
+    "allURL": "http://test.mobileapi.hupu.com/nba/getNbaPlayerRank?client=htlm&category=daily&type=asts&rank_type=nba_rank_asts",
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "3016",
+        "player_name": "威斯布鲁克",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/98d1b808fd75524c1919df2e8ed09b84.png",
+        "team_name": "雷霆",
+        "val": "9",
+        "pts": "28",
+        "reb": "2",
+        "asts": "9"
+      },
+      {
+        "rank": 2,
+        "player_id": "1411",
+        "player_name": "康利",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/4c5115907a168c126e9c4e649bb841c6.png",
+        "team_name": "灰熊",
+        "val": "7",
+        "pts": "19",
+        "reb": "4",
+        "asts": "7"
+      },
+      {
+        "rank": 3,
+        "player_id": "700",
+        "player_name": "托尼-帕克",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/96c308095eb0817ca09e5a031edec387.png",
+        "team_name": "马刺",
+        "val": "6",
+        "pts": "6",
+        "reb": "0",
+        "asts": "6"
+      },
+      {
+        "rank": 4,
+        "player_id": "3010",
+        "player_name": "罗斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/9265035595ba7f6a39e78c8f399dbe48.png",
+        "team_name": "公牛",
+        "val": "6",
+        "pts": "23",
+        "reb": "2",
+        "asts": "6"
+      },
+      {
+        "rank": 5,
+        "player_id": "1050",
+        "player_name": "德隆",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/fa95e295e77670a09233e3430d2577b5.png",
+        "team_name": "小牛",
+        "val": "6",
+        "pts": "12",
+        "reb": "3",
+        "asts": "6"
+      }
+    ]
+  },
+  {
+    "name": "抢断",
+    "allURL": "http://test.mobileapi.hupu.com/nba/getNbaPlayerRank?client=htlm&category=daily&type=stl&rank_type=nba_rank_stl",
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "4925",
+        "player_name": "斯马特",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/007c579c230c1227707b0213a588a466.png",
+        "team_name": "凯尔特人",
+        "val": "5",
+        "pts": "4",
+        "reb": "6",
+        "asts": "5"
+      },
+      {
+        "rank": 2,
+        "player_id": "480",
+        "player_name": "德文-哈里斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/d20f5d1be17e79d843555025e2d5cae0.png",
+        "team_name": "小牛",
+        "val": "4",
+        "pts": "9",
+        "reb": "3",
+        "asts": "2"
+      },
+      {
+        "rank": 3,
+        "player_id": "829",
+        "player_name": "托尼-阿伦",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/a002f499a2595d3ca7877dac4dcbcc94.png",
+        "team_name": "灰熊",
+        "val": "3",
+        "pts": "2",
+        "reb": "1",
+        "asts": "2"
+      },
+      {
+        "rank": 4,
+        "player_id": "558",
+        "player_name": "阿里扎",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/9a11f8c50f1020c42f2488ef8fcaf543.png",
+        "team_name": "火箭",
+        "val": "3",
+        "pts": "19",
+        "reb": "9",
+        "asts": "0"
+      },
+      {
+        "rank": 5,
+        "player_id": "1137",
+        "player_name": "阿米尔-约翰逊",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/8604fa59273fac1e4883a64a1e2501af.png",
+        "team_name": "凯尔特人",
+        "val": "3",
+        "pts": "6",
+        "reb": "6",
+        "asts": "3"
+      }
+    ]
+  },
+  {
+    "name": "盖帽",
+    "allURL": "http://test.mobileapi.hupu.com/nba/getNbaPlayerRank?client=htlm&category=daily&type=blk&rank_type=nba_rank_blk",
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "3357",
+        "player_name": "泰-吉布森",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/4754419457234d4437f0c3420ff7b91e.png",
+        "team_name": "公牛",
+        "val": "4",
+        "pts": "9",
+        "reb": "10",
+        "asts": "5"
+      },
+      {
+        "rank": 2,
+        "player_id": "3055",
+        "player_name": "伊巴卡",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/c7991a30ccd920845466eec0b6668f5d.png",
+        "team_name": "雷霆",
+        "val": "3",
+        "pts": "11",
+        "reb": "8",
+        "asts": "0"
+      },
+      {
+        "rank": 3,
+        "player_id": "199",
+        "player_name": "尼克-科里森",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/3ab9695e4a004b296707da927b687de1.png",
+        "team_name": "雷霆",
+        "val": "2",
+        "pts": "2",
+        "reb": "3",
+        "asts": "1"
+      },
+      {
+        "rank": 4,
+        "player_id": "4869",
+        "player_name": "杰迈克尔-格林",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/c6fd6465c0251464193cb967360cdede.png",
+        "team_name": "灰熊",
+        "val": "2",
+        "pts": "0",
+        "reb": "3",
+        "asts": "0"
+      },
+      {
+        "rank": 5,
+        "player_id": "693",
+        "player_name": "邓肯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/f6a7504fcc762af9cfb3b799e5079ac5.png",
+        "team_name": "马刺",
+        "val": "2",
+        "pts": "10",
+        "reb": "9",
+        "asts": "1"
+      }
+    ]
+  },
+  {
+    "name": "三分命中数",
+    "allURL": "http://test.mobileapi.hupu.com/nba/getNbaPlayerRank?client=htlm&category=daily&type=tpm&rank_type=nba_rank_tpm",
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "1051",
+        "player_name": "迈尔斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/b53795fc7e234dfa7c688e72231cf540.png",
+        "team_name": "步行者",
+        "val": "5",
+        "pts": "19",
+        "reb": "2",
+        "asts": "0"
+      },
+      {
+        "rank": 2,
+        "player_id": "3040",
+        "player_name": "查默斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/f57d2e6a609794790261beb82c6f9dfa.png",
+        "team_name": "灰熊",
+        "val": "4",
+        "pts": "21",
+        "reb": "2",
+        "asts": "0"
+      },
+      {
+        "rank": 3,
+        "player_id": "558",
+        "player_name": "阿里扎",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/9a11f8c50f1020c42f2488ef8fcaf543.png",
+        "team_name": "火箭",
+        "val": "4",
+        "pts": "19",
+        "reb": "9",
+        "asts": "0"
+      },
+      {
+        "rank": 4,
+        "player_id": "3306",
+        "player_name": "哈登",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/f106b743c6f662b603f2ec2b4e68a9aa.png",
+        "team_name": "火箭",
+        "val": "4",
+        "pts": "16",
+        "reb": "1",
+        "asts": "3"
+      },
+      {
+        "rank": 5,
+        "player_id": "3613",
+        "player_name": "以赛亚-托马斯",
+        "player_header": "http://c2.hoopchina.com.cn/uploads/gamespace/players/cd83840c7d8917773e0e5ef51916d299.png",
+        "team_name": "凯尔特人",
+        "val": "4",
+        "pts": "23",
+        "reb": "3",
+        "asts": "6"
+      }
+    ]
+  }
+]

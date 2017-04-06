@@ -1,0 +1,65 @@
+{
+  "news": {
+    "nid": "110199",
+    "lights": 0,
+    "replies": "25",
+    "title": "测试新闻链接转化",
+    "type": "1",
+    "origin": "叶青",
+    "origin_url": "swdsdsds",
+    "img": "",
+    "img_m": "",
+    "content": "<a href=\"hupu.com\">hupu</a><p><img style=\"text-align:center;text-indent:0em;\" data-gif=\"http://kanqiu.hupucdn.com/kanqiu_10105_20150409081455.gif\" src=\"http://img04.store.sogou.com/net/a/56/link?appid=56&url=http%3A%2F%2Fkanqiu.hupucdn.com%2Fkanqiu_10105_20150409081455.gif\" alt=\"GIF 2M\"/></p><p>测试gif</p><p><a href=\"http://kanqiu.hupucdn.com/kanqiu_10107_20150704211916.gif\">GIF 3M</a><br /></p><p>测试gif</p><p><img style=\"text-align:center;text-indent:0em;\" data-gif=\"http://kanqiu.hupucdn.com/kanqiu_10107_20151018235049.gif\" src=\"http://img04.store.sogou.com/net/a/56/link?appid=56&url=http%3A%2F%2Fkanqiu.hupucdn.com%2Fkanqiu_10107_20151018235049.gif\" alt=\"GIF 1.4M\"/></p><p>sss</p><p><img style=\"text-align:center;text-indent:0em;\" data-gif=\"http://kanqiu.hupucdn.com/kanqiu_10109_20150731170235.gif\" src=\"http://img04.store.sogou.com/net/a/56/link?appid=56&url=http%3A%2F%2Fkanqiu.hupucdn.com%2Fkanqiu_10109_20150731170235.gif\" alt=\"GIF 1M\"/></p><p>sfdasf</p><p><img style=\"text-align:center;text-indent:0em;\" src=\"http://kanqiu.hupucdn.com/kanqiu_10105_20150409085225.jpeg\" alt=\"静态图\"/></p>",
+    "league": "1",
+    "is_top": "0",
+    "is_top_value": "0",
+    "replyurl": "http://m.hupu.com/nba/news/110199.html?utm_source=1&utm_medium=games&utm_content=nbanews&utm_campaign=games#top_reply",
+    "light_comments": [
+      {
+        "ncid": "10076468",
+        "light_count": "11",
+        "unlight_count": "4",
+        "uid": "19043248",
+        "user_name": "叶子青青青",
+        "content": "嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻",
+        "create_time": "2015-10-30 18:25"
+      },
+      {
+        "ncid": "10076415",
+        "light_count": "11",
+        "unlight_count": "0",
+        "uid": "19043359",
+        "user_name": "路然0003",
+        "content": "哈哈哈哈哈哈哈哈哈",
+        "create_time": "2015-10-27 16:10"
+      }
+    ],
+    "share": {
+      "url": "http://kanqiu-test.hupu.com/s?u=nba/news/110304",
+      "wechat_moments": "皮尔斯晒全家福：祝大家节日快乐  ",
+      "wechat": "皮尔斯晒全家福：祝大家节日快乐  ",
+      "qzone": "皮尔斯晒全家福：祝大家节日快乐   http://kanqiu-test.hupu.com/s?u=nba/news/110304",
+      "weibo": "皮尔斯晒全家福：祝大家节日快乐   http://kanqiu-test.hupu.com/s?u=nba/news/110304 （分享自 @虎扑体育App）",
+      "img": "http://c1.hoopchina.com.cn/uploads/star/event/images/151225/bmiddle-0f7bf53b43431964f95d5a871648c41105877807.jpg ",
+      "summary": "黄健翔称几位国门属于亚洲顶级。颜骏凌在比赛中世界级表现，黄健翔大加赞赏。"
+    }
+  },
+  "wechat": {
+    "appId": "wx47017a64fa981d51",
+    "timestamp": 1451021227,
+    "nonceStr": "xoY67Sh4wIrplQBf",
+    "signature": "dcf11388e3c213a4bcf44f72dec6447808dcb290",
+    "url": "http://test.mobileapi.hupu.com/s?u=nba/news/1944086&from=timeline&isappinstalled=1&test=1"
+  },
+  "appUrl": "kanqiu://soccerleagues/fifa/news/110199",
+  "webUrl": "http://kanqiu-test.hupu.com/s?u=fifa/news/110199",
+  "deepLink": "android-app://com.hupu.games/kanqiu/soccerleagues/fifa/news/110199",
+  "top_title": "纵览新闻资讯，玩转体育社区！",
+  "top_event": "news_top1",
+  "top_download_url": "http://mobile.hupu.com/download/games?r=shareSoccerNewsTop1",
+  "bottom_title": "下载虎扑体育，查看更多精彩新闻",
+  "bottom_event": "soccernews_bottom1",
+  "bottom_url": "http://mobile.hupu.com/download/games?r=shareSoccerNewsBottom2",
+  "is_login": 0,
+  "night": 0
+}

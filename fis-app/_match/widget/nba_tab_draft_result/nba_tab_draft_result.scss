@@ -1,0 +1,33 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/function";
+
+.draft-result {
+	.td2, .td4, .td5 {
+		line-height: normal;
+	}
+
+	.td5 { color: $morning_gray2_cor;}
+
+	.num {
+		width: 14px;
+	}
+
+	.no-result {
+		padding: 10px;
+		color: $morning_gray2_cor;
+
+		p {
+			margin-bottom: 10px;
+		}
+	}
+}
+
+body.night {
+	.draft-result {
+		.td5 { color: $night_gray2_cor;}
+
+		.no-result {
+			color: $night_gray2_cor;
+		}
+	}
+}

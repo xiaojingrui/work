@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+.hotline-wrap {
+	flex: 1;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+
+	.hd {
+		position: fixed;
+		left: 0;
+		top: 0;
+		width: 100%;
+		line-height: 115px;
+		text-align: center;
+		-webkit-text-shadow: 0px 0px 20px #e89c0e;
+		text-shadow: 0px 0px 20px #e89c0e;
+		background-color: rgba(0, 0, 0, .6);
+		z-index: 2;
+	}
+
+	.bd-content{
+		overflow: hidden;
+		padding-left:10px;
+	}
+	.bd {
+		margin-left: 48px;
+		border-left: 5px solid #eb6100;
+	}
+	.bd .list{
+		position:relative;
+		padding-top: 30px;
+	}
+	li {
+		width: 600px;
+		margin-bottom: 40px;
+	}
+
+	.fl {
+		position: relative;
+		width: 140px;
+	}
+
+	.fr {
+		position: relative;
+		top: -4px;
+		width: 460px;
+	}
+
+	.time {
+		width: 114px;
+		margin-left: 16px;
+		line-height: 30px;
+		text-align: center;
+		font-size: 20px;
+		color: #a0a0a0;
+		border: 2px solid #a0a0a0;
+		border-radius: 30px;
+	}
+
+	.dot {
+		position: absolute;
+		left: -11px;
+		top: 8px;
+		width: 17px;
+		height: 17px;
+		background-color: #eb6100;
+		border-radius: 50%;
+	}
+
+	.name {
+		color: #05e6f5;
+	}
+
+	.gift {
+
+
+	}
+
+	.guess {
+		position: absolute;
+		right: 60px;
+		bottom: 40px;
+		text-align: center;
+
+		.yes {
+			margin-bottom: 50px;
+		}
+
+		.text {
+			width: 60px;
+			height: 85px;
+			padding: 15px 20px 0 20px;
+			line-height: normal;
+			color: #fff;
+			border-radius: 50%;
+		}
+
+		.no .num {
+			color: #eb6100;
+		}
+
+		.yes .num {
+			color: #51da27;
+		}
+
+		.no .text {
+			background-color: #eb6100;
+		}
+
+		.yes .text {
+			background-color: #51da27;
+		}
+	}
+}

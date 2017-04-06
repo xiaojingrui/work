@@ -1,0 +1,35 @@
+{
+	"data": [{
+			"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+			"nickname": "ttt222222",
+			"qq": "911***11111",
+			"subtime": "2015-12-18 19:43",
+			"data": "哈登 詹姆斯 库里 杜兰特 维斯布鲁克 罗斯",
+			"paimin": "20",
+			"binggo":"1"
+		}, {
+			"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+			"nickname": "sss2222222",
+			"qq": "811***1",
+			"subtime": "2015-12-18 19:40",
+			"data": "詹姆斯 哈登 杜兰特 库里 维斯布鲁克 罗斯",
+			"paimin": "19",
+			"binggo":"0"
+		}, {
+			"headimgurl": "http://wx.qlogo.cn/mmopen/pH5pHTuXOC4TibDUiciaiaCwyOzuQmPLYVmMricfN1z4zTQIEFBwB4E2xmxnEUqnYzogWf6XUzp7J1niaQicVj6A4uAclqE8n4DCcm9/0",
+			"nickname": "rrr2222222",
+			"qq": "711***1111111",
+			"subtime": "2015-12-18 19:40",
+			"data": "罗斯 维斯布鲁克 杜兰特 库里 哈登 詹姆斯",
+			"paimin": "18",
+			"binggo":"1"
+		}, {
+			"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+			"nickname": "qqq2222222",
+			"qq": "611***11111",
+			"subtime": "2015-12-18 19:39",
+			"data": "詹姆斯 罗斯 杜兰特 维斯布鲁克 库里 哈登",
+			"paimin": "17",
+			"binggo":"1"
+		}]
+}

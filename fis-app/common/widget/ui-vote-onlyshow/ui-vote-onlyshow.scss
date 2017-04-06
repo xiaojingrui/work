@@ -1,0 +1,106 @@
+@import "../../static/sass/sassCore/base";
+
+/* 投票 */
+.vote-wrapper{
+  background-color: $morning_cor2;
+  border: 1px solid $morning_cor3;
+  border-radius:2px;
+  margin: 5px auto 10px auto;
+  .vote-main{
+    padding: 3px 8px;
+    text-align: left;
+    h2{
+      font-size: 15px;
+      color: $morning_cor5;
+    }
+    li{
+      font-size: 14px;
+      padding: 6px 0;
+    }
+    .vate-radio{
+      position: absolute;
+      left: -9999px;
+      opacity: 0;
+    }
+    .vote-selected{
+      border-bottom:1px solid $morning_cor3;
+    }
+    .vote-option-title{
+      padding-bottom: 2px;
+    }
+    .vote-detail{
+      @include display-flex();
+      text-align: right;
+      font-size: 12px;
+      color: #aaaab4;
+      white-space: nowrap;
+      line-height:30px;
+      height:30px;
+    }
+    .vote-progress{
+      width: 66%;
+      position: relative;
+      background-color: #dadada;
+      height: 2px;
+      margin-top:13px;
+      .vote-inner{
+        position: absolute;
+        left: 0;
+        height: 2px;
+        background-color: $morning_cor1;
+      }
+    }
+    .vote-count{
+      @include flex(2);
+    }
+    .vote-percent{
+      @include flex(1);
+    }
+  }
+  .vote-disabled{
+    color: #a9a9b3 !important;
+  }
+  .vote-bottom{
+    background-color: #fcfbfb;
+    border-top:1px solid $morning_cor3;
+    color: #576b95;
+    text-align: center;
+    height:40px;
+    line-height:40px;
+    font-size: 14px;
+  }
+}
+
+body.night {
+  /* 投票 */
+  .vote-wrapper{
+    background-color: $night_cor2;
+    border: 1px solid $night_cor3;
+    .vote-main{
+      h2{
+        color: $night_cor5;
+      }
+      .vote-selected{
+        border-bottom:1px solid $night_cor3;
+      }
+      .vote-detail{
+        color: #5a5a5f;
+      }
+      .vote-progress{
+        background-color: #242424;
+        .vote-inner{
+          background-color: $night_cor1;
+        }
+      }
+    }
+    .vote-disabled{
+      color: #5a5a5f !important;
+    }
+    .vote-bottom{
+      background-color: #292929;
+      border-top:1px solid $night_cor3;
+      color: #576b95;
+    }
+  }
+
+}

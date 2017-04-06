@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,inital-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+	<title>虎扑体育Bridge测试用例</title>
+	<script type="text/javascript" src="http://b1.hoopchina.com.cn/games/js/hpbridge_v1.0.1.js"></script>
+	<script type="text/javascript" src="http://b1.hoopchina.com.cn/touch/static/common/js/zepto/zepto.min_6bf44a0.js"></script>
+	<style type="text/css">
+	#basic_info{
+		color:#000;
+	}
+	#userinfo{
+		color:#f00;
+	}
+	#log{
+		color:#999;
+	}
+	</style>
+</head>
+<body>
+<pre id="basic_info"></pre>
+<pre id="userinfo"></pre>
+<ol id="log"></ol>
+<div id="bridge-container">
+	<h4>分享模块[share]</h4>
+	<button id="share_custom">分享到各大平台</button>
+
+	<h4>图集模块[album]</h4>
+	<button id="album_view">图集浏览</button>
+	<button id="album_viewIndex">无图加载图片</button>
+
+	<h4>UI模块[ui]</h4>
+	<button id="ui_comment">评论开关</button>
+	<button id="ui_share">分享开关</button>
+	<button id="ui_report">举报开关</button>
+	<button id="ui_bbsreply">论坛回复</button>
+	<button id="ui_newsreply">论坛回复</button>
+	<button id="ui_updatebbspager">更新论坛底部翻页</button>
+	<button><a href="back.html">页面回退</a></button>
+	<button id="ui_header">设置头部</button>
+
+	<h4>user模块[user]</h4>
+	<button id="user_getbasic">获取用户基本信息</button>
+	<button id="user_login">唤起登录</button>
+</div>
+<script type="text/javascript">
+	var uiComemnt = false;
+	var uiShare = false;
+	var hasSubtitle = true;
+
+	var bridgeContent = {
+		share_custom : function(){
+			HupuBridge.send("hupu.share.custom",{
+				 imageUrl: "http://192.168.9.29:8080/upload/cMjYuvuCbDjiIrbWPLo877yb.png",
+				 title: "分享图书",
+				 text: "这本书的简介大概是这样",
+				 linkUrl: "http://hupu.com"
+			}, function(){
+				log("share.custom success!");
+			});
+		},
+		share_one : function(){
+			HupuBridge.send("hupu.share.one",{
+				 shareType: "qzone",
+				 imageUrl: "http://192.168.9.29:8080/upload/cMjYuvuCbDjiIrbWPLo877yb.png",
+				 title: "分享图书",
+				 text: "这本书的简介大概是这样",
+				 linkUrl: "http://hupu.com"
+			}, function(){
+				log("share.one qzone success!");
+			});
+		},
+		album_view : function(){
+			HupuBridge.send("hupu.album.view",{
+				 title: "图集标题(2)",
+			     images: [{
+			        "url": "http://192.168.9.29:8080/upload/cMjYuvuCbDjiIrbWPLo877yb.png",
+			        "title": "图片标题1",   //可以为空
+			        "desc": "图片描述1",   //可以为空
+			        "datetime": "2015-09-16"   //可以为空
+			    },{
+			        "url": "http://192.168.9.29:8080/upload/cMjYuvuCbDjiIrbWPLo877yb.png",
+			        "title": "图片标题2",   //可以为空
+			        "desc": "图片描述2",   //可以为空
+			        "datetime": "2015-09-17"   //可以为空
+			    }]
+			}, function(){
+				log("album.view success!");
+			});
+		},
+		album_viewIndex : function(){
+				HupuBridge.send("hupu.album.viewIndex",{
+					    index: 1
+				}, function(){
+					log("album.viewIndex success!");
+				});
+		},
+		ui_comment : function(){
+			uiComemnt = !uiComemnt;
+				HupuBridge.send("hupu.ui.comment", {
+				    open: uiComemnt
+				}, function() {
+				    log("ui.comment success! comment is :" + (uiComemnt ? "open" : "close"));
+				});
+
+		},
+		ui_share : function(){
+			uiShare = !uiShare;
+
+				HupuBridge.send("hupu.ui.share", {
+				    open: uiShare
+				}, function() {
+				    log("ui.share success! share is :" + (uiShare ? "open" : "close"));
+				});
+
+		},
+		ui_report : function(){
+
+				HupuBridge.send("hupu.ui.report", {
+				    open:true,
+				    extra:{
+				        tid: "tid",
+				        pid: "pid"
+				    }
+				}, function() {
+				    log("ui.report success!");
+				});
+
+		},
+		ui_bbsreply : function(){
+
+				HupuBridge.send("hupu.ui.bbsreply", {
+				    open:true,
+				    extra:{
+				        tid: "tid",
+				        pid: "pid",
+				        uid: "uid"
+				    }
+				}, function() {
+				    log("ui.bbsreply success!");
+				});
+		},
+		ui_newsreply:function(){
+
+				HupuBridge.send("hupu.ui.newsreply", {
+				    open:true,
+				    extra:{
+				        nid: "tid",
+				        pid: "pid",
+				        uid: "uid"
+				    }
+				}, function() {
+				    log("ui.newsreply success!");
+				});
+		},
+		ui_updatebbspager: function(){
+				HupuBridge.send("hupu.ui.updatebbspager", {
+				    page: 1,
+				    total: 100
+				}, function() {
+				     log("ui.updatebbspager success!");
+				});
+
+		},
+		ui_header: function(){
+				HupuBridge.send("hupu.ui.header", {
+				    title: "修改后的标题",
+				    subtitle : hasSubtitle ? "设置的subtitle" : ""
+				}, function(){
+					hasSubtitle = !hasSubtitle;
+				    log("ui_header success!");
+				});
+		},
+		user_getbasic: function(){
+				HupuBridge.send("hupu.user.getbasic", {}, function(user) {
+				    $("#userinfo").text(JSON.stringify(data, null ,4));
+				    log("user.getbasic success!");
+				});
+		},
+		user_login: function(){
+			HupuBridge.send("hupu.user.login", {}, function(user) {
+			    $("#userinfo").text(JSON.stringify(data, null ,4));
+			    log("user.login success!");
+			});
+		}
+	};
+</script>
+
+<script type="text/javascript">
+	function log(msg){
+		$("#log").append("<li>"+ msg +"</li>");
+	}
+	$(function(){
+		HupuBridge.send("bridgeReady", {}, function(data) {
+		  data = data || {"event":"bridgeReady is fail!"};
+		  $("#basic_info").text(JSON.stringify(data, null ,4));
+		  log("bridgeReady success!");
+		});
+
+		$("#bridge-container").delegate("button", "click", function(e){
+			var target = $(e.currentTarget);
+			var id = target.attr("id");
+			if(id && bridgeContent[id]){
+				bridgeContent[id]();
+			}
+		})
+	});
+
+
+</script>
+
+</body>
+</html>

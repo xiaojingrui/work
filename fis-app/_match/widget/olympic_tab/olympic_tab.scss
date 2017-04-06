@@ -1,0 +1,51 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/function";
+
+.tab {
+	padding: 5px 10px;
+	font-size: 12px;
+	background-color: #fff;
+	border-top: 1px solid #f6f5f4;
+	border-bottom: 1px solid #f6f5f4;
+
+	ul {
+		@include display-flex();
+		line-height: 26px;
+		border-radius: 26px;
+		background-color: #f6f5f4;
+	}
+
+	li {
+		@include flex(1);
+		display: block;
+		text-align: center;
+		color: #a9a9b2;
+	}
+	li.active {
+		color: #c01e2f;
+		background-color: #fff;
+		border: 1px solid #eeebeb;
+		border-radius: 27px;
+	}
+}
+
+body.night {
+	.tab {
+		background-color: #2c2c2c;
+		border-top-color: #1f1f1f;
+		border-bottom-color: #1f1f1f;
+
+		ul {
+			background-color: #242424;
+		}
+
+		li {
+			color: #5a595f;
+		}
+		li.active {
+			color: #99222c;
+			background-color: #2c2c2c;
+			border-color: #1f1f1f;
+		}
+	}
+}

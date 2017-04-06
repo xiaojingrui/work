@@ -1,0 +1,66 @@
+{
+  "gameInfo": {
+    "default_tab": "live", 
+    "status": {
+      "id": "", 
+      "desc": {
+        "1": "未开始", 
+        "2": "比赛中", 
+        "4": "已结束", 
+        "5": "延期", 
+        "6": "暂停", 
+        "8": "主场禁赛", 
+        "9": "删除", 
+        "10": "取消"
+      }
+    }, 
+    "begin_time": 1476687158, 
+    "process": 0, 
+    "show_title": 0
+  }, 
+  "gifs": [
+    {
+      "url": null, 
+      "size": null, 
+      "content": null, 
+      "sort": 1476673791, 
+      "gifId": "580440ff4f999"
+    }, 
+    {
+      "url": null, 
+      "size": null, 
+      "content": null, 
+      "sort": 1476673758, 
+      "gifId": "580440de598e8"
+    }, 
+    {
+      "url": null, 
+      "size": null, 
+      "content": null, 
+      "sort": 1476673754, 
+      "gifId": "580440daa4c29"
+    }
+  ], 
+  "lid": "9", 
+  "gid": "11000832", 
+  "is_login": 0, 
+  "night": 0, 
+  "projectId": 1, 
+  "version": null, 
+  "client": "", 
+  "stat": {
+    "redis": {
+      "gamesInfoSlave": 2, 
+      "gamesMajorSlave": 1, 
+      "cacheCasinoSlave": 1, 
+      "cacheCasino": 1
+    }, 
+    "db": {
+      "conn_192.168.8.49_hupu_games": 1, 
+      "query_select * from g_admin_user where uid='26794990' limit 1 ": 1, 
+      "conn_192.168.8.50_hupu_games_kqcasino": 1, 
+      "query_select * from g_quiz where lid = 9 and gid = 11000832 limit 1": 1
+    }, 
+    "net": []
+  }
+}

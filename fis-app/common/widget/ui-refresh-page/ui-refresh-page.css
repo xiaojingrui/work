@@ -1,0 +1,19 @@
+.preloader-refresh {
+	position: absolute;
+	top: -50px;
+	left: 0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	padding: 5px 0;
+	color:#a9a9b2;
+	font-size:16px;
+}
+.preloader-loading-more {
+	padding: 5px;
+	text-align: center;
+	color:#a9a9b2;
+	font-size:16px;
+}
+.night .preloader-refresh,
+.night .preloader-loading-more{color:#5a5a5f}

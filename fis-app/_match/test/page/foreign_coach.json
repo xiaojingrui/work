@@ -1,0 +1,141 @@
+{
+    "profile": {
+        "coach_id": 45,
+        "team_name": "曼联",
+        "coach_name": "范加尔",
+        "coach_full_name": "路易斯-范加尔",
+        "coach_enname": "Louis van Gaal",
+        "coach_header": "http://gdc.hupucdn.com/gdc/soccer/official/photo//86x120/45.jpg",
+        "role": "主教练",
+        "country": "荷兰",
+        "join_date": "2014年1月27日",
+        "is_birthday": 1,
+        "win_per": "60.35%",
+        "win": 600,
+        "draw": 200,
+        "lose": 200,
+        "intro": "荷兰教头范加尔此前曾经先后执教阿贾克斯、巴萨、阿尔克马尔、拜仁慕尼黑和荷兰国家队，他是世界上最富声望的主帅之一。范加尔强调控球，管理球员手段强硬。他在阿贾克斯曾经夺得欧冠冠军，也曾帮助巴萨获得2次西甲冠军，在拜仁也曾夺得德甲冠军。",
+        "official_record": [
+            {
+                "appointed_date": "2014.7",
+                "until_date": "2017.6",
+                "team_name": "曼联",
+                "matches": 77,
+                "win": 39,
+                "rate": "51%"
+            },
+            {
+                "appointed_date": "2012.8",
+                "until_date": "2014.7",
+                "team_name": "Netherlands",
+                "matches": 29,
+                "win": 19,
+                "rate": "66%"
+            },
+            {
+                "appointed_date": "2009.7",
+                "until_date": "2011.4",
+                "team_name": "拜仁慕尼黑",
+                "matches": 96,
+                "win": 59,
+                "rate": "61%"
+            },
+            {
+                "appointed_date": "2005.7",
+                "until_date": "2009.6",
+                "team_name": "AZ Alkmaar",
+                "matches": 171,
+                "win": 97,
+                "rate": "57%"
+            },
+            {
+                "appointed_date": "2002.7",
+                "until_date": "2003.1",
+                "team_name": "巴塞罗那",
+                "matches": 29,
+                "win": 16,
+                "rate": "55%"
+            },
+            {
+                "appointed_date": "2001.6",
+                "until_date": "2001.7",
+                "team_name": "Netherlands U20",
+                "matches": 5,
+                "win": 2,
+                "rate": "40%"
+            },
+            {
+                "appointed_date": "2000.7",
+                "until_date": "2001.11",
+                "team_name": "Netherlands",
+                "matches": 14,
+                "win": 8,
+                "rate": "57%"
+            },
+            {
+                "appointed_date": "1997.7",
+                "until_date": "2000.5",
+                "team_name": "巴塞罗那",
+                "matches": 132,
+                "win": 72,
+                "rate": "55%"
+            },
+            {
+                "appointed_date": "1991.9",
+                "until_date": "1997.6",
+                "team_name": "阿贾克斯",
+                "matches": 281,
+                "win": 192,
+                "rate": "68%"
+            }
+        ],
+        "official_tactic": [
+            {
+                "tactic_name": "4-2-3-1",
+                "used_times": 30
+            },
+            {
+                "tactic_name": "4-1-4-1",
+                "used_times": 10
+            },
+            {
+                "tactic_name": "4-4-2 diamond",
+                "used_times": 4
+            },
+            {
+                "tactic_name": "4-3-3 off.",
+                "used_times": 3
+            },
+            {
+                "tactic_name": "3-5-2",
+                "used_times": 1
+            },
+            {
+                "tactic_name": "4-4-2 double 6",
+                "used_times": 1
+            },
+            {
+                "tactic_name": "4-5-1 flat",
+                "used_times": 1
+            },
+            {
+                "tactic_name": "未知阵型",
+                "used_times": 2
+            }
+        ],
+        "prefer_tactic": "4-2-3-1",
+        "total_tactic": 52,
+        "age": "64岁",
+        "birth_date": "1951年8月8日",
+        "season_record": "39胜20平19负"
+    },
+    "team_info": {
+        "tid": 150,
+        "name": "曼联"
+    },
+    "is_login": 0,
+    "night": 0,
+    "projectId": "1",
+    "version": "7.0.5",
+    "client": ""
+}

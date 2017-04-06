@@ -1,0 +1,205 @@
+{
+	"lid": "9",
+	"gid": "10713876",
+	"summary": "asdasfas",
+	"home": "asdasf",
+	"away": "asdfasf",
+	"fid": "",
+	"odds": {
+		"win": "1.5",
+		"draw": "4.43",
+		"lost": "6.54",
+		"url": "http://hz.qqshidao.com/hupu/hmatch/"
+	},
+	"absence": [],
+	"league_name": "csl",
+	"home_tid": "3149",
+	"away_tid": "147339",
+	"home_name": "广州恒大",
+	"away_name": "河北华夏幸福",
+	"home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+	"away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_43292_1.png",
+	"video_room_list": [],
+	"live_video_list": {
+		"tv": [],
+		"net": []
+	},
+	"rank": [{
+		"ranking": 1,
+		"team_name": "广州恒大",
+		"team_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+		"played": 10,
+		"wins": 9,
+		"ties": 0,
+		"losses": 1,
+		"goalsFor/goalsAgainst": "24/5",
+		"points": 27,
+		"team_id": 3149,
+		"goalsFor_goalsAgainst": "24/5"
+	}, {
+		"ranking": 4,
+		"team_name": "河北华夏幸福",
+		"team_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_43292_1.png",
+		"played": 10,
+		"wins": 6,
+		"ties": 2,
+		"losses": 2,
+		"goalsFor/goalsAgainst": "14/10",
+		"points": 20,
+		"team_id": 147339,
+		"goalsFor_goalsAgainst": "14/10"
+	}],
+	"begin_time": "1463211000",
+	"home_score": "2",
+	"away_score": "0",
+	"status": {
+		"id": "4",
+		"desc": "已结束"
+	},
+	"match_list": [{
+		"fid": "525137",
+		"hname": "奥格斯",
+		"aname": "汉 堡",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525138",
+		"hname": "勒 沃",
+		"aname": "因戈尔",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525139",
+		"hname": "拜 仁",
+		"aname": "汉诺威",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525140",
+		"hname": "达姆施",
+		"aname": "门 兴",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525141",
+		"hname": "多 特",
+		"aname": "科 隆",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525142",
+		"hname": "霍 芬",
+		"aname": "沙尔克",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525143",
+		"hname": "美因茨",
+		"aname": "赫 塔",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525144",
+		"hname": "不来梅",
+		"aname": "法兰克",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "525145",
+		"hname": "沃尔夫",
+		"aname": "斯图加",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "534192",
+		"hname": "拉科鲁",
+		"aname": "皇 马",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "534196",
+		"hname": "格拉纳",
+		"aname": "巴 萨",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "538819",
+		"hname": "尤 文",
+		"aname": "桑普多",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "541036",
+		"hname": "波尔图",
+		"aname": "博维斯",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "559345",
+		"hname": "福 冈",
+		"aname": "湘南海洋",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "559346",
+		"hname": "浦 和",
+		"aname": "新泻天鹅",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "559347",
+		"hname": "仙台维加",
+		"aname": "大 宫",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "559348",
+		"hname": "川 崎",
+		"aname": "神 户",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "559349",
+		"hname": "甲 府",
+		"aname": "名古屋",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "559350",
+		"hname": "鹿岛鹿角",
+		"aname": "横 滨",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "560746",
+		"hname": "水原FC",
+		"aname": "水 原",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "560747",
+		"hname": "蔚山现代",
+		"aname": "浦项制铁",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "560748",
+		"hname": "城南FC",
+		"aname": "首尔FC",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "562380",
+		"hname": "卡尔马",
+		"aname": "哈马比",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "562381",
+		"hname": "马尔默",
+		"aname": "耶夫勒",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "571280",
+		"hname": "伊凡尼",
+		"aname": "邓 迪",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "571282",
+		"hname": "基马诺",
+		"aname": "邓迪联",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "571284",
+		"hname": "帕尔蒂",
+		"aname": "哈密尔",
+		"time": "2016-05-14 "
+	}, {
+		"fid": "571966",
+		"hname": "德比郡",
+		"aname": "赫尔城",
+		"time": "2016-05-14 "
+	}],
+	"is_login": 0,
+	"night": 0,
+	"projectId": 1,
+	"version": null,
+	"client": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "games_frontend",
+  "version": "1.0.0",
+  "description": "frontend offline pkg",
+  "main": "build.js",
+  "scripts": {
+    "test": "node build.test.js",
+    "dev": "rimraf dist && node build.dev.js",
+    "build": "rimraf dist && node build.js",
+    "bbs": "sh devToBBSTest.sh",
+    "qiu": "sh devToQiuTest.sh",
+    "all": "npm run bbs && npm run qiu"
+  },
+  "author": "FHY (yuhongfei@hupu.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "adm-zip": "^0.4.7",
+    "iconv-lite": "^0.4.13",
+    "rimraf": "^2.5.2"
+  }
+}

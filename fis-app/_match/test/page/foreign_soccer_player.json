@@ -1,0 +1,247 @@
+{
+    "profile": {
+        "league_id": 6,
+        "season_id": 2015,
+        "player_id": 104095,
+        "player_name": "贝多亚",
+        "player_full_name": "",
+        "player_enname": "",
+        "player_header": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/104095.jpg",
+        "tid": 217,
+        "position_id": 3,
+        "position_str": "中场",
+        "contract_until": "2019年6月30日",
+        "detailed_position": {
+            "main_position": {
+                "type": 10,
+                "name_en": "Attacking Midfield",
+                "name_zh": "攻击型中场"
+            },
+            "side_position": [{
+                "type": 9,
+                "name_en": "Right Wing",
+                "name_zh": "右边锋"
+            }, {
+                "type": 13,
+                "name_en": "Secondary Striker",
+                "name_zh": "二前锋"
+            }]
+        },
+        "transfer_history": [{
+            "transfer_date": "2013.08.08",
+            "moving_to_team_name": "南特",
+            "transfer_fee": "不详",
+            "loan": ""
+        }, {
+            "transfer_date": "2012.08.09",
+            "moving_to_team_name": "Helsingborgs IF",
+            "transfer_fee": "不详",
+            "loan": ""
+        }, {
+            "transfer_date": "2011.08.16",
+            "moving_to_team_name": "Rangers FC",
+            "transfer_fee": "不详",
+            "loan": ""
+        }, {
+            "transfer_date": "2009.01.06",
+            "moving_to_team_name": "Örebro SK",
+            "transfer_fee": "不详",
+            "loan": ""
+        }, {
+            "transfer_date": "2006.12.31",
+            "moving_to_team_name": "Boston College",
+            "transfer_fee": "不详",
+            "loan": ""
+        }],
+        "performance": [{
+            "team_name": "南特",
+            "goals": 11,
+            "assists": 3
+        }, {
+            "team_name": "Helsingborgs IF",
+            "goals": 10,
+            "assists": 10
+        }, {
+            "team_name": "Örebro SK",
+            "goals": 9,
+            "assists": 6
+        }, {
+            "team_name": "Rangers FC",
+            "goals": 1,
+            "assists": 1
+        }],
+        "season_str": "2015/16赛季数据",
+        "age": "29岁",
+        "height": "",
+        "weight": "",
+        "number": "7",
+        "intro": "",
+        "birth_date": "1987年4月29日",
+        "is_birthday": 0,
+        "foot": "",
+        "is_injured": 0,
+        "injury_info": "",
+        "is_captain": 0,
+        "country": "",
+        "player_video": [],
+        "depth_profiling": [],
+        "salary": "2.5亿欧元",
+        "position": "中前卫"
+    },
+    "team_info": [],
+    "stats": [{
+        "season_data": [
+            [
+                "出场(首发)",
+                "28(22)"
+            ],
+            [
+                "进球",
+                3
+            ],
+            [
+                "助攻",
+                3
+            ],
+            [
+                "传球",
+                860
+            ]
+        ],
+        "total_data": [{
+            "block": "总计",
+            "data": [
+                [
+                    "出场(首发)",
+                    "28(22)"
+                ],
+                [
+                    "时间(分)",
+                    2051
+                ],
+                [
+                    "进球/射门",
+                    "3/48"
+                ],
+                [
+                    "助攻/传球",
+                    "3/860"
+                ],
+                [
+                    "抢断",
+                    39
+                ],
+                [
+                    "解围",
+                    20
+                ],
+                [
+                    "拦截",
+                    25
+                ],
+                [
+                    "黄/红牌",
+                    "1/1"
+                ]
+            ]
+        }, {
+            "block": "法甲",
+            "data": [
+                [
+                    "出场(首发)",
+                    "28(22)"
+                ],
+                [
+                    "时间(分)",
+                    2051
+                ],
+                [
+                    "进球/射门",
+                    "3/48"
+                ],
+                [
+                    "助攻/传球",
+                    "3/860"
+                ],
+                [
+                    "抢断",
+                    39
+                ],
+                [
+                    "解围",
+                    20
+                ],
+                [
+                    "拦截",
+                    25
+                ],
+                [
+                    "黄/红牌",
+                    "1/1"
+                ]
+            ]
+        }]
+    }, {
+        "season_data": [
+            [
+                "出场(首发)",
+                "0(0)"
+            ],
+            [
+                "进球",
+                0
+            ],
+            [
+                "助攻",
+                0
+            ],
+            [
+                "传球",
+                0
+            ]
+        ],
+        "total_data": [{
+            "block": "总计",
+            "data": [
+                [
+                    "出场(首发)",
+                    "0(0)"
+                ],
+                [
+                    "时间(分)",
+                    0
+                ],
+                [
+                    "进球/射门",
+                    "0/0"
+                ],
+                [
+                    "助攻/传球",
+                    "0/0"
+                ],
+                [
+                    "抢断",
+                    0
+                ],
+                [
+                    "解围",
+                    0
+                ],
+                [
+                    "拦截",
+                    0
+                ],
+                [
+                    "黄/红牌",
+                    "0/0"
+                ]
+            ]
+        }]
+    }],
+    "desc": "因统计方式差异，职业生涯助攻数据仅供参考，虎扑正在致力于解决这个问题，请期待我们做得更好！",
+    "is_login": 0,
+    "night": 0,
+    "projectId": "1",
+    "version": "7.0.9",
+    "client": "864394109890964"
+}

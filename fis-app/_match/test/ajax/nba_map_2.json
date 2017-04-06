@@ -1,0 +1,67 @@
+{
+	"result": {
+		"data": [{
+			"level": 2,
+			"areaId": 1,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		}, {
+			"level": 2,
+			"areaId": 2,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 2,
+			"areaId": 3,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 1,
+			"areaId": 4,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 2,
+			"areaId": 5,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 1,
+			"areaId": 6,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 2,
+			"areaId": 7,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 2,
+			"areaId": 8,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 2,
+			"areaId": 9,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		},{
+			"level": 2,
+			"areaId": 10,
+			"fgs": 15,
+			"fgp": 40,
+			"fgm": 0
+		}],
+		"last_update": "2015年11月25日17:"
+	},
+	"is_login": 0
+}

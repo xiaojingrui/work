@@ -1,0 +1,67 @@
+{
+  "recap": {
+    "vid": "818418",
+    "fromurl": "http://v.qq.com/x/cover/0a02pbyr24survf/r0022uvvwtk.html",
+    "title": "公牛主帅：隆多缺阵不是输球的原因",
+    "uid": "18663388",
+    "author": "suyanqiao",
+    "dateline": "12天3小时前",
+    "cover": "http://img1.hupucdn.com/video/hoopchina8184181479960916_2016-11-24.png?imageView/1/w/120/h/70",
+    "playtime": "00:00",
+    "hits": "13416",
+    "playtype": "2",
+    "flash": "http://static.video.qq.com/TPout.swf?vid=r0022uvvwtk",
+    "from": "other",
+    "time": "1479959006",
+    "formurl": "http://v.qq.com/x/cover/0a02pbyr24survf/r0022uvvwtk.html",
+    "video_title": "恨比天高！拉文突破单手劈扣(森林狼vs鹈鹕)",
+    "content": "<div><p><strong>公牛主帅：隆多缺阵不是输球的原因</strong></p><p>虎扑体育12月6日讯 今天公牛主场110-112惜败开拓者。赛后，公牛教练弗雷德-霍伊博格被问到今天球队是否想念因伤缺席的拉简-隆多，他回答道：&ldquo;显然是的，他对我们来说很重要。但这不是我们输球的原因。&rdquo;</p>\r\n\r\n<p>本赛季至今，隆多场均出战30.5分钟，得到8.2分6.7板7.2助攻。</p>\r\n\r\n<p>霍伊博格还表示，对于明天背靠背对阵活塞的比赛，德维恩-韦德的状态&ldquo;很好&rdquo;。</p>\r\n\r\n<p>韦德今天上场36分钟，23投11中得到34分4板4助攻，外加1抢断2封盖。</p></div>",
+    "is_custom": 0,
+    "video_url": "browser://http://v.qq.com/x/cover/0a02pbyr24survf/r0022uvvwtk.html",
+    "video_cover": "http://img1.hupucdn.com/video/hoopchina8184181479960916_2016-11-24.png?imageView/1/w/400/h/233"
+  },
+  "best_players": {
+    "away": [
+      {
+        "player_id": 258,
+        "pts": "8",
+        "reb": "1",
+        "asts": "0",
+        "stl": "0",
+        "blk": "0",
+        "name": "于梁",
+        "header_image": "http://cba.hupu.com/players/images/2015081616472477809.jpg"
+      }
+    ],
+    "home": [
+      {
+        "player_id": 52,
+        "pts": "13",
+        "reb": "3",
+        "asts": "1",
+        "stl": "1",
+        "blk": "0",
+        "name": "孟达",
+        "header_image": "http://cba.hupu.com/players/images/mengda.jpg"
+      }
+    ]
+  },
+  "light_reply": [],
+  "gid": "5460",
+  "tid": 0,
+  "nopic": 0,
+  "is_login": 0,
+  "night": 0,
+  "projectId": "1",
+  "version": "7.0.16",
+  "client": "864394109890964",
+  "stat": {
+    "redis": {
+      "gamesMajorSlave": 2,
+      "gamesMinorSlave": 2,
+      "gamesMajor": 1
+    },
+    "db": [],
+    "net": []
+  }
+}

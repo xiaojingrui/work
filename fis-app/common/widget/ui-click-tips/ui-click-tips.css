@@ -1,0 +1,146 @@
+.ui-click-tips {
+    display: none;
+    position:absolute;
+    left:50%;
+    top:300px;
+    margin-left:-135px;
+    z-index: 100;
+    width:270px;
+    max-width: 320px;
+    height:24px;
+    line-height:24px;
+    padding: 8px 5px;
+    background:rgba(46, 46, 46, .9);
+}
+
+.ui-click-tips:after,
+.ui-click-tips:before {
+    position: absolute;
+    left: 50%;
+    bottom: -9px;
+    z-index: 2;
+    content: "";
+    width: 0;
+    height: 0;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid dashed dashed solid;
+    border-color: #2e2e2e transparent transparent #2e2e2e;
+    opacity: .9;
+}
+
+.ui-click-tips .ui-click-tips-list {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+}
+
+.ui-click-tips li {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    flex: 1;
+    position: relative;
+    width:37px;
+    background-position:0 center;
+    background-repeat: no-repeat;
+    background-size: 45%;
+    padding-left:30px;
+    font-size:14px;
+    color:#fff;
+    border-right: 1px solid #000;
+}
+.ui-click-tips li:last-child {
+    border-right: none;
+}
+
+.ui-click-tips .reply-ico{
+    background-image:url("img/btn_comment.png");
+}
+.ui-click-tips .copy-ico{
+    background-image:url("img/btn_copy.png");
+}
+.ui-click-tips .report-ico{
+    background-image:url("img/btn_report.png");
+}
+.ui-click-tips .light-ico{
+    background-image:url("img/btn_light_up.png");
+}
+.ui-click-tips .rulights-ico{
+    background-image:url("img/btn_rulights.png");
+}
+.ui-click-tips .delete-ico {
+    background-image:url("img/btn_delete.png");
+}
+.ui-click-tips .banned-ico {
+    background-image:url("img/btn_banned.png");
+}
+.ui-click-tips .light-ico.active{
+    background-image:url("img/btn_light_down.png");
+}
+.ui-click-tips .rulights-ico.active{
+    background-image:url("img/btn_rulights_dark_active.png");
+}
+.ui-click-tips .active {
+    color: #c01e2f;
+}
+
+/* admin */
+.ui-click-tips-admin li {
+    padding-left: 20px;
+    font-size: 12px;
+    background-size: 40%;
+}
+
+/* is hide */
+.ui-click-tips-hidereply {
+    width: 200px;
+    margin-left: -100px;
+}
+.ui-click-tips-hidereply .reply-quote {
+    display: none;
+}
+
+body.night .ui-click-tips {
+    background: rgba(0, 0, 0, .8);
+}
+
+body.night .ui-click-tips:after,
+body.night .ui-click-tips:before {
+    border-color: rgba(0, 0, 0, .8) transparent transparent rgba(0, 0, 0, .8);
+}
+
+body.night .ui-click-tips li {
+    color: #959595;
+}
+body.night .ui-click-tips .reply-ico{
+    background-image:url("./img/btn_comment_dark.png");
+}
+body.night .ui-click-tips .copy-ico{
+    background-image:url("./img/btn_copy_dark.png");
+}
+body.night .ui-click-tips .report-ico{
+    background-image:url("./img/btn_report_dark.png");
+}
+body.night .ui-click-tips .light-ico{
+    background-image:url("./img/btn_light_up_dark.png");
+}
+body.night .ui-click-tips .rulights-ico{
+    background-image:url("./img/btn_rulights_dark.png");
+}
+body.night .ui-click-tips .delete-ico {
+    background-image:url("img/btn_delete_dark.png");
+}
+body.night .ui-click-tips .banned-ico {
+    background-image:url("img/btn_banned_dark.png");
+}
+body.night .ui-click-tips .active {
+    color: #c01e2f;
+}
+body.night .ui-click-tips .light-ico.active{
+    background-image:url("img/btn_light_down.png");
+}
+body.night .ui-click-tips .rulights-ico.active{
+    background-image:url("img/btn_rulights_dark_active.png");
+}

@@ -1,0 +1,47 @@
+{
+	"begin_time": "1460678400",
+	"home_name": "上海申花",
+	"away_name": "广州恒大",
+	"home_score": "0",
+	"away_score": "0",
+	"lid": "1111",
+	"gid": "2222",
+	"status": {
+		"id": "1",
+		"desc": "8:00开球"
+	},
+	"video_play_title": "视频直播",
+	"list": {
+		"tv": [{
+			"order_id": "0",
+			"type": "1",
+			"name": "电视直播1",
+			"url": "http://www.hupu.com",
+			"pay": "0"
+		}, {
+			"order_id": "1",
+			"type": "1",
+			"name": "电视直播2",
+			"url": "http://www.hupu.com",
+			"pay": "0"
+		}],
+		"net": [{
+			"order_id": "2",
+			"type": "2",
+			"name": "网络直播1",
+			"url": "http://www.hupu.com",
+			"pay": "1"
+		}, {
+			"order_id": "3",
+			"type": "2",
+			"name": "网络直播2",
+			"url": "http://www.hupu.com",
+			"pay": "0"
+		}]
+	},
+	"is_login": 0,
+	"night": 0,
+	"projectId": 1,
+	"version": null,
+	"client": ""
+}

@@ -1,0 +1,110 @@
+{
+  "stats": {
+    "redis": {
+      "bbsuser": 2, 
+      "userinfo5": 3, 
+      "userinfo": 1, 
+      "userinfo2": 1, 
+      "recommend": 3, 
+      "bbsweb": 1
+    }, 
+    "soa": {
+      "kanqiu.permission.check": 1, 
+      "checkGoldStatus": 1, 
+      "getThreadGoldInfo": 1, 
+      "kanqiu.posts.count": 1
+    }, 
+    "localCache": {
+      "HupuGamesBBS_LONGCACHE_USERINFO_25279048": 2, 
+      "HupuGamesBBS_LONGCACHE_CERTLIST_": 1, 
+      "HupuGamesBBS_LONGCACHE_USERINFO_26012472": 1
+    }
+  }, 
+  "time": "10-25", 
+  "date": "2017-01-09 09:58:37", 
+  "today": "20170109", 
+  "night": "0", 
+  "puid": 0, 
+  "client": "1937093ce05061a496aff70e65c2da7a10d51deb", 
+  "projectId": "3", 
+  "version": "7.0.16", 
+  "nopic": 0, 
+  "is_login": 0, 
+  "tid": "13068875", 
+  "pid": "0", 
+  "page": "1", 
+  "postAuthorPuid": "0", 
+  "isrec": 0, 
+  "userImg": "http://i2.hoopchina.com.cn/user/48/25279048/25279048-1467705281.jpg@45h_45w_2e", 
+  "author_puid": "25279048", 
+  "username": "丫丫dld2015", 
+  "fid": "34", 
+  "forum": {
+    "fid": "34", 
+    "name": "步行街", 
+    "logo": "", 
+    "description": "逛虎扑步行街极易上瘾，请各位注意控制时间哟^_^", 
+    "unlights_enable": 0
+  }, 
+  "visits": "1", 
+  "recommend_num": 0, 
+  "via": "10", 
+  "update_info": "", 
+  "certuser": {
+    "1": {
+      "cert_type": "1", 
+      "cert_info": "步行街优质内容作者"
+    }, 
+    "2": {
+      "cert_type": "2", 
+      "cert_info": "步步行嗟"
+    }
+  }, 
+  "certurl": "kanqiu://bbs/topic/17707461", 
+  "cert_type": "1", 
+  "cert_info": "步行街优质内容作者", 
+  "cert_url": "kanqiu://bbs/topic/17707461", 
+  "content": "呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵<div>下载虎扑体育app:<a href=\"http://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655537492&idx=1&sn=386bd8efbd6b460d7340a69a56a8a293&chksm=66dfe6ca51a86fdc9579fa0f2305c57c3d19a152b877064e68e55d837f55dff1bb7eafae1edc&mpshare=1&scene=23&srcid=11104GN3JLwTbrKpIsVwCgHD#rd\">http://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655537492&idx=1&sn=386bd8efbd6b460d7340a69a56a8a293&chksm=66dfe6ca51a86fdc9579fa0f2305c57c3d19a152b877064e68e55d837f55dff1bb7eafae1edc&mpshare=1&scene=23&srcid=11104GN3JLwTbrKpIsVwCgHD#rd</a></div><a href='http://m.hupu.com/' target='_blank' >http://m.hupu.com/</a><div>3333：<a href='http://m.hupu.com' target='_blank' >http://m.hupu.com</a></div><div><br /></div><div>44:<a href=\"http://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655537492&idx=1&sn=386bd8efbd6b460d7340a69a56a8a293&chksm=66dfe6ca51a86fdc9579fa0f2305c57c3d19a152b877064e68e55d837f55dff1bb7eafae1edc&mpshare=1&scene=23&srcid=11104GN3JLwTbrKpIsVwCgHD#rd\">http://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655537492&idx=1&sn=386bd8efbd6b460d7340a69a56a8a293&chksm=66dfe6ca51a86fdc9579fa0f2305c57c3d19a152b877064e68e55d837f55dff1bb7eafae1edc&mpshare=1&scene=23&srcid=11104GN3JLwTbrKpIsVwCgHD#rd</a></div>", 
+  "title": "呵呵呵呵呵呵", 
+  "merge_title": "", 
+  "praise": {
+    "status": 200, 
+    "tips": "注：您赞赏的虎扑币将全部折合成稿费发给作者，虎扑官方不收取任何费用。", 
+    "list": {
+      "goldUsers": [
+        {
+          "uid": 26012472, 
+          "amount": 20, 
+          "header": "http://i1.hoopchina.com.cn/user/472/26012472/26012472-1477626482.jpeg@45h_45w_2e", 
+          "nickname": "测试test1"
+        }
+      ], 
+      "goldCount": "20", 
+      "userCount": 1, 
+      "userGoldInfo": [], 
+      "hasNextPage": 0
+    }, 
+    "userinfo": {
+      "puid": "25279048", 
+      "username": "丫丫dld2015", 
+      "groupid": "3", 
+      "groups": "", 
+      "level": "15", 
+      "header": "http://i2.hoopchina.com.cn/user/48/25279048/25279048-1467705281.jpg@45h_45w_2e", 
+      "header_big": "http://i2.hoopchina.com.cn/user/48/25279048/25279048-1467705281.jpg@194h_194w_2e", 
+      "header_small": "http://i2.hoopchina.com.cn/user/48/25279048/25279048-1467705281.jpg@45h_45w_2e", 
+      "sex": "2", 
+      "addr": "地球", 
+      "regdate": "1427697000", 
+      "region_id": "0", 
+      "school": "中共北京市委党校（北京行政学院）", 
+      "entrance_time": "2008", 
+      "nickname": "丫丫dld2015", 
+      "uid": "25279048"
+    }
+  }, 
+  "show_post_praise": 1, 
+  "is_recommend_filter": 0, 
+  "totalPage": 11, 
+  "ft": "18"
+}

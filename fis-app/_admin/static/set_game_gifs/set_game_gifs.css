@@ -1,0 +1,60 @@
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.fr { float: right;}
+.srd { padding-bottom: 50px;}
+.srd .mod-wrap { width: 980px; margin-left: auto; margin-right: auto;}
+.srd .mod-box { padding: 20px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px;}
+.srd .mod-title { font-size: 18px; line-height: 40px; border-bottom: 1px solid #999;}
+.srd .bottom { text-align: center;}
+.srd .bottom .btn { width: 100px; line-height: 34px; font-size: 20px;}
+.srd table { width: 100%;}
+.srd small { color: #999; margin-left: 10px;}
+.srd .img { width: 100px; height: 100px; background-color: #ccc; }
+
+.srd .left { width: 600px;}
+.srd .right  { width: 440px;}
+
+.srd dt { margin-bottom: 20px;}
+
+.srd .header {
+	height: 40px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.srd .header code {
+	margin-right: 10px;
+	color: #000;
+}
+
+.srd .header .team { font-size: 18px;}
+.srd .header .vs { font-size: 22px; color: red;}
+
+.srd .main .key { display: inline-block; width: 80px;}
+.srd .main .left span { vertical-align: top;}
+.srd .main .right span { width: auto; margin-left: 15px; vertical-align: top;}
+.srd .main .right .info { margin-bottom: 20px;}
+.srd .main .right .content { padding-left: 45px; margin-bottom: 10px;}
+.srd .main textarea { width: 280px; height: 100px;}
+
+.srd .dt { margin-bottom: 20px; }
+.srd .recap-list li { list-style: none; padding: 10px 0; border-top: 1px solid #ccc; cursor: move;}
+.srd .drag {
+	position: absolute;
+	opacity: 0.5;
+	z-index: 2000;
+}
+.srd li.placeholder {
+	position: relative;
+}
+.srd li.placeholder:before {
+	position: absolute;
+}
+
+.srd .topic-list dd {  padding: 10px 0; border-top: 1px solid #ccc; }
+.srd .topic-list .num { color: red; font-size: 20px; font-weight: bold; }
+.srd .hide-topic { text-align: right; }

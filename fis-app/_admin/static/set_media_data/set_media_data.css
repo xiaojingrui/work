@@ -1,0 +1,37 @@
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.fl { float: left;}
+.fr { float: right;}
+.smd { padding-bottom: 50px;}
+.smd input[type=text] { width: 140px;}
+.smd .mod-wrap { width: 980px; margin-left: auto; margin-right: auto;}
+.smd .mod-box { padding: 20px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px;}
+.smd .mod-title { font-size: 18px; line-height: 40px; border-bottom: 1px solid #999;}
+.smd .bottom { text-align: center;}
+.smd .bottom .btn { width: 100px; line-height: 34px; font-size: 20px;}
+.smd  table { width: 100%;}
+
+.smd .media-list { margin-right: -20px;}
+.smd .left, .smd .center, .smd .right { width: 334px; margin-right: 20px;}
+
+.smd dt { margin-bottom: 20px;}
+
+.smd .header {
+	height: 40px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.smd .header code {
+	margin-right: 10px;
+	color: #000;
+}
+
+.smd .header .team { font-size: 18px;}
+.smd .header .vs { font-size: 22px; color: red;}
+
+.smd .media label { display: inline-block;}
+.smd .media-list dd { padding: 10px 0; border-top: 1px solid #ccc;}

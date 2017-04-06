@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "title": "title1", 
+      "thread_url": "http://bbs.hupu.com/0.html", 
+      "img_url": "http://aaa.com/1.jpg", 
+      "username": "user1", 
+      "user_url": "http://my.hupu.com/0", 
+      "publish_time": "2016-11-20 23:49:03", 
+      "type": "广告图库"
+    }
+  ], 
+  "uid": "19134677"
+}

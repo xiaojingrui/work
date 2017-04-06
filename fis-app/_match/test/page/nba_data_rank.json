@@ -1,0 +1,318 @@
+{
+  "rankData": [
+    {
+      "rank": 1, 
+      "team_id": 21, 
+      "team_alias": "马刺", 
+      "team_alias_en": "SA", 
+      "team_name": "圣安东尼奥马刺", 
+      "team_name_en": "Spurs", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/SAS.png", 
+      "value": 0.452
+    }, 
+    {
+      "rank": 2, 
+      "team_id": 19, 
+      "team_alias": "灰熊", 
+      "team_alias_en": "Mem", 
+      "team_name": "孟菲斯灰熊", 
+      "team_name_en": "Grizzlies", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/MEN.png", 
+      "value": 0.438
+    }, 
+    {
+      "rank": 3, 
+      "team_id": 9, 
+      "team_alias": "公牛", 
+      "team_alias_en": "Chi", 
+      "team_name": "芝加哥公牛", 
+      "team_name_en": "Bulls", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/CHI.png", 
+      "value": 0.435
+    }, 
+    {
+      "rank": 4, 
+      "team_id": 1, 
+      "team_alias": "凯尔特人", 
+      "team_alias_en": "Bos", 
+      "team_name": "波士顿凯尔特人", 
+      "team_name_en": "Celtics", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/e59350a5bc97aa5c.png", 
+      "value": 0.395
+    }, 
+    {
+      "rank": 5, 
+      "team_id": 12, 
+      "team_alias": "步行者", 
+      "team_alias_en": "Ind", 
+      "team_name": "印第安纳步行者", 
+      "team_name_en": "Pacers", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/IND.png", 
+      "value": 0.393
+    }, 
+    {
+      "rank": 6, 
+      "team_id": 25, 
+      "team_alias": "开拓者", 
+      "team_alias_en": "Por", 
+      "team_name": "波特兰开拓者", 
+      "team_name_en": "Trail Blazers", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/POR.png", 
+      "value": 0.391
+    }, 
+    {
+      "rank": 7, 
+      "team_id": 8, 
+      "team_alias": "老鹰", 
+      "team_alias_en": "Atl", 
+      "team_name": "亚特兰大老鹰", 
+      "team_name_en": "Hawks", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/ATL.png", 
+      "value": 0.37
+    }, 
+    {
+      "rank": 8, 
+      "team_id": 18, 
+      "team_alias": "火箭", 
+      "team_alias_en": "Hou", 
+      "team_name": "休斯顿火箭", 
+      "team_name_en": "Rockets", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/HOU.png", 
+      "value": 0.359
+    }, 
+    {
+      "rank": 9, 
+      "team_id": 2, 
+      "team_alias": "热火", 
+      "team_alias_en": "Mia", 
+      "team_name": "迈阿密热火", 
+      "team_name_en": "Heat", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/MIA.png", 
+      "value": 0.357
+    }, 
+    {
+      "rank": 10, 
+      "team_id": 10, 
+      "team_alias": "骑士", 
+      "team_alias_en": "Cle", 
+      "team_name": "克利夫兰骑士", 
+      "team_name_en": "Cavaliers", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/CLE.png", 
+      "value": 0.346
+    }, 
+    {
+      "rank": 11, 
+      "team_id": 16, 
+      "team_alias": "小牛", 
+      "team_alias_en": "Dal", 
+      "team_name": "达拉斯小牛", 
+      "team_name_en": "Mavericks", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/DAL.png", 
+      "value": 0.346
+    }, 
+    {
+      "rank": 12, 
+      "team_id": 20, 
+      "team_alias": "森林狼", 
+      "team_alias_en": "Min", 
+      "team_name": "明尼苏达森林狼", 
+      "team_name_en": "Timberwolves", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/MIN.png", 
+      "value": 0.325
+    }, 
+    {
+      "rank": 13, 
+      "team_id": 182, 
+      "team_alias": "篮网", 
+      "team_alias_en": "Bkn", 
+      "team_name": "布鲁克林篮网", 
+      "team_name_en": "Nets", 
+      "team_logo": null, 
+      "value": 0.321
+    }, 
+    {
+      "rank": 14, 
+      "team_id": 23, 
+      "team_alias": "国王", 
+      "team_alias_en": "Sac", 
+      "team_name": "萨克拉门托国王", 
+      "team_name_en": "Kings", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/SAC.png", 
+      "value": 0.313
+    }, 
+    {
+      "rank": 15, 
+      "team_id": 4, 
+      "team_alias": "尼克斯", 
+      "team_alias_en": "NY", 
+      "team_name": "纽约尼克斯", 
+      "team_name_en": "Knicks", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/NYK.png", 
+      "value": 0.313
+    }, 
+    {
+      "rank": 16, 
+      "team_id": 24, 
+      "team_alias": "湖人", 
+      "team_alias_en": "LAL", 
+      "team_name": "洛杉矶湖人", 
+      "team_name_en": "Lakers", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/LAL.png", 
+      "value": 0.311
+    }, 
+    {
+      "rank": 17, 
+      "team_id": 5, 
+      "team_alias": "魔术", 
+      "team_alias_en": "Orl", 
+      "team_name": "奥兰多魔术", 
+      "team_name_en": "Magic", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/ORL.png", 
+      "value": 0.31
+    }, 
+    {
+      "rank": 18, 
+      "team_id": 22, 
+      "team_alias": "爵士", 
+      "team_alias_en": "Uta", 
+      "team_name": "犹他爵士", 
+      "team_name_en": "Jazz", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/UTA.png", 
+      "value": 0.309
+    }, 
+    {
+      "rank": 19, 
+      "team_id": 30, 
+      "team_alias": "黄蜂", 
+      "team_alias_en": "Cha", 
+      "team_name": "夏洛特黄蜂", 
+      "team_name_en": "Hornets", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/CHA2.png", 
+      "value": 0.299
+    }, 
+    {
+      "rank": 20, 
+      "team_id": 17, 
+      "team_alias": "掘金", 
+      "team_alias_en": "Den", 
+      "team_name": "丹佛掘金", 
+      "team_name_en": "Nuggets", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/DEN.png", 
+      "value": 0.298
+    }, 
+    {
+      "rank": 21, 
+      "team_id": 27, 
+      "team_alias": "雷霆", 
+      "team_alias_en": "OKC", 
+      "team_name": "俄克拉荷马城雷霆", 
+      "team_name_en": "Thunder", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/OKC.png", 
+      "value": 0.29
+    }, 
+    {
+      "rank": 22, 
+      "team_id": 6, 
+      "team_alias": "76人", 
+      "team_alias_en": "Phi", 
+      "team_name": "费城76人", 
+      "team_name_en": "76ers", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/PHI.png", 
+      "value": 0.286
+    }, 
+    {
+      "rank": 23, 
+      "team_id": 13, 
+      "team_alias": "雄鹿", 
+      "team_alias_en": "Mil", 
+      "team_name": "密尔沃基雄鹿", 
+      "team_name_en": "Bucks", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/MIL.png", 
+      "value": 0.273
+    }, 
+    {
+      "rank": 24, 
+      "team_id": 28, 
+      "team_alias": "勇士", 
+      "team_alias_en": "GS", 
+      "team_name": "金州勇士", 
+      "team_name_en": "Warriors", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/GSW.png", 
+      "value": 0.267
+    }, 
+    {
+      "rank": 25, 
+      "team_id": 11, 
+      "team_alias": "活塞", 
+      "team_alias_en": "Det", 
+      "team_name": "底特律活塞", 
+      "team_name_en": "Pistons", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/DET.png", 
+      "value": 0.262
+    }, 
+    {
+      "rank": 26, 
+      "team_id": 26, 
+      "team_alias": "太阳", 
+      "team_alias_en": "Pho", 
+      "team_name": "菲尼克斯太阳", 
+      "team_name_en": "Suns", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/PHX.png", 
+      "value": 0.254
+    }, 
+    {
+      "rank": 27, 
+      "team_id": 29, 
+      "team_alias": "快船", 
+      "team_alias_en": "LAC", 
+      "team_name": "洛杉矶快船", 
+      "team_name_en": "Clippers", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/LAC.png", 
+      "value": 0.25
+    }, 
+    {
+      "rank": 28, 
+      "team_id": 7, 
+      "team_alias": "奇才", 
+      "team_alias_en": "Was", 
+      "team_name": "华盛顿奇才", 
+      "team_name_en": "Wizards", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/WAS.png", 
+      "value": 0.244
+    }, 
+    {
+      "rank": 29, 
+      "team_id": 15, 
+      "team_alias": "猛龙", 
+      "team_alias_en": "Tor", 
+      "team_name": "多伦多猛龙", 
+      "team_name_en": "Raptors", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/TOR.png", 
+      "value": 0.206
+    }, 
+    {
+      "rank": 30, 
+      "team_id": 14, 
+      "team_alias": "鹈鹕", 
+      "team_alias_en": "NO", 
+      "team_name": "新奥尔良鹈鹕", 
+      "team_name_en": "Pelicans", 
+      "team_logo": "http://gdc.hupucdn.com/gdc/nba/team/logo/NOH.png", 
+      "value": 0.19
+    }
+  ], 
+  "title": "三分命中率", 
+  "value_title": "场均", 
+  "is_login": 0, 
+  "night": 0, 
+  "projectId": "3", 
+  "version": "7.0.15", 
+  "client": "", 
+  "stat": {
+    "redis": {
+      "gamesMajor": 1
+    }, 
+    "db": [], 
+    "net": []
+  }
+}

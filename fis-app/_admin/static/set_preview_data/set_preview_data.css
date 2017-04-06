@@ -1,0 +1,39 @@
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.fl { float: left;}
+.fr { float: right;}
+.spd .mod-wrap { width: 980px; margin-left: auto; margin-right: auto;}
+.spd .mod-box { padding: 20px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px;}
+.spd .mod-title { font-size: 18px; line-height: 40px; border-bottom: 1px solid #999;}
+.spd .bottom { text-align: center;}
+.spd .bottom .btn { width: 100px; line-height: 34px; font-size: 20px;}
+.spd  table { width: 100%;}
+
+.spd .left, .spd .right { width: 520px;}
+
+.spd dt { margin-bottom: 20px;}
+
+.spd .header {
+	height: 40px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.spd .header code { 
+	margin-right: 10px;
+	color: #000;
+}
+
+.spd .header .team { font-size: 18px;}
+.spd .header .vs { font-size: 22px; color: red;}
+
+.spd .main span { display: inline-block; width: 80px;}
+.spd .main .left span { vertical-align: top;}
+.spd .main textarea { width: 350px; height: 100px;}
+
+.spd .absence label { display: inline-block;}
+.spd .absence-list dd { padding: 10px 0; border-top: 1px solid #ccc;}
+.spd .absence-list .player { position: relative; }

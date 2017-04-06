@@ -1,0 +1,49 @@
+@import "../sass/sassCore/base";
+
+body {
+	font-size: 28px;
+	color: #fff;
+	background-color: #000;
+	background-image: url(./img/hotline-bg.jpg);
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+	overflow-y: hidden;
+}
+
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+.flex1{
+	flex:1;
+    min-height: 100px;
+}
+
+.container{
+    display: flex;
+    flex:1;
+    position:relative;
+}
+.container .title{
+    flex:1;
+    text-align:center;
+    line-height:80px;
+    height:80px;
+    position:absolute;
+    width:100%;
+    color:#fff;
+    font-size:40px;
+    background-color: rgba(0,0,0, 0.3);
+    z-index:10;
+}

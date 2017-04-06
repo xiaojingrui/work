@@ -1,0 +1,207 @@
+{
+  "standings": [
+    {
+      "rank": "1",
+      "id": 19,
+      "name": "四川",
+      "fullname": "四川蓝鲸",
+      "win": "6",
+      "los": "0",
+      "rate": "100%",
+      "bout": 6
+    },
+    {
+      "rank": "2",
+      "id": 5,
+      "name": "新疆",
+      "fullname": "新疆飞虎",
+      "win": "6",
+      "los": "0",
+      "rate": "100%",
+      "bout": 6
+    },
+    {
+      "rank": "3",
+      "id": 16,
+      "name": "广厦",
+      "fullname": "浙江广厦猛狮",
+      "win": "5",
+      "los": "1",
+      "rate": "83.3%",
+      "bout": 6
+    },
+    {
+      "rank": "4",
+      "id": 7,
+      "name": "辽宁",
+      "fullname": "辽宁飞豹",
+      "win": "5",
+      "los": "1",
+      "rate": "83.3%",
+      "bout": 6
+    },
+    {
+      "rank": "5",
+      "id": 1,
+      "name": "广东",
+      "fullname": "广东华南虎",
+      "win": "4",
+      "los": "2",
+      "rate": "66.7%",
+      "bout": 6
+    },
+    {
+      "rank": "6",
+      "id": 12,
+      "name": "山东",
+      "fullname": "山东金星",
+      "win": "4",
+      "los": "2",
+      "rate": "66.7%",
+      "bout": 6
+    },
+    {
+      "rank": "7",
+      "id": 14,
+      "name": "深圳",
+      "fullname": "深圳烈豹",
+      "win": "4",
+      "los": "2",
+      "rate": "66.7%",
+      "bout": 6
+    },
+    {
+      "rank": "8",
+      "id": 9,
+      "name": "上海",
+      "fullname": "上海大鲨鱼",
+      "win": "4",
+      "los": "2",
+      "rate": "66.7%",
+      "bout": 6
+    },
+    {
+      "rank": "9",
+      "id": 11,
+      "name": "浙江",
+      "fullname": "浙江金牛",
+      "win": "3",
+      "los": "3",
+      "rate": "50%",
+      "bout": 6
+    },
+    {
+      "rank": "10",
+      "id": 21,
+      "name": "北控",
+      "fullname": "北京翱龙",
+      "win": "3",
+      "los": "3",
+      "rate": "50%",
+      "bout": 6
+    },
+    {
+      "rank": "11",
+      "id": 10,
+      "name": "福建",
+      "fullname": "福建中华鲟",
+      "win": "3",
+      "los": "3",
+      "rate": "50%",
+      "bout": 6
+    },
+    {
+      "rank": "12",
+      "id": 3,
+      "name": "北京",
+      "fullname": "北京鸭",
+      "win": "3",
+      "los": "3",
+      "rate": "50%",
+      "bout": 6
+    },
+    {
+      "rank": "13",
+      "id": 18,
+      "name": "青岛",
+      "fullname": "青岛雄鹰",
+      "win": "2",
+      "los": "4",
+      "rate": "33.3%",
+      "bout": 6
+    },
+    {
+      "rank": "14",
+      "id": 8,
+      "name": "吉林",
+      "fullname": "吉林东北虎",
+      "win": "2",
+      "los": "4",
+      "rate": "33.3%",
+      "bout": 6
+    },
+    {
+      "rank": "15",
+      "id": 20,
+      "name": "同曦",
+      "fullname": "江苏大圣",
+      "win": "2",
+      "los": "4",
+      "rate": "33.3%",
+      "bout": 6
+    },
+    {
+      "rank": "16",
+      "id": 2,
+      "name": "八一",
+      "fullname": "八一火箭",
+      "win": "2",
+      "los": "4",
+      "rate": "33.3%",
+      "bout": 6
+    },
+    {
+      "rank": "17",
+      "id": 17,
+      "name": "天津",
+      "fullname": "天津金狮",
+      "win": "1",
+      "los": "5",
+      "rate": "16.7%",
+      "bout": 6
+    },
+    {
+      "rank": "18",
+      "id": 15,
+      "name": "山西",
+      "fullname": "山西猛龙",
+      "win": "1",
+      "los": "5",
+      "rate": "16.7%",
+      "bout": 6
+    },
+    {
+      "rank": "19",
+      "id": 4,
+      "name": "江苏",
+      "fullname": "江苏龙",
+      "win": "0",
+      "los": "6",
+      "rate": "0%",
+      "bout": 6
+    },
+    {
+      "rank": "20",
+      "id": 13,
+      "name": "佛山",
+      "fullname": "佛山龙狮",
+      "win": "0",
+      "los": "6",
+      "rate": "0%",
+      "bout": 6
+    }
+  ],
+  "afterVersion7": false,
+  "is_login": 0,
+  "night": 0
+}

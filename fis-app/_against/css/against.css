@@ -1,0 +1,114 @@
+@charset "GBK";
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+.against-pic {
+  width: 100%;
+  margin: 30px;
+  /*日历*/
+  /*表格*/ }
+  .against-pic .againsts-nav li {
+    float: left;
+    margin-right: 30px;
+    color: #333; }
+    .against-pic .againsts-nav li.active {
+      color: #08c; }
+  .against-pic .againsts-nav li:hover {
+    color: #08c;
+    cursor: pointer; }
+  .against-pic .ad-list, .against-pic .admin-list {
+    display: none; }
+  .against-pic .jeDate {
+    margin: 20px 0; }
+    .against-pic .jeDate input {
+      width: 150px;
+      height: 25px;
+      padding-left: 5px; }
+    .against-pic .jeDate span {
+      border-radius: 4px;
+      border: 1px solid #999;
+      padding: 4px 15px;
+      margin-left: 15px;
+      cursor: pointer; }
+    .against-pic .jeDate span:hover {
+      background: #999;
+      color: #fff; }
+  .against-pic .pic-search {
+    margin: 20px 0 30px; }
+    .against-pic .pic-search li {
+      display: inline-block;
+      border-radius: 6px;
+      border: 1px solid #999;
+      padding: 6px 20px;
+      margin-right: 30px; }
+    .against-pic .pic-search li:hover {
+      background: #999;
+      color: #fff;
+      cursor: pointer; }
+    .against-pic .pic-search .pic-url {
+      width: 320px;
+      height: 30px;
+      font-size: 15px;
+      border-radius: 6px;
+      border: 1px solid #999;
+      padding-left: 4px;
+      margin-right: 30px; }
+  .against-pic .pic-table table {
+    width: 90%;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    border-left: 0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px; }
+    .against-pic .pic-table table .table-hd {
+      height: 36px; }
+    .against-pic .pic-table table td {
+      padding: 10px; }
+      .against-pic .pic-table table td p {
+        width: 135px;
+        height: 16px;
+        line-height: 16px;
+        background: #08c;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 6px;
+        margin: 0 auto; }
+      .against-pic .pic-table table td p:hover {
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+        cursor: pointer; }
+      .against-pic .pic-table table td a {
+        color: #08c;
+        text-decoration: none; }
+      .against-pic .pic-table table td .imgA {
+        margin-left: 4px; }
+.pagination{
+  margin :20px 10px 30px;
+}
+.pagination .current {
+      background: #26B;
+      color: #fff;
+      border: 1px solid #AAE;
+}
+.pagination a {
+    text-decoration: none;
+    border: 1px solid #AAE;
+    color: #15B;
+}
+.pagination a, .pagination span {
+    display: inline-block;
+    padding: 0.1em 0.4em;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}

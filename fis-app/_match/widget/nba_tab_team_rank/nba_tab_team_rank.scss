@@ -1,0 +1,30 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/function";
+
+.team-rank {
+	.mod-table {
+		td:nth-of-type(1) {
+			width: 25px;
+		}
+		td:nth-of-type(2) {
+			width: 30px;
+		}
+	}
+}
+
+.icon {
+    position: relative;
+    top: 2px;
+    left: 4px;
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    background-image: url(./icon.png);
+    @include background-size(cover);
+}
+
+body.night {
+    .icon {
+		background-image: url(./icon_night.png);
+	}
+}

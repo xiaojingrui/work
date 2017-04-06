@@ -1,0 +1,252 @@
+@import "../../static/sass/sassCore/base";
+
+[type="radio"]:not(:checked),
+[type="radio"]:checked,
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+    position: absolute;
+    left: -9999px;
+    opacity: 0
+}
+
+[type="radio"]:not(:checked)+label,
+[type="radio"]:checked+label,
+[type="checkbox"]:not(:checked)+label,
+[type="checkbox"]:checked+label {
+    position: relative;
+    padding-left: 35px;
+    cursor: pointer;
+    display: block;
+    line-height: 25px;
+    transition: .28s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+[type="radio"]+label:before,
+[type="radio"]+label:after,
+[type="checkbox"]+label:before,
+[type="checkbox"]+label:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 4px;
+    width: 16px;
+    height: 16px;
+    z-index: 0;
+    transition: .28s ease
+}
+
+[type="radio"]:not(:checked)+label:before,
+[type="radio"]:not(:checked)+label:after,
+[type="radio"]:checked+label:before,
+[type="radio"]:checked+label:after,
+[type="radio"].with-gap:checked+label:before,
+[type="radio"].with-gap:checked+label:after{
+    border-radius: 50%;
+    border: 1px solid transparent;
+}
+
+[type="radio"]:not(:checked)+label:before,
+[type="radio"]:not(:checked)+label:after,
+[type="checkbox"]:not(:checked)+label:before,
+[type="checkbox"]:not(:checked)+label:after{
+    border: 1px solid #eeebeb
+}
+
+[type="radio"]:not(:checked)+label:after {
+    z-index: -1;
+    -webkit-transform: scale(0);
+    transform: scale(0)
+}
+
+[type="radio"]:checked+label:before {
+    border: 1px solid transparent
+}
+
+[type="radio"]:checked+label:after,
+[type="radio"].with-gap:checked+label:before,
+[type="radio"].with-gap:checked+label:after,
+[type="checkbox"].with-gap:checked+label:before,
+[type="checkbox"].with-gap:checked+label:after {
+    border: 1px solid #eeebeb
+}
+
+[type="radio"]:checked+label:after,
+[type="radio"].with-gap:checked+label:after,
+[type="checkbox"]:checked+label:after,
+[type="checkbox"].with-gap:checked+label:after
+ {
+    background-color: #c01e2f;
+    z-index: 0
+}
+
+[type="radio"]:checked+label:after {
+    -webkit-transform: scale(1.02);
+    transform: scale(1.02)
+}
+
+[type="radio"].with-gap:checked+label:after,
+[type="checkbox"].with-gap:checked+label:after {
+    -webkit-transform: scale(0.6);
+    transform: scale(0.6)
+}
+
+[type="radio"].with-gap:disabled:checked+label:before {
+    border: 2px solid rgba(0,0,0,0.26)
+}
+
+[type="radio"].with-gap:disabled:checked+label:after {
+    border: none;
+    background-color: rgba(0,0,0,0.26)
+}
+
+[type="radio"]:disabled:not(:checked)+label:before,
+[type="radio"]:disabled:checked+label:before {
+    background-color: transparent;
+    border-color: rgba(0,0,0,0.26)
+}
+
+[type="radio"]:disabled+label {
+    color: rgba(0,0,0,0.26)
+}
+
+[type="radio"]:disabled:not(:checked)+label:before {
+    border-color: rgba(0,0,0,0.26)
+}
+
+[type="radio"]:disabled:checked+label:after {
+    background-color: rgba(0,0,0,0.26);
+    border-color: #BDBDBD
+}
+
+/* 投票 */
+.vote-wrapper{
+  background-color: $morning_cor2;
+  border: 1px solid $morning_cor3;
+  border-radius:2px;
+  margin: 5px auto 10px auto;
+  .vote-main{
+    padding: 3px 8px;
+    text-align: left;
+    h2{
+      font-size: 15px;
+      color: $morning_cor5;
+    }
+    li{
+      font-size: 13px;
+      padding: 6px 0;
+    }
+    .vate-radio{
+      position: absolute;
+      left: -9999px;
+      opacity: 0;
+    }
+    .vote-selected{
+      border-bottom:1px solid $morning_cor3;
+    }
+    .vote-option-title{
+      padding-bottom: 2px;
+    }
+    .vote-detail{
+      @include display-flex();
+      text-align: right;
+      font-size: 12px;
+      color: #aaaab4;
+      white-space: nowrap;
+      line-height:30px;
+      height:30px;
+    }
+    .vote-progress{
+      width: 66%;
+      position: relative;
+      background-color: #dadada;
+      height: 2px;
+      margin-top:13px;
+      .vote-inner{
+        position: absolute;
+        left: 0;
+        height: 2px;
+        background-color: $morning_cor1;
+      }
+    }
+    .vote-count{
+      @include flex(2);
+    }
+    .vote-percent{
+      @include flex(1);
+    }
+  }
+  .vote-disabled{
+    color: #a9a9b3 !important;
+  }
+  .vote-bottom{
+    background-color: #fcfbfb;
+    border-top:1px solid $morning_cor3;
+    color: #576b95;
+    text-align: center;
+    height:40px;
+    line-height:40px;
+    font-size: 14px;
+  }
+}
+
+body.night {
+  /*表单夜间模式*/
+  [type="radio"]:not(:checked)+label:before,
+  [type="radio"]:not(:checked)+label:after,
+  [type="checkbox"]:not(:checked)+label:before,
+  [type="checkbox"]:not(:checked)+label:after{
+      border: 1px solid #1f1f1f
+  }
+  [type="radio"]:checked+label:after,
+  [type="radio"].with-gap:checked+label:before,
+  [type="radio"].with-gap:checked+label:after,
+  [type="checkbox"].with-gap:checked+label:before,
+  [type="checkbox"].with-gap:checked+label:after {
+      border: 1px solid #1f1f1f
+  }
+
+  [type="radio"]:checked+label:after,
+  [type="radio"].with-gap:checked+label:after,
+  [type="checkbox"]:checked+label:after,
+  [type="checkbox"].with-gap:checked+label:after
+   {
+      background-color: #99222c;
+  }
+
+  /* 投票 */
+  .vote-wrapper{
+    background-color: $night_cor2;
+    border: 1px solid $night_cor3;
+    .vote-main{
+      h2{
+        color: $night_cor5;
+      }
+      .vote-selected{
+        border-bottom:1px solid $night_cor3;
+      }
+      .vote-detail{
+        color: #5a5a5f;
+      }
+      .vote-progress{
+        background-color: #242424;
+        .vote-inner{
+          background-color: $night_cor1;
+        }
+      }
+    }
+    .vote-disabled{
+      color: #5a5a5f !important;
+    }
+    .vote-bottom{
+      background-color: #292929;
+      border-top:1px solid $night_cor3;
+      color: #576b95;
+    }
+  }
+
+}

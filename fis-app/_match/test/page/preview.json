@@ -1,0 +1,231 @@
+{
+  "preview": "dgfdhjkhkjkkgasdgdhjjhfiuh客户代表身份来恢复健康开发", 
+  "preview_tips": "该比赛暂无前瞻，去其它比赛看看吧", 
+  "injurys": {
+    "home": [
+      {
+
+        "player_id": 4958, 
+        "player_name": "乔尔-恩比德", 
+        "player_header": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8/4958_518.jpg", 
+        "number": "21", 
+        "position": "中锋", 
+        "salary": 463, 
+        "salary_str": "463万", 
+        "is_injured": 0, 
+        "rtw_create_at": "2016-09-22 10:42:10", 
+        "alias": "恩比德", 
+        "rtw_injury_id": 142, 
+        "injury_state": 2, 
+        "team_name": "76人", 
+        "injury_returns": "Targeting preseason", 
+        "injury_part": "foot", 
+        "rtw_name": "Joel Embiid", 
+        "injury_detail": "Sixers coach Brett Brown said Joel Embiid (foot) will have \"restrictions\" upon finally getting onto the court.", 
+        "player_photo": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8/4958_518.jpg", 
+        "rtw_player_id": 2288, 
+        "eng_name": "Joel Embiid", 
+        "injury_part_cn": "脚部", 
+        "injury_detail_cn": null, 
+        "injury_date": "2016-04-09 00:00:00", 
+        "team_id": 6, 
+        "hupu_pid": 4958, 
+        "injury_detail_date": "2016-09-17 15:57:00"
+      }, 
+      {
+        "player_id": 4958, 
+        "player_name": "乔尔-恩比德", 
+        "player_header": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8/4958_518.jpg", 
+        "number": "21", 
+        "position": "中锋", 
+        "salary": 463, 
+        "salary_str": "463万", 
+        "is_injured": 0, 
+        "rtw_create_at": "2016-09-22 10:42:10", 
+        "alias": "恩比德", 
+        "rtw_injury_id": 142, 
+        "injury_state": 2, 
+        "team_name": "76人", 
+        "injury_returns": "Targeting preseason", 
+        "injury_part": "foot", 
+        "rtw_name": "Joel Embiid", 
+        "injury_detail": "Sixers coach Brett Brown said Joel Embiid (foot) will have \"restrictions\" upon finally getting onto the court.", 
+        "player_photo": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8/4958_518.jpg", 
+        "rtw_player_id": 2288, 
+        "eng_name": "Joel Embiid", 
+        "injury_part_cn": "脚部", 
+        "injury_detail_cn": null, 
+        "injury_date": "2016-04-09 00:00:00", 
+        "team_id": 6, 
+        "hupu_pid": 4958, 
+        "injury_detail_date": "2016-09-17 15:57:00"
+      }, 
+      {
+        "player_id": 150045, 
+        "player_name": "贾利尔-奥卡福", 
+        "player_header": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/5/150045_125.jpg", 
+        "number": "8", 
+        "position": "中锋", 
+        "salary": 458, 
+        "salary_str": "458万", 
+        "injury_state": 1,
+        "is_injured": 0, 
+        "rtw_create_at": "2016-09-22 10:42:08", 
+        "alias": "贾利尔-奥卡福", 
+        "rtw_injury_id": 141, 
+        "team_name": "76人", 
+        "injury_returns": "Targeting training camp", 
+        "injury_part": "ankle", 
+        "injury_returns_cn": "预计训练营预计训练营", 
+        "rtw_name": "Jahlil Okafor", 
+        "injury_detail": "Jahlil Okafor's right knee is \"fine\" after undergoing surgery to repair a torn meniscus in March.", 
+        "player_photo": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/5/150045_125.jpg", 
+        "rtw_player_id": 2460, 
+        "eng_name": "Jahlil Okafor", 
+        "injury_part_cn": "踝关节", 
+        "injury_detail_cn": null, 
+        "injury_date": "2016-03-01 00:00:00", 
+        "team_id": 6, 
+        "hupu_pid": 150045, 
+        "injury_detail_date": "2016-09-17 16:00:00"
+      }
+    ], 
+    "away": [
+      {
+        "player_id": 4958, 
+        "player_name": "乔尔-恩比德", 
+        "player_header": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8/4958_518.jpg", 
+        "number": "21", 
+        "position": "中锋", 
+        "salary": 463, 
+        "injury_state": 1,
+        "salary_str": "463万", 
+        "is_injured": 0, 
+        "rtw_create_at": "2016-09-22 10:42:10", 
+        "alias": "恩比德", 
+        "rtw_injury_id": 142, 
+        "team_name": "76人", 
+        "injury_returns": "Targeting preseason", 
+        "injury_part": "foot", 
+        "rtw_name": "Joel Embiid", 
+        "injury_detail": "Sixers coach Brett Brown said Joel Embiid (foot) will have \"restrictions\" upon finally getting onto the court.", 
+        "player_photo": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8/4958_518.jpg", 
+        "rtw_player_id": 2288, 
+        "eng_name": "Joel Embiid", 
+        "injury_part_cn": "脚部", 
+        "injury_detail_cn": null, 
+        "injury_date": "2016-04-09 00:00:00", 
+        "team_id": 6, 
+        "hupu_pid": 4958, 
+        "injury_detail_date": "2016-09-17 15:57:00"
+      }, 
+      {
+        "player_id": 150045, 
+        "player_name": "贾利尔-奥卡福", 
+        "player_header": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/5/150045_125.jpg", 
+        "number": "8", 
+        "position": "中锋", 
+        "salary": 458, 
+        "injury_state": 1,
+        "salary_str": "458万", 
+        "is_injured": 0, 
+        "rtw_create_at": "2016-09-22 10:42:08", 
+        "alias": "贾利尔-奥卡福", 
+        "rtw_injury_id": 141, 
+        "team_name": "76人", 
+        "injury_returns": "Targeting training camp", 
+        "injury_part": "ankle", 
+        "injury_returns_cn": "预计训练营", 
+        "rtw_name": "Jahlil Okafor", 
+        "injury_detail": "Jahlil Okafor's right knee is \"fine\" after undergoing surgery to repair a torn meniscus in March.", 
+        "player_photo": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/5/150045_125.jpg", 
+        "rtw_player_id": 2460, 
+        "eng_name": "Jahlil Okafor", 
+        "injury_part_cn": "踝关节", 
+        "injury_detail_cn": null, 
+        "injury_date": "2016-03-01 00:00:00", 
+        "team_id": 6, 
+        "hupu_pid": 150045, 
+        "injury_detail_date": "2016-09-17 16:00:00"
+      }
+    ]
+  }, 
+  "gameInfo": {
+    "gid": "153649", 
+    "date_time": "1475596800", 
+    "begin_time": "1475622000", 
+    "home_tid": "6", 
+    "home_name": "76人", 
+    "home_score": "0", 
+    "away_tid": "1", 
+    "away_name": "凯尔特人", 
+    "away_score": "0", 
+    "match_type": "3", 
+    "process": "7:00开始", 
+    "status": "3", 
+    "home_logo": "http://b1.hoopchina.com.cn/games/teams/nba/1_6.png", 
+    "away_logo": "http://b1.hoopchina.com.cn/games/teams/nba/1_1.png"
+  }, 
+  "video_play_title": "视频直播", 
+  "video_room_list": [], 
+  "live_video_list": {
+      "tv": [
+        {
+          "name": "我是我是谁", 
+          "url": "http://sports.sina.com.cn/uclvideo/bn/2016-04-14/050165213269.html", 
+          "link": "http://sports.sina.com.cn/uclvideo/bn/2016-04-14/050165213269.html", 
+          "pay": "1"
+        }, 
+        {
+          "name": "CCTV", 
+          "url": "", 
+          "link": "", 
+          "pay": "0"
+        }
+      ], 
+      "net": [
+        {
+          "name": "你是你是谁", 
+          "url": "http://sports.sina.com.cn/uclvideo/bn/2016-04-14/050165213269.html", 
+          "link": "http://sports.sina.com.cn/uclvideo/bn/2016-04-14/050165213269.html", 
+          "pay": "1"
+        }
+      ], 
+      "huputv": [
+        {
+          "name": "我是虎扑TV", 
+          "url": "huputiyu://huputv/room/10182", 
+          "link": "huputiyu://huputv/room/10182", 
+          "pay": "0"
+        },{
+          "name": "我是虎扑TV", 
+          "url": "huputiyu://huputv/room/10182", 
+          "link": "huputiyu://huputv/room/10182", 
+          "pay": "0"
+        },{
+          "name": "我是", 
+          "url": "huputiyu://huputv/room/10182", 
+          "link": "huputiyu://huputv/room/10182", 
+          "pay": "0"
+        }
+      ]
+    }, 
+  "is_login": 0, 
+  "night": 0, 
+  "projectId": "1", 
+  "version": "7.0.13", 
+  "client": "864394109890964", 
+  "stat": {
+    "redis": {
+      "baseMajorSlave": 2, 
+      "liveRoomSlave": 1, 
+      "gamesMajorSlave": 2, 
+      "gamesInfoSlave": 2
+    }, 
+    "db": {
+      "conn_192.168.8.49_hupu_games_game": 1, 
+      "query_select order_id,type,name,url,url as link, pay from g_live_video where lid = 1 and gid = 153649": 1
+    }, 
+    "net": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "result": {
+    "data": [
+      {
+        "id": 20160800000007, 
+        "news": {
+          "nid": 1346201, 
+          "title": "全文标题必填全文标题必填全文标题必填全文标题必填", 
+          "addtime": "2016-08-12 17:14:25", 
+          "origin": "不吐槽会死星人", 
+          "type": 1, 
+          "leagues_en": "nba", 
+          "url": "kanqiu://nba/nba/news/1346201?type=1&entrance=20"
+        }, 
+        "display_type": 0, 
+        "ncid": 11700561, 
+        "user_name": "haha42吖吖", 
+        "content": "我爱我家我爱我家我爱我家", 
+        "light_content": "efhieruhgirjgr",
+        "short_content": "3333",
+        "create_time": 1471233119, 
+        "is_hide": 0, 
+        "is_delete": 0, 
+        "reply_ncid": 11700564, 
+        "reply_puid": 19678040, 
+        "reply_user_name": "haha42吖吖", 
+        "reply_content": "Sjjsksksskkskslsos", 
+        "reply_create_time": 1471233119, 
+        "reply_is_hide": 0, 
+        "reply_is_delete": 1, 
+        "format_time": "08-15 11:51", 
+        "reply_header": "https://i3.hoopchina.com.cn/user/354/26012354/26012354-1471588060.jpg@45h_45w_2e", 
+        "comment_url": "kanqiu://news/comment/1346201?leaguesEn=nba&ncid=11700564"
+      }, 
+     {
+        "id": 20160700000052, 
+        "news": {
+          "nid": 1346033, 
+          "title": "全文标题必填全文标题必填", 
+          "addtime": "2016-07-14 11:10:32", 
+          "origin": "腾讯体育", 
+          "type": 1, 
+          "leagues_en": "nba", 
+          "url": "kanqiu://nba/nba/news/1346033?type=1&entrance=20"
+        }, 
+        "display_type": 0, 
+        "ncid": 11700369, 
+        "user_name": "haha42吖吖", 
+        "content": "全文标题必填全文标题必填", 
+        "short_content": "全文标题必填全文标题必填全文标题必填全文标题必填全文标题必填",
+        "light_content": "efhieruhgirjgr",
+        "create_time": 1468998247, 
+        "is_hide": 0, 
+        "is_delete": 0, 
+        "reply_ncid": 11700494, 
+        "reply_puid": 26012354, 
+        "reply_user_name": "安静向日葵28", 
+        "reply_content": "vhhhjjffgh复古个很好解决", 
+        "reply_create_time": 1468998247, 
+        "reply_is_hide": 0, 
+        "reply_is_delete": 0, 
+        "format_time": "08-15 14:25", 
+        "reply_header": "https://i3.hoopchina.com.cn/user/354/26012354/26012354-1471588060.jpg@45h_45w_2e",
+         "comment_url": "http://lite-test.hupu.com/3/7.0.10/news/getCommentSchema?nid=1346201&top_ncid=11700562&client=bff23530c9e875ecac3d0fa3c3b09fe0fd10aef2"
+      }
+    ], 
+    "header": "https://i3.hoopchina.com.cn/user/354/26012354/26012354-1471588060.jpg@45h_45w_2e", 
+    "hasNextPage": 1, 
+    "isNewMsg": 1
+  }, 
+  "is_login": 1, 
+  "crt": 1470626367, 
+  "cid": "6686340", 
+  "night":0,
+  "stat": {
+    "redis": {
+      "baseMajorSlave": 1, 
+      "cacheSoaUserInfo": 4, 
+      "cacheSoaUserInfoSlave": 2
+    }, 
+    "db": [], 
+    "net": {
+      "http://192.168.8.49:8083/services/msg/getnewmsglist": 1, 
+      "http://192.168.8.49:8083/services/msg/getpreviousmsglist": 1, 
+      "192.168.8.187:8890": 4
+    }
+  }
+}

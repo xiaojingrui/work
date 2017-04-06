@@ -1,0 +1,153 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+body{
+     background: #fff;
+     overflow: hidden;
+     font-size:16px;
+     line-height:1.5;
+     // -webkit-user-select: none;
+     // user-select: none;
+}
+.my-post-wrap{
+    .post-list{
+        padding: 10px;
+        position: relative;
+        &:after{
+            content:'';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 1px;
+            overflow: hidden;
+            background: -webkit-linear-gradient(top,#eeebeb,#eeebeb 50%,transparent 50%);
+            background-size: 100% 1px;
+            background-repeat: no-repeat;
+            background-position: top;
+        }
+        // border-bottom: 1px solid #eeebeb;
+        a{
+            display: block;
+        }
+        h3{
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 24px;
+            margin-bottom: 10px;
+            color: #434141;
+        }
+        .post-info{
+            @include display-flex();
+            color: #a9a9b2;
+            font-size: 14px;
+            .left-info{
+                .post-time{
+                    display: inline-block;
+                    margin-right: 5px;
+                }
+                .thread-board{
+                    display: inline-block;
+                }
+            }
+            .right-info{
+                display: block;
+                @include flex(1);
+                text-align: right;
+                div{
+                    display: inline-block;
+                    &.thread-recommend{
+                        margin-right: 10px;
+                        i{
+                            position: relative;
+                            top: -1px;
+                            display: inline-block;
+                            width: 16px;
+                            height: 16px;
+                            background-image: url(./img/recommend.png);
+                            background-repeat:no-repeat;
+                            background-size: cover;
+                            vertical-align: middle;
+                        }
+                    }
+                    &.thread-lights{
+                        margin-right: 10px;
+                        i{
+                            display: inline-block;
+                            width: 14px;
+                            height: 16px;
+                            background-image: url(./img/lights.png);
+                            background-repeat:no-repeat;
+                            background-size: cover;
+                            vertical-align: middle;
+                        }
+                    }
+                    &.thread-comment{
+                        i{
+                            display: inline-block;
+                            width: 16px;
+                            height: 16px;
+                            background-image: url(./img/comment.png);
+                            background-repeat:no-repeat;
+                            background-size: cover;
+                            vertical-align: middle;
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .has-more-reply {
+        padding: 10px 0;
+        text-align: center;
+        font-size: 16px;
+        color: #a9a9b2;
+        p{
+            line-height: 1.8;
+        }
+    }
+
+
+}
+.reply-empty{
+    text-align: center;
+    color:#a9a9b2;
+    line-height:80px;
+    height:80px;
+    font-size:16px;
+}
+body.night{
+    background: #2c2c2c !important;
+    .my-post-wrap{
+        .post-list{
+            &:after{
+                background: -webkit-linear-gradient(top,#1f1f1f,#1f1f1f 50%,transparent 50%);
+            }
+        }
+        .post-list{
+            h3{
+                color: #959595;
+            }
+            .post-info{
+                color: #5a5a5f;
+                .right-info{
+                    div{
+                        &.thread-recommend i{background-image: url(./img/recommend_night.png);}
+                        &.thread-lights i{background-image: url(./img/lights_night.png);}
+                        &.thread-comment i{background-image: url(./img/comment_night.png);}
+                    }
+                }
+            }
+
+        }
+        .has-more-reply {
+            border-top-color: #1f1f1f;
+            color: #5a5a5f;
+        }
+    }
+    .reply-empty{
+        color: #959595;
+    }
+}

@@ -1,0 +1,619 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/base";
+
+.clearfix:after {content:""; display:block; height:0; visibility:hidden; clear:both;}
+
+.clearfix span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.fl { float: left; }
+.fr { float: right; }
+.general-reply{
+    background:#fff;
+}
+.m-reply {
+    word-wrap: break-word;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+.general-reply-more{
+    line-height:65px;
+    height:65px;
+    font-size:16px;
+    color:#a9a9b2;
+    text-align:center;
+    border-top: 1px solid #e8e8e8;
+    display:none;
+}
+.m-reply .reply-active{
+    background:#e5e5e5;
+}
+.m-reply table {
+    width: 100% !important;
+}
+.title-out{
+    height:34px;
+}
+.m-reply .title {
+    background:#fff;
+    border-top:1px solid #eeebeb;
+    border-bottom:1px solid #eeebeb;
+}
+.m-reply .fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99;
+}
+
+.m-reply .title h2 {
+    border-left: 4px solid #c80c00;
+    display: inline-block;
+    padding-left: 6px;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 34px;
+    height:34px;
+    color: #c01e2f;
+}
+.user-avatar, .user-avatar img{
+    width: 30px;
+    height: 30px;
+    border-radius:50%;
+}
+.m-reply .operations-user {
+    padding: 0 10px;
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    display: -webkit-flex;
+    border-top: 1px solid #e8e8e8;
+}
+.reply-list:first-child .operations-user{
+    border-top:none;
+}
+.m-reply .user-avatar{
+    display: block;
+    margin-right:10px;
+    padding-top: 10px;
+    position:relative;
+}
+.m-reply .user-avatar .mask {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position:absolute;
+    z-index: 5;
+    left: 0;
+    top: 10px;
+}
+.m-reply .user-info{
+    padding-top:5px;
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    
+}
+.article-author{
+    img{
+        padding: 0 4px;
+    }
+}
+.m-reply .user-name {
+    line-height: 26px;
+}
+.m-reply .user-name  .fl{
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -webkit-flex; 
+    display: -moz-flex;
+    display: -ms-flexbox; 
+    display: flex;
+}
+.m-reply .user-name span {
+    display: inline-block;
+}
+.m-reply .user-name .ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.m-reply .user-name a {
+    color: #434141;
+    font-size:14px;
+    word-wrap:break-word;
+    word-break:break-all;
+}
+.m-reply .user-name .J_name_word {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.m-reply .user-name .no_louzhu {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.clearfix a.certification{
+    color:#c80c00;
+    margin-left:2px;
+    span{
+        font-size:12px;
+    }
+}
+.m-reply .user-name i{
+    -webkit-align-self: center;
+    align-self: center;
+    font-style: normal;
+    padding: 0 8px;
+    margin-left: 4px;
+    line-height: 16px;
+    height: 16px;
+    font-size: 12px;
+    border-radius: 8px;
+    background: #cfcfcf;
+    color: #626466;
+}
+.m-reply .reply-light {
+    color:#abaeb2;
+    font-size:14px;
+    line-height:30px;
+    height:30px;
+    display: block;
+    /*
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+    */
+    text-align: right;
+}
+.m-reply .source-left{
+    font-size: 12px;
+    line-height:18px;
+    height:18px;
+    color:#abaeb2;
+}
+.m-reply .reply-content{
+    padding:7px 10px 10px 50px;
+    font-size: 16px;
+}
+.m-reply .reply-content a {
+    color: #005eac;
+}
+.m-reply .reply-content img {
+    max-width: 100%;
+}
+/* 引用 */
+.m-reply {
+    .reply-quote-delete {
+        padding: 20px 0;
+        text-align: center;
+        font-size: 14px;
+        background: #eeebeb;
+        color: #a9a9b2;
+    }
+    .reply-quote-content {
+        position: relative;
+        padding: 8px;
+        background: #eeebeb;
+        color: #a9a9b3;
+        margin-bottom:10px;
+        .reply-quote-hd {
+            position: relative;
+            font-size: 14px;
+            color: #434341;
+        }
+        .reply-quote-bd {
+            display: none;
+            padding-top: 5px;
+        }
+        .current-content{
+            position: relative;
+            padding:0;
+        }
+        center{
+            text-align:left;
+        }
+        .all-content {
+            display: none;
+        }
+
+        .button-open-inner {
+            text-align: right;
+        }
+        .button-open {
+            position: relative;
+            display: inline-block;
+            height: 16px;
+            line-height: 16px;
+            padding: 0 20px 0 5px;
+            font-size: 14px;
+            color: #434141;
+            border: 1px solid #a9a9b2;
+            @include border-radius(4px);
+            .arrow {
+                position: absolute;
+                top: 5px;
+                right: 5px;
+                &:after {
+                    content: "";
+                    @include arrow(bottom, 6px, #a9a9b2);
+                    left: inherit;
+                    right: 0;
+                    z-index: 1;
+                }
+                &:before {
+                    content: "";
+                    @include arrow(bottom, 5px, #eeebeb);
+                    left: inherit;
+                    right: 1px;
+                    z-index: 2;
+                }
+            }
+        }
+    }
+    .praise-reply{
+        display: inline-block;
+        margin-top: 15px;
+        background-color: #eeebeb;
+        color: #a9a9b2;
+        height: 26px;
+        line-height: 26px;
+        border-top-left-radius: 13px;
+        border-bottom-left-radius: 13px;
+        border-top-right-radius: 13px;
+        border-bottom-right-radius: 13px;
+        padding:0 12px 0 31px;
+        font-size: 12px;
+        background-image:url(./img/btn-zan-reply-day.png);
+        background-repeat: no-repeat;
+        background-position:10px center;
+        background-size: 8%;
+        .praise-person{
+            color:#c01e2f;
+        }
+    }
+}
+
+.m-reply .reply-bt {
+    padding: 0 8px;
+    color: #999;
+    display: -webkit-flex;
+    display: flex;
+}
+.m-reply .reply-bt a {
+    color: #999;
+}
+.m-reply .reply-bt .times {
+    -webkit-flex: 1;
+    flex: 1;
+    text-align: right;
+}
+.m-reply .reply-bt .floor {
+    margin-right: 5px;
+}
+
+.m-reply .bright-reply .reply-quote-content {
+    border: none;
+}
+.m-reply .bright-reply .reply-quote-content:before {
+    display: none;
+}
+.m-reply .button-inner {
+    padding: 12px 0;
+    text-align: center;
+    background: #fff;
+    border-top: 1px solid #f5f5f5;
+}
+.m-reply .not-login-button {
+    border-top: none;
+}
+.m-reply .button-viewMore,
+.m-reply .finish-loading {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 18px;
+    background: #d8544c;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+.m-reply .finish-loading {
+    background: #f8f8f8;
+    color: #999;
+}
+.finish-loading.fn-hide{
+    display: none;
+}
+
+.m-reply .general-not-reply .title {
+    display: none;
+}
+
+.m-reply .reply-empty{
+    text-align: center;
+    color:#a9a9b2;
+    line-height:80px;
+    height:80px;
+    font-size:16px;
+}
+.lazy-gif{
+    position:relative;
+    display:block;
+    min-width:80px;
+    min-height:80px;
+    overflow:hidden;
+    margin: 0 auto;
+}
+.lazy-gif .gif-icon{
+    position:absolute;
+    right:0;
+    bottom:0;
+    display:block;
+    width:40px;height:40px;
+    background-image:url(./img/gif_d.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 10;
+
+}
+.lazy-gif .gif-pic{
+  position: inherit;
+}
+
+/*
+  弹出tip
+ */
+.m-reply .reply-tips{
+    position:absolute;
+    left:50%;
+    top:0;
+    margin-top: -24px;
+    height:24px;
+    padding:8px 0;
+    line-height:24px;
+    background:rgba(46, 46, 46, .9);
+    @include display-flex();
+    z-index: 100;
+
+    &:after,
+    &:before {
+        position: absolute;
+        left: 135px;
+        bottom: -9px;
+        z-index: 2;
+        content: "";
+        width: 0;
+        height: 0;
+        border-width: 5px;
+        border-style: solid dashed dashed solid;
+        border-color: #2e2e2e transparent transparent #2e2e2e;
+        opacity: .9;
+    }
+    li{
+        @include flex(1);
+        background-position:0 center;
+        background-repeat: no-repeat;
+        background-size: 45%;
+        padding-left:26px;
+        font-size:14px;
+        color:#fff;
+        border-right: 1px solid #000;
+    }
+    li:last-child{
+        border-right: none!important;
+    }
+    .reply-ico{
+        background-image:url("./img/btn_comment.png");
+    }
+    .copy-ico{
+        background-image:url("./img/btn_copy.png");
+    }
+    .zan-ico{
+        background-image:url("./img/btn-popup-zan-day.png");
+        background-size: 28%;
+        background-position: 7px;
+    }
+    .report-ico{
+        background-image:url("./img/btn_report.png");
+    }
+    .light-ico{
+        background-image:url("./img/btn_light_up.png");
+    }
+    .rulight-ico{
+        background-image:url("./img/btn_rulights.png");
+    }
+    .locked{
+        color: #919191;
+        background-image:url("./img/btn_rulights_dark.png");
+    }
+}
+.m-reply{
+    .reply-active .reply-ico{
+        color:red;
+        background-image:url("./img/btn_comment_down.png");
+    }
+    .copy-active .copy-ico{
+        color:red;
+        background-image:url("./img/btn_copy_down.png");
+    }
+    .zan-active .zan-ico{
+        background-image:url("./img/btn-popup-zan-day.png");
+    }
+    .report-active .report-ico{
+        color:red;
+        background-image:url("./img/btn_report_down.png");
+    }
+    .light-active .light-ico{
+        color:red;
+        background-image:url("./img/btn_light_down.png");
+    }
+    .rulight-active .rulight-ico{
+        color:red;
+        background-image:url("./img/btn_rulights.png");
+    }
+}
+
+body.night {
+    .m-reply .title {
+        color: #99222c;
+        border-top-color: #1f1f1f;
+        border-bottom-color: #1f1f1f;
+        background-color: #2c2c2c;
+    }
+    .m-reply .title h2 {
+        border-left-color: #99222c;
+        color: #99222c;
+    }
+    .reply-quote-delete {
+        background: #1f1f1f;
+        color: #5a5a5f;
+    }
+    .m-reply .operations-user {
+        border-top-color: #1f1f1f;
+    }
+    .m-reply .user-name {
+        color: #959595;
+    }
+    .m-reply .user-name i {
+        color: #5a5a5f;
+        background-color: #1f1f1f;
+    }
+    .m-reply .source-left {
+        color: #5a5a5f;
+    }
+    //引用
+    .m-reply {
+        .reply-quote-content {
+            background: #1f1f1f;
+            color: #5a5a5f;
+            .reply-quote-hd {
+                color: #777;
+            }
+            .button-open {
+                color: #959595;
+                border-color: #5a5a5f;
+                .arrow {
+                    &:after {
+                        border-top-color: #959595;
+                    }
+                    &:before {
+                        border-top-color: #1f1f1f;
+                    }
+                }
+            }
+        }
+    }
+    .m-reply .reply-content a {
+        color: #3c678c;
+    }
+    .m-reply .current-content {
+        color: #959595;
+    }
+    .m-reply .reply-active {
+        background-color: #1f1f1f;
+    }
+    .m-reply .reply-light {
+        color: #5a5a5f;
+    }
+    .m-reply .reply-empty{
+        color: #5a5a5f;
+    }
+    .lazy-gif .gif-icon{
+        background-image:url(./img/gif_n.png);
+    }
+
+    .general-reply{background:#2c2c2c}
+    .general-reply-more{
+        color:#5a5a5f;
+        border-top: 1px solid #1f1f1f;
+    }
+    .m-reply .reply-tips {
+        background: rgba(0, 0, 0, .8);
+
+        &:after,
+        &:before {
+            border-color: rgba(0, 0, 0, .8) transparent transparent rgba(0, 0, 0, .8);
+        }
+
+        li {
+            color: #959595;
+        }
+
+        .reply-ico{
+            background-image:url("./img/btn_comment_dark.png");
+        }
+        .copy-ico{
+            background-image:url("./img/btn_copy_dark.png");
+        }
+        .zan-ico{
+            background-image:url("./img/btn-popup-zan-dark.png");
+        }
+        .report-ico{
+            background-image:url("./img/btn_report_dark.png");
+        }
+        .light-ico{
+            background-image:url("./img/btn_light_up_dark.png");
+            border-right: none;
+        }
+        .rulight-ico{
+            background-image:url("./img/btn_rulights_dark.png");
+            border-right: none;
+        }
+        .locked{
+            color:#4a4a4a;
+            background-image:url("./img/btn_rulights_dark_lock.png");
+        }
+    }
+
+    .m-reply{
+        .user-name a{
+            color:#959595;
+        }
+        .reply-active .reply-ico{
+            color:red;
+            background-image:url("./img/btn_comment_down_dark.png");
+        }
+        .copy-active .copy-ico{
+            color:red;
+            background-image:url("./img/btn_copy_down_dark.png");
+        }
+        .zan-active .zan-ico{
+            background-image:url("./img/btn-popup-zan-dark.png");
+        }
+        .report-active .report-ico{
+            color:red;
+            background-image:url("./img/btn_report_down_dark.png");
+        }
+        .light-active .light-ico{
+            color:red;
+            background-image:url("./img/btn_light_down.png");
+        }
+        .rulight-active .rulight-ico{
+            color:red;
+            background-image:url("./img/btn_report_down_dark.png");
+        }
+    }
+    .praise-reply{
+
+        background-color: #1f1f1f;
+        background-image:url(./img/btn-zan-reply-night.png);
+        color: #5a5a5f;
+        .praise-person{
+            color:#99222c;
+        }
+    }
+}

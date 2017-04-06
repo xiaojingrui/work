@@ -1,0 +1,22 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/base";
+
+body {
+    height: 100%;
+    background-color: $morning_gray1_cor;
+
+    .hd {
+        line-height: 24px;
+        text-indent: 10px;
+        font-size: 12px;
+        color: $morning_gray3_cor;
+    }
+}
+
+body.night {
+    background-color: $night_gray1_cor;
+
+    .hd {
+        color: $night_gray3_cor;
+    }
+}

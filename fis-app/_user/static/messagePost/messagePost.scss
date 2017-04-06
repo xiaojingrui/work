@@ -1,0 +1,120 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+body {
+     font-size: 15px;
+     line-height: 1.42;
+     color: $morning_gray3_cor;
+     background-color: $morning_gray1_cor;
+     -webkit-overflow-scrolling: touch;
+}
+
+#J-height {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -100;
+}
+
+a {
+    color: $morning_gray3_cor;
+}
+
+.message-post {
+    .item {
+        @include clearfix();
+        display: block;
+        height: 60px;
+        padding: 0 10px;
+        margin-bottom: 5px;
+        line-height: 60px;
+        background-color: $morning_white_cor;
+
+        &>span {
+            float: left;
+            display: block;
+        }
+
+        &>span:nth-of-type(2) { max-width: 40%;}
+        &>span:nth-of-type(4) {
+            position: absolute;
+            right: 10px;
+            text-align: right;
+        }
+    }
+
+    .title {
+        display: block;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+
+        span {
+            color: $morning_blue_cor;
+        }
+    }
+
+    .time {
+        margin-left: 10px;
+        font-size: 12px;
+        color: $morning_gray2_cor;
+    }
+
+    .history {
+        height: 35px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 35px;
+        text-align: center;
+        color: $morning_gray2_cor;
+    }
+
+    .no-result {
+        display: none;
+        position: relative;
+        color: $morning_gray2_cor;
+
+        p {
+            position: absolute;
+            top: 54%;
+            width: 100%;
+            text-align: center;
+        }
+    }
+}
+
+
+body.night {
+     color: $night_gray3_cor;
+     background-color: $night_gray1_cor;
+
+     a {
+         color: $night_gray3_cor;
+     }
+
+    .message-post {
+        .item {
+            background-color: $night_white_cor;
+        }
+
+        .title {
+            span {
+                color: $night_blue_cor;
+            }
+        }
+
+        .time {
+            color: $night_gray2_cor;
+        }
+
+        .history {
+            color: $night_gray2_cor;
+        }
+
+        .no-result {
+            color: $night_gray2_cor;
+        }
+    }
+}

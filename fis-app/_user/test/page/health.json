@@ -1,0 +1,26 @@
+{
+  "today": {
+    "step_count": "3000",
+    "distance_walking_running": "1200",
+    "active_energy_burned": "1500",
+    "time": ""
+  },
+  "yesterday": {
+      "step_count": "30",
+      "distance_walking_running": "120",
+      "active_energy_burned": "150"
+  },
+  "is_login": 0,
+  "night": 0,
+  "projectId": "1",
+  "version": "7.0.16",
+  "client": "x",
+  "stat": {
+    "redis": [],
+    "db": {
+      "conn_192.168.8.49_hupu_games_log": 1,
+      "query_select * from g_health_log where cid = 6686420 and date in (1476892800, 1476806400) order by id desc limit 2": 1
+    },
+    "net": []
+  }
+}

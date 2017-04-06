@@ -1,0 +1,190 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+.clearfix:after { content: ""; display: block; clear: both;}
+.fl { float: left;}
+.fr { float: right;}
+img { pointer-events: none; }
+i { font-style: normal;}
+.no-copy { pointer-events: none; }
+body {
+	color: #434141;
+	-webkit-user-select: none;
+	-webkit-tap-highlight-color: transparent;
+}
+
+.data-list{
+	overflow:hidden;
+	margin:18px 10px 0 10px;
+	img{
+		padding-bottom:2px;
+	}
+	li{
+		width:25%;
+		float:left;
+		text-align:center;
+		height: 87px;
+		a{
+			font-size:12px;
+			color:#a9a9b2;
+			.score{
+				font-size:18px;
+				color:#434141;
+				font-weight:bold;
+			}
+			span{
+				font-size:10px;
+				border:1px solid #eeebeb;
+				border-radius:14px;
+				padding:0 6px;
+				padding-top:2px;
+				height:12px;
+				line-height: 12px;
+				display: inline-block;
+				b{
+					color:#c01e2f;
+					padding:0 2px;
+				}
+				i{
+					position: relative;
+			    top: -1px;
+			    left: -1px;
+			    display: inline-block;
+			    width: 3px;
+			    height: 3px;
+			    border-top: 1px solid #a9a9b2;
+			    border-right: 1px solid #a9a9b2;
+			    -webkit-transform: rotate(45deg);
+			    transform: rotate(45deg);
+				}
+			}
+			span:active{
+				background:#e1e6eb;
+			}
+		}
+	}
+}
+
+.five {
+	line-height: 1.42;
+	overflow-x: scroll;
+
+	table {
+		width: 590px;
+	}
+
+	tr:nth-of-type(1) {
+		height: 26px;
+		font-size: 13px;
+		color: #a9a9b2;
+		border-top: 3px solid #f6f5f4;
+	}
+
+	tr:nth-of-type(2) {
+		td:nth-of-type(1) {
+			color: #c01e2f;
+		}
+	}
+
+	tr {
+		height: 72px;
+		border-bottom: 1px solid #f6f5f4;
+
+		td:nth-of-type(1) {
+			font-size: 12px;
+			font-weight: 900;
+		}
+	}
+
+	td {
+		width: 50px;
+		text-align: center;
+	}
+
+	td:nth-of-type(1){
+		width: 30px;
+	}
+
+	td:nth-of-type(2){
+		width: 160px;
+		text-align: left;
+	}
+}
+
+.analyze{
+	margin-top:10px;
+	margin-bottom:10px;
+	a{
+		display: block;
+    font-size: 12px;
+    margin-left: 5px;
+    background-image: url(//b1.hoopchina.com.cn/touch/static/teams/app-nba-player/img/link_icon_3d43dab.png);
+    background-position: 5px 3px;
+    background-repeat: no-repeat;
+    background-size: 12px 12px;
+    -webkit-tap-highlight-color: rgba(0,0,0,.2);
+	}
+	.link-title{
+		margin: 0 0 0 22px;
+		display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+    p{
+    	width:95%;
+    	color: #a9a9b2;
+    }
+		i{
+	    width: 6px;
+	    height: 6px;
+	    border-top: 1px solid #a9a9b2;
+	    border-right: 1px solid #a9a9b2;
+	    -webkit-transform: rotate(45deg);
+	    transform: rotate(45deg);
+		}
+	}
+}
+
+
+.night{
+	color: #959595;
+  background-color: #2c2c2c;
+	.data-list {
+		a {
+			color: #5a5a5f;
+			.score {
+				color: #959595;
+			}
+			span {
+				border: 1px solid #5a5a5f;
+			}
+			span:active {
+				background: #1f1f1f;
+			}
+		}
+	}
+
+	.five {
+		tr:nth-of-type(1) {
+			color: #5a5a5f;
+			border-top-color: #1f1f1f;
+		}
+
+		tr:nth-of-type(2) {
+			td:nth-of-type(1) {
+				color: #99222c;
+			}
+		}
+
+		tr {
+			border-bottom-color: #1f1f1f;
+		}
+	}
+}

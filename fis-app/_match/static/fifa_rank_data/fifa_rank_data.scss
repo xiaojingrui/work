@@ -1,0 +1,51 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+$morning_huputv_red: #ff3f4c;
+$morning_huputv_green: #8dcf5d;
+
+$night_huputv_red: #99262e;
+$night_huputv_green: #557c38;
+
+.state-stable { color: $morning_gray2_cor;}
+.state-up i {
+    @include triangle(top, 6px, $morning_huputv_red);
+    top: -10px;
+}
+.state-down i {
+    @include triangle(bottom, 6px, $morning_huputv_green);
+    top: 10px;
+}
+.state-up, .state-down {
+    i { position: relative;}
+    small {
+        position: absolute;
+        left: -6.5px;
+        width: 14px;
+        font-size: 9px;
+        font-style: normal;
+        text-align: center;
+    }
+}
+.state-up small { top: 22px; color: $morning_huputv_red;}
+.state-down small { top: 2px; color: $morning_huputv_green;}
+
+.tr-china {
+    background-color: $morning_gray1_cor;
+}
+
+body.night {
+    .state-stable { color: $night_gray2_cor;}
+    .state-up i {
+        @include triangle(top, 6px, $night_huputv_red);
+    }
+    .state-down i {
+        @include triangle(bottom, 6px, $night_huputv_green);
+    }
+    .state-up small { color: $night_huputv_red;}
+    .state-down small { color: $night_huputv_green;}
+
+    .tr-china {
+        background-color: $night_gray1_cor;
+    }
+}

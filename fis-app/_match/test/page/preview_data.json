@@ -1,0 +1,115 @@
+{
+	"lid": "9",
+	"gid": "10713876",
+	"summary": "asdasfas<br>sdsds",
+	"home": "asdasf",
+	"away": "asdfasf",
+	"fid": "519107",
+	"odds": {
+		"win": "1.5",
+		"draw": "4.43",
+		"lost": "6.54",
+		"url": "http://hz.qqshidao.com/hupu/hmatch/"
+	},
+	"absence": [],
+	"league_name": "csl",
+	"home_tid": "3149",
+	"away_tid": "147339",
+	"home_name": "广州恒大",
+	"away_name": "河北华夏幸福",
+	"home_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+	"away_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_43292_1.png",
+	"video_room_list": [],
+	"live_video_list": {
+		"tv": [
+      {
+        "name": "ddd",
+        "url": "",
+        "link": "",
+        "pay": "0"
+      }
+    ],
+    "net": [
+      {
+        "name": "FF",
+        "url": "",
+        "link": "",
+        "pay": "0"
+      },
+      {
+        "name": "GG",
+        "url": "",
+        "link": "",
+        "pay": "0"
+      },
+      {
+        "name": "大幅度飞",
+        "url": "",
+        "link": "",
+        "pay": "0"
+      },
+      {
+        "name": "是的",
+        "url": "",
+        "link": "",
+        "pay": "0"
+      }
+    ],
+    "huputv": [
+      {
+        "name": "实得分的",
+        "url": "hupu://nba/nba/live?roomid=10196&roomtype＝2",
+        "link": "hupu://nba/nba/live?roomid=10196&roomtype＝2",
+        "pay": "0"
+      },
+      {
+        "name": "fff但是",
+        "url": "hupu://nba/nba/live?roomid=10183&roomtype＝2",
+        "link": "hupu://nba/nba/live?roomid=10183&roomtype＝2",
+        "pay": "0"
+      },
+      {
+        "name": "电饭锅",
+        "url": "hupu://nba/nba/live?roomid=10184&roomtype＝2",
+        "link": "hupu://nba/nba/live?roomid=10184&roomtype＝2",
+        "pay": "0"
+      },
+      {
+        "name": "的发士大夫",
+        "url": "hupu://nba/nba/live?roomid=10196&roomtype＝2",
+        "link": "hupu://nba/nba/live?roomid=10196&roomtype＝2",
+        "pay": "0"
+      }
+    ]
+	},
+	"rank": [{
+		"ranking": 1,
+		"team_name": "广州恒大",
+		"team_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_3149_1.png",
+		"played": 10,
+		"wins": 9,
+		"ties": 0,
+		"losses": 1,
+		"goalsFor/goalsAgainst": "24/5",
+		"points": 27,
+		"team_id": 3149,
+		"goalsFor_goalsAgainst": "24/5"
+	}, {
+		"ranking": 4,
+		"team_name": "河北华夏幸福",
+		"team_logo": "http://b1.hoopchina.com.cn/games/teams/csl/9_43292_1.png",
+		"played": 10,
+		"wins": 6,
+		"ties": 2,
+		"losses": 2,
+		"goalsFor/goalsAgainst": "14/10",
+		"points": 20,
+		"team_id": 147339,
+		"goalsFor_goalsAgainst": "14/10"
+	}],
+	"is_login": 0,
+	"night": 0,
+	"projectId": "1",
+	"version": "7.0.9",
+	"client": ""
+}

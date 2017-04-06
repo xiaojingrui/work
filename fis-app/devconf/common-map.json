@@ -1,0 +1,296 @@
+{
+  "res": {
+    "common:page/layout-admin.tpl": {
+      "uri": "/template/common/page/layout-admin.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      }
+    },
+    "common:page/layout-empty.tpl": {
+      "uri": "/template/common/page/layout-empty.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      }
+    },
+    "common:page/layout.tpl": {
+      "uri": "/template/common/page/layout.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      },
+      "deps": ["common:widget/ui-dace/ui-dace.js"]
+    },
+    "common:page/pay.tpl": {
+      "uri": "/template/common/page/pay.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      }
+    },
+    "common:static/common.scss": {
+      "uri": "/static/common/common_662bc2b.css",
+      "type": "css",
+      "pkg": "common:p2"
+    },
+    "common:static/css/reset.css": {
+      "uri": "/static/common/css/reset_facb167.css",
+      "type": "css"
+    },
+    "common:static/global.js": {
+      "uri": "/static/common/global_a8eb9e4.js",
+      "type": "js",
+      "pkg": "common:p0"
+    },
+    "common:static/js/fastclick/fastclick.js": {
+      "uri": "/static/common/js/fastclick/fastclick_a0fc6c2.js",
+      "type": "js"
+    },
+    "common:static/js/requestAnimationFrame/requestAnimationFrame.js": {
+      "uri": "/static/common/js/requestAnimationFrame/requestAnimationFrame_17889aa.js",
+      "type": "js"
+    },
+    "common:static/js/swiper/css/swiper.css": {
+      "uri": "/static/common/js/swiper/css/swiper_e7a97d8.css",
+      "type": "css"
+    },
+    "common:static/js/swiper/js/swiper.jquery.js": {
+      "uri": "/static/common/js/swiper/js/swiper.jquery_22fc515.js",
+      "type": "js"
+    },
+    "common:static/js/underscore/underscore.js": {
+      "uri": "/static/common/js/underscore/underscore_48198ee.js",
+      "type": "js",
+      "pkg": "common:p0"
+    },
+    "common:static/js/zepto/zepto.js": {
+      "uri": "/static/common/js/zepto/zepto_b7016d3.js",
+      "type": "js",
+      "pkg": "common:p0"
+    },
+    "common:static/mod.js": {
+      "uri": "/static/common/mod_96dd55b.js",
+      "type": "js",
+      "pkg": "common:p0"
+    },
+    "common:widget/click-image-show/click-image-show.js": {
+      "uri": "/static/common/widget/click-image-show/click-image-show_9fa2afe.js",
+      "type": "js",
+      "deps": ["underscore", "common:widget/ui-dace/ui-dace.js",
+        "common:widget/click-image-show/click-image-show.scss"
+      ],
+      "pkg": "common:p1"
+    },
+    "common:widget/click-image-show/click-image-show.scss": {
+      "uri": "/static/common/widget/click-image-show/click-image-show_f2d1b65.css",
+      "type": "css"
+    },
+    "common:widget/emoji/emoji.js": {
+      "uri": "/static/common/widget/emoji/emoji_efec5c6.js",
+      "type": "js"
+    },
+    "common:widget/lib/backbone/backbone.js": {
+      "uri": "/static/common/widget/lib/backbone/backbone_aa73e61.js",
+      "type": "js",
+      "deps": ["underscore", "common:widget/lib/zepto/zepto.js"],
+      "pkg": "common:p3"
+    },
+    "common:widget/lib/zepto/zepto.js": {
+      "uri": "/static/common/widget/lib/zepto/zepto_b873e70.js",
+      "type": "js",
+      "pkg": "common:p3"
+    },
+    "common:widget/mod-zan/mod-zan.js": {
+      "uri": "/static/common/widget/mod-zan/mod-zan_22bbb38.js",
+      "type": "js",
+      "deps": ["common:widget/ui-app/ui-app.js",
+        "common:widget/ui-store/ui-store.js",
+        "common:widget/click-image-show/click-image-show.js",
+        "common:widget/ui-toast/ui-toast.js",
+        "common:widget/mod-zan/mod-zan.scss"
+      ]
+    },
+    "common:widget/mod-zan/mod-zan.scss": {
+      "uri": "/static/common/widget/mod-zan/mod-zan_5911b6b.css",
+      "type": "css"
+    },
+    "common:widget/mod-zan/mod-zan.tpl": {
+      "uri": "common/widget/mod-zan/mod-zan.tpl",
+      "type": "tpl",
+      "deps": ["common:widget/mod-zan/mod-zan.js",
+        "common:widget/mod-zan/mod-zan.scss"
+      ]
+    },
+    "common:widget/target-jump/target-jump.js": {
+      "uri": "/static/common/widget/target-jump/target-jump_2bc14bb.js",
+      "type": "js"
+    },
+    "common:widget/ui-app/ui-app.js": {
+      "uri": "/static/common/widget/ui-app/ui-app_072c4d7.js",
+      "type": "js",
+      "deps": ["common:widget/ui-versions/ui-versions.js"],
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-dace/ui-dace.js": {
+      "uri": "/static/common/widget/ui-dace/ui-dace_4930eb4.js",
+      "type": "js",
+      "pkg": "common:p0"
+    },
+    "common:widget/ui-drop/ui-drop.js": {
+      "uri": "/static/common/widget/ui-drop/ui-drop_407c14d.js",
+      "type": "js"
+    },
+    "common:widget/ui-refresh-page/ui-refresh-page.css": {
+      "uri": "/static/common/widget/ui-refresh-page/ui-refresh-page_49dfd20.css",
+      "type": "css"
+    },
+    "common:widget/ui-refresh-page/ui-refresh-page.js": {
+      "uri": "/static/common/widget/ui-refresh-page/ui-refresh-page_422324b.js",
+      "type": "js",
+      "deps": ["common:widget/ui-tools/ui-tools.js",
+        "common:widget/ui-refresh-page/ui-refresh-page.css"
+      ]
+    },
+    "common:widget/ui-refresh/ui-refresh.css": {
+      "uri": "/static/common/widget/ui-refresh/ui-refresh_ecb2956.css",
+      "type": "css",
+      "pkg": "common:p2"
+    },
+    "common:widget/ui-refresh/ui-refresh.js": {
+      "uri": "/static/common/widget/ui-refresh/ui-refresh_5578444.js",
+      "type": "js",
+      "deps": ["common:widget/ui-tools/ui-tools.js",
+        "common:widget/ui-app/ui-app.js",
+        "common:widget/ui-versions/ui-versions.js",
+        "common:widget/ui-refresh/ui-refresh.css"
+      ],
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-store/ui-cookie.js": {
+      "uri": "/static/common/widget/ui-store/ui-cookie_a342a4d.js",
+      "type": "js",
+      "deps": ["underscore"],
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-store/ui-store.js": {
+      "uri": "/static/common/widget/ui-store/ui-store_33b4a7f.js",
+      "type": "js",
+      "deps": ["common:widget/ui-store/ui-cookie.js"],
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-toast/ui-toast.css": {
+      "uri": "/static/common/widget/ui-toast/ui-toast_5fe4758.css",
+      "type": "css",
+      "pkg": "common:p2"
+    },
+    "common:widget/ui-toast/ui-toast.js": {
+      "uri": "/static/common/widget/ui-toast/ui-toast_bfffac3.js",
+      "type": "js",
+      "deps": ["common:widget/ui-toast/ui-toast.css"],
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-tools/ui-tools.js": {
+      "uri": "/static/common/widget/ui-tools/ui-tools_bba74cd.js",
+      "type": "js",
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-versions/ui-versions.js": {
+      "uri": "/static/common/widget/ui-versions/ui-versions_c85e7d0.js",
+      "type": "js",
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-vote-onlyshow/ui-vote-onlyshow.js": {
+      "uri": "/static/common/widget/ui-vote-onlyshow/ui-vote-onlyshow_fc25e9b.js",
+      "type": "js",
+      "deps": ["common:widget/ui-toast/ui-toast.js",
+        "common:widget/ui-vote-onlyshow/ui-vote-onlyshow.scss"
+      ]
+    },
+    "common:widget/ui-vote-onlyshow/ui-vote-onlyshow.scss": {
+      "uri": "/static/common/widget/ui-vote-onlyshow/ui-vote-onlyshow_654e0bd.css",
+      "type": "css"
+    },
+    "common:widget/ui-vote/ui-vote.js": {
+      "uri": "/static/common/widget/ui-vote/ui-vote_7694f0a.js",
+      "type": "js",
+      "deps": ["common:widget/ui-toast/ui-toast.js",
+        "common:widget/ui-app/ui-app.js",
+        "common:widget/ui-vote/ui-vote.scss"
+      ],
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-vote/ui-vote.scss": {
+      "uri": "/static/common/widget/ui-vote/ui-vote_654e0bd.css",
+      "type": "css",
+      "pkg": "common:p2"
+    },
+    "common:widget/ui-warn/ui-warn.css": {
+      "uri": "/static/common/widget/ui-warn/ui-warn_3b10be5.css",
+      "type": "css",
+      "pkg": "common:p2"
+    },
+    "common:widget/ui-warn/ui-warn.js": {
+      "uri": "/static/common/widget/ui-warn/ui-warn_eb901e9.js",
+      "type": "js",
+      "deps": ["common:widget/ui-warn/ui-warn.css"],
+      "pkg": "common:p1"
+    },
+    "common:widget/ui-watch/ui-watch.js": {
+      "uri": "/static/common/widget/ui-watch/ui-watch_b48b52b.js",
+      "type": "js",
+      "pkg": "common:p0"
+    }
+  },
+  "pkg": {
+    "common:p0": {
+      "uri": "/static/common/pkg/lib_2a5b479.js",
+      "type": "js",
+      "has": ["common:static/mod.js", "common:static/js/zepto/zepto.js",
+        "common:static/js/underscore/underscore.js",
+        "common:widget/ui-dace/ui-dace.js",
+        "common:widget/ui-watch/ui-watch.js", "common:static/global.js"
+      ]
+    },
+    "common:p1": {
+      "uri": "/static/common/pkg/common-ui_86d0c0f.js",
+      "type": "js",
+      "has": ["common:widget/ui-tools/ui-tools.js",
+        "common:widget/ui-toast/ui-toast.js",
+        "common:widget/ui-warn/ui-warn.js",
+        "common:widget/ui-versions/ui-versions.js",
+        "common:widget/ui-app/ui-app.js",
+        "common:widget/ui-refresh/ui-refresh.js",
+        "common:widget/ui-store/ui-cookie.js",
+        "common:widget/ui-store/ui-store.js",
+        "common:widget/click-image-show/click-image-show.js",
+        "common:widget/ui-vote/ui-vote.js"
+      ],
+      "deps": ["common:widget/ui-toast/ui-toast.css",
+        "common:widget/ui-warn/ui-warn.css",
+        "common:widget/ui-refresh/ui-refresh.css", "underscore",
+        "common:widget/ui-dace/ui-dace.js",
+        "common:widget/click-image-show/click-image-show.scss",
+        "common:widget/ui-vote/ui-vote.scss"
+      ]
+    },
+    "common:p2": {
+      "uri": "/static/common/pkg/common_06cfff2.css",
+      "type": "css",
+      "has": ["common:static/common.scss",
+        "common:widget/ui-toast/ui-toast.css",
+        "common:widget/ui-refresh/ui-refresh.css",
+        "common:widget/ui-warn/ui-warn.css",
+        "common:widget/ui-vote/ui-vote.scss"
+      ]
+    },
+    "common:p3": {
+      "uri": "/static/common/pkg/backbone_a90f99a.js",
+      "type": "js",
+      "has": ["common:widget/lib/zepto/zepto.js",
+        "common:widget/lib/backbone/backbone.js"
+      ],
+      "deps": ["underscore"]
+    }
+  }
+}

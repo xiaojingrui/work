@@ -1,0 +1,26 @@
+@import "../../static/sass/sassCore/function";
+
+.gold-rank {
+
+    overflow: auto;
+
+    .gold { color: #e5b950;}
+    .silver { color: #abacae;}
+    .bronze { color: #a97c46;}
+
+    .mod-title {
+    	thead {
+    		tr {
+                border-top: none;
+    		}
+    	}
+    }
+}
+
+body.night {
+    .gold-rank {
+        .gold { color: #896f30;}
+        .silver { color: #676768;}
+        .bronze { color: #654a2a;}
+    }
+}

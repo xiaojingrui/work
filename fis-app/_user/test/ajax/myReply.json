@@ -1,0 +1,217 @@
+{
+    "status": 200,
+    "result": {
+        "all_count": "4",
+        "list": [
+            {
+                "tid": "13064767",
+                "puid": "19760431",
+                "title": "速来赞助；；；；",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "43",
+                "lights": 3,
+                "via": "0",
+                "username": "momolio",
+                "post": {
+                    "pid": "391794",
+                    "puid": "19760431",
+                    "via": "3",
+                    "content": "<br />11111111111",
+                    "update_info": "",
+                    "light_count": 10,
+                    "user_banned": 0,
+                    "smallcontent": "11111...",
+                    "togglecontent": "",
+                    "quote": [
+                        {
+                            "header": [
+                                "引用35楼 @<a href='http://my.hupu.com/zhangguichuan' target='_blank'><font color='#326ca6'>zhangguichuan</font></a> 发表的"
+                            ],
+                            "content": "sss",
+                            "togglecontent": "1122"
+                        }
+                    ],
+                    "time": "08-21"
+                }
+            },
+            {
+                "tid": "13066152",
+                "puid": "18639586",
+                "title": "22",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "0",
+                "lights": 0,
+                "via": "0",
+                "username": "hp_9d02",
+                "post": {
+                    "pid": "34",
+                    "puid": "5365981",
+                    "via": "0",
+                    "content": "aaaa",
+                    "update_info": "",
+                    "light_count": 20,
+                    "user_banned": 0,
+                    "smallcontent": "",
+                    "togglecontent": "",
+                    "quote": [],
+                    "time": "08-31"
+                }
+            },
+            {
+                "tid": "13066152",
+                "puid": "18639586",
+                "title": "22",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "0",
+                "lights": 0,
+                "via": "0",
+                "username": "hp_9d02",
+                "post": {
+                    "pid": "3",
+                    "puid": "19787427",
+                    "via": "0",
+                    "content": "33333333333",
+                    "update_info": "",
+                    "light_count": 0,
+                    "user_banned": 0,
+                    "smallcontent": "33333...",
+                    "togglecontent": "",
+                    "quote": [],
+                    "time": "08-25"
+                }
+            },
+            {
+                "tid": "13066151",
+                "puid": "18639586",
+                "title": "1",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "1",
+                "lights": 0,
+                "via": "0",
+                "username": "hp_9d02",
+                "post": {
+                    "pid": "22",
+                    "puid": "5365981",
+                    "via": "0",
+                    "content": "121212",
+                    "update_info": "",
+                    "light_count": 0,
+                    "user_banned": 0,
+                    "smallcontent": "12121...",
+                    "togglecontent": "",
+                    "quote": [],
+                    "time": "08-31"
+                }
+            },
+            {
+                "tid": "13064767",
+                "puid": "19760431",
+                "title": "速来赞助；；；；",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "43",
+                "lights": 3,
+                "via": "0",
+                "username": "momolio",
+                "post": {
+                    "pid": "391794",
+                    "puid": "19760431",
+                    "via": "3",
+                    "content": "<br />11111111111",
+                    "update_info": "",
+                    "light_count": 0,
+                    "user_banned": 0,
+                    "smallcontent": "11111...",
+                    "togglecontent": "",
+                    "quote": [
+                        {
+                            "header": [
+                                "引用35楼 @<a href='http://my.hupu.com/zhangguichuan' target='_blank'><font color='#326ca6'>zhangguichuan</font></a> 发表的"
+                            ],
+                            "content": "sss",
+                            "togglecontent": ""
+                        }
+                    ],
+                    "time": "08-21"
+                }
+            },
+            {
+                "tid": "13066152",
+                "puid": "18639586",
+                "title": "22",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "0",
+                "lights": 0,
+                "via": "0",
+                "username": "hp_9d02",
+                "post": {
+                    "pid": "34",
+                    "puid": "5365981",
+                    "via": "0",
+                    "content": "aaaa",
+                    "update_info": "",
+                    "light_count": 0,
+                    "user_banned": 0,
+                    "smallcontent": "",
+                    "togglecontent": "",
+                    "quote": [],
+                    "time": "08-31"
+                }
+            },
+            {
+                "tid": "13066152",
+                "puid": "18639586",
+                "title": "22",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "0",
+                "lights": 0,
+                "via": "0",
+                "username": "hp_9d02",
+                "post": {
+                    "pid": "3",
+                    "puid": "19787427",
+                    "via": "0",
+                    "content": "33333333333",
+                    "update_info": "",
+                    "light_count": 0,
+                    "user_banned": 0,
+                    "smallcontent": "33333...",
+                    "togglecontent": "",
+                    "quote": [],
+                    "time": "08-25"
+                }
+            },
+            {
+                "tid": "13066151",
+                "puid": "18639586",
+                "title": "1",
+                "recommend_num": "0",
+                "visits": "1",
+                "replies": "1",
+                "lights": 0,
+                "via": "0",
+                "username": "hp_9d02",
+                "post": {
+                    "pid": "22",
+                    "puid": "5365981",
+                    "via": "0",
+                    "content": "121212",
+                    "update_info": "",
+                    "light_count": 5,
+                    "user_banned": 0,
+                    "smallcontent": "12121...",
+                    "togglecontent": "",
+                    "quote": [],
+                    "time": "08-31"
+                }
+            }
+        ],
+        "nextPage": false
+    }
+}

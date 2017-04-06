@@ -1,0 +1,36 @@
+{
+  "content": "6666666666666666666666666666666666666666",
+  "video_cover": "2323",
+  "video_url": "2323",
+  "video_title": "222",
+  "is_custom": 1,
+  "lid": 2,
+  "gid": "11001429",
+  "begin_time": "1480406905",
+  "home_name": "广东",
+  "away_name": "上海",
+  "home_score": "0",
+  "away_score": "0",
+  "status": {
+    "id": "1",
+    "desc": "未开始"
+  },
+  "is_login": 0,
+  "night": 0,
+  "projectId": 1,
+  "version": null,
+  "client": "",
+  "stat": {
+    "redis": {
+      "cacheCasinoSlave": 1,
+      "followGameSlave": 1,
+      "followSlave": 1,
+      "gamesMajorSlave": 1
+    },
+    "db": {
+      "conn_192.168.8.49_hupu_games": 1,
+      "query_select * from g_admin_user where uid='26366901' limit 1 ": 1
+    },
+    "net": []
+  }
+}

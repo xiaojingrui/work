@@ -1,0 +1,168 @@
+.detail-content .mod-zan{
+  border-top: none;
+}
+.mod-zan{
+  border-top: 1px solid #eeebeb;
+  text-align: center;
+  .zan-author{
+    font-size:16px;
+    line-height: 24px;
+    height: 24px;
+    margin: 8px 0;
+    .user-icon{
+      margin-right: 6px;
+    }
+    a{
+      color: #434141;
+      vertical-align: bottom;
+      margin-right: 4px;
+      position: relative;
+    }
+    .mask{
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      position: absolute;
+      z-index: 5;
+      left: -1px;
+      top: -3px;
+    }
+    .zan-tag{
+      color:#c01e2f;
+      border:1px solid #c01e2f;
+      border-radius:2px;
+      font-size: 12px;
+      line-height: 24px;
+      padding: 0 3px;
+    }
+  }
+  .zan-btn{
+    background-color:#c01e2f;
+    background-image: url(./img/icon.png);
+    background-position: 9px center;
+    background-repeat: no-repeat;
+    background-size: 18%;
+    border-radius: 6px;
+    display: inline-block;
+    line-height:24px;
+    height: 24px;
+    padding: 3px 10px 3px 30px;
+    margin:0 auto 10px;
+    font-size: 14px;
+    color: #fff;
+  }
+  .zan-list{
+    display: inline-block;
+    background-color:#eeebeb;
+    color: #a9a9b2;
+    margin: 0 auto 10px;
+    border-radius: 18px;
+    line-height: 26px;
+    height: 26px;
+    padding: 3px 20px;
+    font-size: 12px;
+    .zan-count{
+      color:#c01e2f;
+      font-weight: bold;
+    }
+    .zan-userimg{
+      position: relative;
+    }
+    .mask{
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      position: absolute;
+      z-index: 5;
+      left: 0;
+      top: -5px;
+    }
+  }
+  .zan-tips{
+    background-color: #d97882;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: left;
+    padding:5px 34px 5px 10px;
+    margin-bottom: 15px;
+    position: relative;
+    .zan-close{
+      position: absolute;
+      right: 3px;
+      top: 10px;
+      width: 25px;
+      height: 25px;
+    }
+    .zan-close:before,
+    .zan-close:after {
+        content: '';
+        position: absolute;
+        height: 1px;
+        width: 18px;
+        top: 50%;
+        left: 2px;
+        background: #fff;
+    }
+    .zan-close::before {
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    .zan-close::after {
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+    }
+  }
+  .user-icon{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin-right: 2px;
+    border-radius: 50%;
+  }
+
+}
+
+
+.night{
+  .mod-zan{
+    border-top-color: #1f1f1f;
+    .zan-author{
+      a{
+        color: #959595;
+      }
+      .zan-tag{
+        color:#99222c;
+        border:1px solid #99222c;
+      }
+    }
+    .zan-btn{
+      background-color:#99222c;
+      background-image: url(./img/icon-light.png);
+      color: #959595;
+    }
+    .zan-list{
+      background-color:#1f1f1f;
+      color: #5a5a5f;
+      .zan-count{
+        color:#99222c;
+      }
+    }
+    .zan-tips{
+      background-color: #85242e;
+      color: #959595;
+      .zan-close:before,
+      .zan-close:after {
+          background: #959595;
+      }
+    }
+
+
+  }
+}

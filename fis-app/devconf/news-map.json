@@ -1,0 +1,144 @@
+{
+  "res": {
+    "news:page/comment.tpl": {
+      "uri": "/template/news/page/comment.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      },
+      "deps": ["common:widget/ui-app/ui-app.js", "news:widget/reply/reply.js"]
+    },
+    "news:page/detail.tpl": {
+      "uri": "/template/news/page/detail.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      },
+      "deps": ["common:widget/ui-app/ui-app.js", "news:widget/detail/detail.js"]
+    },
+    "news:page/share-comment.tpl": {
+      "uri": "/template/news/page/share-comment.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      },
+      "deps": ["common:widget/ui-vote-onlyshow/ui-vote-onlyshow.js"]
+    },
+    "news:page/share-special.tpl": {
+      "uri": "/template/news/page/share-special.tpl",
+      "type": "tpl",
+      "extras": {
+        "isPage": true
+      }
+    },
+    "news:static/comment/comment.scss": {
+      "uri": "/static/news/comment/comment_745004c.css",
+      "type": "css"
+    },
+    "news:static/detail/detail.scss": {
+      "uri": "/static/news/detail/detail_3fc5250.css",
+      "type": "css"
+    },
+    "news:static/share-special/share-special.scss": {
+      "uri": "/static/news/share-special/share-special_80b4dbc.css",
+      "type": "css"
+    },
+    "news:widget/artical-title/title.scss": {
+      "uri": "/static/news/widget/artical-title/title_aafe463.css",
+      "type": "css"
+    },
+    "news:widget/artical-title/title.tpl": {
+      "uri": "news/widget/artical-title/title.tpl",
+      "type": "tpl",
+      "deps": ["news:widget/artical-title/title.scss"]
+    },
+    "news:widget/detail/detail.js": {
+      "uri": "/static/news/widget/detail/detail_6373429.js",
+      "type": "js",
+      "deps": ["underscore", "news:widget/reply/reply.js",
+        "common:widget/click-image-show/click-image-show.js",
+        "common:widget/ui-dace/ui-dace.js",
+        "news:widget/remember-pos/remember-pos.js",
+        "common:widget/ui-vote/ui-vote.js"
+      ],
+      "pkg": "news:p1"
+    },
+    "news:widget/remember-pos/remember-pos.js": {
+      "uri": "/static/news/widget/remember-pos/remember-pos_58266ad.js",
+      "type": "js",
+      "deps": ["common:widget/ui-store/ui-store.js"],
+      "pkg": "news:p1"
+    },
+    "news:widget/reply/reply-list.tpl": {
+      "uri": "news/widget/reply/reply-list.tpl",
+      "type": "tpl"
+    },
+    "news:widget/reply/reply.js": {
+      "uri": "/static/news/widget/reply/reply_e365db0.js",
+      "type": "js",
+      "deps": ["underscore",
+        "common:widget/click-image-show/click-image-show.js",
+        "common:widget/ui-warn/ui-warn.js",
+        "common:widget/ui-refresh/ui-refresh.js",
+        "common:widget/ui-app/ui-app.js",
+        "common:widget/ui-versions/ui-versions.js",
+        "common:widget/ui-toast/ui-toast.js",
+        "common:widget/ui-dace/ui-dace.js",
+        "news:widget/ui-click-tips/ui-click-tips.js",
+        "news:widget/reply/reply.scss"
+      ],
+      "pkg": "news:p0"
+    },
+    "news:widget/reply/reply.scss": {
+      "uri": "/static/news/widget/reply/reply_2de2cb5.css",
+      "type": "css"
+    },
+    "news:widget/reply/reply.tpl": {
+      "uri": "news/widget/reply/reply.tpl",
+      "type": "tpl",
+      "deps": ["news:widget/reply/reply.js", "news:widget/reply/reply.scss"]
+    },
+    "news:widget/ui-click-tips/ui-click-tips.css": {
+      "uri": "/static/news/widget/ui-click-tips/ui-click-tips_ad6c4db.css",
+      "type": "css"
+    },
+    "news:widget/ui-click-tips/ui-click-tips.js": {
+      "uri": "/static/news/widget/ui-click-tips/ui-click-tips_9ef4bcc.js",
+      "type": "js",
+      "deps": ["news:widget/ui-click-tips/ui-click-tips.css"],
+      "pkg": "news:p0"
+    }
+  },
+  "pkg": {
+    "news:p0": {
+      "uri": "/static/news/pkg/reply_e0897c4.js",
+      "type": "js",
+      "has": ["news:widget/reply/reply.js",
+        "news:widget/ui-click-tips/ui-click-tips.js"
+      ],
+      "deps": ["underscore",
+        "common:widget/click-image-show/click-image-show.js",
+        "common:widget/ui-warn/ui-warn.js",
+        "common:widget/ui-refresh/ui-refresh.js",
+        "common:widget/ui-app/ui-app.js",
+        "common:widget/ui-versions/ui-versions.js",
+        "common:widget/ui-toast/ui-toast.js",
+        "common:widget/ui-dace/ui-dace.js", "news:widget/reply/reply.scss",
+        "news:widget/ui-click-tips/ui-click-tips.css"
+      ]
+    },
+    "news:p1": {
+      "uri": "/static/news/pkg/detail_e681e5d.js",
+      "type": "js",
+      "has": ["news:widget/detail/detail.js",
+        "news:widget/remember-pos/remember-pos.js"
+      ],
+      "deps": ["underscore", "news:widget/reply/reply.js",
+        "common:widget/click-image-show/click-image-show.js",
+        "common:widget/ui-dace/ui-dace.js",
+        "common:widget/ui-vote/ui-vote.js",
+        "common:widget/ui-store/ui-store.js"
+      ]
+    }
+  }
+}

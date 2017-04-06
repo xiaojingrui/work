@@ -1,0 +1,100 @@
+{
+  "sections": 4,
+  "player_info": {
+    "player_id": "3016",
+    "tid": 27,
+    "player_name": "拉塞尔-威斯布鲁克",
+    "player_short_name": "威斯布鲁克",
+    "player_enname": "Russell Westbrook",
+    "player_header": "http://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/6/3016_792_big.jpg",
+    "wingspan": "不详",
+    "standing_reach": "不详",
+    "number": "0号",
+    "position": "控球后卫",
+    "is_birthday": "",
+    "age": "28岁",
+    "birth_date": "1988年11月12日",
+    "height": "1.90米",
+    "weight": "91公斤",
+    "contract": "5年8000万美元，2012年1月签，2012年夏天生效，2017年夏天到期",
+    "contract_details": "",
+    "salary": "1674万美元",
+    "draft": "2008年1轮第4顺位",
+    "college": "加州大学洛杉矶分校"
+  },
+  "player_score": {
+    "sections": [
+      "section_1",
+      "section_2",
+      "section_3"
+    ],
+    "fgStats": [
+        {
+          "shot_coord_x": 9.9,
+          "shot_coord_y": 10.45,
+          "is_get": 1
+        },
+        {
+          "shot_coord_x": 27.5,
+          "shot_coord_y": 5.95,
+          "is_get": 1
+        },
+        {
+          "shot_coord_x": 9.4,
+          "shot_coord_y": 19.85,
+          "is_get": 0
+        },
+        {
+          "shot_coord_x": 21.2,
+          "shot_coord_y": 11.95,
+          "is_get": 0
+        }
+    ],
+    "playerStats": {
+      "ft_made": 0,
+      "ft_missed": 0,
+      "fg_made": 0,
+      "fg_missed": 0,
+      "oreb": 0,
+      "dreb": 0,
+      "to": 0,
+      "pf": 0,
+      "violation": 0,
+      "substitution": 0,
+      "jumpball": 0,
+      "ejected": 0,
+      "ti": 0,
+      "pts": 0,
+      "asts": 0,
+      "stl": 0,
+      "blk": 0,
+      "blkr": 0,
+      "net_points": 0,
+      "jumpshot_made": 0,
+      "jumpshot_missed": 0,
+      "dunk_made": 0,
+      "dunk_missed": 0,
+      "layup_made": 0,
+      "layup_missed": 0,
+      "tipin_made": 0,
+      "tipin_missed": 0,
+      "hook_made": 0,
+      "hook_missed": 0,
+      "tpm": 0,
+      "tpa": 0,
+      "2pm": 0,
+      "2pa": 0,
+      "other_made": 0,
+      "other_missed": 0
+    }
+  },
+  "gid": "153525",
+  "player_id": "3016",
+  "section": "4",
+  "section_status": [
+    1,
+    1,
+    1,
+    0
+  ]
+}

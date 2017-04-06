@@ -1,0 +1,184 @@
+{
+  "league_name": "afccl",
+  "league_chinese": "亚冠",
+  "rank_type": "assits",
+  "name": "助攻",
+  "title": "助攻",
+  "field": "assits",
+  "data": [
+    {
+      "ranking": 1,
+      "player_name": "Omar Abdulrahman",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "阿尔艾因",
+      "assits": 6,
+      "player_pid": 5505942
+    },
+    {
+      "ranking": 2,
+      "player_name": "Ricardo Lopes",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "全北现代",
+      "assits": 5,
+      "player_pid": 5534366
+    },
+    {
+      "ranking": 3,
+      "player_name": "德扬",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/103199.jpg",
+      "team_name": "FC首尔",
+      "assits": 4,
+      "player_pid": 103199
+    },
+    {
+      "ranking": 4,
+      "player_name": "Kim Shin-Wook",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "全北现代",
+      "assits": 4,
+      "player_pid": 5534367
+    },
+    {
+      "ranking": 5,
+      "player_name": "Lee Jae-Sung",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "全北现代",
+      "assits": 4,
+      "player_pid": 5506425
+    },
+    {
+      "ranking": 6,
+      "player_name": "拉米雷斯",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/24224.jpg",
+      "team_name": "江苏苏宁",
+      "assits": 4,
+      "player_pid": 24224
+    },
+    {
+      "ranking": 7,
+      "player_name": "Jin-Ho Shin",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "FC首尔",
+      "assits": 4,
+      "player_pid": 5534551
+    },
+    {
+      "ranking": 8,
+      "player_name": "Khaled Shafiei",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "萨济拖拉机",
+      "assits": 1,
+      "player_pid": 5506786
+    },
+    {
+      "ranking": 8,
+      "player_name": "Adriano",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "FC首尔",
+      "assits": 3,
+      "player_pid": 5534228
+    },
+    {
+      "ranking": 9,
+      "player_name": "武磊",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/103659.jpg",
+      "team_name": "上海上港",
+      "assits": 3,
+      "player_pid": 103659
+    },
+    {
+      "ranking": 10,
+      "player_name": "哈默德",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/103334.jpg",
+      "team_name": "阿尔贾什",
+      "assits": 3,
+      "player_pid": 103334
+    },
+    {
+      "ranking": 11,
+      "player_name": "Kohei Shimizu",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "广岛三箭",
+      "assits": 3,
+      "player_pid": 5506654
+    },
+    {
+      "ranking": 12,
+      "player_name": "Jonathan Pitroipa",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "迪拜纳斯尔",
+      "assits": 3,
+      "player_pid": 5506022
+    },
+    {
+      "ranking": 13,
+      "player_name": "蒿俊闵",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/103574.jpg",
+      "team_name": "山东鲁能",
+      "assits": 3,
+      "player_pid": 103574
+    },
+    {
+      "ranking": 14,
+      "player_name": "Mohammad Al-Shalhoub",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "阿尔希拉尔",
+      "assits": 3,
+      "player_pid": 5506050
+    },
+    {
+      "ranking": 15,
+      "player_name": "费特法齐迪斯",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/33322.jpg",
+      "team_name": "阿尔阿赫利",
+      "assits": 3,
+      "player_pid": 33322
+    },
+    {
+      "ranking": 16,
+      "player_name": "Soroush Rafiei",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "萨济拖拉机",
+      "assits": 3,
+      "player_pid": 5506325
+    },
+    {
+      "ranking": 17,
+      "player_name": "Yojiro Takahagi",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "FC首尔",
+      "assits": 3,
+      "player_pid": 5506251
+    },
+    {
+      "ranking": 18,
+      "player_name": "Leonardo",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "全北现代",
+      "assits": 2,
+      "player_pid": 5506421
+    },
+    {
+      "ranking": 19,
+      "player_name": "Romarinho",
+      "player_logo": "http://hupu-test.qiniudn.com/gdc/soccer/player/photo/86x120/default.jpg",
+      "team_name": "阿尔贾什",
+      "assits": 2,
+      "player_pid": 5506237
+    }
+  ],
+  "is_login": 0,
+  "night": 0,
+  "projectId": 1,
+  "version": null,
+  "client": "867068025158311",
+  "stat": {
+    "redis": {
+      "gamesMajorSlave": 1,
+      "gamesMinor": 1,
+      "cacheGames": 2
+    },
+    "db": [],
+    "net": []
+  }
+}

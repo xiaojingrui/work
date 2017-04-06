@@ -1,0 +1,110 @@
+{
+  "list": [
+    {
+      "id": "2",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "0",
+      "status": "0",
+      "create_time": "1476163947",
+      "update_time": "0"
+    },
+    {
+      "id": "3",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "234",
+      "status": "0",
+      "create_time": "1476163961",
+      "update_time": "0"
+    },
+    {
+      "id": "4",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "234",
+      "status": "0",
+      "create_time": "1476164100",
+      "update_time": "0"
+    },
+    {
+      "id": "5",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "234",
+      "status": "0",
+      "create_time": "1476164106",
+      "update_time": "0"
+    },
+    {
+      "id": "6",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "234",
+      "status": "0",
+      "create_time": "1476164107",
+      "update_time": "0"
+    },
+    {
+      "id": "7",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "234",
+      "status": "0",
+      "create_time": "1476164108",
+      "update_time": "0"
+    },
+    {
+      "id": "8",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "234",
+      "status": "0",
+      "create_time": "1476164119",
+      "update_time": "0"
+    },
+    {
+      "id": "9",
+      "version": "12",
+      "desc": "第一个离线包",
+      "url": "www.hupu.com",
+      "filecount": "234",
+      "status": "0",
+      "create_time": "1476164247",
+      "update_time": "0"
+    },
+    {
+      "id": "1",
+      "version": "0",
+      "desc": "",
+      "url": "",
+      "filecount": "0",
+      "status": "0",
+      "create_time": "1476163920",
+      "update_time": "0"
+    }
+  ],
+  "is_login": 0,
+  "night": 0,
+  "projectId": 1,
+  "version": null,
+  "client": "",
+  "stat": {
+    "redis": {
+      "baseMajorSlave": 1
+    },
+    "db": {
+      "conn_192.168.8.49_hupu_games": 2,
+      "query_select * from g_admin_user where uid='26794990' limit 1 ": 1,
+      "query_select * from g_offline_package order by version desc": 1
+    },
+    "net": []
+  }
+}

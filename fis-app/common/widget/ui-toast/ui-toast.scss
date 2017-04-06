@@ -1,0 +1,137 @@
+@import "../../static/sass/sassCore/base";
+
+.toast-mask{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1010;
+  background: rgba(0, 0, 0, 0.3);
+  text-align: center;
+  -webkit-tap-highlight-color:transparent;
+}
+.toast-player{
+  position: fixed;
+  width: 74%;
+  left: 13%;
+  top: 50%;
+  margin-top: -80px;
+  background: $morning_cor2;
+  color: #1f1f1f;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  position: absolute;
+  z-index: 1011;
+  font-size: 16px;
+  -webkit-tap-highlight-color:transparent;
+}
+.toast-player .content{
+  padding:12px 5px 5px 5px;
+  border-bottom: 1px solid $morning_cor3;
+  max-height: 124px;
+  overflow-y: auto;
+  font-size: 14px;
+}
+.toast-player .text-center{
+    text-align: center;
+}
+.toast-player .text-left{
+    text-align: left;
+}
+.toast-player .text-right{
+    text-align: right;
+}
+.toast-player .content h2{
+  line-height: 30px;
+}
+.toast-player .content p{
+  padding:8px;
+}
+.toast-player .btn-box span{
+  display: inline-block;
+  line-height: 44px;
+  height: 44px;
+}
+.toast-player .btn-box .submit{
+  width: 50%;
+}
+.toast-player .btn-box .cancel{
+  border-right: 1px solid $morning_cor3;
+  color: $morning_cor4;
+  width: 49%;
+}
+
+.m-toast {
+    display: none;
+    position: absolute;
+    z-index: 1010;
+    min-height:26px;
+    max-width:94%;
+    overflow:hidden;
+    opacity: 1;
+    padding:5px 0;
+    line-height: 26px;
+    font-size: 14px;
+    background: rgba(0,0,0,.8);
+    color: $morning_cor2;
+    -webkit-border-radius: 11px;
+    border-radius: 11px;
+    text-align:center;
+    -webkit-transition: opacity .5s ease;
+}
+.m-toast p{padding:0 15px;}
+
+.m-toast-hide {
+    opacity: 0;
+}
+
+.transform-tip-count {
+    -webkit-animation: tip-count-frames 0.4s;
+    -moz-animation: tip-count-frames 0.4s;
+    animation: tip-count-frames 0.4s
+}
+@-webkit-keyframes tip-count-frames {
+    0% {
+        -webkit-transform: translateY(0); opacity: 1;
+    }
+    100% {
+        -webkit-transform: translateY(-15px); opacity: 0;
+    }
+}
+@keyframes tip-count-frames {
+    0% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-15px);
+        opacity: 0;
+    }
+}
+
+/* 提示数字 */
+.m-tip-count {
+    display: none;
+    position: absolute;
+    top: 0;
+    z-index: 10;
+    font-size: 16px;
+    color: #c01e2f;
+}
+
+.night{
+    .toast-mask{
+      background: rgba(0, 0, 0, 0.5);
+    }
+    .toast-player{
+      background: $night_cor2;
+      color: #959595;
+      .content {
+        border-bottom: 1px solid $night_cor3;
+      }
+      .btn-box .cancel{
+        border-right: 1px solid $night_cor3;
+      }
+    }
+}

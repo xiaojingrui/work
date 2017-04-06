@@ -1,0 +1,113 @@
+{
+  "data": {
+    "possession_percentage": {
+      "field": "value_avg", 
+      "title": "控球率", 
+      "rank_type": "possession_percentage", 
+      "rank_index": "-", 
+      "value_count": "-", 
+      "value_avg": "-"
+    }, 
+    "pass_per": {
+      "field": "value_avg", 
+      "title": "传球成功率", 
+      "rank_type": "pass_per", 
+      "rank_index": 8, 
+      "value_count": 1, 
+      "value_avg": 0.77
+    }, 
+    "accurate_pass": {
+      "field": "value_avg", 
+      "title": "传球成功", 
+      "rank_type": "accurate_pass", 
+      "rank_index": 9, 
+      "value_count": 6875, 
+      "value_avg": 275
+    }, 
+    "won_contest": {
+      "field": "value_avg", 
+      "title": "过人", 
+      "rank_type": "won_contest", 
+      "rank_index": 4, 
+      "value_count": 169, 
+      "value_avg": 6.76
+    }, 
+    "team_goals": {
+      "field": "value_count", 
+      "title": "进球", 
+      "rank_type": "team_goals", 
+      "rank_index": "-", 
+      "value_count": "-", 
+      "value_avg": "-"
+    }, 
+    "goals_conceded": {
+      "field": "value_count", 
+      "title": "失球", 
+      "rank_type": "goals_conceded", 
+      "rank_index": "-", 
+      "value_count": "-", 
+      "value_avg": "-"
+    }, 
+    "won_tackle": {
+      "field": "value_avg", 
+      "title": "抢断", 
+      "rank_type": "won_tackle", 
+      "rank_index": 9, 
+      "value_count": 264, 
+      "value_avg": 10.56
+    }, 
+    "interception_won": {
+      "field": "value_avg", 
+      "title": "拦截", 
+      "rank_type": "interception_won", 
+      "rank_index": 15, 
+      "value_count": 309, 
+      "value_avg": 12.36
+    }, 
+    "effective_clearance": {
+      "field": "value_avg", 
+      "title": "解围", 
+      "rank_type": "effective_clearance", 
+      "rank_index": 9, 
+      "value_count": 344, 
+      "value_avg": 13.76
+    }, 
+    "clean_sheet": {
+      "field": "value_count", 
+      "title": "零封", 
+      "rank_type": "clean_sheet", 
+      "rank_index": "-", 
+      "value_count": "-", 
+      "value_avg": "-"
+    }, 
+    "total_yel_card": {
+      "field": "value_count", 
+      "title": "黄牌", 
+      "rank_type": "total_yel_card", 
+      "rank_index": 12, 
+      "value_count": 44, 
+      "value_avg": 1.83
+    }, 
+    "total_red_card": {
+      "field": "value_count", 
+      "title": "红牌", 
+      "rank_type": "total_red_card", 
+      "rank_index": 1, 
+      "value_count": 4, 
+      "value_avg": 1
+    }
+  }, 
+  "league_name": "csl", 
+  "is_login": 0, 
+  "night": 0, 
+  "projectId": "3", 
+  "version": "7.0.16", 
+  "client": "1474815609382eb44c8f0a673b5d5a57e8e1565a", 
+  "stat": {
+    "redis": {
+      "cacheGames": 1
+    }, 
+    "db": [], 
+    "net": []
+  }
+}

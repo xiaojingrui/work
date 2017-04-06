@@ -1,0 +1,157 @@
+.reply-tips {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    margin-top: -24px;
+    height: 24px;
+    padding: 8px 3px;
+    line-height: 24px;
+    background: rgba(46, 46, 46, .9);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+    z-index: 100
+}
+.reply-tips:after,
+.reply-tips:before {
+    position: absolute;
+    left: 135px;
+    bottom: -9px;
+    z-index: 2;
+    content: "";
+    width: 0;
+    height: 0;
+    border-width: 5px;
+    border-style: solid dashed dashed solid;
+    border-color: #2e2e2e transparent transparent #2e2e2e;
+    opacity: .9
+}
+.reply-tips li {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    flex: 1;
+    background-position: 0 center;
+    background-repeat: no-repeat;
+    background-size: 45%;
+    padding-left: 26px;
+    font-size: 14px;
+    color: #fff;
+    border-right: 1px solid #000
+}
+.reply-tips li:last-child {
+    border-right: 0!important
+}
+.reply-tips .reply-ico {
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_comment_5b602fd.png)
+}
+.reply-tips .copy-ico {
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_copy_77ef9de.png)
+}
+.reply-tips .zan-ico {
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn-popup-zan-day_4df62c8.png);
+    background-size: 28%;
+    background-position: 7px
+}
+.reply-tips .report-ico {
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_report_b29b1e6.png)
+}
+.reply-tips .light-ico {
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_light_up_7bdc161.png)
+}
+.reply-tips .rulight-ico {
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_rulights_1b91a43.png)
+}
+.reply-tips .locked {
+    color: #919191;
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_rulights_dark_96bcc71.png)
+}
+.reply-active .reply-ico {
+    color: red;
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_comment_down_c1b17f8.png)
+}
+.copy-active .copy-ico {
+    color: red;
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_copy_down_a663cc3.png)
+}
+.zan-active .zan-ico {
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn-popup-zan-day_4df62c8.png)
+}
+.report-active .report-ico {
+    color: red;
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_report_down_dc746a9.png)
+}
+.light-active .light-ico {
+    color: red;
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_light_down_de96137.png)
+}
+.rulight-active .rulight-ico {
+    color: red;
+    background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_rulights_1b91a43.png)
+}
+
+.night{
+    .reply-tips {
+        background: rgba(0, 0, 0, .8)
+    }
+    .reply-tips:after,
+    .reply-tips:before {
+        border-color: rgba(0, 0, 0, .8) transparent transparent rgba(0, 0, 0, .8)
+    }
+    .reply-tips li {
+        color: #959595
+    }
+    .reply-tips .reply-ico {
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_comment_dark_8afef5a.png)
+    }
+    .reply-tips .copy-ico {
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_copy_dark_f3e2c71.png)
+    }
+    .reply-tips .zan-ico {
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn-popup-zan-dark_a11eeb3.png)
+    }
+    .reply-tips .report-ico {
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_report_dark_e94fb51.png)
+    }
+    .reply-tips .light-ico {
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_light_up_dark_7346e21.png);
+        border-right: 0
+    }
+    .reply-tips .rulight-ico {
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_rulights_dark_96bcc71.png);
+        border-right: 0
+    }
+    .reply-tips .locked {
+        color: #4a4a4a;
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_rulights_dark_lock_f7ae62d.png)
+    }
+    .user-name a {
+        color: #959595
+    }
+    .reply-active .reply-ico {
+        color: red;
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_comment_down_dark_9557a7f.png)
+    }
+    .copy-active .copy-ico {
+        color: red;
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_copy_down_dark_e04f1a5.png)
+    }
+    .zan-active .zan-ico {
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn-popup-zan-dark_a11eeb3.png)
+    }
+    .report-active .report-ico {
+        color: red;
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_report_down_dark_5777df1.png)
+    }
+    .light-active .light-ico {
+        color: red;
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_light_down_de96137.png)
+    }
+    .rulight-active .rulight-ico {
+        color: red;
+        background-image: url(https://w10.hoopchina.com.cn/hybrid/static/bbs/widget/reply/img/btn_report_down_dark_5777df1.png)
+    }
+}

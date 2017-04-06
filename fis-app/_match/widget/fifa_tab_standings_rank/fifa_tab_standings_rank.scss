@@ -1,0 +1,12 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/function";
+
+.tr-china {
+    background-color: $morning_gray1_cor;
+}
+
+body.night {
+    .tr-china {
+        background-color: $night_gray1_cor;
+    }
+}

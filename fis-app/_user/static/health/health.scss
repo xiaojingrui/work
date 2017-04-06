@@ -1,0 +1,60 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+
+body {
+    padding: 10px;
+    background-color: #fff;
+}
+
+h2 {
+    line-height: 24px;
+    font-size: 15px;
+    color: #434141;
+}
+
+.item {
+    color: #fff;
+
+    li {
+        @include display-flex();
+        @include justify-content(space-between);
+        @include gradient-vertical(#cf3a50, #c01e2f);
+        height: 78px;
+        margin-bottom: 5px;
+        font-size: 17px;
+        border-radius: 4px;
+        background-color: red;
+    }
+
+    .left {
+        padding-left: 10px;
+        padding-top: 8px;
+        font-weight: bold;
+    }
+
+    .right {
+        padding-right: 10px;
+        text-align: right;
+    }
+
+    .value {
+        span {
+            line-height: 1.2;
+            font-size: 45px;
+            margin-right: 5px;
+        }
+    }
+
+    .time {
+        font-size: 12px;
+    }
+}
+
+.yesterday {
+    .value {
+        span {
+            line-height: 1.7;
+        }
+    }
+}

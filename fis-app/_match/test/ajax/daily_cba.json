@@ -1,0 +1,1351 @@
+[
+  {
+    "name": "得分",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "917",
+        "player_name": "吉默-弗雷戴特",
+        "player_header": "http://cba.hupu.com/players/images/nophoto.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "38.3",
+        "pts": "38.3",
+        "reb": "5.3",
+        "asts": "3.5",
+        "to": "4.8",
+        "mp": "1296"
+      },
+      {
+        "rank": 2,
+        "player_id": "601",
+        "player_name": "莱斯特-哈德森",
+        "player_header": "http://cba.hupu.com/players/images/201508161450046748.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "35.0",
+        "pts": "35.0",
+        "reb": "9.4",
+        "asts": "4.6",
+        "to": "5.6",
+        "mp": "1050"
+      },
+      {
+        "rank": 3,
+        "player_id": "736",
+        "player_name": "多米尼克-琼斯",
+        "player_header": "http://cba.hupu.com/players/images/qiongsi.jpg",
+        "team_name": "山西猛龙",
+        "val": "32.8",
+        "pts": "32.8",
+        "reb": "9.0",
+        "asts": "4.0",
+        "to": "3.3",
+        "mp": "1080"
+      },
+      {
+        "rank": 4,
+        "player_id": "890",
+        "player_name": "马尚-布鲁克斯",
+        "player_header": "http://cba.hupu.com/players/images/2015081014324633655.jpg",
+        "team_name": "江苏龙",
+        "val": "32.2",
+        "pts": "32.2",
+        "reb": "6.8",
+        "asts": "6.2",
+        "to": "3.8",
+        "mp": "2500"
+      },
+      {
+        "rank": 5,
+        "player_id": "873",
+        "player_name": "威利-沃伦",
+        "player_header": "http://cba.hupu.com/players/images/WillieWarren.jpg",
+        "team_name": "浙江金牛",
+        "val": "32.0",
+        "pts": "32.0",
+        "reb": "7.0",
+        "asts": "7.8",
+        "to": "3.8",
+        "mp": "1308"
+      }
+    ]
+  },
+  {
+    "name": "篮板",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "111",
+        "player_name": "韩德君",
+        "player_header": "http://cba.hupu.com/players/images/2015081614592639717.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "16.0",
+        "pts": "19.0",
+        "reb": "16.0",
+        "asts": "1.8",
+        "to": "3.2",
+        "mp": "828"
+      },
+      {
+        "rank": 2,
+        "player_id": "428",
+        "player_name": "桑尼-萨卡基尼",
+        "player_header": "http://cba.hupu.com/players/images/sangni.jpg",
+        "team_name": "江苏大圣",
+        "val": "14.7",
+        "pts": "27.3",
+        "reb": "14.7",
+        "asts": "2.3",
+        "to": "4.3",
+        "mp": "780"
+      },
+      {
+        "rank": 3,
+        "player_id": "874",
+        "player_name": "迈克-哈里斯",
+        "player_header": "http://cba.hupu.com/players/images/MikeHarris.jpg",
+        "team_name": "四川蓝鲸",
+        "val": "14.0",
+        "pts": "27.5",
+        "reb": "14.0",
+        "asts": "2.5",
+        "to": "2.5",
+        "mp": "2022"
+      },
+      {
+        "rank": 4,
+        "player_id": "788",
+        "player_name": "安德雷-布拉奇",
+        "player_header": "http://cba.hupu.com/players/images/AndrayBlatche.jpg",
+        "team_name": "新疆飞虎",
+        "val": "13.0",
+        "pts": "26.8",
+        "reb": "13.0",
+        "asts": "4.0",
+        "to": "3.8",
+        "mp": "990"
+      },
+      {
+        "rank": 5,
+        "player_id": "555",
+        "player_name": "张兆旭",
+        "player_header": "http://cba.hupu.com/players/images/2014111416561751605.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "12.3",
+        "pts": "10.5",
+        "reb": "12.3",
+        "asts": "1.0",
+        "to": "2.0",
+        "mp": "1062"
+      }
+    ]
+  },
+  {
+    "name": "助攻",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "885",
+        "player_name": "德怀特-拜克斯",
+        "player_header": "http://cba.hupu.com/players/images/2014121914132299993.jpg",
+        "team_name": "福建中华鲟",
+        "val": "8.0",
+        "pts": "20.8",
+        "reb": "5.5",
+        "asts": "8.0",
+        "to": "3.0",
+        "mp": "1092"
+      },
+      {
+        "rank": 2,
+        "player_id": "873",
+        "player_name": "威利-沃伦",
+        "player_header": "http://cba.hupu.com/players/images/WillieWarren.jpg",
+        "team_name": "浙江金牛",
+        "val": "7.8",
+        "pts": "32.0",
+        "reb": "7.0",
+        "asts": "7.8",
+        "to": "3.8",
+        "mp": "1308"
+      },
+      {
+        "rank": 3,
+        "player_id": "701",
+        "player_name": "普尔-杰特",
+        "player_header": "http://cba.hupu.com/players/images/jeter.jpg",
+        "team_name": "山东金星",
+        "val": "6.5",
+        "pts": "28.5",
+        "reb": "5.8",
+        "asts": "6.5",
+        "to": "2.8",
+        "mp": "1110"
+      },
+      {
+        "rank": 4,
+        "player_id": "890",
+        "player_name": "马尚-布鲁克斯",
+        "player_header": "http://cba.hupu.com/players/images/2015081014324633655.jpg",
+        "team_name": "江苏龙",
+        "val": "6.2",
+        "pts": "32.2",
+        "reb": "6.8",
+        "asts": "6.2",
+        "to": "3.8",
+        "mp": "2500"
+      },
+      {
+        "rank": 5,
+        "player_id": "536",
+        "player_name": "斯蒂芬-马布里",
+        "player_header": "http://cba.hupu.com/players/images/sidifenmabuli.jpg",
+        "team_name": "北京鸭",
+        "val": "5.5",
+        "pts": "23.8",
+        "reb": "5.0",
+        "asts": "5.5",
+        "to": "4.0",
+        "mp": "1044"
+      }
+    ]
+  },
+  {
+    "name": "抢断",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "845",
+        "player_name": "迈赫迪-卡姆拉尼",
+        "player_header": "http://cba.hupu.com/players/images/MahdiKamran.jpg",
+        "team_name": "北京翱龙",
+        "val": "4.0",
+        "pts": "19.0",
+        "reb": "5.8",
+        "asts": "4.5",
+        "to": "1.8",
+        "mp": "1116"
+      },
+      {
+        "rank": 2,
+        "player_id": "736",
+        "player_name": "多米尼克-琼斯",
+        "player_header": "http://cba.hupu.com/players/images/qiongsi.jpg",
+        "team_name": "山西猛龙",
+        "val": "2.8",
+        "pts": "32.8",
+        "reb": "9.0",
+        "asts": "4.0",
+        "to": "3.3",
+        "mp": "1080"
+      },
+      {
+        "rank": 3,
+        "player_id": "157",
+        "player_name": "周启新",
+        "player_header": "http://cba.hupu.com/players/images/zhouqixin.jpg",
+        "team_name": "福建中华鲟",
+        "val": "2.8",
+        "pts": "8.0",
+        "reb": "2.8",
+        "asts": "2.4",
+        "to": "1.6",
+        "mp": "780"
+      },
+      {
+        "rank": 4,
+        "player_id": "686",
+        "player_name": "鞠明欣",
+        "player_header": "http://cba.hupu.com/players/images/jumingxin.jpg",
+        "team_name": "广州龙狮",
+        "val": "2.6",
+        "pts": "11.2",
+        "reb": "7.0",
+        "asts": "1.2",
+        "to": "2.0",
+        "mp": "1494"
+      },
+      {
+        "rank": 5,
+        "player_id": "885",
+        "player_name": "德怀特-拜克斯",
+        "player_header": "http://cba.hupu.com/players/images/2014121914132299993.jpg",
+        "team_name": "福建中华鲟",
+        "val": "2.5",
+        "pts": "20.8",
+        "reb": "5.5",
+        "asts": "8.0",
+        "to": "3.0",
+        "mp": "1092"
+      }
+    ]
+  },
+  {
+    "name": "盖帽",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "853",
+        "player_name": "邹雨宸",
+        "player_header": "http://cba.hupu.com/players/images/zouyuchen.jpg",
+        "team_name": "八一火箭",
+        "val": "3.7",
+        "pts": "19.0",
+        "reb": "8.3",
+        "asts": "1.7",
+        "to": "2.3",
+        "mp": "330"
+      },
+      {
+        "rank": 2,
+        "player_id": "613",
+        "player_name": "易建联",
+        "player_header": "http://cba.hupu.com/players/images/yijianlian.jpg",
+        "team_name": "广东华南虎",
+        "val": "2.5",
+        "pts": "27.5",
+        "reb": "3.5",
+        "asts": "1.5",
+        "to": "0.5",
+        "mp": "750"
+      },
+      {
+        "rank": 3,
+        "player_id": "761",
+        "player_name": "孙悦",
+        "player_header": "http://cba.hupu.com/players/images/sunyue.jpg",
+        "team_name": "北京鸭",
+        "val": "2.5",
+        "pts": "3.0",
+        "reb": "5.5",
+        "asts": "1.5",
+        "to": "1.0",
+        "mp": "390"
+      },
+      {
+        "rank": 4,
+        "player_id": "514",
+        "player_name": "沙弗里克-兰多夫",
+        "player_header": "http://cba.hupu.com/players/images/randolph.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "2.2",
+        "pts": "24.6",
+        "reb": "11.6",
+        "asts": "1.2",
+        "to": "2.8",
+        "mp": "660"
+      },
+      {
+        "rank": 5,
+        "player_id": "798",
+        "player_name": "周琦",
+        "player_header": "http://cba.hupu.com/players/images/2015081615260049354.jpg",
+        "team_name": "新疆飞虎",
+        "val": "2.0",
+        "pts": "14.3",
+        "reb": "9.0",
+        "asts": "0.5",
+        "to": "1.8",
+        "mp": "936"
+      }
+    ]
+  },
+  {
+    "name": "二分球进球数",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "917",
+        "player_name": "吉默-弗雷戴特",
+        "player_header": "http://cba.hupu.com/players/images/nophoto.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "10.5",
+        "pts": "38.3",
+        "reb": "5.3",
+        "asts": "3.5",
+        "to": "4.8",
+        "mp": "1296"
+      },
+      {
+        "rank": 2,
+        "player_id": "428",
+        "player_name": "桑尼-萨卡基尼",
+        "player_header": "http://cba.hupu.com/players/images/sangni.jpg",
+        "team_name": "江苏大圣",
+        "val": "10",
+        "pts": "27.3",
+        "reb": "14.7",
+        "asts": "2.3",
+        "to": "4.3",
+        "mp": "780"
+      },
+      {
+        "rank": 3,
+        "player_id": "613",
+        "player_name": "易建联",
+        "player_header": "http://cba.hupu.com/players/images/yijianlian.jpg",
+        "team_name": "广东华南虎",
+        "val": "9.5",
+        "pts": "27.5",
+        "reb": "3.5",
+        "asts": "1.5",
+        "to": "0.5",
+        "mp": "750"
+      },
+      {
+        "rank": 4,
+        "player_id": "788",
+        "player_name": "安德雷-布拉奇",
+        "player_header": "http://cba.hupu.com/players/images/AndrayBlatche.jpg",
+        "team_name": "新疆飞虎",
+        "val": "9.2",
+        "pts": "26.8",
+        "reb": "13.0",
+        "asts": "4.0",
+        "to": "3.8",
+        "mp": "990"
+      },
+      {
+        "rank": 5,
+        "player_id": "874",
+        "player_name": "迈克-哈里斯",
+        "player_header": "http://cba.hupu.com/players/images/MikeHarris.jpg",
+        "team_name": "四川蓝鲸",
+        "val": "9",
+        "pts": "27.5",
+        "reb": "14.0",
+        "asts": "2.5",
+        "to": "2.5",
+        "mp": "2022"
+      }
+    ]
+  },
+  {
+    "name": "二分球命中率",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "178",
+        "player_name": "赵杭",
+        "player_header": "http://cba.hupu.com/players/images/2015081616263995044.jpg",
+        "team_name": "浙江金牛",
+        "val": "100%",
+        "pts": "2.7",
+        "reb": "0.7",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "78"
+      },
+      {
+        "rank": 2,
+        "player_id": "858",
+        "player_name": "刘冠岑",
+        "player_header": "http://cba.hupu.com/players/images/2014112417060168247.jpg",
+        "team_name": "山东金星",
+        "val": "100%",
+        "pts": "1.0",
+        "reb": "0.0",
+        "asts": "0.0",
+        "to": "1.0",
+        "mp": "0"
+      },
+      {
+        "rank": 3,
+        "player_id": "728",
+        "player_name": "周湛东",
+        "player_header": "http://cba.hupu.com/players/images/2014111914054112252.jpg",
+        "team_name": "广东华南虎",
+        "val": "100%",
+        "pts": "4.8",
+        "reb": "2.0",
+        "asts": "1.8",
+        "to": "0.5",
+        "mp": "864"
+      },
+      {
+        "rank": 4,
+        "player_id": "34",
+        "player_name": "陈磊",
+        "player_header": "http://cba.hupu.com/players/images/chenlei.jpg",
+        "team_name": "江苏龙",
+        "val": "100%",
+        "pts": "3.5",
+        "reb": "1.3",
+        "asts": "0.5",
+        "to": "0.3",
+        "mp": "180"
+      },
+      {
+        "rank": 5,
+        "player_id": "148",
+        "player_name": "孟令源",
+        "player_header": "http://cba.hupu.com/players/images/2014111416504176832.jpg",
+        "team_name": "青岛雄鹰",
+        "val": "100%",
+        "pts": "3.5",
+        "reb": "1.5",
+        "asts": "0.5",
+        "to": "0.5",
+        "mp": "456"
+      }
+    ]
+  },
+  {
+    "name": "三分球进球数",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "601",
+        "player_name": "莱斯特-哈德森",
+        "player_header": "http://cba.hupu.com/players/images/201508161450046748.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "5.4",
+        "pts": "35.0",
+        "reb": "9.4",
+        "asts": "4.6",
+        "to": "5.6",
+        "mp": "1050"
+      },
+      {
+        "rank": 2,
+        "player_id": "890",
+        "player_name": "马尚-布鲁克斯",
+        "player_header": "http://cba.hupu.com/players/images/2015081014324633655.jpg",
+        "team_name": "江苏龙",
+        "val": "5",
+        "pts": "32.2",
+        "reb": "6.8",
+        "asts": "6.2",
+        "to": "3.8",
+        "mp": "2500"
+      },
+      {
+        "rank": 3,
+        "player_id": "917",
+        "player_name": "吉默-弗雷戴特",
+        "player_header": "http://cba.hupu.com/players/images/nophoto.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "4.0",
+        "pts": "38.3",
+        "reb": "5.3",
+        "asts": "3.5",
+        "to": "4.8",
+        "mp": "1296"
+      },
+      {
+        "rank": 4,
+        "player_id": "736",
+        "player_name": "多米尼克-琼斯",
+        "player_header": "http://cba.hupu.com/players/images/qiongsi.jpg",
+        "team_name": "山西猛龙",
+        "val": "3.5",
+        "pts": "32.8",
+        "reb": "9.0",
+        "asts": "4.0",
+        "to": "3.3",
+        "mp": "1080"
+      },
+      {
+        "rank": 5,
+        "player_id": "49",
+        "player_name": "易立",
+        "player_header": "http://cba.hupu.com/players/images/yili.jpg",
+        "team_name": "江苏龙",
+        "val": "3.2",
+        "pts": "17.2",
+        "reb": "4.2",
+        "asts": "2.4",
+        "to": "2.2",
+        "mp": "1062"
+      }
+    ]
+  },
+  {
+    "name": "三分球命中率",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "225",
+        "player_name": "邱彪",
+        "player_header": "http://cba.hupu.com/players/images/2015081616250186039.jpg",
+        "team_name": "浙江金牛",
+        "val": "100%",
+        "pts": "0.8",
+        "reb": "1.8",
+        "asts": "0.0",
+        "to": "0.0",
+        "mp": "390"
+      },
+      {
+        "rank": 2,
+        "player_id": "547",
+        "player_name": "侯逸凡",
+        "player_header": "http://cba.hupu.com/players/images/houyifan.jpg",
+        "team_name": "江苏龙",
+        "val": "100%",
+        "pts": "1.8",
+        "reb": "0.3",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "138"
+      },
+      {
+        "rank": 3,
+        "player_id": "793",
+        "player_name": "卢艺文",
+        "player_header": "http://cba.hupu.com/players/images/luyiwen.jpg",
+        "team_name": "浙江金牛",
+        "val": "100%",
+        "pts": "1.7",
+        "reb": "0.3",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "90"
+      },
+      {
+        "rank": 4,
+        "player_id": "726",
+        "player_name": "郭金林",
+        "player_header": "http://cba.hupu.com/players/images/guojinlin.jpg",
+        "team_name": "青岛雄鹰",
+        "val": "100%",
+        "pts": "2.8",
+        "reb": "0.5",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "384"
+      },
+      {
+        "rank": 5,
+        "player_id": "58",
+        "player_name": "刘亚晖",
+        "player_header": "http://cba.hupu.com/players/images/liuyahui.jpg",
+        "team_name": "江苏龙",
+        "val": "100%",
+        "pts": "1.8",
+        "reb": "0.8",
+        "asts": "0.3",
+        "to": "0.0",
+        "mp": "402"
+      }
+    ]
+  },
+  {
+    "name": "有效命中率",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "547",
+        "player_name": "侯逸凡",
+        "player_header": "http://cba.hupu.com/players/images/houyifan.jpg",
+        "team_name": "江苏龙",
+        "val": "118.8%",
+        "pts": "1.8",
+        "reb": "0.3",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "138"
+      },
+      {
+        "rank": 2,
+        "player_id": "178",
+        "player_name": "赵杭",
+        "player_header": "http://cba.hupu.com/players/images/2015081616263995044.jpg",
+        "team_name": "浙江金牛",
+        "val": "100%",
+        "pts": "2.7",
+        "reb": "0.7",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "78"
+      },
+      {
+        "rank": 3,
+        "player_id": "740",
+        "player_name": "吴冠希",
+        "player_header": "http://cba.hupu.com/players/images/2014111416511449042.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "100%",
+        "pts": "2.5",
+        "reb": "1.5",
+        "asts": "0.3",
+        "to": "1.5",
+        "mp": "156"
+      },
+      {
+        "rank": 4,
+        "player_id": "728",
+        "player_name": "周湛东",
+        "player_header": "http://cba.hupu.com/players/images/2014111914054112252.jpg",
+        "team_name": "广东华南虎",
+        "val": "93.5%",
+        "pts": "4.8",
+        "reb": "2.0",
+        "asts": "1.8",
+        "to": "0.5",
+        "mp": "864"
+      },
+      {
+        "rank": 5,
+        "player_id": "101",
+        "player_name": "张庆鹏",
+        "player_header": "http://cba.hupu.com/players/images/zhangqingpeng.jpg",
+        "team_name": "北京鸭",
+        "val": "92.5%",
+        "pts": "14.3",
+        "reb": "2.8",
+        "asts": "1.0",
+        "to": "1.0",
+        "mp": "696"
+      }
+    ]
+  },
+  {
+    "name": "真实命中率",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "547",
+        "player_name": "侯逸凡",
+        "player_header": "http://cba.hupu.com/players/images/houyifan.jpg",
+        "team_name": "江苏龙",
+        "val": "112.5%",
+        "pts": "1.8",
+        "reb": "0.3",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "138"
+      },
+      {
+        "rank": 2,
+        "player_id": "178",
+        "player_name": "赵杭",
+        "player_header": "http://cba.hupu.com/players/images/2015081616263995044.jpg",
+        "team_name": "浙江金牛",
+        "val": "103.8%",
+        "pts": "2.7",
+        "reb": "0.7",
+        "asts": "0.0",
+        "to": "0.3",
+        "mp": "78"
+      },
+      {
+        "rank": 3,
+        "player_id": "460",
+        "player_name": "谢亚财",
+        "player_header": "http://cba.hupu.com/players/images/xieyacai.jpg",
+        "team_name": "福建中华鲟",
+        "val": "93.8%",
+        "pts": "5.8",
+        "reb": "0.8",
+        "asts": "0.8",
+        "to": "0.8",
+        "mp": "192"
+      },
+      {
+        "rank": 4,
+        "player_id": "101",
+        "player_name": "张庆鹏",
+        "player_header": "http://cba.hupu.com/players/images/zhangqingpeng.jpg",
+        "team_name": "北京鸭",
+        "val": "90.6%",
+        "pts": "14.3",
+        "reb": "2.8",
+        "asts": "1.0",
+        "to": "1.0",
+        "mp": "696"
+      },
+      {
+        "rank": 5,
+        "player_id": "728",
+        "player_name": "周湛东",
+        "player_header": "http://cba.hupu.com/players/images/2014111914054112252.jpg",
+        "team_name": "广东华南虎",
+        "val": "90.5%",
+        "pts": "4.8",
+        "reb": "2.0",
+        "asts": "1.8",
+        "to": "0.5",
+        "mp": "864"
+      }
+    ]
+  },
+  {
+    "name": "罚球进球数",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "873",
+        "player_name": "威利-沃伦",
+        "player_header": "http://cba.hupu.com/players/images/WillieWarren.jpg",
+        "team_name": "浙江金牛",
+        "val": "12.0",
+        "pts": "32.0",
+        "reb": "7.0",
+        "asts": "7.8",
+        "to": "3.8",
+        "mp": "1308"
+      },
+      {
+        "rank": 2,
+        "player_id": "701",
+        "player_name": "普尔-杰特",
+        "player_header": "http://cba.hupu.com/players/images/jeter.jpg",
+        "team_name": "山东金星",
+        "val": "11.3",
+        "pts": "28.5",
+        "reb": "5.8",
+        "asts": "6.5",
+        "to": "2.8",
+        "mp": "1110"
+      },
+      {
+        "rank": 3,
+        "player_id": "601",
+        "player_name": "莱斯特-哈德森",
+        "player_header": "http://cba.hupu.com/players/images/201508161450046748.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "8.0",
+        "pts": "35.0",
+        "reb": "9.4",
+        "asts": "4.6",
+        "to": "5.6",
+        "mp": "1050"
+      },
+      {
+        "rank": 4,
+        "player_id": "428",
+        "player_name": "桑尼-萨卡基尼",
+        "player_header": "http://cba.hupu.com/players/images/sangni.jpg",
+        "team_name": "江苏大圣",
+        "val": "7.3",
+        "pts": "27.3",
+        "reb": "14.7",
+        "asts": "2.3",
+        "to": "4.3",
+        "mp": "780"
+      },
+      {
+        "rank": 5,
+        "player_id": "111",
+        "player_name": "韩德君",
+        "player_header": "http://cba.hupu.com/players/images/2015081614592639717.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "6.6",
+        "pts": "19.0",
+        "reb": "16.0",
+        "asts": "1.8",
+        "to": "3.2",
+        "mp": "828"
+      }
+    ]
+  },
+  {
+    "name": "罚球命中率",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "286",
+        "player_name": "吴楠",
+        "player_header": "http://cba.hupu.com/players/images/2015081615333642519.jpg",
+        "team_name": "四川蓝鲸",
+        "val": "100%",
+        "pts": "3.8",
+        "reb": "0.4",
+        "asts": "0.4",
+        "to": "0.4",
+        "mp": "450"
+      },
+      {
+        "rank": 2,
+        "player_id": "566",
+        "player_name": "王汝恒",
+        "player_header": "http://cba.hupu.com/players/images/2015081615350741541.jpg",
+        "team_name": "四川蓝鲸",
+        "val": "100%",
+        "pts": "5.0",
+        "reb": "0.2",
+        "asts": "2.4",
+        "to": "1.2",
+        "mp": "444"
+      },
+      {
+        "rank": 3,
+        "player_id": "157",
+        "player_name": "周启新",
+        "player_header": "http://cba.hupu.com/players/images/zhouqixin.jpg",
+        "team_name": "福建中华鲟",
+        "val": "100%",
+        "pts": "8.0",
+        "reb": "2.8",
+        "asts": "2.4",
+        "to": "1.6",
+        "mp": "780"
+      },
+      {
+        "rank": 4,
+        "player_id": "245",
+        "player_name": "张学文",
+        "player_header": "http://cba.hupu.com/players/images/2015081615503573197.jpg",
+        "team_name": "山西猛龙",
+        "val": "100%",
+        "pts": "4.8",
+        "reb": "1.8",
+        "asts": "2.0",
+        "to": "1.5",
+        "mp": "1248"
+      },
+      {
+        "rank": 5,
+        "player_id": "653",
+        "player_name": "杨敬敏",
+        "player_header": "http://cba.hupu.com/players/images/2014111416555386965.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "100%",
+        "pts": "11.4",
+        "reb": "2.4",
+        "asts": "2.0",
+        "to": "3.0",
+        "mp": "948"
+      }
+    ]
+  },
+  {
+    "name": "失误",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "601",
+        "player_name": "莱斯特-哈德森",
+        "player_header": "http://cba.hupu.com/players/images/201508161450046748.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "5.6",
+        "pts": "35.0",
+        "reb": "9.4",
+        "asts": "4.6",
+        "to": "5.6",
+        "mp": "1050"
+      },
+      {
+        "rank": 2,
+        "player_id": "917",
+        "player_name": "吉默-弗雷戴特",
+        "player_header": "http://cba.hupu.com/players/images/nophoto.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "4.8",
+        "pts": "38.3",
+        "reb": "5.3",
+        "asts": "3.5",
+        "to": "4.8",
+        "mp": "1296"
+      },
+      {
+        "rank": 3,
+        "player_id": "428",
+        "player_name": "桑尼-萨卡基尼",
+        "player_header": "http://cba.hupu.com/players/images/sangni.jpg",
+        "team_name": "江苏大圣",
+        "val": "4.3",
+        "pts": "27.3",
+        "reb": "14.7",
+        "asts": "2.3",
+        "to": "4.3",
+        "mp": "780"
+      },
+      {
+        "rank": 4,
+        "player_id": "581",
+        "player_name": "兰多夫-莫里斯",
+        "player_header": "http://cba.hupu.com/players/images/landuofumolisen32.jpg",
+        "team_name": "北京鸭",
+        "val": "4.0",
+        "pts": "20.8",
+        "reb": "7.8",
+        "asts": "1.5",
+        "to": "4.0",
+        "mp": "714"
+      },
+      {
+        "rank": 5,
+        "player_id": "536",
+        "player_name": "斯蒂芬-马布里",
+        "player_header": "http://cba.hupu.com/players/images/sidifenmabuli.jpg",
+        "team_name": "北京鸭",
+        "val": "4.0",
+        "pts": "23.8",
+        "reb": "5.0",
+        "asts": "5.5",
+        "to": "4.0",
+        "mp": "1044"
+      }
+    ]
+  },
+  {
+    "name": "失误率",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "612",
+        "player_name": "史鸿飞",
+        "player_header": "http://cba.hupu.com/players/images/shihongfei.jpg",
+        "team_name": "广州龙狮",
+        "val": "75%",
+        "pts": "0.0",
+        "reb": "0.4",
+        "asts": "0.2",
+        "to": "0.6",
+        "mp": "192"
+      },
+      {
+        "rank": 2,
+        "player_id": "740",
+        "player_name": "吴冠希",
+        "player_header": "http://cba.hupu.com/players/images/2014111416511449042.jpg",
+        "team_name": "上海大鲨鱼",
+        "val": "51%",
+        "pts": "2.5",
+        "reb": "1.5",
+        "asts": "0.3",
+        "to": "1.5",
+        "mp": "156"
+      },
+      {
+        "rank": 3,
+        "player_id": "674",
+        "player_name": "郭一飞",
+        "player_header": "http://cba.hupu.com/players/images/guoyifei.jpg",
+        "team_name": "江苏大圣",
+        "val": "50%",
+        "pts": "0.0",
+        "reb": "2.0",
+        "asts": "0.0",
+        "to": "1.0",
+        "mp": "390"
+      },
+      {
+        "rank": 4,
+        "player_id": "763",
+        "player_name": "张松涛",
+        "player_header": "http://cba.hupu.com/players/images/2015081617061138499.jpg",
+        "team_name": "北京鸭",
+        "val": "46.5%",
+        "pts": "2.0",
+        "reb": "2.3",
+        "asts": "0.3",
+        "to": "2.0",
+        "mp": "360"
+      },
+      {
+        "rank": 5,
+        "player_id": "858",
+        "player_name": "刘冠岑",
+        "player_header": "http://cba.hupu.com/players/images/2014112417060168247.jpg",
+        "team_name": "山东金星",
+        "val": "40%",
+        "pts": "1.0",
+        "reb": "0.0",
+        "asts": "0.0",
+        "to": "1.0",
+        "mp": "0"
+      }
+    ]
+  },
+  {
+    "name": "两双",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "866",
+        "player_name": "田垒",
+        "player_header": "http://cba.hupu.com/players/images/2014121016135159828.jpg",
+        "team_name": "天津金狮",
+        "val": "0",
+        "pts": "10.0",
+        "reb": "6.0",
+        "asts": "1.0",
+        "to": "0.5",
+        "mp": "1056"
+      },
+      {
+        "rank": 2,
+        "player_id": "826",
+        "player_name": "刘大鹏",
+        "player_header": "http://cba.hupu.com/players/images/liudapeng.jpg",
+        "team_name": "北京翱龙",
+        "val": "0",
+        "pts": "7.8",
+        "reb": "1.3",
+        "asts": "0.0",
+        "to": "1.3",
+        "mp": "438"
+      },
+      {
+        "rank": 3,
+        "player_id": "825",
+        "player_name": "丛明晨",
+        "player_header": "http://cba.hupu.com/players/images/2015081614563221006.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "0",
+        "pts": "10.6",
+        "reb": "3.0",
+        "asts": "1.2",
+        "to": "0.8",
+        "mp": "930"
+      },
+      {
+        "rank": 4,
+        "player_id": "809",
+        "player_name": "徐韬",
+        "player_header": "http://cba.hupu.com/players/images/2014121016210515756.jpg",
+        "team_name": "四川蓝鲸",
+        "val": "0",
+        "pts": "2.6",
+        "reb": "2.2",
+        "asts": "0.4",
+        "to": "1.4",
+        "mp": "252"
+      },
+      {
+        "rank": 5,
+        "player_id": "806",
+        "player_name": "黄毅超",
+        "player_header": "http://cba.hupu.com/players/images/2014121016010436701.jpg",
+        "team_name": "福建中华鲟",
+        "val": "0",
+        "pts": "1.7",
+        "reb": "0.7",
+        "asts": "0.3",
+        "to": "1.0",
+        "mp": "282"
+      }
+    ]
+  },
+  {
+    "name": "三双",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "866",
+        "player_name": "田垒",
+        "player_header": "http://cba.hupu.com/players/images/2014121016135159828.jpg",
+        "team_name": "天津金狮",
+        "val": "0",
+        "pts": "10.0",
+        "reb": "6.0",
+        "asts": "1.0",
+        "to": "0.5",
+        "mp": "1056"
+      },
+      {
+        "rank": 2,
+        "player_id": "826",
+        "player_name": "刘大鹏",
+        "player_header": "http://cba.hupu.com/players/images/liudapeng.jpg",
+        "team_name": "北京翱龙",
+        "val": "0",
+        "pts": "7.8",
+        "reb": "1.3",
+        "asts": "0.0",
+        "to": "1.3",
+        "mp": "438"
+      },
+      {
+        "rank": 3,
+        "player_id": "825",
+        "player_name": "丛明晨",
+        "player_header": "http://cba.hupu.com/players/images/2015081614563221006.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "0",
+        "pts": "10.6",
+        "reb": "3.0",
+        "asts": "1.2",
+        "to": "0.8",
+        "mp": "930"
+      },
+      {
+        "rank": 4,
+        "player_id": "809",
+        "player_name": "徐韬",
+        "player_header": "http://cba.hupu.com/players/images/2014121016210515756.jpg",
+        "team_name": "四川蓝鲸",
+        "val": "0",
+        "pts": "2.6",
+        "reb": "2.2",
+        "asts": "0.4",
+        "to": "1.4",
+        "mp": "252"
+      },
+      {
+        "rank": 5,
+        "player_id": "806",
+        "player_name": "黄毅超",
+        "player_header": "http://cba.hupu.com/players/images/2014121016010436701.jpg",
+        "team_name": "福建中华鲟",
+        "val": "0",
+        "pts": "1.7",
+        "reb": "0.7",
+        "asts": "0.3",
+        "to": "1.0",
+        "mp": "282"
+      }
+    ]
+  },
+  {
+    "name": "犯规",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "618",
+        "player_name": "朱彦西",
+        "player_header": "http://cba.hupu.com/players/images/zhuyanxi.jpg",
+        "team_name": "北京鸭",
+        "val": "5.3",
+        "pts": "6.7",
+        "reb": "2.7",
+        "asts": "0.3",
+        "to": "0.3",
+        "mp": "1134"
+      },
+      {
+        "rank": 2,
+        "player_id": "601",
+        "player_name": "莱斯特-哈德森",
+        "player_header": "http://cba.hupu.com/players/images/201508161450046748.jpg",
+        "team_name": "辽宁飞豹",
+        "val": "4.8",
+        "pts": "35.0",
+        "reb": "9.4",
+        "asts": "4.6",
+        "to": "5.6",
+        "mp": "1050"
+      },
+      {
+        "rank": 3,
+        "player_id": "688",
+        "player_name": "朱旭航",
+        "player_header": "http://cba.hupu.com/players/images/zhuxuhang.jpg",
+        "team_name": "广州龙狮",
+        "val": "4.8",
+        "pts": "6.4",
+        "reb": "6.4",
+        "asts": "0.4",
+        "to": "2.0",
+        "mp": "1098"
+      },
+      {
+        "rank": 4,
+        "player_id": "541",
+        "player_name": "李原宇",
+        "player_header": "http://cba.hupu.com/players/images/liyuanyu.jpg",
+        "team_name": "广东华南虎",
+        "val": "4.6",
+        "pts": "3.6",
+        "reb": "3.8",
+        "asts": "0.8",
+        "to": "1.4",
+        "mp": "570"
+      },
+      {
+        "rank": 5,
+        "player_id": "472",
+        "player_name": "陶汉林",
+        "player_header": "http://cba.hupu.com/players/images/taohanlin.jpg",
+        "team_name": "山东金星",
+        "val": "4.6",
+        "pts": "14.4",
+        "reb": "5.6",
+        "asts": "0.0",
+        "to": "1.4",
+        "mp": "972"
+      }
+    ]
+  },
+  {
+    "name": "出场时间",
+    "is_more": 1,
+    "data": [
+      {
+        "rank": 1,
+        "player_id": "890",
+        "player_name": "马尚-布鲁克斯",
+        "player_header": "http://cba.hupu.com/players/images/2015081014324633655.jpg",
+        "team_name": "江苏龙",
+        "val": "2500",
+        "pts": "32.2",
+        "reb": "6.8",
+        "asts": "6.2",
+        "to": "3.8",
+        "mp": "2500"
+      },
+      {
+        "rank": 2,
+        "player_id": "874",
+        "player_name": "迈克-哈里斯",
+        "player_header": "http://cba.hupu.com/players/images/MikeHarris.jpg",
+        "team_name": "四川蓝鲸",
+        "val": "2022",
+        "pts": "27.5",
+        "reb": "14.0",
+        "asts": "2.5",
+        "to": "2.5",
+        "mp": "2022"
+      },
+      {
+        "rank": 3,
+        "player_id": "227",
+        "player_name": "孟铎",
+        "player_header": "http://cba.hupu.com/players/images/2015081617111819686.jpg",
+        "team_name": "深圳烈豹",
+        "val": "1534",
+        "pts": "8.2",
+        "reb": "1.8",
+        "asts": "1.2",
+        "to": "0.6",
+        "mp": "1534"
+      },
+      {
+        "rank": 4,
+        "player_id": "686",
+        "player_name": "鞠明欣",
+        "player_header": "http://cba.hupu.com/players/images/jumingxin.jpg",
+        "team_name": "广州龙狮",
+        "val": "1494",
+        "pts": "11.2",
+        "reb": "7.0",
+        "asts": "1.2",
+        "to": "2.0",
+        "mp": "1494"
+      },
+      {
+        "rank": 5,
+        "player_id": "766",
+        "player_name": "萨马德-巴赫拉米",
+        "player_header": "http://cba.hupu.com/players/images/bahelami.jpg",
+        "team_name": "浙江金牛",
+        "val": "1482",
+        "pts": "18.4",
+        "reb": "7.6",
+        "asts": "3.4",
+        "to": "2.8",
+        "mp": "1482"
+      }
+    ]
+  }
+]

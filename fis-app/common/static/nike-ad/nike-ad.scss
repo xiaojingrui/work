@@ -1,0 +1,154 @@
+*{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.video-js{
+	width:100%;
+}
+.nike-head{
+	background:url(./ad1.png?10) no-repeat center center;
+	background-size:cover;
+	width:100%;
+	height:175px;
+	color:#fff;
+	position:relative;
+	display: block;
+	&:hover{
+		color:#fff;
+	}
+	.content{
+		padding-top:50px;
+
+	}
+	h2{
+		text-align:center;
+		font-size:18px;
+		margin-bottom:10px;
+	}
+	p{
+		font-size:15px;
+		margin-left:16px;
+	}
+	span{
+		position:absolute;
+		top:4px;
+		right:4px;
+		background:#1993d9;
+		padding:4px;
+		font-size:12px;
+		border-radius:4px;
+	}
+}
+.list-img{
+	padding-bottom: 12px;
+	border-bottom:1px solid #eeebeb;
+	h2{
+			font-size:16px;
+			color:#434141;
+			line-height:40px;
+		}
+		.img-ad{
+			display: -webkit-box;
+	    display: -moz-box;
+	    display: -ms-flexbox;
+	    display: -webkit-flex;
+	    display: flex;
+	    -webkit-justify-content: space-between;
+	    -moz-justify-content: space-between;
+	    justify-content: space-between;
+		}
+}
+.list{
+	margin:0 8px;
+	li{
+
+		border-bottom:1px solid #eeebeb;
+		a{
+			display: -webkit-box;
+		    display: -moz-box;
+		    display: -ms-flexbox;
+		    display: -webkit-flex;
+		    display: flex;
+			padding: 8px 0;
+			color:#a9a9b2;
+		}
+		.list-content{
+			-webkit-box-flex: 1;
+	    -moz-box-flex: 1;
+	    -webkit-flex: 1;
+	    -ms-flex: 1;
+	    flex: 1;
+			margin-left:10px;
+			margin-top:8px;
+			font-size:14px;
+			color:#434141;
+			h3{
+				line-height:18px;
+			}
+			p{
+				color:#a9a9b2;
+				font-size:12px;
+				margin-top:5px;
+				word-break: break-all;
+		    display: -webkit-box;
+		    -webkit-line-clamp: 1;
+		    -webkit-box-orient: vertical;
+		    overflow: hidden;
+			}
+		}
+		.list-content:visited{
+			color:#a9a9b2;
+		}
+		.list-content:active{
+			color:#a9a9b2;
+		}
+	}
+}
+.nike-video{
+	position:relative;
+	span{
+		position:absolute;
+		top:4px;
+		right:4px;
+		color:#fff;
+		background:#1993d9;
+		padding:4px;
+		font-size:12px;
+		border-radius:4px;
+	}
+}
+
+.night{
+	section{
+		background: #2c2c2c;
+	}
+	.nike-head{
+		color:#959595;
+		span{
+			color:#fff;
+		}
+	}
+
+	.list-img{
+		border-bottom:1px solid #1f1f1f;
+		h2{
+			color:#959595;
+		}
+	}
+	.list{
+		li{
+			border-bottom:1px solid #1f1f1f;
+			.list-content{
+				p{
+					color:#959595;
+				}
+			}
+		}
+	}
+}

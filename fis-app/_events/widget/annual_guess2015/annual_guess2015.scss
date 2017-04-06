@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+.guess-wrap {
+	flex: 1;
+	height: 100%;
+	flex:1;
+	
+	.bd {
+		width: 660px;
+		margin-left: auto;
+		margin-right: auto;
+		
+		.list-container {
+			position: relative;
+			-webkit-transition: 1s;
+			transition: 1s;
+			
+		}
+
+		.list-wrap {
+			display: -webkit-flex;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		li {
+			flex: 1;
+			margin-bottom: 40px;
+		}
+
+		li>.fl {
+			width: 140px;
+			color: #eb6100;
+			font-weight: bold;
+
+			span {
+				position: relative;
+				top: -5px;
+			}
+		}
+
+		li>.fr {
+			width: 500px;
+		}
+
+		.icon {
+			display: inline-block;
+			width: 35px;
+			height: 35px;
+			background-image: url(./img/icon.png);
+			background-size: 100%;
+		}
+
+		.title {
+			color: #fff;
+		}
+
+		.yes {
+			color: #33d700;
+			margin-bottom: 10px;
+		}
+
+		.no {
+			color: #eb6100;
+		}
+
+		.progress {
+			position: relative;
+			height: 18px;
+			border: 2px solid #33d700;
+			border-radius: 4px;
+			overflow: hidden;
+		}
+
+		.inner {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 0;
+			height: 18px;
+			background-color: #33d700;
+
+			/* 假数据 */
+			width: 60px;
+		}
+
+		.no .inner {
+			background-color: #eb6100;
+		}
+
+		.no .progress {
+			border-color: #eb6100;
+		}
+	}
+}

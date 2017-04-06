@@ -1,0 +1,414 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+i { font-style: normal;}
+img { max-width: 100%;}
+body {
+	font-size: 15px;
+	color: #434141;
+	background-color: #eeebeb;
+	-webkit-user-select: none;
+	-webkit-tap-highlight-color: transparent;
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.fl { float: left;}
+.fr { float: right;}
+.ellipsis {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.no-recap { position: absolute; top: 50%; width: 100%; text-align: center; font-size: 16px; color: #a9a9b2;}
+.recap-wrap {
+	color: #434141;
+	background-color: #eeebeb;
+
+	section {
+		margin-bottom: 5px;
+		background-color: #fff;
+	}
+
+	.grade {
+		padding: 8px 10px;
+		font-size: 16px;
+
+		a { color: #1e88e2;}
+	}
+
+	.collection {
+		a {
+			display: block;
+			@include display-flex();
+			padding-top: 5px;
+			padding-bottom: 5px;
+			line-height: 35px;
+		}
+
+		div.item1 {
+			@include box-sizing();
+			position: relative;
+			width: 15%;
+			height: 35px;
+			border-right: 1px solid #eeebeb;
+		}
+
+		div.item2 {
+			@include box-sizing();
+			width: 85%;
+			height: 35px;
+			font-size: 16px;
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+
+		.icon {
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			width: 22.5px;
+			height: 22px;
+			margin-left: -11px;
+			margin-top: -11px;
+			background-image: url(./recap_play.png);
+			background-size: cover;
+			background-position: center;
+		}
+	}
+
+	.collection-wifi {
+		padding-left: 10px;
+		padding-right: 10px;
+		background-color: #eeebeb;
+
+		a { position: relative; display: block;}
+
+		.inner {
+			position: relative;
+			height: 216px;
+			background-size: cover;
+		}
+
+		.title {
+			@include box-sizing();
+			position: absolute;
+			left: 0;
+			bottom: 4px;
+			color: #fff;
+			font-size: 16px;
+			width: 100%;
+			padding-left: 8px;
+			padding-right: 8px;
+			z-index: 3;
+		}
+
+		.icon {
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			display: inline-block;
+			width: 45px;
+			height: 45px;
+			margin-left: -22px;
+			margin-top: -22px;
+			background-image: url(./recap_play_wifi.png);
+			background-size: cover;
+			z-index: 3;
+		}
+
+		.mask {
+			@include gradient-vertical(rgba(0,0,0,.2), rgba(0,0,0,.8));
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			z-index: 2;
+		}
+	}
+
+	.detail {
+		.teams {
+			padding-top: 2px;
+			padding-bottom: 2px;
+
+			&>div { width: 150px;}
+		}
+
+		.right { text-align: right;}
+
+		.icon {
+			width: 32px;
+			text-align: center;
+
+			span {
+				position: relative;
+				top: 1px;
+			}
+		}
+
+		.content { text-align: justify; padding-left: 10px; padding-right: 10px;}
+		.right .content { text-align: right;}
+
+		.logo {
+			display: inline-block;
+			width: 35px;
+		}
+
+		.tables {
+			@include display-flex();
+
+			&>div {
+				@include flex(1);
+			}
+
+			table {
+				width: 100%;
+				border-collapse: collapse;
+			}
+
+			td {
+				height: 23px;
+				padding-top: 7px;
+				padding-bottom: 7px;
+			}
+
+			.red {
+				display: inline-block;
+				width: 9px;
+				height: 12px;
+				background-color: #fb3e3e;
+			}
+
+			.own-goal, .point, .point-miss {
+				position: relative;
+				top: 2px;
+				display: inline-block;
+				width: 20px;
+				height: 17px;
+				background-size: cover;
+			}
+
+			.point-miss { width: 16px;}
+
+			.own-goal { background-image: url(./recap_own_goal.png);}
+			.point { background-image: url(./recap_point.png);}
+			.point-miss { background-image: url(./recap_point_miss.png);}
+
+			.goal {
+				display: inline-block;
+				width: 12px;
+				height: 12px;
+				background-image: url(./recap_goal.png);
+				background-size: cover;
+			}
+		}
+
+		.left td:nth-of-type(1) { width: 32px;}
+		.right td:nth-of-type(2) { width: 32px;}
+
+	}
+
+	.main {
+		margin-bottom: 0;
+		background-color: #eeebeb;
+
+		img { width: 100%;}
+
+		.list>li {
+			padding-top: 10px;
+			padding-bottom: 8px;
+			margin-bottom: 5px;
+			color: #434141;
+			background-color: #fff;
+		}
+
+		.list>li:last-child { padding-bottom: 0; margin-bottom: 0;}
+
+		.left {
+			width: 45px;
+			float: left;
+		}
+
+		.icon {
+			position: relative;
+			top: 0px;
+			display: inline-block;
+			width: 25px;
+			height: 25px;
+			margin-left: 10px;
+			line-height: 25px;
+			text-align: center;
+			font-size: 11px;
+			color: #a9a9b2;
+			border: 1px solid #a9a9b2;
+			border-radius: 50%;
+		}
+
+		.right {
+			position: relative;
+			top: -2px;
+			padding-right: 10px;
+			font-size: 16px;
+			text-align: justify;
+			overflow: hidden;
+		}
+
+		.comments {
+			position: relative;
+			color: #434141 !important;
+			font-size: 16px !important;
+			word-break: break-all;
+
+			u { text-decoration: none;}
+			b { font-weight: normal;}
+
+			.icon {
+				font-size: 11px;
+				position: absolute;
+				z-index: 2;
+			}
+
+		}
+
+		.c-list {
+			position: relative;
+			top: -2px;
+
+			li {
+				padding-left: 45px;
+				margin-bottom: 8px;
+				border-bottom: 1px solid #eeebeb;
+			}
+
+			li:last-child { margin-bottom: 0; border-bottom: none;}
+
+			.last-item { border-bottom: none;}
+
+			.user {
+				color: #a9a9b2;
+			}
+
+			p { padding-top: 4px; padding-bottom: 6px;}
+		}
+	}
+
+	.link-touched {
+		.num {
+			background-color: #dcdfe3;
+		}
+		background-color: #e1e6eb;
+	}
+
+	font {
+		font-weight: normal;
+		color: #434141 !important;
+	}
+}
+
+.night .no-recap { color: #5a5a5f;}
+.night {
+	background-color: #2c2c2c;
+	color: #959595;
+
+	.recap-wrap {
+		color: #959595;
+		background-color: #1f1f1f;
+
+		section { background-color: #2c2c2c;}
+
+		.grade {
+			a { color: #3c678c;}
+		}
+
+		.collection {
+			div:nth-of-type(1) {
+				border-color: #1f1f1f;
+				color: #959595;
+			}
+
+			div:nth-of-type(2) {
+				color: #959595;
+			}
+
+			.icon {
+				background-image: url(./recap_play_night.png);
+			}
+		}
+
+		.collection-wifi {
+			background-color: #1f1f1f;
+
+			.title {
+				color: #959595;
+			}
+
+			.icon {
+				background-image: url(./recap_play_wifi.png);
+			}
+
+			.mask {
+				@include gradient-vertical(rgba(0,0,0,.5), rgba(0,0,0,1));
+			}
+		}
+
+		.detail {
+			.tables {
+				td {
+					border-color: #1f1f1f;
+				}
+
+				.red { background-color: #972525;}
+				.yellow { background-color: #997a00;}
+				.goal { background-image: url(./recap_goal_night.png);}
+				.own-goal { background-image: url(./recap_own_goal_night.png);}
+				.point { background-image: url(./recap_point_night.png);}
+				.point-miss { background-image: url(./recap_point_miss_night.png);}
+			}
+		}
+
+		.main {
+			background-color: #1f1f1f;
+
+			li {
+				color: #959595;
+				background-color: #2c2c2c;
+			}
+
+
+			.icon {
+				color: #5a5a5f;
+				border-color: #5a5a5f;
+			}
+
+			.comments {
+				color: #959595 !important;
+			}
+
+			.c-list {
+				li {
+					border-color: #1f1f1f;
+				}
+
+				.user {
+					color: #5a5a5f;
+				}
+			}
+		}
+
+		.link-touched {
+			.num {
+				background-color: #1f1f1f;
+			}
+			background-color: #1f1f1f;
+		}
+	}
+
+	font {
+		color: #959595 !important;
+	}
+}

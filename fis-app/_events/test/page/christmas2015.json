@@ -1,0 +1,96 @@
+	{
+		"f": "default",
+		"unionid": "oWZ-ct6iCCaObfECxpo86LXgIkxI",
+		"gamestatus": 1,
+		"ismore": 0,
+		"fdata": {
+			"headimgurl": "http://wx.qlogo.cn/mmopen/pH5pHTuXOC4TibDUiciaiaCwyOzuQmPLYVmMricfN1z4zTQIEFBwB4E2xmxnEUqnYzogWf6XUzp7J1niaQicVj6A4uAclqE8n4DCcm9/0",
+			"nickname": "bbb",
+			"qq": "222***2222",
+			"subtime": "2015-12-18 17:54",
+			"data": "詹姆斯 杜兰特 哈登 罗斯 库里 维斯布鲁克",
+			"paimin": "2"
+		},
+		"userinfo": {
+		},
+		"paihan": [
+			{
+				"headimgurl": "http://wx.qlogo.cn/mmopen/pH5pHTuXOC4TibDUiciaiaCwyOzuQmPLYVmMricfN1z4zTQIEFBwB4E2xmxnEUqnYzogWf6XUzp7J1niaQicVj6A4uAclqE8n4DCcm9/0",
+				"nickname": "bbb",
+				"nums": 15222,
+				"lasttime": 1450438998
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "aaa",
+				"nums": 33332,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "lailaiali",
+				"nums": 13332,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "r3r3r3r",
+				"nums": 1332,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "cxccffdfe",
+				"nums": 231,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "heheheheh",
+				"nums": 132,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "呵呵呵呵",
+				"nums": 31,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "破碎的开始讲道理的",
+				"nums": 21,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "我我我啊啊啊啊",
+				"nums": 10,
+				"lasttime": 1450435466
+			},
+			{
+				"headimgurl": "http://im1.tongbu.com/appicon/app/666/66/444934666_49187DFB.jpg",
+				"nickname": "我我我啊啊啊啊",
+				"nums": 1,
+				"lasttime": 1450435466
+			}
+
+		],
+		"share_config": {
+			"title": "NBA圣诞大战趣味竞猜赢大奖，我预测【詹姆斯】得分最高22222",
+			"headimgurl": "http://b3.hoopchina.com.cn/images/logo2013/v1/hp_logo_sports.png",
+			"share_url": "http://kanqiu-test.hupu.com/christmasact/index?t=5",
+			"stats": "http://kanqiu-test.hupu.com/christmasact/stats?t=5"
+		},
+		"config": {
+			"appId": "wx47017a64fa981d51",
+			"timestamp": 1450507568,
+			"nonceStr": "mYIGqgePnEpPItPm",
+			"signature": "d6190b74bfba7056ce99c237dfb094670e47347a",
+			"url": "http://kanqiu-test.hupu.com/christmasact/result"
+		},
+		"error": {
+			"code": 1,
+			"msg": "此QQ号未参与活动"
+		}
+	}

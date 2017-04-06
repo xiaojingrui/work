@@ -1,0 +1,10 @@
+{
+  "balance": 599999045678,
+  "payThisMonth": "\/1\/7.0.6\/hupuDollor\/payDetailAjax?token=MTkwNDMyMTM=|MTQ1MjQ4MjM2OA==|72c405d402792d68bb2e87cc41e1ae20&client=352136060968902",
+  "payThreeMonth": "\/1\/7.0.6\/hupuDollor\/payDetailAjax3Month?token=MTkwNDMyMTM=|MTQ1MjQ4MjM2OA==|72c405d402792d68bb2e87cc41e1ae20&client=352136060968902",
+  "is_login": 1,
+  "night": 0,
+  "projectId": "1",
+  "version": "7.0.6",
+  "client": "352136060968902"
+}

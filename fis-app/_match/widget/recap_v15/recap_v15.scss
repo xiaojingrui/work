@@ -1,0 +1,655 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/base";
+
+body {
+    font-size: 12px !important;
+	color: $morning_gray3_cor;
+	background-color: $morning_gray0_cor;
+	-webkit-tap-highlight-color: transparent;
+}
+
+img {
+    max-width: 100%;
+}
+em {
+    font-style: normal;
+}
+
+.icon {
+    display: inline-block;
+    background-size: cover;
+}
+
+.icon-play-b {
+    width: 34px;
+    height: 34px;
+    background-image: url(./img/icon_play_b.png);
+}
+
+.icon-play {
+    width: 18px;
+    height: 18px;
+    background-image: url(./img/icon_play.png);
+}
+
+.icon-wrap {
+    position: relative;
+    display: inline-block;
+    width: 24px;
+    height: 30px;
+    margin: 0 4px;
+
+    .icon {
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+    }
+}
+
+.icon-goal {
+    width: 12px;
+    height: 12px;
+    background-image: url(./img/icon_goal.png);
+}
+
+.icon-point {
+    width: 20px;
+    height: 17px;
+    background-image: url(./img/icon_point.png);
+}
+
+.icon-point-miss {
+    width: 16px;
+    height: 16px;
+    background-image: url(./img/icon_point_miss.png);
+}
+
+.icon-own {
+    width: 20px;
+    height: 17px;
+    background-image: url(./img/icon_own.png);
+}
+
+.icon-red {
+    display: inline-block;
+    width: 9px;
+    height: 12px;
+    background-color: #fb3e3e;
+}
+
+.icon-arrow-right, .icon-arrow-up, .icon-arrow-down {
+    width: 5px;
+    height: 8px;
+    background-image: url(./img/icon_arrow.png);
+    @include transform-origin(center);
+}
+
+.icon-arrow-up { @include rotate(-90deg);}
+.icon-arrow-down { @include rotate(90deg);}
+
+.section-item {
+    margin: 10px;
+    background-color: $morning_white_cor;
+    border: 1px solid $morning_gray1_cor;
+    border-radius: 2px;
+
+    .hd {
+        line-height: 30px;
+        font-size: 15px;
+        color: $morning_gray2_cor;
+        text-indent: 10px;
+        border-bottom: 1px solid $morning_gray1_cor;
+    }
+
+    .bd {
+        padding: 0 10px;
+    }
+}
+
+.hot-nopic {
+    a {
+        position: relative;
+        display: block;
+        padding: 0 10px;
+        height: 44px;
+        font-size: 15px;
+        color: $morning_gray3_cor;
+    }
+
+    span {
+        display: inline-block;
+        max-width: 85%;
+        padding-left: 28px;
+        line-height: 44px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        background-image: url(./img/icon_play.png);
+        background-repeat: no-repeat;
+        background-size: 18px 18px;
+        background-position: 0 12px;
+    }
+
+    .icon-arrow-right {
+        position: absolute;
+        right: 10px;
+        top: 18px;
+    }
+}
+
+.hot-pic {
+    a {
+        display: block;
+        position: relative;
+        text-align: center;
+    }
+
+    img {
+        margin: auto;
+        border-radius: 2px;
+    }
+
+    .title {
+        position: absolute;
+        left: 0;
+        bottom: -1px;
+        width: 100%;
+        height: 25px;
+        padding-top: 50px;
+        text-indent: 10px;
+        font-size: 15px;
+        text-align: left;
+        color: $morning_white_cor;
+        border-radius: 2px;
+        @include gradient-vertical(rgba(0,0,0,0), rgba(0,0,0,1));
+    }
+
+    p {
+        max-width: 95%;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .icon {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        top: 0;
+        margin: auto;
+    }
+}
+
+.collection {
+    a {
+        display: block;
+        height: 44px;
+        color: $morning_gray3_cor;
+    }
+
+    li {
+        position: relative;
+        height: 44px;
+        font-size: 15px;
+        border-bottom: 1px dashed $morning_gray1_cor;
+    }
+
+    li:last-child {
+        border-bottom:none;
+    }
+
+    .more-li {
+        display: none;
+    }
+
+    span {
+        display: inline-block;
+        max-width: 85%;
+        padding-left: 28px;
+        line-height: 44px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        background-image: url(./img/icon_play.png);
+        background-repeat: no-repeat;
+        background-size: 18px 18px;
+        background-position: 0 12px;
+    }
+
+    .icon-arrow-right {
+        position: absolute;
+        right: 0;
+        top: 18px;
+    }
+
+    .more {
+        line-height: 44px;
+        text-align: center;
+        color: $morning_gray2_cor;
+    }
+
+    .icon-arrow-down, .icon-arrow-up {
+        margin-left: 4px;
+    }
+}
+
+.video {
+    ul { overflow: hidden}
+    li {
+        @include display-flex();
+        @include justify-content(space-between);
+        @include align-items(center);
+        height: 44px;
+        border-bottom: 1px dashed $morning_gray1_cor;
+    }
+
+    li:last-child { border-bottom: none;}
+
+    a {
+        display: block;
+        min-width: 45px;
+        height: 30px;
+        padding: 0 10px;
+        text-align: center;
+        font-size: 15px;
+        color: $morning_gray3_cor;
+        line-height: 30px;
+        border: 1px solid $morning_gray1_cor;
+        border-radius: 30px;
+    }
+}
+
+.player {
+    a {
+        display: block;
+    }
+
+    li {
+        padding: 7px 0;
+        border-bottom: 1px dashed $morning_gray1_cor;
+    }
+
+    img {
+        -webkit-user-select: none;
+        pointer-events: none;
+    }
+
+    li:last-child { border-bottom: none;}
+
+    .info {
+        @include display-flex();
+        @include justify-content(space-between);
+        @include align-items(center);
+        height: 40px;
+        color: $morning_gray3_cor;
+
+        a:first-child {
+            @include display-flex();
+            @include align-items(center);
+        }
+    }
+
+    .head {
+        display: inline-block;
+        width: 35px;
+        height: 40px;
+        margin-right: 15px;
+        border-radius: 2px;
+        background-color: gray;
+        overflow: hidden;
+    }
+
+    .name {
+        font-size: 15px;
+        margin-right: 15px;
+    }
+
+    .data {
+        margin-top: 7px;
+        @include display-flex();
+        @include justify-content(space-between);
+        .item {
+            text-align: center;
+        }
+
+        .key {
+            color: $morning_gray2_cor;
+        }
+
+        .value {
+            line-height: 20px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    }
+}
+
+.recap {
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+
+    .list {
+        li {
+            margin-bottom: 15px;
+        }
+
+        .time {
+            display: inline-block;
+            width: 32px;
+            margin-left: -8px;
+            text-align: right;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        p {
+            margin-left: 30px;
+            margin-top: -22px;
+        }
+    }
+
+    .gdc {
+        p { margin-bottom: 1em;}
+    }
+
+    a { color: #025fad; word-break: break-all;}
+
+}
+
+.comments {
+    li {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 1px dashed $morning_gray1_cor;
+    }
+
+    li:last-child {
+        border-bottom: none;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    .user-info {
+        @include display-flex();
+        @include justify-content(space-between);
+        @include align-items(center);
+        height: 25px;
+        margin-bottom: 8px;
+        color: $morning_gray2_cor;
+    }
+
+    .info {
+        @include display-flex();
+        @include align-items(center);
+    }
+
+    .head {
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        margin: 0 6px;
+        border-radius: 13px;
+        overflow: hidden;
+
+        img {
+            width: 25px;
+            height: 25px;
+        }
+    }
+
+    .more {
+        text-align: center;
+        a {
+            display: block;
+            color: $morning_gray2_cor;
+        }
+    }
+}
+
+.match {
+    .normal, .penalty-kick .inner {
+        @include display-flex();
+    }
+
+    .name {
+        display: block;
+        width: 85px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+
+    .left {
+        @include flex(1);
+        width: 50%;
+        text-align: right;
+        border-right: 1px dashed $morning_gray1_cor;
+
+        li {
+            @include justify-content(flex-end);
+        }
+
+        .time {
+            margin-left: 4px;
+        }
+     }
+
+    .right {
+        @include flex(1);
+        width: 50%;
+        text-align: left;
+
+        .time {
+            margin-right: 4px;
+        }
+    }
+
+    .title {
+        line-height: 24px;
+        text-align: center;
+        color: $morning_gray2_cor;
+    }
+
+    li {
+        @include display-flex();
+        @include align-items(center);
+        height: 30px;
+    }
+
+    .time, .icon-wrap {
+        display: block;
+    }
+
+    .normal .left, .normal .right {
+        padding-top: 4px;
+    }
+}
+
+.player, .video, .collection, .hot-nopic, .comments, .match {
+    a:active {
+        background-color: #e1e6eb;
+    }
+}
+
+.no-result {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    color: $morning_gray2_cor;
+}
+
+body.night {
+    color: $night_gray3_cor;
+    background-color: $night_gray0_cor;
+
+    .no-result {
+        color: $night_gray2_cor;
+    }
+
+    .icon-play-b {
+        background-image: url(./img/icon_play_b_night.png);
+    }
+
+    .icon-play {
+        background-image: url(./img/icon_play_night.png);
+    }
+
+    .icon-goal {
+        background-image: url(./img/icon_goal_night.png);
+    }
+
+    .icon-point {
+        background-image: url(./img/icon_point_night.png);
+    }
+
+    .icon-point-miss {
+        background-image: url(./img/icon_point_miss_night.png);
+    }
+
+    .icon-own {
+        background-image: url(./img/icon_own_night.png);
+    }
+
+    .icon-red {
+        background-color: #972525;
+    }
+
+    .icon-arrow-right, .icon-arrow-up, .icon-arrow-down {
+        background-image: url(./img/icon_arrow_night.png);
+    }
+
+    .section-item {
+        background-color: $night_white_cor;
+        border: 1px solid $night_gray1_cor;
+
+        .hd {
+            color: $night_gray2_cor;
+            border-bottom-color: $night_gray1_cor;
+        }
+    }
+
+    .hot-nopic {
+        a {
+            color: $night_gray3_cor;
+        }
+
+        span {
+            background-image: url(./img/icon_play_night.png);
+        }
+    }
+
+    .hot-pic {
+        p {
+            color: $night_gray3_cor;
+        }
+    }
+
+    .collection {
+        a {
+            color: $night_gray3_cor;
+        }
+
+        li {
+            border-bottom-color: $night_gray1_cor;
+        }
+
+        span {
+            background-image: url(./img/icon_play_night.png);
+        }
+
+        .more {
+            color: $night_gray2_cor;
+        }
+    }
+
+    .video {
+        li {
+            border-bottom-color: $night_gray1_cor;
+        }
+
+        a {
+            color: $night_gray3_cor;
+            border-color: $night_gray1_cor;
+        }
+    }
+
+    .player {
+        li {
+            border-bottom-color: $night_gray1_cor;
+        }
+
+        .info {
+            a {
+                color: $night_gray3_cor;
+            }
+        }
+
+        .data {
+            a {
+                color: $night_gray3_cor;
+            }
+
+            .key {
+                color: $night_gray2_cor;
+            }
+        }
+    }
+
+    .comments {
+        li {
+            border-bottom-color: $night_gray1_cor;
+        }
+
+        .name {
+            color: $night_gray2_cor;
+        }
+
+        .user-info {
+            color: $night_gray2_cor;
+        }
+
+        .more {
+            a {
+                color: $night_gray2_cor;
+            }
+        }
+    }
+
+    .match {
+        .left {
+            border-right: 1px dashed $night_gray1_cor;
+         }
+
+         .name {
+             color: $night_gray3_cor;
+         }
+
+        .title {
+            color: $night_gray2_cor;
+        }
+    }
+
+
+    .recap {
+        a {
+            color: #3c678c;
+        }
+    }
+
+    .player, .video, .collection, .hot-nopic, .match, .comments {
+        a:active {
+            background-color: #1f1f1f;
+        }
+    }
+}

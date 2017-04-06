@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+body{
+    background-color: #eeebeb;
+    -webkit-user-select: none;
+    user-select: none;
+    overflow-x:hidden;
+}
+.clearfix:after, .container:after {
+    clear: both; 
+    content: "."; 
+    display: block; 
+    height: 0; 
+    visibility: hidden;
+}
+ 
+.clear { 
+    clear: both; 
+}
+.my-nickname-wrap{
+    display: block;
+    width: 100%;
+    .title{
+        font-size: 16px;
+        padding: 12px 0 12px 10px;
+        color: #434141;
+    }
+    .nick-ipt{
+        display: block;
+        width: 100%;
+        height: 50px;
+        background-color: #FFF;
+        text-indent: 10px;
+        font-size: 14px;
+        outline: none;
+        border:none;
+    }
+    .nick-ipt:focus{
+        font-size: 14px;
+    }
+    p{
+        font-size: 14px;
+        padding: 12px 10px ;
+    }
+    .save-btn{
+        display: block;
+        height: 45px;
+        background-color: #c01e2f;
+        border-radius: 5px;
+        margin: 0 auto;
+        width: 95%;
+        color: #fff;
+        border: none;
+        outline: none;
+    }
+}
+body.night{
+    background-color: #1f1f1f !important;
+    .my-nickname-wrap{
+        .title,p{
+            color: #959595;
+        }
+        .nick-ipt{
+            background-color: #2c2c2c;
+            color: #959595;
+
+        }
+        .save-btn{
+            background-color: #99222c;
+            color: #959595;
+        }
+    } 
+    ::-webkit-input-placeholder { /* WebKit browsers */
+        color:    #5a5a5f;
+    }
+}

@@ -1,0 +1,188 @@
+{
+  "sections": 4,
+  "player_info": {
+    "player_id": "3556",
+    "tid": 27,
+    "player_name": "埃内斯-坎特",
+    "player_short_name": "坎特",
+    "player_enname": "Enes Kanter",
+    "player_header": "https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/6/3556_923_big.jpg",
+    "wingspan": "不详",
+    "standing_reach": "不详",
+    "number": "11",
+    "position": "中锋",
+    "is_birthday": "",
+    "age": "24岁",
+    "birth_date": "1992年5月20日",
+    "height": "2.11米",
+    "weight": "111公斤",
+    "contract": "4年7006万美元，2015年夏天签，2019年夏天到期，2018-19赛季球员选项，包含15%交易保证金",
+    "contract_details": "",
+    "salary": "1641万美元",
+    "draft": "2011年1轮第3顺位",
+    "college": "肯塔基大学"
+  },
+  "player_score": {
+    "sections": [
+      "section_1",
+      "section_2",
+      "section_3",
+      "section_4"
+    ],
+    "fgStats": [
+      {
+        "shot_coord_x": 25.2,
+        "shot_coord_y": 6.35,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 24.8,
+        "shot_coord_y": 5.15,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 24.1,
+        "shot_coord_y": 5.45,
+        "is_get": 0
+      },
+      {
+        "shot_coord_x": 24.9,
+        "shot_coord_y": 5.45,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 25.4,
+        "shot_coord_y": 6.35,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 8.2,
+        "shot_coord_y": 13.45,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 23.8,
+        "shot_coord_y": 5.95,
+        "is_get": 0
+      },
+      {
+        "shot_coord_x": 23.6,
+        "shot_coord_y": 8.55,
+        "is_get": 0
+      },
+      {
+        "shot_coord_x": 23.9,
+        "shot_coord_y": 4.65,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 8.2,
+        "shot_coord_y": 12.75,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 23.8,
+        "shot_coord_y": 6.85,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 25.4,
+        "shot_coord_y": 5.95,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 25.4,
+        "shot_coord_y": 8.05,
+        "is_get": 0
+      },
+      {
+        "shot_coord_x": 25.1,
+        "shot_coord_y": 6.05,
+        "is_get": 1
+      },
+      {
+        "shot_coord_x": 32.1,
+        "shot_coord_y": 23.75,
+        "is_get": 0
+      },
+      {
+        "shot_coord_x": 24.4,
+        "shot_coord_y": 4.65,
+        "is_get": 0
+      },
+      {
+        "shot_coord_x": 29.3,
+        "shot_coord_y": 7.05,
+        "is_get": 0
+      },
+      {
+        "shot_coord_x": 24.3,
+        "shot_coord_y": 5.45,
+        "is_get": 1
+      }
+    ],
+    "playerStats": {
+      "ft_made": 0,
+      "ft_missed": 0,
+      "fg_made": 11,
+      "fg_missed": 7,
+      "oreb": 5,
+      "dreb": 4,
+      "to": 3,
+      "pf": 4,
+      "violation": 0,
+      "substitution": 3,
+      "jumpball": 0,
+      "ejected": 0,
+      "ti": 30,
+      "pts": 22,
+      "asts": 1,
+      "stl": 1,
+      "blk": 0,
+      "blkr": 0,
+      "net_points": -7,
+      "jumpshot_made": 2,
+      "jumpshot_missed": 3,
+      "dunk_made": 0,
+      "dunk_missed": 0,
+      "layup_made": 8,
+      "layup_missed": 4,
+      "tipin_made": 1,
+      "tipin_missed": 0,
+      "hook_made": 0,
+      "hook_missed": 0,
+      "tpm": 0,
+      "tpa": 0,
+      "2pm": 11,
+      "2pa": 18,
+      "other_made": 0,
+      "other_missed": 0,
+      "fta": 0,
+      "ftm": 0
+    }
+  },
+  "gid": "151732",
+  "player_id": "3556",
+  "section": 0,
+  "section_status": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "is_login": 0,
+  "night": 0,
+  "projectId": "3",
+  "version": "7.0.18",
+  "client": "2dd3d40b650934544d2e8f9477a389b5ea749e5e",
+  "stat": {
+    "redis": {
+      "baseMajorSlave": 1,
+      "gamesMinorSlave": 1,
+      "cacheGamesSlave": 1,
+      "gamesMajorSlave": 2
+    },
+    "db": [],
+    "net": []
+  }
+}

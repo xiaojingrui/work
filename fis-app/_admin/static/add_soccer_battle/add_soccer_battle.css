@@ -1,0 +1,50 @@
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.fl { float: left; }
+
+.asb .main {
+	position: relative;
+}
+
+.asb .main .left {
+	margin-right: 30px;
+	width: 710px;
+	height: 627px;
+	background-image: url(./football_filed.jpg);
+	background-size: cover;
+}
+
+.asb .player {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 88px;
+	height: 90px;
+	line-height: 90px;
+	text-align: center;
+	background-image: url(./white.png); 
+	transition: .5s;
+	cursor: move;
+}
+
+.asb .player .player_inner {
+	font-size: 10px;
+	font-weight: bold;
+	padding-top: 20px;
+	line-height: normal;
+}
+
+.asb .submit {
+	margin-top: 50px;
+}
+
+.asb .container {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 710px;
+	height: 627px;
+}

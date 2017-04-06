@@ -1,0 +1,67 @@
+@charset "utf-8";
+@import "../../static/sass/sassCore/function";
+
+.vs-standings-wrap {
+    .mod-title thead tr {
+        border-top: 1px solid $morning_gray0_cor;
+    }
+}
+
+.red {
+    color: $morning_red_cor;
+}
+
+.yellow {
+    color: #f5be00;
+}
+
+.rule {
+    padding: 3px 10px;
+    margin-bottom: 2px;
+    i {
+        display: block;
+        width: 10px;
+        height: 20px;
+        background-image: url(./icon.png);
+        background-size: cover;
+    }
+
+    p {
+        margin-left: 18px;
+        margin-top: -24px;
+        line-height: 14px;
+        text-align: justify;
+        font-size: 11px;
+        color: $morning_gray2_cor;
+    }
+
+    .short {
+        margin-top: -19px;
+    }
+}
+
+body.night {
+    .vs-standings-wrap {
+        .mod-title thead tr {
+            border-top-color: $night_gray0_cor;
+        }
+    }
+
+    .red {
+        color: $night_red_cor;
+    }
+
+    .yellow {
+        color: #7a5f00;
+    }
+
+    .rule {
+        i {
+            background-image: url(./icon_night.png);
+        }
+
+        p {
+            color: $night_gray2_cor;
+        }
+    }
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,inital-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+	<title>点我回退之前页面</title>
+	<script type="text/javascript" src="http://b1.hoopchina.com.cn/games/js/hpbridge_v1.0.1.js"></script>
+	<script type="text/javascript" src="http://b1.hoopchina.com.cn/touch/static/common/js/zepto/zepto.min_6bf44a0.js"></script>
+</head>
+<body>
+<div id="bridge-container">
+	<button id="ui_back">点我回退之前页面</button>
+</div>
+
+
+<script type="text/javascript">
+	$(function(){
+		HupuBridge.send("hupu.common.markh5back",{}, function(){
+			//标记H5来处理回退.
+			//点击Native回退的时候，调用固定回调方法名 "hupu.common.onback"
+		});
+
+		HupuBridge.register("hupu.common.onback",function(){
+			// 可以对页面数据或者其他UI处理完毕后回退界面.
+
+			// 回退到最后的界面
+		    HupuBridge.send("hupu.ui.back", {}, function() {
+			    // console.log("回退到最后一个native界面, 功能和webview里的回退剪头功能一致");
+			});
+		});
+
+		$("#ui_back").click(function(){
+			// 回退到最后的界面
+		    HupuBridge.send("hupu.ui.back", {}, function() {
+			    // console.log("回退到最后一个native界面, 功能和webview里的回退剪头功能一致");
+			});
+		});
+	});
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,203 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+body {
+    line-height: 1.4286;
+    -webkit-tap-highlight-color: transparent;
+}
+img { max-width: 100%;}
+.ellipsis {
+    overflow : hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+}
+
+.ellipsis1 { -webkit-line-clamp: 1;}
+.ellipsis2 { -webkit-line-clamp: 2;}
+.ellipsis3 { -webkit-line-clamp: 3;}
+
+.special-wrap {
+	color: #434141;
+
+	.hot {
+		position: relative;
+		display: table;
+		width: 100%;
+		height: 175px;
+		background-image: url(./special_bg.png);
+		background-size: cover;
+		background-position: center;
+
+		.text {
+			display: table-cell;
+			width: 100%;
+			height: 100%;
+			padding-left: 10px;
+			padding-right: 10px;
+			vertical-align: middle;
+			color: #fff;
+			background-color: rgba(102, 102, 102, .3);
+		}
+
+		.title {
+            margin-bottom: 10px;
+            text-align: center;
+			font-size: 18px;
+		}
+
+		.content {
+            text-align: left;
+			font-size: 15px;
+		}
+	}
+
+	.main-list {
+		dt {
+			line-height: 35px;
+			padding-left: 10px;
+			background-color: #eeebeb;
+		}
+
+		dd {
+            min-height: 81px;
+			box-shadow:0 1px #eeebeb;
+			-webkit-box-shadow:0 1px #eeebeb;
+		}
+
+		a {
+			position: relative;
+			display: block;
+			padding: 8px 10px;
+		}
+
+		.index {
+			font-size: 16px;
+			color: #c21d2e;
+		}
+
+		.headline { margin-left: 10px;}
+
+		.pic {
+			width: 75px;
+			height: 65px;
+            background-color: #eeebeb;
+            background-position: center;
+            background-size: cover;
+		}
+
+		.text {
+			min-height: 65px;
+			margin-left: 85px;
+			margin-top: -68px;
+			padding-right: 6px;
+		}
+
+		.intro {
+			width: 100%;
+            margin-top: 2px;
+            font-size: 12px;
+			color: #a9a9b2;
+		}
+
+		.comment {
+			position: absolute;
+            font-size: 12px;
+			right: 10px;
+			bottom: -2px;
+			color: #a9a9b2;
+
+			i {
+				position: relative;
+				top: 3px;
+				display: inline-block;
+				width: 16px;
+				height: 16px;
+				margin-right: 2px;
+				background-image: url(./special_comment.png);
+				background-size: cover;
+			}
+		}
+
+		.pics-pattern {
+			position: relative;
+			padding-bottom: 20px;
+
+			.texts {
+				margin-bottom: 6px;
+			}
+
+			.pics {
+				@include display-flex();
+				@include justify-content(space-around);
+			}
+
+			.item {
+				@include flex(1);
+				margin-right: 5px;
+				overflow: hidden;
+			}
+
+            .comment {
+                bottom: 2px;
+            }
+		}
+
+	}
+}
+
+.top-down-app {
+    border-bottom: 1px solid #eeebeb;
+    a {
+        @include display-flex();
+        padding: 5px 10px;
+    }
+    .hupu-logo {
+        width: 50px;
+        margin-right: 10px;
+        img {
+            width: 100%;
+        }
+    }
+    .app-info {
+        @include flex(1);
+    }
+    .name {
+        font-size: 16px;
+    }
+    .text {
+        font-size: 12px;
+        color: #808080;
+    }
+    .score {
+        line-height: 5px;
+        img {
+            width: 50px;
+            vertical-align: top;
+        }
+    }
+    .button-down {
+        height: 30px;
+        line-height: 30px;
+        padding: 0 10px;
+        margin-top: 10px;
+        background: #c01e2f;
+        color: #fff;
+        @include border-radius(5px);
+    }
+}
+
+.down-app {
+    padding: 10px;
+    border-top: 1px solid #eeebeb;
+    .button-down-app {
+        display: block;
+        height: 45px;
+        line-height: 45px;
+        text-align: center;
+        font-size: 16px;
+        background: #c01e2f;
+        color: #fff;
+        @include border-radius(5px);
+    }
+}

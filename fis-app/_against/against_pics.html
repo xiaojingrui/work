@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>违禁图片</title>
+	<meta charset="utf-8"/>
+  <meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="stylesheet" type="text/css" href="js/jedate/skin/jedate.css">
+	<link rel="stylesheet" type="text/css" href="css/against.css">
+</head>
+<body>
+<div class="against-pic">
+	<div class="againsts-nav clearfix">
+		<ul>
+			<li class="active">线上违禁图片列表</li>
+			<li>广告图库管理</li>
+			<li>其他违禁图管理</li>
+		</ul>
+	</div>
+	<div class="pics-list online-list">
+		<div class="jeDate">
+			日期：从&nbsp;&nbsp;<input id="inpstart" type="text" placeholder="开始日期" value=""  readonly>
+			&nbsp;至：<input id="inpend" type="text" placeholder="结束日期"   readonly>
+			<span class="J_date_search">搜索</span>
+		</div>
+		<div class="pic-search">
+			<ul>
+				<input type="text" name="" class="pic-url" placeholder="输入图片URL">
+				<li class="J_img_search">搜索当前图片</li>
+			</ul>
+		</div>
+		<div class="pic-table">
+			<table border=1>
+				<tr class="table-hd">
+					<th width="20%">帖子或回帖链接</th>
+					<th width="20%">违禁图片</th>
+					<th width="20%">发布用户</th>
+					<th width="20%">发布时间</th>
+					<th>所属违禁图库类型</th>
+				</tr>
+					<tr>
+						<td><a href="" >{%$val.title%}</a></td>
+						<td><img src="{%$val.img_url%}" alt=""><a href="{%$val.img_url%}" target="_blank">链接</a></td>
+						<td><a href="" >{%$val.username%}</a></td>
+						<td>{%$val.publish_time%}</td>
+						<td>{%$val.type%}</td>
+					</tr>
+			</table>
+		</div>
+	</div>
+	<div class="pics-list ad-list">
+		<div class="J_ad_list">
+			
+		</div>
+		<div id="Pagination1" class="pagination"><!-- 这里显示分页 --></div>
+	</div>
+	<div class="pics-list admin-list">
+		<div class="J_admin_list">
+			
+		</div>
+		<div id="Pagination2" class="pagination"><!-- 这里显示分页 --></div>
+	</div>
+<script type="text/javascript" src="js/jedate/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="js/underscore/underscore.js"></script>
+<script type="text/javascript" src="js/jedate/jquery.jedate.min.js"></script>
+<script type="text/javascript" src="js/jquery.pagination.js"></script>
+<script type="text/javascript" src="js/against_pic.js"></script>
+<script type="text/template" id="J_tpl">
+	<div class="pic-search">
+		<ul>
+			<input type="text" name="" class="pic-url" placeholder="输入图片URL">
+			<li class="J_img_search">搜索当前图片</li>
+			<li class="J_add_img_{%$type%}">添加到当前图库</li>
+		</ul>
+	</div>
+	<div class="pic-table">
+		<table border=1>
+			<tr class="table-hd">
+				<th width="25%">序号</th>
+				<th width="25%">图片</th>
+				<th width="25%">添加用户</th>
+				<th>操作</th>
+			</tr>
+			<@ _.each(datas, function(item,index) { @>
+				<tr class="table-td">
+					<td><@=(datas.length-index)@></td>
+					<td><img width="150" src="<@=item[0]@>" alt=""><a class="imgA" target="_blank" href="<@=item[0]@>">链接</a></td>
+					<td><a href="#"><@=item[1]@></td>
+					<td>
+						<p>从图库中删除图片</p>
+					</td>
+				</tr>
+			<@})@>
+		</table>
+
+	</div>
+</script>
+<script type="text/template" id="J_admin_tpl">
+	<div class="pic-search">
+		<ul>
+			<input type="text" name="" class="pic-url" placeholder="输入图片URL">
+			<li class="J_img_search">搜索当前图片</li>
+			<li class="J_add_img_{%$type%}">添加到当前图库</li>
+		</ul>
+	</div>
+	<div class="pic-table">
+		<table border=1>
+			<tr class="table-hd">
+				<th width="25%">序号</th>
+				<th width="25%">图片</th>
+				<th width="25%">添加用户</th>
+				<th>操作</th>
+			</tr>
+			<@ _.each(datas, function(item,index) { @>
+				<tr class="table-td">
+					<td><@=(datas.length-index)@></td>
+					<td><img width="150" src="<@=item[0]@>" alt=""><a class="imgA" target="_blank" href="<@=item[0]@>">链接</a></td>
+					<td><a href="#"><@=item[1]@></a></td>
+					<td>
+						<p>从图库中删除图片</p>
+					</td>
+				</tr>
+			<@})@>
+		</table>
+	</div>
+</script>
+</div>
+</body>
+</html>
