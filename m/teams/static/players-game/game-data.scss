@@ -1,0 +1,163 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+body .nav-tab{
+    border-top: none;
+    border-bottom: 1px solid #eee;
+}
+.playersGameData-wrap {
+    .season-content {
+        // margin-bottom: 10px;
+        background: #fbfbfb;
+        .main-title {
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            h2 {
+                font-size: 14px;
+                line-height: 40px;
+            }
+        }
+        .month-title {
+            padding: 0 8px;
+            height: 30px;
+            line-height: 30px;
+            background: #eee;
+            h4 {
+                font-size: 14px;
+                font-weight: 400;
+            }
+        }
+        .table-scroll {
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            &::-webkit-scrollbar {
+                display: none;
+            }
+        }
+        .table {
+            width: 100%;
+            line-height: 30px;
+            white-space: nowrap;
+            text-align: center;
+            th,
+            td {
+                padding: 0 8px;
+                border-top: 1px solid #eee;
+            }
+            th {
+                text-align: center;
+                font-weight: 400;
+                color: #999;
+                border-top: none;
+            }
+            .number-1 {
+                width: 15%;
+            }
+            .number-2,.number-3,.number-4,.number-5,.number-6,.number-7{
+                    background-color:#fbfbfb;
+                }
+        }
+        .table-1 {
+            .number-2 {
+                min-width: 70px;
+                text-align: left;
+            }
+            .number-3 {
+                min-width: 95px;
+                text-align: left;
+            }
+        }
+    }
+    // 生涯数据
+    .career-content {
+        .table {
+            border-bottom: 1px solid #eee;
+        }
+        .general-table {
+            border-bottom: 8px solid #eee;
+        }
+        .table-2 {
+            .number-2 {
+                min-width: 70px;
+            }
+        }
+    }
+    // 技术统计
+    .technical-content {
+        text-align: center;
+        .table-3 {
+            th {
+                text-align: center;
+            }
+            .number-1,
+            .number-2 {
+                width: 33%;
+            }
+            .number-1 {
+                text-align: left;
+            }
+        }
+    }
+}
+
+//球员个人（生涯数据）
+.table-scroll{
+   
+}
+ .main-title2 {
+    background-color: #f6f6f6;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+     padding-left:20px;
+     color:#999;
+    span {
+        font-size: 14px;
+        padding-left: 6px;
+    }
+    img{
+        padding-bottom:2px;
+    }
+}
+
+.playersGameData-wrap {
+    .season-content {
+        .table1 {
+            /*  .number-1{
+                    background-color:#fff;
+                }
+            thead{
+                color:#999;
+               }
+            tbody{
+                .number-1,.number-2,.number-3,.number-4,.number-5,.number-6,.number-7{
+                    background-color:#fbfbfb;
+                }
+            } */
+            tfoot{
+                background-color:#bac2cc;
+                line-height:45px;
+                color:#fbfbfb;
+            }
+
+            width: 100%;
+            line-height: 40px;
+            white-space: nowrap;
+            text-align: center;
+            th,
+            td {
+                padding: 0 8px;
+                border-top: 1px solid #eee;
+            }
+            th {
+                text-align: center;
+                font-weight: 400;
+                color: #000;
+                border-top: none;
+            }
+        }
+    }
+}
+

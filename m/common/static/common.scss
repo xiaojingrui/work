@@ -1,0 +1,283 @@
+@charset "utf-8";
+/*
+* @Description:公用样式
+* @Author: wangjun
+* @Update: 2015-05-05 22:00
+*/
+
+@import "sass/sassCore/base";
+@import "sass/sassCore/core/reset";
+
+// 灰色遮罩怎么去掉
+a, button, input, textarea{
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+// 浮动及闭合浮动
+.fn-fl{
+    @include float;
+}
+.fn-fr{
+    @include float(right);
+}
+*, *:before, *:after {
+     @include box-sizing(border-box);
+}
+
+.fn-clear {
+    display:block;
+    float:none;
+    clear:both;
+    overflow:hidden;
+    width:auto;
+    height:0;
+    margin:0 auto;
+    padding:0;
+    font-size:0;
+    line-height:0;
+}
+.fn-clearfix {
+    @extend %clearfix;
+}
+
+.fn-hide {
+    display: none;
+}
+
+body {
+    color: #444;
+    background-color: #fff;
+    // 禁止ios和android用户选中文字
+//    -webkit-touch-callout: none;
+//    -webkit-user-select:none;
+
+    /*设置内嵌的元素在 3D 空间如何呈现：保留 3D*/
+//    -webkit-transform-style: preserve-3d;
+    /*（设置进行转换的元素的背面在面对用户时是否可见：隐藏）*/
+//    -webkit-backface-visibility: hidden;
+//    -webkit-overflow-scrolling: touch;
+}
+
+
+
+
+.m-scroll-stop {
+    overflow-y: hidden;
+}
+.content_bottom_small,
+.content_bottom_smaller {
+    text-align: center;
+}
+.m-card-split-line {
+    position: relative;
+    margin-bottom: 10px;
+    &:after {
+        display: block;
+        position: absolute;
+        left: 0;
+        bottom: -10px;
+        content: "";
+        width: 100%;
+        height: 10px;
+        overflow: hidden;
+        background: #f3f3f3;
+        border-top: 1px solid #e3e4e5;
+    }
+}
+
+
+@font-face {
+    font-family: 'iconfont';
+    src:url('./fonts/icomoon.eot?-eiadpw');
+    src:url('./fonts/icomoon.eot?#iefix-eiadpw') format('embedded-opentype'),
+    url('./fonts/icomoon.ttf?-eiadpw') format('truetype'),
+    url('./fonts/icomoon.woff?-eiadpw') format('woff'),
+    url('./fonts/icomoon.svg?-eiadpw#iconfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="icon-"], [class*=" icon-"] {
+    font-family: 'iconfont';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: 16px;
+    vertical-align: middle;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-collect:before {
+    content: "\e902";
+}
+.icon-download:before {
+    content: "\e900";
+}
+.icon-feedback:before {
+    content: "\e901";
+}
+.icon-support-away:before {
+    content: "\e800";
+}
+.icon-share:before {
+    content: "\e621";
+}
+.icon-personal-center1:before {
+    content: "\e62a";
+}
+.icon-search:before {
+    content: "\e62b";
+}
+.icon-sequence:before {
+    content: "\e62c";
+}
+.icon-sequence1:before {
+    content: "\e62d";
+}
+.icon-against:before {
+    content: "\e600";
+}
+.icon-basic-info:before {
+    content: "\e601";
+}
+.icon-bright:before {
+    content: "\e602";
+}
+.icon-comment:before {
+    content: "\e603";
+}
+.icon-comment1:before {
+    content: "\e604";
+}
+.icon-data:before {
+    content: "\e605";
+}
+.icon-emoji:before {
+    content: "\e606";
+}
+.icon-error:before {
+    content: "\e607";
+}
+.icon-event:before {
+    content: "\e608";
+}
+.icon-half-remind:before {
+    content: "\e609";
+}
+.icon-line-up:before {
+    content: "\e60a";
+}
+.icon-loading:before {
+    content: "\e60b";
+}
+.icon-my-plate:before {
+    content: "\e60c";
+}
+.icon-news:before {
+    content: "\e60d";
+}
+.icon-pass-show:before {
+    content: "\e60e";
+}
+.icon-personal-center:before {
+    content: "\e60f";
+}
+.icon-photo:before {
+    content: "\e610";
+}
+.icon-players .path1:before {
+    content: "\e611";
+    color: rgb(89, 89, 89);
+}
+.icon-players .path2:before {
+    content: "\e612";
+    margin-left: -1em;
+    color: rgb(89, 89, 89);
+}
+.icon-players .path3:before {
+    content: "\e613";
+    margin-left: -1em;
+    color: rgb(89, 89, 89);
+}
+.icon-players .path4:before {
+    content: "\e614";
+    margin-left: -1em;
+    color: rgb(89, 89, 89);
+}
+.icon-players .path5:before {
+    content: "\e615";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-players .path6:before {
+    content: "\e616";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-players .path7:before {
+    content: "\e617";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-players .path8:before {
+    content: "\e618";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-players .path9:before {
+    content: "\e619";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-players .path10:before {
+    content: "\e61a";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-players .path11:before {
+    content: "\e61b";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-players .path12:before {
+    content: "\e61c";
+    margin-left: -1em;
+    color: rgb(63, 63, 63);
+}
+.icon-post:before {
+    content: "\e61d";
+}
+.icon-quote:before {
+    content: "\e61e";
+}
+.icon-report:before {
+    content: "\e61f";
+}
+.icon-schedule:before {
+    content: "\e620";
+}
+.icon-success:before {
+    content: "\e622";
+}
+.icon-support:before {
+    content: "\e623";
+}
+.icon-technical:before {
+    content: "\e624";
+}
+.icon-text-live:before {
+    content: "\e625";
+}
+.icon-time:before {
+    content: "\e626";
+}
+.icon-top:before {
+    content: "\e627";
+}
+.icon-video:before {
+    content: "\e628";
+}

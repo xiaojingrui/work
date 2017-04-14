@@ -1,0 +1,232 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+body {
+	-webkit-tap-highlight-color: transparent;
+}
+.nbaPlayerData-wrap img { max-width: 100%; }
+.nbaPlayerData-wrap .clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.nbaPlayerData-wrap nav {
+	a {
+		display: inline-block;
+		width: 50%;
+		line-height: 35px;
+		border-bottom: 1px solid #d2d2d2;
+		text-align: center;
+		color: #444;
+	}
+
+	.info {
+		border-right: 1px solid #d2d2d2;
+	}
+
+	.active {
+		color: #dd0202;
+	}
+}
+
+.mod-title-h2 {
+	padding-left: 10px;
+	line-height: 24px;
+	font-size: 14px;
+	color: #9b9b9b;
+	background-color: #f3f3f3;
+
+	.icon {
+		position: relative;
+		top: 1px;
+		display: inline-block;
+		width: 4px;
+		height: 12px;
+		margin-right: 8px;
+		background-color: #c80c00;
+	}
+}
+
+.mod-data {
+	.bd {
+		padding: 12px 10px 0 10px; 
+	}
+
+	.subnav {
+		@include display-flex();
+		margin-bottom: 16px;
+
+		a {
+			@include flex(1);
+			display: block;
+			text-align: center;
+			span {
+				display: inline-block;
+				padding-bottom: 2px;
+				border-bottom: 3px #fff solid;
+				color: #999;
+			}
+		}
+
+		.active span {
+			border-color: #c80c00;
+			color: #3c3c3c;
+		}
+	}
+
+	.chart {
+		height: 200px;
+		.tips {
+			text-align: center;
+			color: #3c3c3c;
+
+			span {
+				margin-right: 8px;
+			}
+
+			i {
+				position: relative;
+				top: -1px;
+				display: inline-block;
+				width: 8px;
+				height: 8px;
+				margin-right: 6px;
+			}
+		}
+
+		.blue { background-color: #0065ba;}
+		.red { background-color: #952425;}
+		.orange { background-color: #ec6709;}
+		.green { background-color: #058b12;}
+
+
+		.main-wrap {
+			overflow-x: auto;
+			overflow-y: hidden;
+			margin-bottom: 10px;
+		}
+		.regular-chart, .playoff-chart { height: 180px;}
+	}
+
+	.detail {
+		dt, dd{
+			@include display-flex();
+			line-height: 28px;
+			border-bottom: 1px #e3e4e5 solid;
+		}
+		dd:last-child {
+			border-bottom: none;
+		}
+	}
+	
+	.key { color: #999; margin-right: 7px;}
+	.value { color: #c80c00;}
+	dd .col:nth-of-type(1) { @include flex(3); display: block; width: 30%;}
+	dd .col:nth-of-type(2) {  @include flex(4); display: block; width: 40%;}
+	dd .col:nth-of-type(3) {  @include flex(3); display: block; width: 30%;}
+	.col1 { display: block; min-width: 94px;}
+	.title-col .value { color: #464646;} 
+	.line { position: relative; top: -1px; color: #999; margin-right: 8px;}
+
+	.all-link {
+		display: block;
+		line-height: 36px;
+		text-align: center;
+		color: #0065ba;
+		border-top: 1px solid #e3e4e5;
+		border-bottom: 1px solid #e3e4e5;
+	}
+
+	.none {
+		color: #cacaca;
+	}
+
+	.btns { 
+		@include display-flex();
+	    @include align-items(center);
+		width: 200px; 
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-left: auto; 
+		margin-right: auto; 
+		font-size: 12px;
+		color: #999;
+	}
+	.drag-progress {
+		position: relative;
+		width: 80px;
+		height: 2px;
+		color: #999;
+		border-radius: 2px;
+		background-color: #c80c01;
+	}
+	.drag {
+		position: absolute;
+		left: 65px;
+		top: -7px;
+		width: 15px;
+		height: 15px;
+		border: 1px solid #c80c01;
+		border-radius: 50%;
+		background-color: #fff;
+		z-index: 2;
+	}
+	.btn-active {
+		color: #c80c01;
+	}
+	.all { margin-right: 10px; }
+	.ten { margin-left: 10px; }
+}
+
+.compare-data {
+	dt, dd {
+		@include display-flex();
+		@include align-items(center);
+		text-align: center;
+	}
+
+	dt { line-height: 30px; color: #c80c00;}
+	dd { margin-bottom: 6px;}
+
+	.col { 
+		@include flex(1);
+		display: block;
+		width: 20%;
+	}
+
+	.progress {
+		position: relative;
+		width: 80px;
+		height: 2px;
+		background-color: #cacaca;
+		border-radius: 2px;
+
+		.inner {
+			position: absolute;
+			top: 0;
+			height: 2px;
+			border-radius: 2px;
+
+			width: 40px;
+			background-color: #707070;
+		}
+
+		.red { background-color: #c80c00;}
+	}
+
+	.left-progress .inner { right: 0;}
+	.right-progress .inner { left: 0;}
+
+	.none .playoff-col {
+		color: #cacaca;
+	}
+}
+
+@media (max-width: 374px){
+	.mod-data .detail { font-size: 12px;}
+	.mod-data .detail .key { margin-right: 0;}
+}
+
+@media (max-width: 374px){
+	.compare-data .key { font-size: 12px;}
+}

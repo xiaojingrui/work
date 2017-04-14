@@ -1,0 +1,182 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+.soccerPlayerData-wrap img { max-width: 100%; }
+.soccerPlayerData-wrap .clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.soccerPlayerData-wrap nav {
+	a {
+		display: inline-block;
+		width: 50%;
+		line-height: 35px;
+		border-bottom: 1px solid #d2d2d2;
+		text-align: center;
+		color: #444;
+	}
+
+	.info {
+		border-right: 1px solid #d2d2d2;
+	}
+
+	.active {
+		color: #dd0202;
+	}
+}
+
+.league-data {
+	.bd {
+		padding: 12px 10px 0 10px;
+	}
+	
+	dt {
+		margin-bottom: 5px;
+		text-align: center;
+		color: #999;
+	}
+
+	dd {
+		@include display-flex();
+	    @include justify-content(center);
+	    @include align-items(center);
+	    height: 54px;
+	    margin-bottom: 16px;
+	}
+
+	.match-list { margin-bottom: 28px;}
+
+	.match-list li {
+		@include display-flex();
+	    margin-bottom: 2px;
+	    line-height: 16px;
+	}
+
+	.match {
+		width: 14px;
+		margin-right: 7px;
+		word-wrap: break-word;
+		line-height: 16.5px;
+		color: #565656;
+	}
+
+	.progress {
+		position: relative;
+		width: 230px;
+		height: 16px;
+		background-color: #bbb;
+
+		.inner {
+			position: absolute;
+			left: 0;
+			top: 0;
+			color: #fff;
+			text-align: right;
+			white-space: nowrap;
+			background-color: #efa29d;
+		}
+
+		.text {
+			margin-left: 7px;
+			margin-right: 7px;
+		}
+	}
+
+	.rank { color: #dd0202;}
+
+	.num {
+		width: 50px;
+		margin-left: 3px;
+		color: #999;
+	}
+
+
+	.detail-list li {
+		margin-bottom: 20px;
+	}
+
+	.detail-list div {
+		@include display-flex();
+		line-height: 28px;
+		border-bottom: 1px #e3e4e5 solid;
+	}
+
+	.key { display: inline-block; color: #999; margin-right: 7px; line-height: normal;}
+	.value { display: inline-block; color: #c80c00; line-height: normal;}
+	.col { @include flex(1); display: block; width: 33.33%;}
+	.col1 { display: block; min-width: 94px;}
+	.title-col .value { color: #464646;} 
+	.line { position: relative; top: -1px; color: #999; margin-right: 8px;}
+}
+
+.mod-title-h2 {
+	padding-left: 10px;
+	line-height: 24px;
+	font-size: 14px;
+	color: #9b9b9b;
+	background-color: #f3f3f3;
+
+	.icon {
+		position: relative;
+		top: 1px;
+		display: inline-block;
+		width: 4px;
+		height: 12px;
+		margin-right: 8px;
+		background-color: #c80c00;
+	}
+}
+
+.recent-data {
+	table {
+		width: 100%;
+	}
+
+	th {
+		line-height: 27px;
+		font-weight: normal;
+		color: #fff;
+		background-color: #bbb;
+	}
+
+	td {
+		height: 35px;
+		text-align: center;
+		color: #9b9b9b;
+	}
+
+	tr th:first-child {
+		padding-left: 10px;
+	}
+	tr th:last-child {
+		padding-right: 10px;
+	}
+
+	tbody tr td:first-child {
+		padding-left: 10px;
+	}
+	tbody tr td:last-child {
+		padding-right: 10px;
+	}
+
+	.click-effect {
+		background-color: rgba(0, 0, 0, .2);
+	}
+
+	.item {
+		border-bottom: 1px solid #e3e4e5;
+	}
+}
+
+.mod_no_result {
+	padding-top: 10px;
+	padding-bottom: 10px; 
+	text-align: center;
+	color: #9b9b9b;
+}
+
+@media (max-width: 375px){
+	.league-data .key { margin-right: 0;}
+}

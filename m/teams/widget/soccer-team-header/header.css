@@ -1,0 +1,118 @@
+.teams-header {
+    line-height: 24px;
+    background: url(soccer-bg.jpg) repeat top center;
+    background-size: cover;
+    color: #fff;
+}
+
+.teams-header-color {
+    padding: 20px 0 15px 0;
+}
+.teams-header .teams-main-info,
+.teams-header .teams-other {
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+}
+.teams-header .teams-main-info {
+    padding-bottom: 10px;
+}
+.teams-header .teams-left {
+    display: block;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+    text-align: right;
+}
+.teams-header .teams-right {
+    display: block;
+    -moz-box-flex: 2;
+    -webkit-box-flex: 2;
+    box-flex: 2;
+    padding-left: 22px;
+}
+.teams-header .teams-logo {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    margin: 0 20px 0 0;
+}
+.teams-header .teams-logo img {
+    width: 100%;
+}
+
+.teams-header .title {
+    padding-right:25px;
+    font-size: 12px;
+    border-right: 1px dotted rgba(255,255,255,.2);
+}
+.teams-header .font-14 {
+    font-size: 14px;
+}
+.teams-header .teams-text {
+    font-size: 16px;
+    line-height: 1.2;
+}
+
+.teams-match{
+    margin:10px auto 0;
+    width: 90%;
+}
+.match-title{
+    width:15%;
+    min-width:100px;
+    max-width:250px;
+    text-align:center;
+    line-height:26px;
+    height:26px;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    background-color:rgba(123,169,83,0.75);
+    overflow:hidden;
+    position:relative;
+}
+
+.match-area{
+    background-color:rgba(123,169,83,0.75);
+    overflow:hidden;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    border-top-right-radius:8px;
+    line-height:40px;
+    padding:5px 20px;
+}
+.match-head li,.match-item li{
+    height:40px;
+}
+.match-head{
+    float:left;
+    width:10%;
+}
+.match-item{
+    float:left;
+    width:18%;
+}
+.match-item li{
+    text-align:center;
+}
+.match-item li.hasbg{
+    position: relative;
+}
+.match-item li.hasbg:before{
+    position: absolute;
+    display: block;
+    left:0;
+    top:50%;
+    border-top:1px dotted #9fb78b;
+    content: "";
+    width:100%;
+}
+.match-item li .black{
+    color:#000;
+}
+.match-item li img{
+    position: relative;
+    max-width:35px;
+    z-index: 10;
+}

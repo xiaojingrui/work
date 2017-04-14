@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+.allBoard-wrap{
+    @include clearfix;
+}
+.sidebar{
+    @include float;
+    width: 24%;
+    li{
+        padding: 15px 0;
+        font-size: 16px;
+        text-align: center;
+        color: #444;
+        border-bottom: 1px solid #e3e4e5;
+        border-right: 1px solid #e3e4e5;
+        background-color: #f4f4f4;
+        // &:last-child{
+        //     border-bottom: none;
+        // }
+        &.cur{
+            color: #dd0202;
+            background-color: #fff;
+            border-right: 1px solid #fff;
+        }
+    }
+}
+.board-wrapper{
+    @include float;
+    width: 76%;
+    position: relative;
+    height: auto;
+    .board-list{
+        display: none;
+        ul{
+            @include clearfix;
+            padding-top: 20px;
+            padding-left: 20px;
+        }
+        li{
+            @include float;
+            width: 50%;
+            height: 45px;
+            margin-bottom: 16px;
+            a{
+                color: #005eac;
+                font-size: 14px;
+            }
+            i{
+                display: block;
+                color: #a9a9b2;
+                font-size: 12px;
+                font-style: normal;
+            }
+        }
+
+    }
+    .not-list {
+        padding: 50px 0;
+        color: #999;
+        text-align: center;
+    }
+}

@@ -1,0 +1,49 @@
+@import "../sass/sassCore/base";
+
+.common-list{
+	background-color:#fff;
+	li{
+	  	margin: 0 10px;
+		padding: 10px 0;
+		border-bottom: 1px solid #f0f0f0;
+		&:last-child{
+			border-bottom: none;
+		}
+		.video-link{
+			display: block;
+			display: -moz-box;
+			display: -webkit-box;
+		  	display: box;
+		}
+	}
+
+	.video-txt{
+		display: block;
+		-moz-box-flex: 1; 
+    	-webkit-box-flex: 1; 
+	    box-flex: 1;
+	    margin-right: 5px;
+	    height: 60px;
+	    h3{
+			height: 40px;
+			font-size: 15px;
+			line-height: 20px;
+			color: $grayDarker;	
+            overflow: hidden;        
+    	
+	    }
+
+	}
+	.img-wrap{
+		width: 120px;
+		height: 70px;
+		overflow: hidden;
+		margin-right: 8px;
+		text-align: center;
+		background-clip: padding-box;
+	  	background-size: cover;
+	  	background-position: 50% 50%;
+		background-repeat: no-repeat;
+	}
+
+}

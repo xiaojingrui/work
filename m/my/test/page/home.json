@@ -1,0 +1,251 @@
+{
+  "pageheader": {
+    "title": "念12的个人中心_虎扑体育"
+  },
+  "bottomtitle": "虎扑篮球-最篮球的世界",
+  "id4dace": "7000",
+  "mark4dace": "page_my",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//test-m.hupu.com",
+  "test": "1",
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2Fmy%3Ftest%3D1&from=m&project=hupu",
+  "uid": "26366901",
+  "username": "念12",
+  "showAdvertise": 0,
+  "message_unread": 0,
+  "pclink": "http://my.hupu.com?test=1",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "永远要将消极负面的变成积极正面的。",
+    "person": "乔丹"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "返回",
+      "url": "//test-m.hupu.com"
+    }
+  ],
+  "isself": "1",
+  "userinfos": {
+    "uid": "26366901",
+    "username": "念12",
+    "signature": "",
+    "level": "12",
+    "groups": "3",
+    "mobile": "18721488817",
+    "email": "",
+    "header": "https://i1.hoopchina.com.cn/user/901/26366901/26366901-1482147110.jpeg@45h_45w_2e",
+    "domain": "http://my.hupu.com",
+    "linkname": "26366901",
+    "sex": "0",
+    "bank": {
+      "allmoney": "45136",
+      "money": "26249",
+      "ddeposits": "8888",
+      "tdepostis": "9999"
+    },
+    "t_num": "12",
+    "project": "basketball",
+    "spaceurl": "http://my.hupu.com/26366901",
+    "checkSpam": false,
+    "deleted": null
+  },
+  "collectedForums": [
+    {
+      "fid": "44",
+      "name": "火箭专区",
+      "logo": "https://i1.hoopchina.com.cn//blogfile/201510/15/BbsImg144487871261583_110*88.png",
+      "description": "A New Age！Red 4 Ever！ Clutch City！Red Nation! #Pursuit#",
+      "forumtag": "",
+      "vieworder": "0",
+      "user_password": 0,
+      "forumindex": "//test-m.hupu.com/bbs/44"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "383",
+      "cid": "13097100",
+      "pid": "0",
+      "uid": "26366901",
+      "opt_uid": "0",
+      "type": "1",
+      "num": "2",
+      "history_num": "2",
+      "title": "念12主贴",
+      "read": "1",
+      "request": "0",
+      "update_time": "1482218748"
+    },
+    {
+      "id": "383",
+      "cid": "13097100",
+      "pid": "0",
+      "uid": "26366901",
+      "opt_uid": "0",
+      "type": "32",
+      "rec_num": "2",
+      "history_num": "2",
+      "title": "念12主贴",
+      "read": "1",
+      "request": "0",
+      "update_time": "1482218748"
+    },
+    {
+      "id": "384",
+      "cid": "13097100",
+      "pid": "1478",
+      "uid": "26366901",
+      "opt_uid": "0",
+      "type": "48",
+      "num": "10",
+      "history_num": "10",
+      "title": "念12主贴",
+      "read": "1",
+      "request": "0",
+      "update_time": "1482218711",
+      "light_num": "10",
+      "post": {
+        "pid": "1478",
+        "puid": "26366901",
+        "via": "0",
+        "content": "念12回帖",
+        "create_time": "1482218644",
+        "update_info": "",
+        "quote": "0",
+        "pre_count": "1",
+        "light_count": "10",
+        "user_banned": 0,
+        "user_name": "念12",
+        "header_small": "https://i2.hoopchina.com.cn/user/901/26366901/26366901-1482147110.jpeg@45h_45w_2e"
+      }
+    },
+    {
+      "id": "350",
+      "cid": "13096734",
+      "pid": "1411",
+      "uid": "26366901",
+      "opt_uid": "0",
+      "type": "48",
+      "num": "10",
+      "history_num": "10",
+      "title": "[流言板]全文发布管理12451551122456",
+      "read": "1",
+      "request": "0",
+      "update_time": "1482215576",
+      "light_num": "10",
+      "post": {
+        "pid": "1411",
+        "puid": "26366901",
+        "via": "3",
+        "content": "ffafsdfsdgrtgw",
+        "create_time": "1482215507",
+        "update_info": "",
+        "quote": "0",
+        "pre_count": "14",
+        "light_count": "10",
+        "user_banned": 0,
+        "user_name": "念12",
+        "header_small": "https://i2.hoopchina.com.cn/user/901/26366901/26366901-1482147110.jpeg@45h_45w_2e"
+      }
+    },
+    {
+      "id": "349",
+      "cid": "13096734",
+      "pid": "1412",
+      "uid": "26366901",
+      "opt_uid": "0",
+      "type": "48",
+      "num": "10",
+      "history_num": "10",
+      "title": "[流言板]全文发布管理12451551122456",
+      "read": "1",
+      "request": "0",
+      "update_time": "1482215574",
+      "light_num": "10",
+      "post": {
+        "pid": "1412",
+        "puid": "26366901",
+        "via": "3",
+        "content": "fsdfsfsfsdfwerwr",
+        "create_time": "1482215511",
+        "update_info": "",
+        "quote": "0",
+        "pre_count": "15",
+        "light_count": "10",
+        "user_banned": 0,
+        "user_name": "念12",
+        "header_small": "https://i2.hoopchina.com.cn/user/901/26366901/26366901-1482147110.jpeg@45h_45w_2e"
+      }
+    }
+  ],
+  "detailUrl": "//test-m.hupu.com/my/userdetail?referer=//test-m.hupu.com",
+  "collectedthreadsUrl": "//test-m.hupu.com/my/usercollectedthreads?referer=//test-m.hupu.com",
+  "repliesUrl": "//test-m.hupu.com/my/userreplies?referer=//test-m.hupu.com",
+  "threadsUrl": "//test-m.hupu.com/my/userthreads?referer=//test-m.hupu.com",
+  "messageUrl": "//test-m.hupu.com/my/remind",
+  "message_unread": 1,
+  "predictdata": {
+    "times": null,
+    "correct": null,
+    "url": "//test-m.hupu.com/predict/my"
+  }
+}

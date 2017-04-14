@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* 表情 */
+.emoji-bt-fn {
+    text-align: right;
+    color: #999;
+    font-size: .12rem;
+    line-height: 1.5;
+}
+.emoji-bt-fn .button-emoji {
+    vertical-align: sub;
+}
+
+.emoji-wrap {
+    display: none;
+    height: 1.2rem;
+    margin-top: .1rem;
+    word-wrap: break-word;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+}
+.emoji-wrap .emoji-list {
+    display: inline-block;
+    float: left;
+    width: 25%;
+    height: .4rem;
+    line-height: .4rem;
+}
+.emoji-wrap .emoji-list img {
+    max-width: 100%;
+}

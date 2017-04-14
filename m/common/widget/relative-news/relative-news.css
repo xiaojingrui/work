@@ -1,0 +1,117 @@
+
+.hot-news-list .news-txt .news-info .news-source, .hot-news-list .news-txt .news-info .news-time {
+    display: inline-block;
+}
+
+.hot-news-list .news-txt .news-status-bar:before, .hot-news-list .news-txt .news-status-bar:after {
+    content: "";
+    display: table;
+}
+.hot-news-list .news-txt .news-status-bar:after {
+    clear: both;
+}
+.hot-news-list {
+    padding: 0 10px 10px;
+    background: #fff;
+    border-bottom: 1px solid #e3e4e5;
+}
+.hot-news-list .title {
+    padding: 8px 0 10px;
+    border-bottom: 1px solid #e3e4e5;
+}
+.hot-news-list .title h2 {
+    display: inline-block;
+    padding-left: 6px;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #999;
+    border-left: 4px solid #c80c00;
+}
+
+.hot-news-list li > a {
+    display: block;
+    padding: 10px 0 0;
+    -webkit-tap-highlight-color: rgba(200, 12, 0, 0.1);
+    position: relative;
+}
+.hot-news-list li:last-child a:after{
+  display: none;
+}
+.hot-news-list li > a:after {
+    content: "";
+    display: block;
+    height: 1px;
+    background-color: #e3e4e5;
+    margin-top: 10px;
+}
+.hot-news-list li > a .news-wrap {
+    display: block;
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+}
+.hot-news-list li > a:visited {
+    color: #999;
+}
+.hot-news-list li > a:visited .news-txt h3, .hot-news-list li > a:visited .news-txt .news-status-bar {
+    color: #999;
+}
+
+.hot-news-list .news-txt {
+    display: block;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+}
+.hot-news-list .news-txt h3 {
+    height: 52px;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #444;
+    overflow: hidden;
+}
+.hot-news-list .news-txt .news-status-bar {
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    margin-top: 2px;
+    color: #999;
+    height: 20px;
+    overflow: hidden;
+}
+.hot-news-list .news-txt .news-info {
+    display: block;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+}
+.hot-news-list .news-txt .news-info .news-source {
+    display: inline-block;
+    white-space: nowrap;
+    vertical-align: bottom;
+}
+.hot-news-list .news-txt .news-info .news-time{
+   /* max-width:60px;
+    overflow: hidden;
+    vertical-align: bottom;*/
+}
+.hot-news-list .news-txt .news-view {
+    display: block;
+}
+
+.hot-news-list .news-txt .news-view .icon-comment {
+    margin-right: 2px;
+    vertical-align: sub;
+}
+
+.hot-news-list .img-wrap {
+    width: 72px;
+    height: 72px;
+    overflow: hidden;
+    margin-right: 10px;
+    text-align: center;
+    background-clip: padding-box;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}

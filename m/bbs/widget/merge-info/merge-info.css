@@ -1,0 +1,73 @@
+#mergeTips{
+	height:40px;
+	line-height: 40px;
+	background: rgb(246,245,243);	
+}
+#mergeTips>span{
+	color:rgb(183,182,187);
+	font-weight: 600;
+	vertical-align: middle;
+}
+#mergeTips>.tips-merge{
+	position: relative;
+	width:18px;
+	height:20px;
+	border-radius: 10px;
+	border:2px solid rgb(183,182,187);
+	vertical-align: middle;
+	display: inline-block;
+	margin:0 0.5em;
+}
+#mergeTips>.tips-merge:before{
+	content:"";
+	width:2px;
+	height:3px;
+	position: absolute;
+	margin-left:-1px;
+	left: 50%;
+	top:3px;
+	background:rgb(183,182,187);	
+}
+#mergeTips>.tips-merge:after{
+	content:"";
+	width:2px;
+	height:6px;
+	background:rgb(175,174,179);
+	position: absolute;
+	margin-left: -1px;
+	left: 50%;
+	top:8px;
+}
+.bbs-merge-mask{
+	top:0;
+	left:0;
+}
+.hp-merge-container {
+	top:0;
+	left:0;
+	z-index:1001;
+	position: absolute;
+	background: rgba(0, 0, 0, 0.6);
+	display: -moz-box;
+	display: -webkit-box;
+	display: box;
+	color:rgb(30,30,30);
+	font-weight:500;
+}
+.mergeContainer{
+	width:100%;
+}
+.mergeContainer>div{
+	background: white;
+	text-align: center;
+	width:60%;
+	margin:0 auto;
+}
+.mergeContainer>div>p{
+	padding:10px;
+	border-bottom: 1px solid rgb(175,175,175);
+}
+.mergeContainer>div>span{
+	height:30px;
+	line-height: 30px;	
+}

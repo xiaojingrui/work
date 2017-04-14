@@ -1,0 +1,282 @@
+{
+  "pageheader": {
+    "title": "nevergivejun的个人中心_手机虎扑网"
+  },
+  "bottomtitle": "虎扑篮球-最篮球的世界",
+  "id4dace": 7000,
+  "mark4dace": "page_my",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "http://m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": 1,
+  "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/my?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+  "uid": "5365981",
+  "username": "nevergivejun",
+  "showAdvertise": 0,
+  "description": "虎扑体育",
+  "pclink": "http://my.hupu.com?test=710998fd1b7c0235170265650770a4b1",
+  "hottitlelen": 16,
+  "columncontentlen": 46,
+  "footerword": {
+    "word": "不要换我下场，我死后多的是时间休息。",
+    "person": "巴克利 "
+  },
+  "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "http://m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "http://m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "http://m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "彩票",
+      "url": "http://t.hupu.lecai.com/",
+      "router": "caipiaoindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "返回",
+      "url": "http://m.hupu.com"
+    }
+  ],
+  "isself": true,
+  "userinfos": {
+    "uid": "5365981",
+    "username": "nevergivejun",
+    "signature": "",
+    "level": "19",
+    "header": "http://i2.hoopchina.com.cn/user/981/5365981/5365981_small_3.jpg",
+    "domain": "http://my.hupu.com",
+    "linkname": "5365981",
+    "groups": "93",
+    "email": "nevergivejun@163.com",
+    "mobile": "0",
+    "sex": "0",
+    "t_num": "19",
+    "project": "basketball",
+    "spaceurl": "http://my.hupu.com/5365981",
+    "checkSpam": "",
+    "deleted": "",
+    "bank": {
+      "allmoney": "3093",
+      "money": "0",
+      "ddeposits": "0",
+      "tdepostis": "3093"
+    }
+  },
+  "collectedForums": {
+    "2": {
+      "fid": "2",
+      "fup": "6",
+      "type": "sub",
+      "name": "NBA球队区",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "qiudui",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/2"
+    },
+    "24": {
+      "fid": "24",
+      "fup": "232",
+      "type": "forum",
+      "name": "中国篮球",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "cba",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/24"
+    },
+    "31": {
+      "fid": "31",
+      "fup": "7",
+      "type": "forum",
+      "name": "版主秘密据点",
+      "f_type": "hidden",
+      "cms": "0",
+      "url": "banzhu-xhw",
+      "allowvisit": ",179,5,4,3,51,245,66,93,87,85,28,27,16,120,297,126,",
+      "forumindex": "http://m.hupu.com/bbs/31"
+    },
+    "34": {
+      "fid": "34",
+      "fup": "174",
+      "type": "forum",
+      "name": "步行街",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "bxj",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/34"
+    },
+    "37": {
+      "fid": "37",
+      "fup": "1",
+      "type": "forum",
+      "name": "NBA选秀-NCAA",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "nba-draft-ncaa",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/37"
+    },
+    "43": {
+      "fid": "43",
+      "fup": "1",
+      "type": "forum",
+      "name": "篮球图片",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "photo",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/43"
+    },
+    "62": {
+      "fid": "62",
+      "fup": "7",
+      "type": "forum",
+      "name": "虎扑办公室",
+      "f_type": "hidden",
+      "cms": "0",
+      "url": "f1803",
+      "allowvisit": ",4,3,93,",
+      "password": "d4106ed7e906a0d0ace04d6468626e4d",
+      "forumindex": "http://m.hupu.com/bbs/62"
+    },
+    "81": {
+      "fid": "81",
+      "fup": "1",
+      "type": "forum",
+      "name": "湖人专区",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "lakers",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/81"
+    },
+    "86": {
+      "fid": "86",
+      "fup": "1",
+      "type": "forum",
+      "name": "奇才专区",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "wizards",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/86"
+    },
+    "130": {
+      "fid": "130",
+      "fup": "1",
+      "type": "forum",
+      "name": "篮球场",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "nba",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/130"
+    },
+    "151": {
+      "fid": "151",
+      "fup": "198",
+      "type": "forum",
+      "name": "国家队-世界杯",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "national",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/151"
+    },
+    "188": {
+      "fid": "188",
+      "fup": "238",
+      "type": "forum",
+      "name": "上海专区",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "shanghaicity",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/188"
+    },
+    "1048": {
+      "fid": "1048",
+      "fup": "1",
+      "type": "forum",
+      "name": "湿乎乎的话题",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "vote",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/1048"
+    },
+    "2091": {
+      "fid": "2091",
+      "fup": "234",
+      "type": "forum",
+      "name": "虎扑助学基金会",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "hccares",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/2091"
+    },
+    "2552": {
+      "fid": "2552",
+      "fup": "1",
+      "type": "forum",
+      "name": "深篮讨论区",
+      "f_type": "forum",
+      "cms": "0",
+      "url": "shenlan",
+      "allowvisit": "",
+      "forumindex": "http://m.hupu.com/bbs/2552"
+    },
+    "3336": {
+      "forumindex": "http://m.hupu.com/bbs/"
+    }
+  }
+}

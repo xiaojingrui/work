@@ -1,0 +1,119 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	position: relative;
+	font-size: 14px;
+}
+
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.fl { float: left;}
+.fr { float: right;}
+
+
+#share {
+	color: #fff;
+	text-align: center;
+}
+
+#share .earth {
+	margin-top: 20%;
+}
+
+.mod-text {
+	position: relative;
+	display: inline-block;
+	padding: 0 10px;
+	margin-top: 25px;
+	line-height: 25px;
+	background-color: #3f4356;
+	border-radius: 4px;
+	-webkit-transform: skew(-15deg);
+	transform: skew(-15deg);
+}
+
+.mod-text p {
+	-webkit-transform: skew(15deg);
+	transform: skew(15deg);
+}
+
+.mod-text .triangle-bottomright {
+	position: absolute;
+	left: 45%;
+	top: -15px;
+	display: block;
+	width: 0;
+    height: 0;
+    border-bottom: 15px solid #3f4356;
+    border-left: 15px solid transparent;
+}
+
+#share .bottom {
+	position: absolute;
+	width: 100%;
+	bottom: 45px;
+}
+
+#share .weixin-bottom .share {
+	margin-bottom: 30px;
+}
+
+#share .mine {
+	width: 125px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 41px;
+	line-height: 41px;
+	text-align: center;
+	font-size: 14px;
+	background-image: url(../img/btn_bg.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#share .others-bottom .mine {
+	margin-bottom: 45px;
+}
+
+#share .others-bottom .title {
+	width: 300px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#share .others-bottom .line {
+	position: relative;
+	top: 6px;
+	width: 120px;
+	height: 0;
+	border: 1px solid #7f8295;
+}
+
+#share .others-bottom .text {
+	margin: 0 15px;
+	color: #7f8295;
+}
+
+#share .others {
+	width: 120px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 12px;
+}
+
+#share .others .name {
+	margin-top: 4px;
+}

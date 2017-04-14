@@ -1,0 +1,12 @@
+{
+    "msg": 3,
+    "remind": 2,
+    "notifications": 5,
+    "notificationsinfo": [{
+        "id": "59275080",
+        "title": "\u4f60\u65b0\u589e\u4e86<a class='blue common_remind_read' mid='59275080' target='_blank' href='http:\/\/my.hupu.com\/18402345\/follower'>2\u4e2a\u7c89\u4e1d<\/a>"
+    }, {
+        "id": "61491455",
+        "title": "[\u5e16\u5b50]&nbsp;<a class=\"blue common_remind_read\" mid=\"61491455\" target=\"_blank\" href=\"http:\/\/bbs.hupu.com\/12137603-3.html#281998\">KD7 \u5723\u8bde\u914d\u8272  \u6210\u8272\u5168...<\/a> \u63d0\u5230\u4e86\u4f602\u6b21"
+    }]
+}

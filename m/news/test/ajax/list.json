@@ -1,0 +1,309 @@
+{
+    "node": [
+        {
+            "title": "新闻",
+            "url": "http://m.hupu.com/news"
+        },
+        {
+            "title": {
+                "title": "NBA"
+            },
+            "url": "http://m.hupu.com/nba/news"
+        }
+    ],
+    "newsList": [
+        {
+            "id": "1910274",
+            "title": "香珀特受伤，主帅盼其能尽快恢复",
+            "media": "ESPN",
+            "reply_count": "12",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910274.html",
+            "date": "2小时前",
+            "dateline": "2015-05-07 17:10:00",
+            "overview": "骑士球员伊曼-香珀特拉伤了自己的腹股沟，...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/37f1952fbea859066d0d2a3171d1267105015450.png"
+        },
+        {
+            "id": "1910270",
+            "title": "本-戈登和街球高手训练，疯狂运球不停歇",
+            "media": "Instagram",
+            "reply_count": "13",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910270.html",
+            "date": "2小时前",
+            "dateline": "2015-05-07 17:00:00",
+            "overview": "本-戈登在奥兰多开始休赛期训练，有街球高...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/cc06bcfcd5433ce21fc8dc5a67bfe34db41975b2.jpg"
+        },
+        {
+            "id": "1910265",
+            "title": "巴恩斯比赛期间向哈登母亲喷垃圾话？",
+            "media": "Twitter",
+            "reply_count": "34",
+            "light_count": "4",
+            "url": "http://m.hupu.com/nba/news/1910265.html",
+            "date": "3小时前",
+            "dateline": "2015-05-07 16:37:00",
+            "overview": "据ESPN记者爆料，巴恩斯在今天的比赛期...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/98f605887db3098b73fc2329c649a353904b1c5e.jpg"
+        },
+        {
+            "id": "1910260",
+            "title": "布拉特：都没意识到詹姆斯戴着头带",
+            "media": "Yahoo!",
+            "reply_count": "7",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910260.html",
+            "date": "3小时前",
+            "dateline": "2015-05-07 16:29:00",
+            "overview": "布拉特还对乐福表示了感谢。他表示乐福在大...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/52c8e742fbb69809bf8f4e2e0f7d0d20c5743beb.jpg"
+        },
+        {
+            "id": "1910255",
+            "title": "欧文：詹姆斯展现出了他的统治力",
+            "media": "NBA官网",
+            "reply_count": "10",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910255.html",
+            "date": "3小时前",
+            "dateline": "2015-05-07 16:14:00",
+            "overview": "詹姆斯本场比赛得到了得到33分8个篮板5...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/1fe93a9e1646860dac8ad8d73d50615493578d92.png"
+        },
+        {
+            "id": "1910253",
+            "title": "巴恩斯祝保罗生快不忘揶揄哈登",
+            "media": "Instagram",
+            "reply_count": "37",
+            "light_count": "3",
+            "url": "http://m.hupu.com/nba/news/1910253.html",
+            "date": "3小时前",
+            "dateline": "2015-05-07 16:07:00",
+            "overview": "巴恩斯发了一张充满内涵的照片，祝福保罗3...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/e69254f82dd7be40e06487c42b9dbf830804c456.png"
+        },
+        {
+            "id": "1910250",
+            "title": "骑士汤普森：首发了对我没有区别",
+            "media": "NBA官网",
+            "reply_count": "9",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910250.html",
+            "date": "4小时前",
+            "dateline": "2015-05-07 15:44:00",
+            "overview": "在今天比赛中比赛骑士大前锋汤普森季后赛首...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/c06f24fb1662e039850e72d26cb2c0fa6a7c9cdf.png"
+        },
+        {
+            "id": "1910247",
+            "title": "雷-阿伦与莫宁赴宴，韦德波什亦到场",
+            "media": "Instagram",
+            "reply_count": "28",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910247.html",
+            "date": "4小时前",
+            "dateline": "2015-05-07 15:29:00",
+            "overview": "雷-阿伦参加某奢侈品牌在迈阿密举办的高端...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/f47983598b38e2d020dd6df5624b0184c9e135ad.jpg"
+        },
+        {
+            "id": "1910241",
+            "title": "兰多夫：我们回到主场也不能放松",
+            "media": "旧金山纪事报",
+            "reply_count": "10",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910241.html",
+            "date": "4小时前",
+            "dateline": "2015-05-07 15:09:52",
+            "overview": "灰熊现在与勇士战成了1-1，接下来的两场...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/93cf01421cf94f776c4bfbd743649b66691de223.jpg"
+        },
+        {
+            "id": "1910239",
+            "title": "勇士格林：人人都期待着我们在季后赛中不败",
+            "media": "旧金山纪事报",
+            "reply_count": "42",
+            "light_count": "2",
+            "url": "http://m.hupu.com/nba/news/1910239.html",
+            "date": "4小时前",
+            "dateline": "2015-05-07 15:07:27",
+            "overview": "勇士昨天遭遇了他们本赛季季后赛的首场失利...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/38ee02d371f37dc690a82326f2fcbae80e80a853.jpg"
+        },
+        {
+            "id": "1910240",
+            "title": "罗斯：我们必须立即做出改变",
+            "media": "ESPN",
+            "reply_count": "6",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910240.html",
+            "date": "4小时前",
+            "dateline": "2015-05-07 15:04:27",
+            "overview": "罗斯表示球队必须解决第一节就大比分落后的...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/426992c76911696890b4d660b78fb9e59f5e6163.jpg"
+        },
+        {
+            "id": "1910238",
+            "title": "格里芬季后赛连续5场数据邓肯后首人",
+            "media": "Twitter",
+            "reply_count": "19",
+            "light_count": "1",
+            "url": "http://m.hupu.com/nba/news/1910238.html",
+            "date": "4小时前",
+            "dateline": "2015-05-07 15:04:00",
+            "overview": "格里芬季后赛连续5场比赛得到24分12篮...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/0e9a5f5aefc650ee497af9d978b996abc3bd5610.png"
+        },
+        {
+            "id": "1910235",
+            "title": "特里：系列赛现在才真正开始",
+            "media": "Twitter",
+            "reply_count": "27",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910235.html",
+            "date": "4小时前",
+            "dateline": "2015-05-07 14:48:00",
+            "overview": "特里认为，当你赢了一场球之后系列赛才能真...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/4327411cb8b9dcfabdf648357422ca950fe65c9d.jpg"
+        },
+        {
+            "id": "1910234",
+            "title": "麦帅：下场休息让哈登冷静了下来",
+            "media": "休斯顿纪事报",
+            "reply_count": "14",
+            "light_count": "2",
+            "url": "http://m.hupu.com/nba/news/1910234.html",
+            "date": "5小时前",
+            "dateline": "2015-05-07 14:27:00",
+            "overview": "在下半场刚一开始，火箭球员詹姆斯-哈登就...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/4d35be8047414ee135f13ef530d0d318e02e4f05.jpg"
+        },
+        {
+            "id": "1910231",
+            "title": "哈登：不想再让胜利从手上溜走了",
+            "media": "Twitter",
+            "reply_count": "17",
+            "light_count": "2",
+            "url": "http://m.hupu.com/nba/news/1910231.html",
+            "date": "5小时前",
+            "dateline": "2015-05-07 14:14:22",
+            "overview": "哈登称接下来的两场比赛将会很难打，但是他...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/303589c8675c111e4fdd055d0d4566bca9f086d9.jpg"
+        },
+        {
+            "id": "1910228",
+            "title": "麦克海尔：下半场限制住了格里芬",
+            "media": "休斯顿纪事报",
+            "reply_count": "20",
+            "light_count": "2",
+            "url": "http://m.hupu.com/nba/news/1910228.html",
+            "date": "5小时前",
+            "dateline": "2015-05-07 13:57:00",
+            "overview": "上半场火箭让快船前锋格里芬得到了26分，...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/e45728a64c0d219fc65e53d57fd26266827cf9a8.png"
+        },
+        {
+            "id": "1910227",
+            "title": "吉米：有没有头带詹姆斯都是伟大球员",
+            "media": "芝加哥论坛报",
+            "reply_count": "14",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910227.html",
+            "date": "5小时前",
+            "dateline": "2015-05-07 13:56:00",
+            "overview": "詹姆斯在今天重新戴上了发带，但是巴特勒并...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/f641d95b00b35bd45054944d750715a241401768.jpg"
+        },
+        {
+            "id": "1910230",
+            "title": "阿里扎：我们需要继续进步",
+            "media": "休斯顿纪事报",
+            "reply_count": "8",
+            "light_count": "0",
+            "url": "http://m.hupu.com/nba/news/1910230.html",
+            "date": "5小时前",
+            "dateline": "2015-05-07 13:50:14",
+            "overview": "特雷沃-阿里扎在下半场发挥出色，帮助火箭...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/bbab6391d7d5a4ee4ed26caa2e1f41564089668e.jpg"
+        },
+        {
+            "id": "1910225",
+            "title": "火箭64罚球创NBA季后赛纪录",
+            "media": "Twitter",
+            "reply_count": "51",
+            "light_count": "7",
+            "url": "http://m.hupu.com/nba/news/1910225.html",
+            "date": "6小时前",
+            "dateline": "2015-05-07 13:41:00",
+            "overview": "火箭成为22年来首支在季后赛获得64罚球...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150507/4f0b3077755fae534f04852d0d3502c5f03cb9b4.jpg"
+        },
+        {
+            "id": "1910224",
+            "title": "格里芬：火箭罚中数比我们总罚球数都多",
+            "media": "Twitter",
+            "reply_count": "47",
+            "light_count": "7",
+            "url": "http://m.hupu.com/nba/news/1910224.html",
+            "date": "6小时前",
+            "dateline": "2015-05-07 13:35:20",
+            "overview": "火箭今天全场罚球命中数比快船罚球总数多1...",
+            "img": "http://img04.store.sogou.com/net/a/56/link?appid=56&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150507/eacd9dc989fb28a1302bbb1f9985b3d6427cc528.jpg"
+        }
+    ],
+    "page": 1,
+    "router": "nbanewslist",
+    "pageCount": 12,
+    "tags": {
+        "1": {
+            "id": "3020,2700,2922,3022,2978,3033,2985,821,3026,3019,3030,3035,3036,3023,2987,3024,3021,2990,2982,2994,2984,3025,3008,2997,3027,3029,3034",
+            "name": "诸强",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        },
+        "466": {
+            "id": 466,
+            "name": "转会",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        },
+        "811": {
+            "id": 811,
+            "name": "火箭",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        },
+        "846": {
+            "id": 846,
+            "name": "湖人",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        },
+        "2698": {
+            "id": 2698,
+            "name": "热火",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        },
+        "2707": {
+            "id": 2707,
+            "name": "言论",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        },
+        "4587": {
+            "id": 4587,
+            "name": "花边",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        },
+        "11983": {
+            "id": 11983,
+            "name": "伤病",
+            "listrouter": "nbanewstagindex",
+            "detailrouter": "nbanewsdetail"
+        }
+    }
+}

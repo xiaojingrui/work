@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+/**
+ * 比赛战报（公用篮球、足球）
+ */
+.report-wrap{
+    padding:15px 10px;
+    .artical-title {
+        margin-bottom: .1rem;
+        text-align: center;
+        .headline {
+            font-size: .2rem;
+            font-weight: 700;
+            color: #444;
+        }
+        .artical-info {
+            color: #999;
+            span {
+                margin: 0 .05rem;
+            }
+        }
+    }
+    .article-content {
+        font-size: .18rem;
+        text-indent: .2em;
+        img{
+            display: block;
+            max-width: 3.0rem;
+            margin: 0 auto .1rem;
+        }
+        p{
+            margin-bottom: .25rem;
+            color: #444;
+            //        line-height: 20px;
+        }
+        a {
+            color: #005eac;
+        }
+
+        .video-play {
+            position: relative;
+            .btn-video-play {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                width: .4rem;
+                height: .4rem;
+                margin: -.2rem 0 0 -.2rem;
+                overflow: hidden;
+                background: rgba(255,255,255,.8);
+                @include border-radius(50%);
+
+                &:after {
+                    position: absolute;
+                    content: "";
+//                    @include arrow(right,1rem,$red);
+                    top: 50%;
+                    left: 50%;
+                    width: 0;
+                    height: 0;
+                    margin: -.1rem 0 0 -.05rem;
+                    border-color: transparent transparent transparent $red;
+                    border-width: .1rem .1rem .1rem .12rem;
+                    border-style: solid;
+                    overflow: hidden;
+
+                }
+            }
+        }
+    }
+}

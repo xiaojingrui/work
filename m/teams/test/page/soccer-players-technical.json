@@ -1,0 +1,93 @@
+{
+    "baseurl": "http://m.hupu.com",
+    "test": "710998fd1b7c0235170265650770a4b1",
+    "_islogin": 0,
+    "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://192.168.8.36/soccer/england/team/161/player/104107?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+    "uid": "",
+    "username": "",
+    "showAdvertise": 0,
+    "description": "虎扑体育",
+    "pclink": "http://soccer.hupu.com/england/team/161/player/104107?test=710998fd1b7c0235170265650770a4b1",
+    "hottitlelen": 16,
+    "columncontentlen": 46,
+    "footerword": {
+        "word": "没有人能真正给我穿着上的建议，我会穿我喜欢的衣服，不管别人怎么看。",
+        "person": "贝克汉姆"
+    },
+    "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+    "topNav": [
+        {
+            "title": "NBA",
+            "router": "nbaindex",
+            "url": "http://m.hupu.com/nba"
+        },
+        {
+            "title": "CBA",
+            "router": "cbanewsindex",
+            "url": "http://m.hupu.com/cba/news/"
+        },
+        {
+            "title": "足球",
+            "router": "soccerindex",
+            "url": "http://m.hupu.com/soccer"
+        },
+        {
+            "title": "论坛",
+            "router": "bbsindex",
+            "url": "http://m.hupu.com/bbs"
+        },
+        {
+            "title": "识货",
+            "url": "http://m.shihuo.cn/",
+            "router": "shihuoindex",
+            "target": "_blank"
+        },
+        {
+            "title": "彩票",
+            "url": "http://t.hupu.lecai.com/",
+            "router": "caipiaoindex",
+            "target": "_blank"
+        }
+    ],
+    "node": [
+        {
+            "title": "足球",
+            "url": "http://m.hupu.com/soccer"
+        },
+        {
+            "title": "英超",
+            "url": "http://m.hupu.com/soccer/england"
+        }
+    ],
+    "playerInfo": {
+        "league_id": 2,
+        "season_id": 2015,
+        "team_id": 161,
+        "team_name": "阿森纳",
+        "player_id": 104107,
+        "name": "大卫-奥斯皮纳",
+        "known_name": "奥斯皮纳",
+        "position": 1,
+        "name_en": "David Ospina",
+        "known_name_en": "Ospina",
+        "birth_date": "1988-08-31",
+        "age": 26,
+        "first_nationality": "Colombia",
+        "weight": 80,
+        "height": 183,
+        "jersey_num": 13,
+        "real_position": 1,
+        "real_position_side": 0,
+        "join_date": "2014-07-28",
+        "country": "哥伦比亚",
+        "preferred_foot": 0,
+        "worth": 800,
+        "description": null,
+        "image_86x120_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/player/86x120/104107.jpg",
+        "image_130x180_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/player/130x180/104107.jpg",
+        "page_urls": {
+            "info_url": "http://m.hupu.com/soccer/csl/team/3259/player/103659",
+            "stats_url": "http://m.hupu.com/soccer/csl/team/3259/stats/103659"
+        }
+    }
+}

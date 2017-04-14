@@ -1,0 +1,387 @@
+{
+	"pageheader": {
+		"title": "布赖斯-科顿职业生涯数据汇总_手机虎扑网"
+	},
+	"bottomtitle": "虎扑篮球-最篮球的世界",
+	"project": "nba",
+	"site": "nba",
+	"logo": "nba_logo_new.png",
+	"pageBottomSpread": [{
+		"name": "NBA",
+		"url": "/bbs/1048"
+	}, {
+		"name": "足球",
+		"url": "/bbs/1389"
+	}, {
+		"name": "步行街",
+		"url": "/bbs/34"
+	}, {
+		"name": "情感",
+		"url": "/bbs/160"
+	}, {
+		"name": "影视",
+		"url": "/bbs/120"
+	}],
+	"baseurl": "http://m.hupu.com",
+	"test": "710998fd1b7c0235170265650770a4b1",
+	"_islogin": 1,
+	"loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/nba/players/brycecotton-4981/2?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+	"uid": "26794990",
+	"username": "小熊2015",
+	"showAdvertise": 0,
+	"description": "手机虎扑网NBA频道赛事中心布赖斯-科顿职业生涯数据汇总，包括场均得分、场均助攻、场均篮板、场均盖帽、场均抢断等布赖斯-科顿职业生涯数据。",
+	"pclink": "http://nba.hupu.com/players/brycecotton-4981/2?test=710998fd1b7c0235170265650770a4b1",
+	"hottitlelen": 16,
+	"columncontentlen": 46,
+	"footerword": {
+		"word": "只有把握住机会，才能打好自己的比赛。",
+		"person": "姚明"
+	},
+	"videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+	"daceChannel": "nba",
+	"keywords": "布赖斯-科顿生涯数据",
+	"topNav": [{
+		"title": "NBA",
+		"router": "nbaindex",
+		"url": "http://m.hupu.com/nba"
+	}, {
+		"title": "CBA",
+		"router": "cbanewsindex",
+		"url": "http://m.hupu.com/cba/news/"
+	}, {
+		"title": "足球",
+		"router": "soccerindex",
+		"url": "http://m.hupu.com/soccer"
+	}, {
+		"title": "论坛",
+		"router": "bbsindex",
+		"url": "http://m.hupu.com/bbs"
+	}, {
+		"title": "识货",
+		"url": "http://m.shihuo.cn/",
+		"router": "shihuoindex",
+		"target": "_blank"
+	}, {
+		"title": "彩票",
+		"url": "http://m.aicai.com/p/hupu.do?agentId=2334716&vt=5&referer=m&ssid=1be5c64d83a66b7c54697505a12ebf40",
+		"router": "caipiaoindex",
+		"target": "_blank"
+	}],
+	"level2": [{
+		"name": "比赛",
+		"router": "nbacenter",
+		"url": "http://m.hupu.com/nba/game"
+	}, {
+		"name": "新闻",
+		"router": "nbanewsindex",
+		"url": "http://m.hupu.com/nba/news/"
+	}, {
+		"name": "球队",
+		"router": "nbateam",
+		"url": "http://m.hupu.com/nba/standing"
+	}, {
+		"name": "论坛",
+		"router": "forumindex",
+		"param": {
+			"fid": 1048
+		},
+		"url": "http://m.hupu.com/bbs/1048"
+	}],
+	"node": [{
+		"title": "灰熊",
+		"url": "http://m.hupu.com/nba/teams/grizzlies"
+	}],
+	"playerBasic": {
+		"id": "4981",
+		"hupuid": "4981",
+		"team_id": "19",
+		"beitai_pid": "575469",
+		"name": "布赖斯-科顿",
+		"alias": "科顿",
+		"eng_name": "Bryce Cotton",
+		"first_name": "Bryce",
+		"last_name": "Cotton",
+		"photo": "/uploads/gamespace/players/23682045821f107acbe786ca20fe9b30.png",
+		"big_photo": "/uploads/gamespace/players/1147ab881fdd72e9c9f513afe7a5783f.png",
+		"espn_id": null,
+		"espn_name": "",
+		"number": "8",
+		"position": "PG",
+		"age": "24",
+		"birth_date": "713462400",
+		"first_year": "2014",
+		"height": "73",
+		"weight": "165",
+		"wage": "1年1万美元，2016年4签，2016年夏天到期",
+		"salary": "1",
+		"country": "美国",
+		"draft_year": "0",
+		"draft_round": "0",
+		"draft_pick": "0",
+		"high_school": "Palo Verde HS",
+		"college_school": "普罗维登斯学院",
+		"player_link": "http://m.hupu.com/nba/players/brycecotton-4981",
+		"photo_link": "http://c2.hoopchina.com.cn/uploads/gamespace/players/23682045821f107acbe786ca20fe9b30.png",
+		"big_photo_link": "http://c2.hoopchina.com.cn/uploads/gamespace/players/1147ab881fdd72e9c9f513afe7a5783f.png",
+		"playerId": "4981",
+		"height_fix": "1.85",
+		"weight_fix": "75",
+		"height_fix2": "6尺1",
+		"birth_date_fix2": "1992/08/11",
+		"position_zh_name": "控球后卫",
+		"wingspan": "1.88",
+		"standing_reach": "2.41",
+		"team_name": "灰熊",
+		"team_link": "http://m.hupu.com/nba/teams/grizzlies"
+	},
+	"playerStats": {
+		"REGULAR": [{
+			"id": "4438",
+			"player_id": "4981",
+			"player_name": "布赖斯-科顿",
+			"team_id": "22",
+			"team_name": "爵士",
+			"season": "2014-15",
+			"match_type": "REGULAR",
+			"games": "15",
+			"games_started": "0",
+			"mins": "10.6",
+			"pts": "5.3",
+			"fga": "4.6",
+			"fgm": "1.9",
+			"fgp": "42.0",
+			"tpt": "21",
+			"tpa": "1.3",
+			"tpm": "0.5",
+			"tpp": "35.0",
+			"fpt": "15",
+			"fta": "1.2",
+			"ftm": "1.0",
+			"ftp": "83.3",
+			"dreb": "1.0",
+			"oreb": "0.2",
+			"reb": "1.2",
+			"asts": "1.0",
+			"stl": "0.27",
+			"blk": "0.00",
+			"to": "0.80",
+			"pf": "6",
+			"tf": "0",
+			"plus_minus": "4.13",
+			"sequence": "1",
+			"foul": "0.40",
+			"team_link": "http://m.hupu.com/nba/teams/jazz",
+			"season_s": "14-15"
+		}, {
+			"id": "5960",
+			"player_id": "4981",
+			"player_name": "布赖斯-科顿",
+			"team_id": null,
+			"team_name": "太阳|灰熊",
+			"season": "2015-16",
+			"match_type": "REGULAR",
+			"games": "8",
+			"games_started": "0",
+			"mins": "4.9",
+			"pts": "1.0",
+			"fga": "1.2",
+			"fgm": "0.5",
+			"fgp": "40.0",
+			"tpt": "0",
+			"tpa": "0.4",
+			"tpm": "0.0",
+			"tpp": "0.0",
+			"fpt": "0",
+			"fta": "0.0",
+			"ftm": "0.0",
+			"ftp": "0.0",
+			"dreb": "0.0",
+			"oreb": "0.0",
+			"reb": "0.0",
+			"asts": "0.4",
+			"stl": "0.38",
+			"blk": "0.00",
+			"to": "0.62",
+			"pf": "2",
+			"tf": "0",
+			"plus_minus": "0.38",
+			"sequence": "0",
+			"foul": "0.25",
+			"team_link": "http://m.hupu.com/nba/teams/",
+			"season_s": "15-16"
+		}],
+		"PLAYOFF": [],
+		"REGULAR_AVG": {
+			"id": 452.08695652174,
+			"player_id": 433.13043478261,
+			"team_id": 0.95652173913043,
+			"season": 175.17391304348,
+			"games": 1,
+			"games_started": 0,
+			"mins": "8.6",
+			"pts": "3.8",
+			"fga": "3.4",
+			"fgm": "1.4",
+			"fgp": "41.8%",
+			"tpt": 0.91304347826087,
+			"tpa": "1.0",
+			"tpm": "0.3",
+			"tpp": "30.4%",
+			"fpt": 0.65217391304348,
+			"fta": "0.8",
+			"ftm": "0.7",
+			"ftp": "83.3%",
+			"dreb": "0.7",
+			"oreb": "0.1",
+			"reb": "0.8",
+			"asts": "0.8",
+			"stl": "0.30",
+			"blk": "0.00",
+			"to": "0.74 ",
+			"pf": "0.3",
+			"tf": 0,
+			"plus_minus": 0.19608695652174,
+			"sequence": 0.043478260869565,
+			"foul": "0.35",
+			"count": "11.5"
+		},
+		"PLAYOFF_AVG": []
+	},
+	"playerbestdata": {
+		"REGULAR_AVG": {
+			"pts": {
+				"val": "27.2",
+				"pid": "650"
+			},
+			"reb": {
+				"val": "12.7",
+				"pid": "683"
+			},
+			"asts": {
+				"val": "6.9",
+				"pid": "650"
+			},
+			"stl": {
+				"val": "1.79",
+				"pid": "3311"
+			},
+			"blk": {
+				"val": "2.17",
+				"pid": "693"
+			},
+			"to": {
+				"val": "3.36 ",
+				"pid": "650"
+			},
+			"fgp": {
+				"val": "50",
+				"pid": "1384"
+			},
+			"tpp": {
+				"val": "30.4",
+				"pid": "4981"
+			},
+			"ftp": {
+				"val": "83.3",
+				"pid": "4981"
+			},
+			"mins": {
+				"val": "39.0",
+				"pid": "650"
+			},
+			"games": {
+				"val": 1,
+				"pid": "650"
+			},
+			"games_started": {
+				"val": "75.8",
+				"pid": "650"
+			},
+			"fga": {
+				"val": "19.7",
+				"pid": "650"
+			},
+			"tpa": {
+				"val": "7.3",
+				"pid": "3311"
+			},
+			"fta": {
+				"val": "8.9",
+				"pid": "683"
+			},
+			"pf": {
+				"val": "3.3",
+				"pid": "683"
+			}
+		},
+		"PLAYOFF_AVG": {
+			"pts": {
+				"val": "28.2",
+				"pid": "650"
+			},
+			"reb": {
+				"val": "14.0",
+				"pid": "683"
+			},
+			"asts": {
+				"val": "7.2",
+				"pid": "3311"
+			},
+			"stl": {
+				"val": "1.80",
+				"pid": "3311"
+			},
+			"blk": {
+				"val": "2.62",
+				"pid": "683"
+			},
+			"to": {
+				"val": "3.71 ",
+				"pid": "3311"
+			},
+			"fgp": {
+				"val": "44",
+				"pid": "1384"
+			},
+			"tpp": {
+				"val": "",
+				"pid": "1209"
+			},
+			"ftp": {
+				"val": "79",
+				"pid": "1384"
+			},
+			"mins": {
+				"val": "42.5",
+				"pid": "650"
+			},
+			"games": {
+				"val": 1,
+				"pid": "650"
+			},
+			"games_started": {
+				"val": "17.8",
+				"pid": "650"
+			},
+			"fga": {
+				"val": "21.4",
+				"pid": "252"
+			},
+			"tpa": {
+				"val": "9.9",
+				"pid": "3311"
+			},
+			"fta": {
+				"val": "10.2",
+				"pid": "683"
+			},
+			"pf": {
+				"val": "4.0",
+				"pid": "3567"
+			}
+		}
+	},
+	"basicurl": "http://m.hupu.com/nba/players/brycecotton-4981",
+	"careerurl": "http://m.hupu.com/nba/players/brycecotton-4981/2",
+	"careerdataurl": "http://m.hupu.com/nba/players/brycecotton-4981/1 "
+}

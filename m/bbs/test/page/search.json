@@ -1,0 +1,2184 @@
+{
+    "pageheader": {
+        "title": "虎扑论坛_手机虎扑网"
+    },
+    "bottomtitle": "虎扑体育 - 你的体育全世界！",
+    "site": "sports",
+    "id4dace": 5000,
+    "mark4dace": "page_bbs",
+    "baseurl": "http://m.hupu.com",
+    "test": "710998fd1b7c0235170265650770a4b1",
+    "_islogin": 0,
+    "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/bbs?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+    "uid": "",
+    "username": "",
+    "showAdvertise": 0,
+    "description": "虎扑体育",
+    "pclink": "http://bbs.hupu.com?test=710998fd1b7c0235170265650770a4b1",
+    "hottitlelen": 16,
+    "columncontentlen": 46,
+    "footerword": {
+        "word": "我做的所有事情，都只是想成为我自己。",
+        "person": "杜兰特"
+    },
+    "lastPage":"list",
+    "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+    "bbsnav": [
+        {
+            "name": "NBA",
+            "hotfid": 1048,
+            "forums": [
+                {
+                    "name": "话题区",
+                    "fid": "1048",
+                    "url": "http://m.hupu.com/bbs/1048"
+                },
+                {
+                    "name": "篮球场",
+                    "fid": "130",
+                    "url": "http://m.hupu.com/bbs/130"
+                },
+                {
+                    "name": "深篮讨论",
+                    "fid": "2552",
+                    "url": "http://m.hupu.com/bbs/2552"
+                },
+                {
+                    "name": "问答",
+                    "fid": "1218",
+                    "url": "http://m.hupu.com/bbs/1218"
+                },
+                {
+                    "name": "火箭",
+                    "fid": "44",
+                    "url": "http://m.hupu.com/bbs/44"
+                },
+                {
+                    "name": "骑士",
+                    "fid": "85",
+                    "url": "http://m.hupu.com/bbs/85"
+                },
+                {
+                    "name": "湖人",
+                    "fid": "81",
+                    "url": "http://m.hupu.com/bbs/81"
+                },
+                {
+                    "name": "热火",
+                    "fid": "77",
+                    "url": "http://m.hupu.com/bbs/77"
+                },
+                {
+                    "name": "小牛",
+                    "fid": "80",
+                    "url": "http://m.hupu.com/bbs/80"
+                },
+                {
+                    "name": "公牛",
+                    "fid": "68",
+                    "url": "http://m.hupu.com/bbs/68"
+                },
+                {
+                    "name": "快船",
+                    "fid": "127",
+                    "url": "http://m.hupu.com/bbs/127"
+                },
+                {
+                    "name": "凯尔特人",
+                    "fid": "82",
+                    "url": "http://m.hupu.com/bbs/82"
+                },
+                {
+                    "name": "马刺",
+                    "fid": "105",
+                    "url": "http://m.hupu.com/bbs/105"
+                },
+                {
+                    "name": "太阳",
+                    "fid": "71",
+                    "url": "http://m.hupu.com/bbs/71"
+                },
+                {
+                    "name": "雷霆",
+                    "fid": "108",
+                    "url": "http://m.hupu.com/bbs/108"
+                },
+                {
+                    "name": "尼克斯",
+                    "fid": "92",
+                    "url": "http://m.hupu.com/bbs/92"
+                },
+                {
+                    "name": "魔术",
+                    "fid": "88",
+                    "url": "http://m.hupu.com/bbs/88"
+                },
+                {
+                    "name": "森林狼",
+                    "fid": "76",
+                    "url": "http://m.hupu.com/bbs/76"
+                },
+                {
+                    "name": "NBA2K",
+                    "fid": "1028",
+                    "url": "http://m.hupu.com/bbs/1028"
+                },
+                {
+                    "name": "篮球图片",
+                    "fid": "43",
+                    "url": "http://m.hupu.com/bbs/43"
+                },
+                {
+                    "name": "裁判",
+                    "fid": "1726",
+                    "url": "http://m.hupu.com/bbs/1726"
+                },
+                {
+                    "name": "开拓者",
+                    "fid": "96",
+                    "url": "http://m.hupu.com/bbs/96"
+                },
+                {
+                    "name": "鹈鹕",
+                    "fid": "89",
+                    "url": "http://m.hupu.com/bbs/89"
+                },
+                {
+                    "name": "奇才",
+                    "fid": "86",
+                    "url": "http://m.hupu.com/bbs/86"
+                },
+                {
+                    "name": "篮网",
+                    "fid": "84",
+                    "url": "http://m.hupu.com/bbs/84"
+                },
+                {
+                    "name": "勇士",
+                    "fid": "102",
+                    "url": "http://m.hupu.com/bbs/102"
+                },
+                {
+                    "name": "活塞",
+                    "fid": "87",
+                    "url": "http://m.hupu.com/bbs/87"
+                },
+                {
+                    "name": "灰熊",
+                    "fid": "128",
+                    "url": "http://m.hupu.com/bbs/128"
+                },
+                {
+                    "name": "步行者",
+                    "fid": "74",
+                    "url": "http://m.hupu.com/bbs/74"
+                },
+                {
+                    "name": "76人",
+                    "fid": "124",
+                    "url": "http://m.hupu.com/bbs/124"
+                },
+                {
+                    "name": "爵士",
+                    "fid": "70",
+                    "url": "http://m.hupu.com/bbs/70"
+                },
+                {
+                    "name": "掘金",
+                    "fid": "72",
+                    "url": "http://m.hupu.com/bbs/72"
+                },
+                {
+                    "name": "老鹰",
+                    "fid": "126",
+                    "url": "http://m.hupu.com/bbs/126"
+                },
+                {
+                    "name": "黄蜂",
+                    "fid": "125",
+                    "url": "http://m.hupu.com/bbs/125"
+                },
+                {
+                    "name": "国王",
+                    "fid": "79",
+                    "url": "http://m.hupu.com/bbs/79"
+                },
+                {
+                    "name": "猛龙",
+                    "fid": "90",
+                    "url": "http://m.hupu.com/bbs/90"
+                },
+                {
+                    "name": "雄鹿",
+                    "fid": "110",
+                    "url": "http://m.hupu.com/bbs/110"
+                },
+                {
+                    "name": "选秀",
+                    "fid": "37",
+                    "url": "http://m.hupu.com/bbs/37"
+                },
+                {
+                    "name": "世界篮球",
+                    "fid": "129",
+                    "url": "http://m.hupu.com/bbs/129"
+                },
+                {
+                    "name": "女篮",
+                    "fid": "181",
+                    "url": "http://m.hupu.com/bbs/181"
+                },
+                {
+                    "name": "菠菜",
+                    "fid": "47",
+                    "url": "http://m.hupu.com/bbs/47"
+                },
+                {
+                    "name": "FBA",
+                    "fid": "40",
+                    "url": "http://m.hupu.com/bbs/40"
+                },
+                {
+                    "name": "篮球游戏",
+                    "fid": "46",
+                    "url": "http://m.hupu.com/bbs/46"
+                },
+                {
+                    "name": "图片制作",
+                    "fid": "156",
+                    "url": "http://m.hupu.com/bbs/156"
+                }
+            ],
+            "bottom": [
+                {
+                    "name": "湿乎乎的话题",
+                    "fid": "1048"
+                },
+                {
+                    "name": "骑士",
+                    "fid": "85"
+                },
+                {
+                    "name": "火箭",
+                    "fid": "44"
+                },
+                {
+                    "name": "勇士",
+                    "fid": "102"
+                },
+                {
+                    "name": "篮球场",
+                    "fid": "130"
+                },
+                {
+                    "name": "湖人",
+                    "fid": "81"
+                },
+                {
+                    "name": "NBA选秀",
+                    "fid": "37"
+                },
+                {
+                    "name": "马刺",
+                    "fid": "105"
+                },
+                {
+                    "name": "快船",
+                    "fid": "127"
+                },
+                {
+                    "name": "雷霆",
+                    "fid": "108"
+                },
+                {
+                    "name": "凯尔特人",
+                    "fid": "82"
+                },
+                {
+                    "name": "热火",
+                    "fid": "77"
+                }
+            ]
+        },
+        {
+            "name": "CBA",
+            "hotfid": 24,
+            "forums": [
+                {
+                    "name": "中国篮球",
+                    "fid": "24",
+                    "url": "http://m.hupu.com/bbs/24"
+                },
+                {
+                    "name": "东莞",
+                    "fid": "2519",
+                    "url": "http://m.hupu.com/bbs/2519"
+                },
+                {
+                    "name": "浙江",
+                    "fid": "2957",
+                    "url": "http://m.hupu.com/bbs/2957"
+                },
+                {
+                    "name": "话题区",
+                    "fid": "1498",
+                    "url": "http://m.hupu.com/bbs/1498"
+                },
+                {
+                    "name": "广东",
+                    "fid": "218",
+                    "url": "http://m.hupu.com/bbs/218"
+                },
+                {
+                    "name": "上海",
+                    "fid": "1499",
+                    "url": "http://m.hupu.com/bbs/1499"
+                },
+                {
+                    "name": "江苏",
+                    "fid": "221",
+                    "url": "http://m.hupu.com/bbs/221"
+                },
+                {
+                    "name": "北京",
+                    "fid": "2297",
+                    "url": "http://m.hupu.com/bbs/2297"
+                },
+                {
+                    "name": "辽宁",
+                    "fid": "2201",
+                    "url": "http://m.hupu.com/bbs/2201"
+                },
+                {
+                    "name": "新疆",
+                    "fid": "866",
+                    "url": "http://m.hupu.com/bbs/866"
+                },
+                {
+                    "name": "广厦",
+                    "fid": "2368",
+                    "url": "http://m.hupu.com/bbs/2368"
+                },
+                {
+                    "name": "山西",
+                    "fid": "1215",
+                    "url": "http://m.hupu.com/bbs/1215"
+                },
+                {
+                    "name": "八一",
+                    "fid": "757",
+                    "url": "http://m.hupu.com/bbs/757"
+                },
+                {
+                    "name": "山东",
+                    "fid": "2254",
+                    "url": "http://m.hupu.com/bbs/2254"
+                },
+                {
+                    "name": "吉林",
+                    "fid": "1800",
+                    "url": "http://m.hupu.com/bbs/1800"
+                },
+                {
+                    "name": "福建",
+                    "fid": "2691",
+                    "url": "http://m.hupu.com/bbs/2691"
+                },
+                {
+                    "name": "天津",
+                    "fid": "2976",
+                    "url": "http://m.hupu.com/bbs/2976"
+                },
+                {
+                    "name": "佛山",
+                    "fid": "2977",
+                    "url": "http://m.hupu.com/bbs/2977"
+                },
+                {
+                    "name": "青岛",
+                    "fid": "2978",
+                    "url": "http://m.hupu.com/bbs/2978"
+                },
+                {
+                    "name": "WCBA",
+                    "fid": "3026",
+                    "url": "http://m.hupu.com/bbs/3026"
+                },
+                {
+                    "name": "意见区",
+                    "fid": "1033",
+                    "url": "http://m.hupu.com/bbs/1033"
+                }
+            ],
+            "bottom": [
+                {
+                    "name": "中国篮球",
+                    "fid": "24"
+                },
+                {
+                    "name": "话题区",
+                    "fid": "1498"
+                },
+                {
+                    "name": "NBL",
+                    "fid": "3268"
+                },
+                {
+                    "name": "亚洲篮球",
+                    "fid": "3776"
+                }
+            ]
+        },
+        {
+            "name": "足球",
+            "hotfid": 1389,
+            "forums": [
+                {
+                    "name": "足球场",
+                    "fid": "109",
+                    "url": "http://m.hupu.com/bbs/109"
+                },
+                {
+                    "name": "中国足球",
+                    "fid": "155",
+                    "url": "http://m.hupu.com/bbs/155"
+                },
+                {
+                    "name": "话题区",
+                    "fid": "1389",
+                    "url": "http://m.hupu.com/bbs/1389"
+                },
+                {
+                    "name": "英超",
+                    "fid": "138",
+                    "url": "http://m.hupu.com/bbs/138"
+                },
+                {
+                    "name": "西甲",
+                    "fid": "140",
+                    "url": "http://m.hupu.com/bbs/140"
+                },
+                {
+                    "name": "意甲",
+                    "fid": "139",
+                    "url": "http://m.hupu.com/bbs/139"
+                },
+                {
+                    "name": "德甲",
+                    "fid": "141",
+                    "url": "http://m.hupu.com/bbs/141"
+                },
+                {
+                    "name": "妖人",
+                    "fid": "213",
+                    "url": "http://m.hupu.com/bbs/213"
+                },
+                {
+                    "name": "广州恒大",
+                    "fid": "2932",
+                    "url": "http://m.hupu.com/bbs/2932"
+                },
+                {
+                    "name": "北京国安",
+                    "fid": "2933",
+                    "url": "http://m.hupu.com/bbs/2933"
+                },
+                {
+                    "name": "上海申花",
+                    "fid": "3053",
+                    "url": "http://m.hupu.com/bbs/3053"
+                },
+                {
+                    "name": "曼联",
+                    "fid": "2916",
+                    "url": "http://m.hupu.com/bbs/2916"
+                },
+                {
+                    "name": "阿森纳",
+                    "fid": "2918",
+                    "url": "http://m.hupu.com/bbs/2918"
+                },
+                {
+                    "name": "利物浦",
+                    "fid": "2917",
+                    "url": "http://m.hupu.com/bbs/2917"
+                },
+                {
+                    "name": "切尔西",
+                    "fid": "2919",
+                    "url": "http://m.hupu.com/bbs/2919"
+                },
+                {
+                    "name": "曼城",
+                    "fid": "2908",
+                    "url": "http://m.hupu.com/bbs/2908"
+                },
+                {
+                    "name": "皇马",
+                    "fid": "2543",
+                    "url": "http://m.hupu.com/bbs/2543"
+                },
+                {
+                    "name": "巴萨",
+                    "fid": "2544",
+                    "url": "http://m.hupu.com/bbs/2544"
+                },
+                {
+                    "name": "瓦伦西亚",
+                    "fid": "2892",
+                    "url": "http://m.hupu.com/bbs/2892"
+                },
+                {
+                    "name": "AC米兰",
+                    "fid": "1845",
+                    "url": "http://m.hupu.com/bbs/1845"
+                },
+                {
+                    "name": "国际米兰",
+                    "fid": "1847",
+                    "url": "http://m.hupu.com/bbs/1847"
+                },
+                {
+                    "name": "尤文图斯",
+                    "fid": "1846",
+                    "url": "http://m.hupu.com/bbs/1846"
+                },
+                {
+                    "name": "罗马",
+                    "fid": "1848",
+                    "url": "http://m.hupu.com/bbs/1848"
+                },
+                {
+                    "name": "德国战车",
+                    "fid": "2431",
+                    "url": "http://m.hupu.com/bbs/2431"
+                },
+                {
+                    "name": "拜仁",
+                    "fid": "2432",
+                    "url": "http://m.hupu.com/bbs/2432"
+                },
+                {
+                    "name": "多特蒙德",
+                    "fid": "2433",
+                    "url": "http://m.hupu.com/bbs/2433"
+                },
+                {
+                    "name": "勒沃库森",
+                    "fid": "2434",
+                    "url": "http://m.hupu.com/bbs/2434"
+                },
+                {
+                    "name": "不莱梅",
+                    "fid": "2435",
+                    "url": "http://m.hupu.com/bbs/2435"
+                },
+                {
+                    "name": "沙尔克04",
+                    "fid": "2436",
+                    "url": "http://m.hupu.com/bbs/2436"
+                },
+                {
+                    "name": "德国联赛",
+                    "fid": "2437",
+                    "url": "http://m.hupu.com/bbs/2437"
+                },
+                {
+                    "name": "法甲",
+                    "fid": "1259",
+                    "url": "http://m.hupu.com/bbs/1259"
+                },
+                {
+                    "name": "欧洲杯",
+                    "fid": "151",
+                    "url": "http://m.hupu.com/bbs/151"
+                },
+                {
+                    "name": "足球装备",
+                    "fid": "172",
+                    "url": "http://m.hupu.com/bbs/172"
+                },
+                {
+                    "name": "问答",
+                    "fid": "1965",
+                    "url": "http://m.hupu.com/bbs/1965"
+                },
+                {
+                    "name": "新闻留言",
+                    "fid": "192",
+                    "url": "http://m.hupu.com/bbs/192"
+                },
+                {
+                    "name": "欧洲足球",
+                    "fid": "924",
+                    "url": "http://m.hupu.com/bbs/924"
+                },
+                {
+                    "name": "亚洲足球",
+                    "fid": "1764",
+                    "url": "http://m.hupu.com/bbs/1764"
+                },
+                {
+                    "name": "美洲足球",
+                    "fid": "856",
+                    "url": "http://m.hupu.com/bbs/856"
+                },
+                {
+                    "name": "更衣室",
+                    "fid": "2267",
+                    "url": "http://m.hupu.com/bbs/2267"
+                },
+                {
+                    "name": "视频下载",
+                    "fid": "142",
+                    "url": "http://m.hupu.com/bbs/142"
+                },
+                {
+                    "name": "足球游戏",
+                    "fid": "182",
+                    "url": "http://m.hupu.com/bbs/182"
+                },
+                {
+                    "name": "翻译团",
+                    "fid": "223",
+                    "url": "http://m.hupu.com/bbs/223"
+                },
+                {
+                    "name": "足总",
+                    "fid": "152",
+                    "url": "http://m.hupu.com/bbs/152"
+                },
+                {
+                    "name": "字幕组",
+                    "fid": "2548",
+                    "url": "http://m.hupu.com/bbs/2548"
+                },
+                {
+                    "name": "足球",
+                    "fid": "149",
+                    "url": "http://m.hupu.com/bbs/149"
+                },
+                {
+                    "name": "新人村",
+                    "fid": "2212",
+                    "url": "http://m.hupu.com/bbs/2212"
+                },
+                {
+                    "name": "头文字V",
+                    "fid": "3036",
+                    "url": "http://m.hupu.com/bbs/3036"
+                }
+            ],
+            "bottom": [
+                {
+                    "name": "足球话题",
+                    "fid": "1389"
+                },
+                {
+                    "name": "中国足球",
+                    "fid": "155"
+                },
+                {
+                    "name": "英超",
+                    "fid": "138"
+                },
+                {
+                    "name": "西甲",
+                    "fid": "140"
+                },
+                {
+                    "name": "意甲",
+                    "fid": "139"
+                },
+                {
+                    "name": "德甲",
+                    "fid": "141"
+                },
+                {
+                    "name": "法甲",
+                    "fid": "1259"
+                }
+            ]
+        },
+        {
+            "name": "装备",
+            "hotfid": 49,
+            "forums": [
+                {
+                    "name": "装备区",
+                    "fid": "49",
+                    "url": "http://m.hupu.com/bbs/49"
+                },
+                {
+                    "name": "潮流",
+                    "fid": "726",
+                    "url": "http://m.hupu.com/bbs/726"
+                },
+                {
+                    "name": "球衣",
+                    "fid": "135",
+                    "url": "http://m.hupu.com/bbs/135"
+                },
+                {
+                    "name": "鉴定区",
+                    "fid": "1887",
+                    "url": "http://m.hupu.com/bbs/1887"
+                },
+                {
+                    "name": "交易区",
+                    "fid": "112",
+                    "url": "http://m.hupu.com/bbs/112"
+                },
+                {
+                    "name": "二手交易",
+                    "fid": "195",
+                    "url": "http://m.hupu.com/bbs/195"
+                },
+                {
+                    "name": "拍卖",
+                    "fid": "3008",
+                    "url": "http://m.hupu.com/bbs/3008"
+                },
+                {
+                    "name": "求购区",
+                    "fid": "1056",
+                    "url": "http://m.hupu.com/bbs/1056"
+                },
+                {
+                    "name": "手稿区",
+                    "fid": "1479",
+                    "url": "http://m.hupu.com/bbs/1479"
+                },
+                {
+                    "name": "咨询区",
+                    "fid": "196",
+                    "url": "http://m.hupu.com/bbs/196"
+                },
+                {
+                    "name": "意见受理",
+                    "fid": "194",
+                    "url": "http://m.hupu.com/bbs/194"
+                }
+            ],
+            "bottom": [
+                {
+                    "name": "运动装备",
+                    "fid": "49"
+                },
+                {
+                    "name": "交易区",
+                    "fid": "112"
+                },
+                {
+                    "name": "鉴定中心",
+                    "fid": "1887"
+                },
+                {
+                    "name": "虎扑识货",
+                    "fid": "3383"
+                }
+            ]
+        },
+        {
+            "name": "甘比亚",
+            "hotfid": 34,
+            "forums": [
+                {
+                    "name": "步行街",
+                    "fid": "34",
+                    "url": "http://m.hupu.com/bbs/34"
+                },
+                {
+                    "name": "开放区",
+                    "fid": "1594",
+                    "url": "http://m.hupu.com/bbs/1594"
+                },
+                {
+                    "name": "情感区",
+                    "fid": "160",
+                    "url": "http://m.hupu.com/bbs/160"
+                },
+                {
+                    "name": "影视",
+                    "fid": "120",
+                    "url": "http://m.hupu.com/bbs/120"
+                },
+                {
+                    "name": "音乐",
+                    "fid": "3442",
+                    "url": "http://m.hupu.com/bbs/3442"
+                },
+                {
+                    "name": "动漫",
+                    "fid": "1580",
+                    "url": "http://m.hupu.com/bbs/1580"
+                },
+                {
+                    "name": "游戏",
+                    "fid": "3441",
+                    "url": "http://m.hupu.com/bbs/3441"
+                },
+                {
+                    "name": "nba2k",
+                    "fid": "1028",
+                    "url": "http://m.hupu.com/bbs/1028"
+                },
+                {
+                    "name": "nba2kOL",
+                    "fid": "3619",
+                    "url": "http://m.hupu.com/bbs/3619"
+                },
+                {
+                    "name": "车友交流",
+                    "fid": "237",
+                    "url": "http://m.hupu.com/bbs/237"
+                },
+                {
+                    "name": "数码",
+                    "fid": "1649",
+                    "url": "http://m.hupu.com/bbs/1649"
+                },
+                {
+                    "name": "摄影专区",
+                    "fid": "1233",
+                    "url": "http://m.hupu.com/bbs/1233"
+                },
+                {
+                    "name": "旅游饮食",
+                    "fid": "236",
+                    "url": "http://m.hupu.com/bbs/236"
+                },
+                {
+                    "name": "职场求学",
+                    "fid": "211",
+                    "url": "http://m.hupu.com/bbs/211"
+                },
+                {
+                    "name": "虎扑佣兵",
+                    "fid": "1474",
+                    "url": "http://m.hupu.com/bbs/1474"
+                },
+                {
+                    "name": "股票",
+                    "fid": "161",
+                    "url": "http://m.hupu.com/bbs/161"
+                },
+                {
+                    "name": "破瓜",
+                    "fid": "122",
+                    "url": "http://m.hupu.com/bbs/122"
+                },
+                {
+                    "name": "伊人之间",
+                    "fid": "1007",
+                    "url": "http://m.hupu.com/bbs/1007"
+                }
+            ],
+            "bottom": [
+                {
+                    "name": "步行街",
+                    "fid": "34"
+                },
+                {
+                    "name": "开放区",
+                    "fid": "1594"
+                },
+                {
+                    "name": "情感",
+                    "fid": "160"
+                },
+                {
+                    "name": "游戏",
+                    "fid": "3441"
+                },
+                {
+                    "name": "影视",
+                    "fid": "120"
+                },
+                {
+                    "name": "动漫",
+                    "fid": "1580"
+                }
+            ]
+        },
+        {
+            "name": "综合",
+            "hotfid": 57,
+            "forums": [
+                {
+                    "name": "体育场",
+                    "fid": "57",
+                    "url": "http://m.hupu.com/bbs/57"
+                },
+                {
+                    "name": "网球场",
+                    "fid": "117",
+                    "url": "http://m.hupu.com/bbs/117"
+                },
+                {
+                    "name": "跑步",
+                    "fid": "3556",
+                    "url": "http://m.hupu.com/bbs/3556"
+                },
+                {
+                    "name": "台球",
+                    "fid": "171",
+                    "url": "http://m.hupu.com/bbs/171"
+                },
+                {
+                    "name": "自行车",
+                    "fid": "1573",
+                    "url": "http://m.hupu.com/bbs/1573"
+                },
+                {
+                    "name": "MMA",
+                    "fid": "2824",
+                    "url": "http://m.hupu.com/bbs/2824"
+                },
+                {
+                    "name": "WWE",
+                    "fid": "2486",
+                    "url": "http://m.hupu.com/bbs/2486"
+                },
+                {
+                    "name": "NFL",
+                    "fid": "132",
+                    "url": "http://m.hupu.com/bbs/132"
+                },
+                {
+                    "name": "MLB",
+                    "fid": "163",
+                    "url": "http://m.hupu.com/bbs/163"
+                },
+                {
+                    "name": "NHL",
+                    "fid": "1985",
+                    "url": "http://m.hupu.com/bbs/1985"
+                },
+                {
+                    "name": "棋牌室",
+                    "fid": "208",
+                    "url": "http://m.hupu.com/bbs/208"
+                },
+                {
+                    "name": "英式橄榄",
+                    "fid": "147",
+                    "url": "http://m.hupu.com/bbs/147"
+                },
+                {
+                    "name": "极限运动X-GAMES",
+                    "fid": "3864",
+                    "url": "http://m.hupu.com/bbs/3864"
+                }
+            ],
+            "bottom": []
+        },
+        {
+            "name": "健身",
+            "hotfid": 34,
+            "forums": [
+                {
+                    "name": "街球实战",
+                    "fid": "607",
+                    "url": "http://m.hupu.com/bbs/607"
+                },
+                {
+                    "name": "健身",
+                    "fid": "203",
+                    "url": "http://m.hupu.com/bbs/203"
+                },
+                {
+                    "name": "同城约战",
+                    "fid": "63",
+                    "url": "http://m.hupu.com/bbs/63"
+                },
+                {
+                    "name": "花式篮球",
+                    "fid": "3808",
+                    "url": "http://m.hupu.com/bbs/3808"
+                }
+            ],
+            "bottom": [
+                {
+                    "name": "街球",
+                    "fid": "607"
+                },
+                {
+                    "name": "健身",
+                    "fid": "203"
+                }
+            ]
+        },
+        {
+            "name": "社团",
+            "hotfid": 34,
+            "forums": [
+                {
+                    "name": "林书豪",
+                    "fid": "3109",
+                    "url": "http://m.hupu.com/bbs/3109"
+                },
+                {
+                    "name": "麦迪",
+                    "fid": "179",
+                    "url": "http://m.hupu.com/bbs/179"
+                },
+                {
+                    "name": "艾弗森",
+                    "fid": "742",
+                    "url": "http://m.hupu.com/bbs/742"
+                },
+                {
+                    "name": "上海",
+                    "fid": "188",
+                    "url": "http://m.hupu.com/bbs/188"
+                },
+                {
+                    "name": "广东",
+                    "fid": "189",
+                    "url": "http://m.hupu.com/bbs/189"
+                },
+                {
+                    "name": "北京",
+                    "fid": "186",
+                    "url": "http://m.hupu.com/bbs/186"
+                },
+                {
+                    "name": "武汉",
+                    "fid": "190",
+                    "url": "http://m.hupu.com/bbs/190"
+                },
+                {
+                    "name": "重庆",
+                    "fid": "191",
+                    "url": "http://m.hupu.com/bbs/191"
+                },
+                {
+                    "name": "天津",
+                    "fid": "209",
+                    "url": "http://m.hupu.com/bbs/209"
+                },
+                {
+                    "name": "翻译团-Lounge",
+                    "fid": "39",
+                    "url": "http://m.hupu.com/bbs/39"
+                },
+                {
+                    "name": "翻译团招工部",
+                    "fid": "1618",
+                    "url": "http://m.hupu.com/bbs/1618"
+                },
+                {
+                    "name": "楼工团",
+                    "fid": "97",
+                    "url": "http://m.hupu.com/bbs/97"
+                },
+                {
+                    "name": "联合工地",
+                    "fid": "210",
+                    "url": "http://m.hupu.com/bbs/210"
+                }
+            ],
+            "bottom": []
+        },
+        {
+            "name": "赛车",
+            "hotfid": 118,
+            "forums": [
+                {
+                    "name": "F1赛车场",
+                    "fid": "118",
+                    "url": "http://m.hupu.com/bbs/118"
+                },
+                {
+                    "name": "法拉利",
+                    "fid": "802",
+                    "url": "http://m.hupu.com/bbs/802"
+                },
+                {
+                    "name": "迈凯轮",
+                    "fid": "801",
+                    "url": "http://m.hupu.com/bbs/801"
+                },
+                {
+                    "name": "红牛",
+                    "fid": "2694",
+                    "url": "http://m.hupu.com/bbs/2694"
+                },
+                {
+                    "name": "银箭-奔驰",
+                    "fid": "1643",
+                    "url": "http://m.hupu.com/bbs/1643"
+                },
+                {
+                    "name": "舒米专区",
+                    "fid": "3252",
+                    "url": "http://m.hupu.com/bbs/3252"
+                },
+                {
+                    "name": "莲花-雷诺",
+                    "fid": "803",
+                    "url": "http://m.hupu.com/bbs/803"
+                },
+                {
+                    "name": "冰人Kimi",
+                    "fid": "3011",
+                    "url": "http://m.hupu.com/bbs/3011"
+                },
+                {
+                    "name": "威廉姆斯",
+                    "fid": "3431",
+                    "url": "http://m.hupu.com/bbs/3431"
+                },
+                {
+                    "name": "翻译团-赛车",
+                    "fid": "225",
+                    "url": "http://m.hupu.com/bbs/225"
+                },
+                {
+                    "name": "赛车视频分享区",
+                    "fid": "2968",
+                    "url": "http://m.hupu.com/bbs/2968"
+                },
+                {
+                    "name": "阿隆索",
+                    "fid": "1482",
+                    "url": "http://m.hupu.com/bbs/1482"
+                },
+                {
+                    "name": "车友交流",
+                    "fid": "237",
+                    "url": "http://m.hupu.com/bbs/237"
+                },
+                {
+                    "name": "赛车话题区",
+                    "fid": "3655",
+                    "url": "http://m.hupu.com/bbs/3655"
+                },
+                {
+                    "name": "WRC拉力赛",
+                    "fid": "1530",
+                    "url": "http://m.hupu.com/bbs/1530"
+                },
+                {
+                    "name": "MotoGP",
+                    "fid": "2196",
+                    "url": "http://m.hupu.com/bbs/2196"
+                },
+                {
+                    "name": "房车&跑车赛",
+                    "fid": "2358",
+                    "url": "http://m.hupu.com/bbs/2358"
+                },
+                {
+                    "name": "F1意见区",
+                    "fid": "1386",
+                    "url": "http://m.hupu.com/bbs/1386"
+                }
+            ],
+            "bottom": [
+                {
+                    "name": "车友交流",
+                    "fid": "237"
+                },
+                {
+                    "name": "F1赛车",
+                    "fid": "118"
+                },
+                {
+                    "name": "迈凯轮",
+                    "fid": "801"
+                },
+                {
+                    "name": "红牛",
+                    "fid": "2694"
+                },
+                {
+                    "name": "法拉利",
+                    "fid": "802"
+                },
+                {
+                    "name": "奔驰",
+                    "fid": "1643"
+                },
+                {
+                    "name": "房车赛",
+                    "fid": "2358"
+                },
+                {
+                    "name": "赛车视频",
+                    "fid": "2968"
+                }
+            ]
+        },
+        {
+            "name": "站务管理",
+            "hotfid": 0,
+            "forums": [
+                {
+                    "name": "版务意见与建议",
+                    "fid": "8",
+                    "url": "http://m.hupu.com/bbs/8"
+                }
+            ],
+            "bottom": []
+        }
+    ],
+    "topNav": [
+        {
+            "title": "NBA",
+            "router": "nbaindex",
+            "url": "http://m.hupu.com/nba"
+        },
+        {
+            "title": "CBA",
+            "router": "cbanewsindex",
+            "url": "http://m.hupu.com/cba/news/"
+        },
+        {
+            "title": "足球",
+            "router": "soccerindex",
+            "url": "http://m.hupu.com/soccer"
+        },
+        {
+            "title": "论坛",
+            "router": "bbsindex",
+            "url": "http://m.hupu.com/bbs"
+        },
+        {
+            "title": "识货",
+            "url": "http://m.shihuo.cn/",
+            "router": "shihuoindex",
+            "target": "_blank"
+        },
+        {
+            "title": "彩票",
+            "url": "http://t.hupu.lecai.com/",
+            "router": "caipiaoindex",
+            "target": "_blank"
+        }
+    ],
+    "node": [
+        {
+            "title": "论坛",
+            "url": "#"
+        }
+    ],
+    "hotForums": [
+        {
+            "name": "步行街",
+            "fid": "34",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/34"
+        },
+        {
+            "name": "湿乎乎的话题",
+            "fid": "1048",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/1048"
+        },
+        {
+            "name": "火箭",
+            "fid": "44",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/44"
+        },
+        {
+            "name": "湖人",
+            "fid": "81",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/81"
+        },
+        {
+            "name": "骑士",
+            "fid": "85",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/85"
+        },
+        {
+            "name": "篮球场",
+            "fid": "130",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/130"
+        },
+        {
+            "name": "足球话题区",
+            "fid": "1389",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/1389"
+        },
+        {
+            "name": "中国篮球",
+            "fid": "24",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/24"
+        },
+        {
+            "name": "英超",
+            "fid": "138",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/138"
+        },
+        {
+            "name": "西甲",
+            "fid": "140",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/140"
+        },
+        {
+            "name": "运动装备",
+            "fid": "49",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/49"
+        },
+        {
+            "name": "交易区",
+            "fid": "112",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/112"
+        }
+    ],
+    "collectedForums": [
+        {
+            "name": "步行街",
+            "fid": "34",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/34"
+        },
+        {
+            "name": "湿乎乎的话题",
+            "fid": "1048",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/1048"
+        },
+        {
+            "name": "火箭",
+            "fid": "44",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/44"
+        },
+        {
+            "name": "湖人",
+            "fid": "81",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/81"
+        },
+        {
+            "name": "骑士",
+            "fid": "85",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/85"
+        },
+        {
+            "name": "篮球场",
+            "fid": "130",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/130"
+        },
+        {
+            "name": "足球话题区",
+            "fid": "1389",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/1389"
+        },
+        {
+            "name": "中国篮球",
+            "fid": "24",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/24"
+        },
+        {
+            "name": "英超",
+            "fid": "138",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/138"
+        },
+        {
+            "name": "西甲",
+            "fid": "140",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/140"
+        },
+        {
+            "name": "运动装备",
+            "fid": "49",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/49"
+        },
+        {
+            "name": "交易区",
+            "fid": "112",
+            "tag": 1,
+            "url": "http://m.hupu.com/bbs/112"
+        }
+    ],
+    "homeData": [
+        {
+            "tid": "13158637",
+            "fid": "161",
+            "subject": "沪指低开6.97%失守3500点 两市仅7只股上涨",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "402",
+            "recs": "3",
+            "ifmail": "20",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158637.html",
+            "postdate": "1436319613",
+            "lastpost": "1436333822",
+            "mobileurl": "http://m.hupu.com/bbs/13158637.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/161",
+            "boardname": "股票区",
+            "boardurl": "http://m.hupu.com/bbs/161",
+            "lights": "20",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "4小时前",
+            "_lastpost": "12分钟前"
+        },
+        {
+            "tid": "13158342",
+            "fid": "1048",
+            "subject": "【UED竞猜季|神棍】帕金斯最终会选择哪支球队？竞猜赢球衣！参与有卡！",
+            "pushtobbshome": "1",
+            "newtitle": "【UED竞猜季|神棍】帕金斯最终会选择哪支球队？竞猜赢球衣！参与有卡！",
+            "replies": "408",
+            "recs": "1",
+            "ifmail": "15",
+            "titlefont": "red~1~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158342.html",
+            "postdate": "1436317440",
+            "lastpost": "1436333939",
+            "mobileurl": "http://m.hupu.com/bbs/13158342.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1048",
+            "boardname": "湿乎乎的话题",
+            "boardurl": "http://m.hupu.com/bbs/1048",
+            "lights": "15",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "4小时前",
+            "_lastpost": "10分钟前"
+        },
+        {
+            "tid": "13159402",
+            "fid": "34",
+            "subject": "女jr想找浙江球友教打球～",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "286",
+            "recs": "1",
+            "ifmail": "5",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13159402.html",
+            "postdate": "1436324778",
+            "lastpost": "1436333995",
+            "mobileurl": "http://m.hupu.com/bbs/13159402.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "5",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "2小时前",
+            "_lastpost": "9分钟前"
+        },
+        {
+            "tid": "13159414",
+            "fid": "34",
+            "subject": "当兵体检 &nbsp; 有啥办法能不通过",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "194",
+            "recs": "0",
+            "ifmail": "10",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13159414.html",
+            "postdate": "1436324857",
+            "lastpost": "1436333875",
+            "mobileurl": "http://m.hupu.com/bbs/13159414.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "10",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "2小时前",
+            "_lastpost": "11分钟前"
+        },
+        {
+            "tid": "13158757",
+            "fid": "34",
+            "subject": "屌丝男士全剧终了！来回忆一下你觉得最搞笑的段子吧～",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "182",
+            "recs": "3",
+            "ifmail": "16",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158757.html",
+            "postdate": "1436320333",
+            "lastpost": "1436333827",
+            "mobileurl": "http://m.hupu.com/bbs/13158757.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "16",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "3小时前",
+            "_lastpost": "12分钟前"
+        },
+        {
+            "tid": "13158674",
+            "fid": "34",
+            "subject": "蒋劲夫在东单是真扣篮啊！在明星中算什么水平？",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "230",
+            "recs": "1",
+            "ifmail": "12",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158674.html",
+            "postdate": "1436319829",
+            "lastpost": "1436333957",
+            "mobileurl": "http://m.hupu.com/bbs/13158674.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "12",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "4小时前",
+            "_lastpost": "10分钟前"
+        },
+        {
+            "tid": "13158248",
+            "fid": "34",
+            "subject": "【ZT】北京：4岁女童横穿泳道 被外国男子举起扔到水中，更新视频",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "251",
+            "recs": "14",
+            "ifmail": "17",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158248.html",
+            "postdate": "1436316280",
+            "lastpost": "1436333712",
+            "mobileurl": "http://m.hupu.com/bbs/13158248.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "17",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "5小时前",
+            "_lastpost": "14分钟前"
+        },
+        {
+            "tid": "13160269",
+            "fid": "34",
+            "subject": "【送鞋帖】猜猜我第一个认识的NBA球星是谁？送一双篮球鞋",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "170",
+            "recs": "0",
+            "ifmail": "2",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13160269.html",
+            "postdate": "1436330702",
+            "lastpost": "1436333831",
+            "mobileurl": "http://m.hupu.com/bbs/13160269.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "2",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "1小时前",
+            "_lastpost": "12分钟前"
+        },
+        {
+            "tid": "13159422",
+            "fid": "1048",
+            "subject": "ZT-闫宇峰在微博上就穆迪埃的事情和网友互喷，最后还是说了真心话",
+            "pushtobbshome": "1",
+            "newtitle": "ZT-闫宇峰在微博上就穆迪埃的事情和网友互喷，最后还是说了真心话",
+            "replies": "122",
+            "recs": "2",
+            "ifmail": "12",
+            "titlefont": "blue~~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13159422.html",
+            "postdate": "1436324924",
+            "lastpost": "1436333683",
+            "mobileurl": "http://m.hupu.com/bbs/13159422.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1048",
+            "boardname": "湿乎乎的话题",
+            "boardurl": "http://m.hupu.com/bbs/1048",
+            "lights": "12",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "2小时前",
+            "_lastpost": "14分钟前"
+        },
+        {
+            "tid": "13158338",
+            "fid": "1048",
+            "subject": "詹姆斯、韦德、安东尼和保罗再聚度假，四人开怀畅饮",
+            "pushtobbshome": "1",
+            "newtitle": "詹姆斯、韦德、安东尼和保罗再聚度假，四人开怀畅饮",
+            "replies": "146",
+            "recs": "1",
+            "ifmail": "16",
+            "titlefont": "orange~~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158338.html",
+            "postdate": "1436317400",
+            "lastpost": "1436333875",
+            "mobileurl": "http://m.hupu.com/bbs/13158338.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1048",
+            "boardname": "湿乎乎的话题",
+            "boardurl": "http://m.hupu.com/bbs/1048",
+            "lights": "16",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "4小时前",
+            "_lastpost": "11分钟前"
+        },
+        {
+            "tid": "13159878",
+            "fid": "1048",
+            "subject": "【美国JRS之声】他居然有28了！他竟然还是小鲜肉！哪些球员年龄让你大吃一精？",
+            "pushtobbshome": "1",
+            "newtitle": "【美国JRS之声】他居然有28了！他竟然还是小鲜肉！哪些球员年龄让你大吃一精？",
+            "replies": "51",
+            "recs": "8",
+            "ifmail": "11",
+            "titlefont": "green~1~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13159878.html",
+            "postdate": "1436327930",
+            "lastpost": "1436333819",
+            "mobileurl": "http://m.hupu.com/bbs/13159878.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1048",
+            "boardname": "湿乎乎的话题",
+            "boardurl": "http://m.hupu.com/bbs/1048",
+            "lights": "11",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "1小时前",
+            "_lastpost": "12分钟前"
+        },
+        {
+            "tid": "13158380",
+            "fid": "34",
+            "subject": "删帖了啊",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "224",
+            "recs": "3",
+            "ifmail": "5",
+            "titlefont": "green~~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158380.html",
+            "postdate": "1436317733",
+            "lastpost": "1436332338",
+            "mobileurl": "http://m.hupu.com/bbs/13158380.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "5",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "4小时前",
+            "_lastpost": "37分钟前"
+        },
+        {
+            "tid": "13159780",
+            "fid": "34",
+            "subject": "国产动画抄袭导演理直气壮：我们又没有违法！",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "72",
+            "recs": "1",
+            "ifmail": "7",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13159780.html",
+            "postdate": "1436327319",
+            "lastpost": "1436333997",
+            "mobileurl": "http://m.hupu.com/bbs/13159780.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "7",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "2小时前",
+            "_lastpost": "9分钟前"
+        },
+        {
+            "tid": "13158076",
+            "fid": "34",
+            "subject": "美国《科学》杂志把清华、北大称为“最肥沃的美国博士培养基地”",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "169",
+            "recs": "3",
+            "ifmail": "10",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158076.html",
+            "postdate": "1436313241",
+            "lastpost": "1436333955",
+            "mobileurl": "http://m.hupu.com/bbs/13158076.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "10",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "5小时前",
+            "_lastpost": "10分钟前"
+        },
+        {
+            "tid": "13159782",
+            "fid": "34",
+            "subject": "老爸准备80万接受一个120台机子的网吧，懂得人看这样的配置估价多少？",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "86",
+            "recs": "0",
+            "ifmail": "4",
+            "titlefont": "",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13159782.html",
+            "postdate": "1436327332",
+            "lastpost": "1436333812",
+            "mobileurl": "http://m.hupu.com/bbs/13159782.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "4",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "2小时前",
+            "_lastpost": "12分钟前"
+        },
+        {
+            "tid": "13158235",
+            "fid": "1845",
+            "subject": "刚上班就看到这么劲爆的消息，散新球场卡",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "227",
+            "recs": "0",
+            "ifmail": "0",
+            "titlefont": "red~~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158235.html",
+            "postdate": "1436316132",
+            "lastpost": "1436333956",
+            "mobileurl": "http://m.hupu.com/bbs/13158235.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1845",
+            "boardname": "米兰专区",
+            "boardurl": "http://m.hupu.com/bbs/1845",
+            "lights": 0,
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "5小时前",
+            "_lastpost": "10分钟前"
+        },
+        {
+            "tid": "13158171",
+            "fid": "1048",
+            "subject": "【互动社】大卫李去凯尔特人了，一句话祝福他",
+            "pushtobbshome": "1",
+            "newtitle": "【互动社】大卫李去凯尔特人了，一句话祝福他",
+            "replies": "147",
+            "recs": "1",
+            "ifmail": "9",
+            "titlefont": "orange~1~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158171.html",
+            "postdate": "1436315180",
+            "lastpost": "1436333685",
+            "mobileurl": "http://m.hupu.com/bbs/13158171.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1048",
+            "boardname": "湿乎乎的话题",
+            "boardurl": "http://m.hupu.com/bbs/1048",
+            "lights": "9",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "5小时前",
+            "_lastpost": "14分钟前"
+        },
+        {
+            "tid": "13158942",
+            "fid": "1048",
+            "subject": "【美国JRS之声】最佳射手？篮球莫扎特德拉岑彼得洛维奇！|库里赠其母球衣",
+            "pushtobbshome": "1",
+            "newtitle": "【美国JRS之声】最佳射手？篮球莫扎特德拉岑彼得洛维奇！|库里赠其母球衣",
+            "replies": "72",
+            "recs": "12",
+            "ifmail": "9",
+            "titlefont": "green~1~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158942.html",
+            "postdate": "1436321752",
+            "lastpost": "1436332853",
+            "mobileurl": "http://m.hupu.com/bbs/13158942.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1048",
+            "boardname": "湿乎乎的话题",
+            "boardurl": "http://m.hupu.com/bbs/1048",
+            "lights": "9",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "3小时前",
+            "_lastpost": "28分钟前"
+        },
+        {
+            "tid": "13159930",
+            "fid": "34",
+            "subject": "《不冷笑话》第764期：曾经我老婆是这样给我表白的，把我感动哭了。。",
+            "pushtobbshome": "1",
+            "newtitle": "《不冷笑话》第764期：曾经我老婆是这样给我表白的，把我感动哭了。。",
+            "replies": "102",
+            "recs": "16",
+            "ifmail": "1",
+            "titlefont": "blue~1~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13159930.html",
+            "postdate": "1436328219",
+            "lastpost": "1436333978",
+            "mobileurl": "http://m.hupu.com/bbs/13159930.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/34",
+            "boardname": "步行街",
+            "boardurl": "http://m.hupu.com/bbs/34",
+            "lights": "1",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "1小时前",
+            "_lastpost": "9分钟前"
+        },
+        {
+            "tid": "13158337",
+            "fid": "1389",
+            "subject": "脸哥分手有感，有哪些较冷门的球员美女夫人？",
+            "pushtobbshome": "0",
+            "newtitle": "",
+            "replies": "68",
+            "recs": "5",
+            "ifmail": "13",
+            "titlefont": "blue~~~~~~",
+            "forumName": "",
+            "forumUrl": "/",
+            "threadUrl": "/13158337.html",
+            "postdate": "1436317374",
+            "lastpost": "1436332458",
+            "mobileurl": "http://m.hupu.com/bbs/13158337.html",
+            "mobileboardurl": "http://m.hupu.com/bbs/1389",
+            "boardname": "足球话题区",
+            "boardurl": "http://m.hupu.com/bbs/1389",
+            "lights": "13",
+            "overviewimg": [],
+            "overviewtext": "",
+            "_postdata": "4小时前",
+            "_lastpost": "35分钟前"
+        }
+    ],
+    "page": 1,
+    "pageCount": 10,
+    "adInfo": {
+        "m_adbanner": {
+            "bbs_home": {
+                "adcode": "<!-- 广告位：论坛首页底部banner--> <script>CNZZ_M_SLOT_RENDER('389512');</script>",
+                "isopen": "on"
+            }
+        },
+        "m_adword": {
+            "bbs_home": {
+                "adword": "论坛首页-看球app下载dd",
+                "adurl": "http://m.hupu.com/soccer",
+                "isopen": "on",
+                "pic": "http://touch.hupucdn.com/touch_adlist_1436173759.4368.jpeg"
+            }
+        },
+        "m_adapp": {
+            "hupusports": {
+                "adword": "看球app下载请点这里",
+                "adurl": "http://hot.hupu.com",
+                "isopen": "on",
+                "pic": "http://touch.hupucdn.com/touch_adlist_1435199306.4098.png"
+            }
+        }
+    },
+    "recommendBoard": [
+        [
+            {
+                "name": "步行街1",
+                "fid": "34",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/34"
+            },
+            {
+                "name": "湿乎乎",
+                "fid": "1048",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/1048"
+            },
+            {
+                "name": "火箭",
+                "fid": "44",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/44"
+            },
+            {
+                "name": "湖人",
+                "fid": "81",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/81"
+            },
+            {
+                "name": "骑士",
+                "fid": "85",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/85"
+            },
+            {
+                "name": "篮球场",
+                "fid": "130",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/130"
+            },
+            {
+                "name": "足球",
+                "fid": "1389",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/1389"
+            },
+            {
+                "name": "中国篮球",
+                "fid": "24",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/24"
+            },
+            {
+                "name": "英超",
+                "fid": "138",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/138"
+            },
+            {
+                "name": "西甲",
+                "fid": "140",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/140"
+            },
+            {
+                "name": "运动装备",
+                "fid": "49",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/49"
+            },
+            {
+                "name": "交易区",
+                "fid": "112",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/112"
+            }
+        ],
+        [
+            {
+                "name": "步行街2",
+                "fid": "34",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/34"
+            },
+            {
+                "name": "湿乎乎",
+                "fid": "1048",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/1048"
+            },
+            {
+                "name": "火箭",
+                "fid": "44",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/44"
+            },
+            {
+                "name": "湖人",
+                "fid": "81",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/81"
+            },
+            {
+                "name": "骑士",
+                "fid": "85",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/85"
+            },
+            {
+                "name": "篮球场",
+                "fid": "130",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/130"
+            },
+            {
+                "name": "足球",
+                "fid": "1389",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/1389"
+            },
+            {
+                "name": "中国篮球",
+                "fid": "24",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/24"
+            },
+            {
+                "name": "英超",
+                "fid": "138",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/138"
+            },
+            {
+                "name": "西甲",
+                "fid": "140",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/140"
+            },
+            {
+                "name": "运动装备",
+                "fid": "49",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/49"
+            },
+            {
+                "name": "交易区",
+                "fid": "112",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/112"
+            }
+        ],
+        [
+            {
+                "name": "步行街3",
+                "fid": "34",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/34"
+            },
+            {
+                "name": "湿乎乎",
+                "fid": "1048",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/1048"
+            },
+            {
+                "name": "火箭",
+                "fid": "44",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/44"
+            },
+            {
+                "name": "湖人",
+                "fid": "81",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/81"
+            },
+            {
+                "name": "骑士",
+                "fid": "85",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/85"
+            },
+            {
+                "name": "篮球场",
+                "fid": "130",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/130"
+            },
+            {
+                "name": "足球",
+                "fid": "1389",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/1389"
+            },
+            {
+                "name": "中国篮球",
+                "fid": "24",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/24"
+            },
+            {
+                "name": "英超",
+                "fid": "138",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/138"
+            },
+            {
+                "name": "西甲",
+                "fid": "140",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/140"
+            },
+            {
+                "name": "运动装备",
+                "fid": "49",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/49"
+            },
+            {
+                "name": "交易区",
+                "fid": "112",
+                "tag": 1,
+                "url": "http://m.hupu.com/bbs/112"
+            }
+        ]
+        
+    ],
+    "searchData": {
+        "history": {
+            "0": "奥迪",
+            "1": "步行街",
+            "2": "asd",
+            "3": "艾森",
+            "4": "撒旦",
+            "5": 123,
+            "6": "火箭",
+            "7": "胡歌",
+            "8": "撒旦2",
+            "9": "撒旦23"
+        },
+        "fid": 0
+    }
+
+}

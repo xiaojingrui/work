@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "data": {
+    "pid": 382004062,
+    "content": "<br />smallcontent smallcontent smallcontent smallcontent smallcontent smallcontentsmallcontent smallcontent smallcontent smallcontent smallcontent smallcontentsmallcontent smallcontent smallcontent smallcontent smallcontent smallcontentsmallcontent smallcontent smallcontent smallcontent smallcontent smallcontentsmallcontent smallcontent smallcontent smallcontent smallcontent smallcontentsmallcontent sm",
+    "viainfo": {
+      "url": "http://m.hupu.com",
+      "text": "发自手机虎扑 m.hupu.com"
+    },
+    "postdate": 1431694097,
+    "smallcontent": "small...",
+    "togglecontent": "smallcontent smallco...",
+    "quote": [
+      {
+        "header": [
+        "引用25楼 @<a href='http://m.hupu.com/my/5365981' target='_blank'><font color='#326ca6'>nevergivejun</font></a> 发表的"
+        ],
+        "content": "<br />smallcontent smallcontent smallcontent smallcontent smallcontent smallcontent smallcontent smallcontent smallcontent",
+        "togglecontent": "smallcontent smallco..."
+      }
+    ]
+  }
+}

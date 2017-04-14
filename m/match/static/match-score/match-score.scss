@@ -1,0 +1,85 @@
+@import "../sass/sassCore/base";
+
+body{
+	background-color: #f1f1f1;
+	-webkit-transition: all .3s; /* Safari */
+	transition:all .3s ease;
+}
+.table-scroll {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+.table {
+    width: 100%;
+    line-height: 30px;
+    white-space: nowrap;
+    th,
+    td {
+        padding: 0 8px;
+        border-top: 1px solid #eee;
+    }
+    th {
+        text-align: left;
+        font-weight: 400;
+//        color: #999;
+    }
+    .number-1 {
+        width: 18%;
+        &.td-align{
+            text-align: center;
+        }
+    }
+    .score{
+//    	color:#999;
+    }
+}
+
+.team-score{
+	margin-top: 16px;
+	.table {
+//	    padding-left:109px;
+	    border-collapse:separate;
+	    tr td{
+	    	background-color:#fbfbfb;
+	    }
+	    tr.bench td{
+	    	background-color:#f3f3f3;
+	    }
+	    th,
+	    td {
+	        padding: 0 8px;
+	        border-top: 1px solid #eee;
+	    }
+	    th {
+	        text-align: left;
+	        font-weight: 400;
+	        color: #fff;
+	    }
+	    .number-1 {
+	        text-align:center;
+	    }
+	}
+}
+.home .table th{
+	background-color:#c70034;
+    border-top: none;
+}
+.away .table th{
+	background-color:#14345c;
+    border-top: none;
+}
+
+.table-col-1 {
+    @include display-flex();
+    .table-fixed {
+        width: 110px;
+        border-right:1px solid #f7dbdb;
+    }
+    .table-scroll {
+        @include flex(1);
+    }
+}

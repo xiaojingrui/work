@@ -1,0 +1,71 @@
+.spread .card-wrap{
+	position: relative;
+	overflow:hidden;
+	padding:0 0 0 20px;
+}
+.spread .smail-pic-list .small-pic {
+    margin-left: 10px;
+}
+.spread .card-wrap .spread-tag{
+	position: absolute;
+	background-color:#d64940;
+	color:#fff;
+	font-size:12px;
+	text-align:center;
+	width:45px;
+	height: 45px;
+	top:-22px;
+	left: -22px;
+	line-height:74px;
+	overflow: hidden;
+	-webkit-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+.spread .news-link{
+  display: -moz-box;
+  display: -webkit-box;
+  display: box;
+  padding-top:12px;
+  padding-bottom: 12px;
+}
+.spread .news-text{
+	display: block;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+}
+.spread .news-txt h3 {
+  font-size: 18px;
+  max-height: 52px;
+  overflow: hidden;
+  line-height: 1.5;
+}
+.spread:after {
+  content: "";
+  display: block;
+  /*height: 9px;*/
+  /*background-color: #f3f3f3;*/
+  border-bottom: 1px solid #e3e4e5; 
+  /*margin-top: 10px;*/
+}
+.card-col-widget:after {
+  
+}
+
+.spread .news-text .name {
+  font-size: 18px;
+  max-height: 52px;
+  overflow: hidden;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.spread .img-wrap{
+    width: 72px;
+    height: 72px;
+    margin-right: 10px;
+    overflow: hidden;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

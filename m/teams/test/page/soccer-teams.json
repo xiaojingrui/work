@@ -1,0 +1,245 @@
+{
+    "site": "soccer",
+    "pageheader": {
+        "title": "兰斯赛程|兰斯2015赛程表_手机虎扑网"
+    },
+    "bottomtitle": "虎扑体育 - 你的体育全世界！",
+    "id4dace": 3532,
+    "mark4dace": "page_soccer_teammatch_",
+    "pageBottomSpread": [
+        {
+            "name": "NBA",
+            "url": "/bbs/1048?bbshotnews=1"
+        },
+        {
+            "name": "足球",
+            "url": "/bbs/1389?bbshotnews=1"
+        },
+        {
+            "name": "足球",
+            "url": "/bbs/34?bbshotnews=1"
+        },
+        {
+            "name": "足球",
+            "url": "/bbs/160?bbshotnews=1"
+        },
+        {
+            "name": "足球",
+            "url": "/bbs/120?bbshotnews=1"
+        }
+    ],
+    "baseurl": "http://m.hupu.com",
+    "test": "710998fd1b7c0235170265650770a4b1",
+    "_islogin": 0,
+    "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/soccer/france/team/1065/match?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+    "uid": "",
+    "username": "",
+    "showAdvertise": 0,
+    "description": "手机虎扑网足球频道赛事中心为您提供最新的兰斯队赛程表，包含兰斯比赛详细的时间、地点等赛程信息，精彩赛事，互动无限。",
+    "pclink": "http://soccer.hupu.com/france/team/1065/match?test=710998fd1b7c0235170265650770a4b1",
+    "hottitlelen": 16,
+    "columncontentlen": 46,
+    "footerword": {
+        "word": "我有幸比其他人踢得好那么一点点，但这不是把我自己当做另一个人的借口。",
+        "person": "齐达内"
+    },
+    "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+    "daceChannel": "soccer",
+    "keywords": "兰斯赛程,兰斯2015赛程表",
+    "topNav": [
+        {
+            "title": "NBA",
+            "router": "nbaindex",
+            "url": "http://m.hupu.com/nba"
+        },
+        {
+            "title": "CBA",
+            "router": "cbanewsindex",
+            "url": "http://m.hupu.com/cba/news/"
+        },
+        {
+            "title": "足球",
+            "router": "soccerindex",
+            "url": "http://m.hupu.com/soccer"
+        },
+        {
+            "title": "论坛",
+            "router": "bbsindex",
+            "url": "http://m.hupu.com/bbs"
+        },
+        {
+            "title": "识货",
+            "url": "http://m.shihuo.cn/",
+            "router": "shihuoindex",
+            "target": "_blank"
+        },
+        {
+            "title": "彩票",
+            "url": "http://t.hupu.lecai.com/",
+            "router": "caipiaoindex",
+            "target": "_blank"
+        }
+    ],
+    "node": [
+        {
+            "title": "法甲排行榜",
+            "url": "http://m.hupu.com/soccer/france/rank/score"
+        }
+    ],
+    "teamInfo": {
+        "league_id": 6,
+        "season_id": 2015,
+        "team_id": 1065,
+        "name": "兰斯",
+        "known_name": "兰斯",
+        "name_en": "Reims",
+        "known_name_en": "Reims",
+        "country": "France",
+        "city": null,
+        "region_name": "Europe",
+        "short_club_name": null,
+        "founded": 1931,
+        "worth": 5355,
+        "worth_rank": null,
+        "description": null,
+        "image_24x24_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/24x24/1065.png",
+        "image_87x87_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/87x87/1065.png",
+        "image_110x88_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/110x88/1065.png",
+        "jpg_24x24_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/24x24/1065.jpg",
+        "jpg_87x87_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/87x87/1065.jpg",
+        "jpg_110x88_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/110x88/1065.jpg",
+        "page_urls": {
+            "match_url": "http://m.hupu.com/soccer/france/team/1065/match",
+            "news_url": "http://m.hupu.com/soccer/france/team/1065/news",
+            "stats_url": "http://m.hupu.com/soccer/france/team/1065/stats",
+            "players_url": "http://m.hupu.com/soccer/france/team/1065/players"
+        },
+        "recent_games": {
+            "1439654400": [
+                {
+                    "game_id": 8665282,
+                    "league_id": 6,
+                    "season_id": 2015,
+                    "home_id": 1065,
+                    "home_name": "兰斯",
+                    "away_id": 334,
+                    "away_name": "马赛",
+                    "match_date": 1439701200,
+                    "round_number": null,
+                    "round_type": null,
+                    "group_name": null,
+                    "match_day": 2,
+                    "match_timezone": "BST",
+                    "match_date_cn": 1439726400,
+                    "away_score": null,
+                    "home_score": null,
+                    "half_score": null,
+                    "away_shoot_out_score": null,
+                    "home_shoot_out_score": null,
+                    "game_status": 0,
+                    "game_period": null,
+                    "game_time": null,
+                    "period_1_start": null,
+                    "period_2_start": null,
+                    "period_3_start": null,
+                    "period_4_start": null,
+                    "period_5_start": null,
+                    "away_formation": null,
+                    "home_formation": null,
+                    "away_team_official_id": null,
+                    "home_team_official_id": null,
+                    "sport_match_id": null,
+                    "detail_id": 1,
+                    "game_period_cn": "",
+                    "date": [
+                        "2015-08-16",
+                        "20:00"
+                    ],
+                    "week": "星期日",
+                    "home_url": "http://m.hupu.com/soccer/france/team/1065/match",
+                    "away_url": "http://m.hupu.com/soccer/france/team/334/match",
+                    "home_logo": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/87x87/1065.png",
+                    "away_logo": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/87x87/334.png",
+                    "game_url": "http://m.hupu.com/soccer/france/game/lineup/8665282"
+                }
+            ]
+        }
+    },
+    "officialInfo": {
+        "league_id": 6,
+        "season_id": 2015,
+        "official_id": 258521,
+        "team_id": 1065,
+        "team_name": "兰斯",
+        "official_name": "",
+        "official_known_name": "盖冈",
+        "official_name_en": "Olivier Guegan",
+        "official_known_name_en": "Olivier Guegan",
+        "official_type": "Manager",
+        "country": "France",
+        "country_cn": "法国",
+        "birth_date": "1972-08-20",
+        "first": "Olivier",
+        "last": "Guegan",
+        "join_date": "2015-04-07",
+        "win_per": 0.5,
+        "win": 4,
+        "draw": 0,
+        "lose": 4,
+        "description": null,
+        "image_86x120_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/official/86x120/258521.jpg",
+        "image_130x180_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/official/130x180/258521.jpg"
+    },
+    "gameList": {
+        "1439654400": [
+            {
+                "game_id": 8665282,
+                "league_id": 6,
+                "season_id": 2015,
+                "home_id": 1065,
+                "home_name": "兰斯",
+                "away_id": 334,
+                "away_name": "马赛",
+                "match_date": 1439701200,
+                "round_number": null,
+                "round_type": null,
+                "group_name": null,
+                "match_day": 2,
+                "match_timezone": "BST",
+                "match_date_cn": 1439726400,
+                "away_score": null,
+                "home_score": null,
+                "half_score": null,
+                "away_shoot_out_score": null,
+                "home_shoot_out_score": null,
+                "game_status": 0,
+                "game_period": null,
+                "game_time": null,
+                "period_1_start": null,
+                "period_2_start": null,
+                "period_3_start": null,
+                "period_4_start": null,
+                "period_5_start": null,
+                "away_formation": null,
+                "home_formation": null,
+                "away_team_official_id": null,
+                "home_team_official_id": null,
+                "sport_match_id": null,
+                "detail_id": 1,
+                "game_period_cn": "",
+                "date": [
+                    "2015-08-16",
+                    "20:00"
+                ],
+                "week": "星期日",
+                "home_url": "http://m.hupu.com/soccer/france/team/1065/match",
+                "away_url": "http://m.hupu.com/soccer/france/team/334/match",
+                "home_logo": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/87x87/1065.png",
+                "away_logo": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/87x87/334.png",
+                "game_url": "http://m.hupu.com/soccer/france/game/lineup/8665282"
+            }
+        ]
+    },
+    "startTime": 1439654400,
+    "endTime": 1439654400
+}

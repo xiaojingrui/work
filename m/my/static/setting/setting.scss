@@ -1,0 +1,53 @@
+@import "../sass/sassCore/base";
+
+body {
+    background: #f3f3f3;
+}
+.setting-wrap {
+    padding: .1rem 0 .3rem;
+    .setting-list {
+        background: #fff;
+        dt {
+            @include display-flex();
+            padding: .05rem .1rem;
+            margin-bottom: .05rem;
+            line-height: .26rem;
+            border-bottom: 1px solid #e3e4e5;
+            .text {
+                @include flex(1);
+            }
+            .button-inner {
+                border: 1px solid #e3e4e5;
+                @include border-radius(5px);
+                overflow: hidden;
+                a {
+                    float: left;
+                    display: inline-block;
+                    height: .26rem;
+                    padding: 0 .1rem;
+                    background: #f3f3f3;
+                    color: #999;
+
+                }
+                .active {
+                    background: #dc6969;
+                    color: #fff;
+                }
+            }
+        }
+        .select-area {
+
+            .lable {
+                display: block;
+                height: .3rem;
+                line-height: .3rem;
+                padding: 0 .2rem;
+                color: #999;
+                input {
+                    float: right;
+                    margin-top: .08rem;
+                }
+            }
+        }
+    }
+}

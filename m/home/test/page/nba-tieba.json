@@ -1,0 +1,317 @@
+{
+  "pageheader": {
+    "title": "虎扑篮球_手机虎扑网"
+  },
+  "project": "nba",
+  "bottomtitle": "虎扑篮球-最篮球的世界",
+  "site": "nba",
+  "logo_url": "http://m.hupu.com/nba",
+  "id4dace": 2100,
+  "mark4dace": "page_nba",
+  "baseurl": "http://m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": 0,
+  "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://192.168.8.36/nba/?test=710998fd1b7c0235170265650770a4b1&from=tieba&from=m&project=hupu",
+  "uid": "",
+  "username": "",
+  "showAdvertise": 0,
+  "description": "虎扑体育",
+  "pclink": "http://nba.hupu.com/?test=710998fd1b7c0235170265650770a4b1&from=tieba",
+  "hottitlelen": 16,
+  "columncontentlen": 46,
+  "footerword": {
+    "word": "重要的是你如何利用自己的嫉妒心理，你应该把它当成你更勤奋工作，并且努力得到那个人拥有的一切的动力。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "http://m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "http://m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "http://m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "彩票",
+      "url": "http://t.hupu.lecai.com/",
+      "router": "caipiaoindex",
+      "target": "_blank"
+    }
+  ],
+  "level2": [
+    {
+      "name": "比赛",
+      "router": "nbacenter",
+      "url": "http://m.hupu.com/nba/game"
+    },
+    {
+      "name": "新闻",
+      "router": "nbanewsindex",
+      "url": "http://m.hupu.com/nba/news/"
+    },
+    {
+      "name": "球队",
+      "router": "gnbastanding",
+      "url": "http://m.hupu.com/nba/standing"
+    },
+    {
+      "name": "论坛",
+      "router": "forumindex",
+      "param": {
+        "fid": 1048
+      },
+      "url": "http://m.hupu.com/bbs/1048"
+    }
+  ],
+  "node": [],
+  "customNba": {
+    "home_diy": {
+      "1": {
+        "num": "2",
+        "title": "模块主标题内容",
+        "url": "http://voice.hupu.com/sports/1921744.html",
+        "large": "on",
+        "pic": "http://touch.hupucdn.com/touch_nbahome_20150523142621.gif",
+        "tag": {
+          "name": ""
+        },
+        "content": [
+          {
+            "title": "模块组合内容",
+            "url": "http://m.hupu.com/nba/news/1915706.html",
+            "isvideo": "on"
+          }
+        ],
+        "m_url": "http://voice.hupu.com/sports/1921744.html"
+      },
+      "2": {
+        "num": "3",
+        "title": "模块主标题内容",
+        "url": "http://voice.hupu.com/sports/1921744.html",
+        "large": "on",
+        "pic": "http://touch.hupucdn.com/touch_nbahome_20150523142621.gif",
+        "tag": {
+          "name": "模块主标题标签"
+        },
+        "content": {
+          "0": {
+            "title": "模块组合内容",
+            "url": "http://m.hupu.com/nba/news/1915706.html",
+            "isvideo": "on"
+          },
+          "2": {
+            "title": "模块组合内容",
+            "url": "http://m.hupu.com/nba/news/1915706.html",
+            "isvideo": "on"
+          }
+        },
+        "m_url": "http://voice.hupu.com/sports/1921744.html"
+      }
+    }
+  },
+  "gameList": [],
+  "homeData": [
+    {
+      "title": "马刺将5年顶薪续约伦纳德",
+      "url": "http://m.hupu.com/nba/news/1927530.html",
+      "media": "CBS体育",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150629/f936e706a10a069a1727a68332206a7bacbd103a.jpg",
+      "date": "2015-06-29 18:30:00",
+      "reply_count": "142",
+      "light_count": "6"
+    },
+    {
+      "title": "韦德正式跳出合同，成为自由球员",
+      "url": "http://m.hupu.com/nba/news/1927641.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http%3A%2F%2Fc2.hoopchina.com.cn%2Fuploads%2Fstar%2Fevent%2Fimages%2F150623%2Fc4bc77097b866598eb609534de1616cea5e45f4a.png",
+      "date": "2015-06-30 03:35:35",
+      "reply_count": "278",
+      "light_count": "8"
+    },
+    {
+      "title": "艾弗森狱中经常收到女人内裤",
+      "url": "http://m.hupu.com/nba/news/1927533.html",
+      "media": "拉里布朗体育",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150629/45d1662acc5fecc38d7c9fc960a958c8f83565d6.jpg",
+      "date": "2015-06-29 18:36:10",
+      "reply_count": "54",
+      "light_count": "9"
+    },
+    {
+      "title": "阿尔德里奇倾向于加盟湖人？",
+      "url": "http://m.hupu.com/nba/news/1927705.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/f5f908b009715357d84b44c48a9605528ccc0340.jpg",
+      "date": "2015-06-30 09:21:47",
+      "reply_count": "141",
+      "light_count": "6"
+    },
+    {
+      "title": "骑士向特里斯坦-汤普森等人开出报价",
+      "url": "http://m.hupu.com/nba/news/1927660.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150630/813ac5756e62c373f081d1fae2984ac0a8f36303.jpg",
+      "date": "2015-06-30 05:35:15",
+      "reply_count": "92",
+      "light_count": "4"
+    },
+    {
+      "title": "ESPN：灰熊最近尝试交易得到乔-约翰逊",
+      "url": "http://m.hupu.com/nba/news/1927574.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150629/ccd0084e941bffe1c4ca369437d7de5ef030f9db.jpg",
+      "date": "2015-06-29 22:24:46",
+      "reply_count": "65",
+      "light_count": "4"
+    },
+    {
+      "title": "勇士已经向德雷蒙德-格林开出报价合同",
+      "url": "http://m.hupu.com/nba/news/1927696.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150630/7e9bcbcd96153e5b4d54e397ebe68b154120e766.jpg",
+      "date": "2015-06-30 08:48:07",
+      "reply_count": "45",
+      "light_count": "2"
+    },
+    {
+      "title": "湖人拒绝执行乔丹-希尔下赛季合同",
+      "url": "http://m.hupu.com/nba/news/1927663.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/d708ca04d3645019588bb54e97cdbce3da8d5aa4.jpg",
+      "date": "2015-06-30 05:45:48",
+      "reply_count": "67",
+      "light_count": "6"
+    },
+    {
+      "title": "黄蜂拒绝向比永博提供报价合同",
+      "url": "http://m.hupu.com/nba/news/1927661.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http%3A%2F%2Fc2.hoopchina.com.cn%2Fuploads%2Fstar%2Fevent%2Fimages%2F150611%2F06ad5cb940f370220e06a9017b3d1daf1a93399e.jpg",
+      "date": "2015-06-30 05:32:17",
+      "reply_count": "65",
+      "light_count": "1"
+    },
+    {
+      "title": "76人最快一周内决定如何治疗恩比德的脚伤",
+      "url": "http://m.hupu.com/nba/news/1927487.html",
+      "media": "费城问询报",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150629/398afa69c69022d3c9366264503cad834e9c6b01.png",
+      "date": "2015-06-29 15:35:51",
+      "reply_count": "55",
+      "light_count": "2"
+    },
+    {
+      "title": "拉塞尔：我告诉科比我是海绵",
+      "url": "http://m.hupu.com/nba/news/1927701.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/3afc869525c30298183b42b5d169ddc26b27a6ea.jpg",
+      "date": "2015-06-30 09:05:04",
+      "reply_count": "65",
+      "light_count": "5"
+    },
+    {
+      "title": "Woj：尼克斯在争夺门罗中领跑",
+      "url": "http://m.hupu.com/nba/news/1927635.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/cfcfbc3e9162bbc51eb9522c669c7d3f55bf46a1.jpg",
+      "date": "2015-06-30 03:01:39",
+      "reply_count": "34",
+      "light_count": "1"
+    },
+    {
+      "title": "门罗：想去一支需要我的球队",
+      "url": "http://m.hupu.com/nba/news/1927554.html",
+      "media": "The Advocate",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150629/f27545e08413d07ce5b4d052a9fc6d3af0edd8a1.jpg",
+      "date": "2015-06-29 21:16:57",
+      "reply_count": "53",
+      "light_count": "1"
+    },
+    {
+      "title": "罗伊斯-怀特确定将代表快船打夏季联赛",
+      "url": "http://m.hupu.com/nba/news/1927543.html",
+      "media": "洛杉矶时报",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150629/97d1a86c1de3b2896a19f1fae813f86bc8579f52.jpg",
+      "date": "2015-06-29 20:11:09",
+      "reply_count": "40",
+      "light_count": "4"
+    },
+    {
+      "title": "Woj：阿德将在马刺和开拓者之间做出选择",
+      "url": "http://m.hupu.com/nba/news/1927743.html",
+      "media": "ProjectSpurs",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/70320198ed9c40ad52422a384030344e9d4840c4.jpg",
+      "date": "2015-06-30 12:19:32",
+      "reply_count": "114",
+      "light_count": "6"
+    },
+    {
+      "title": "阿尔德里奇会面顺序：湖人第一",
+      "url": "http://m.hupu.com/nba/news/1927739.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/2bc4a3a88b08e8f8e2991560a1c4f038e0b2f303.jpg",
+      "date": "2015-06-30 12:03:03",
+      "reply_count": "53",
+      "light_count": "2"
+    },
+    {
+      "title": "热火公牛湖人等队有意巴里亚",
+      "url": "http://m.hupu.com/nba/news/1927669.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/007e933b96c00421e87486913651ca79c3a62b58.jpg",
+      "date": "2015-06-30 06:26:06",
+      "reply_count": "33",
+      "light_count": "1"
+    },
+    {
+      "title": "马刺将会见阿尔德里奇，邓肯等人出席",
+      "url": "http://m.hupu.com/nba/news/1927717.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/72900132f700ab1f6e0e6b1a857e84fb99a30f39.jpg",
+      "date": "2015-06-30 10:11:44",
+      "reply_count": "50",
+      "light_count": "3"
+    },
+    {
+      "title": "德罗赞想要一份年薪2500万美元的合同？",
+      "url": "http://m.hupu.com/nba/news/1927712.html",
+      "media": "多伦多太阳报",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150630/a427f5f1ad9fff15ad1ccd9133eae8cfa72c2e21.jpg",
+      "date": "2015-06-30 09:42:09",
+      "reply_count": "75",
+      "light_count": "2"
+    },
+    {
+      "title": "洛杉矶时报：快船想要纯控卫",
+      "url": "http://m.hupu.com/nba/news/1927710.html",
+      "media": "Twitter",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150630/ba9c4e49b5d10f4b907c2a851b767421c378eca2.png",
+      "date": "2015-06-30 09:31:39",
+      "reply_count": "52",
+      "light_count": "1"
+    }
+  ],
+  "adInfo": [],
+  "from": "?from=tieba"
+}

@@ -1,0 +1,52 @@
+.top-board{
+    display: block;
+    height: 40px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #e3e4e5;
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    position: relative;
+}
+.board-con{
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    box-flex: 1;
+}
+.board-con ul{
+    white-space: nowrap;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    width: 100vw;
+}
+.board-con ul::-webkit-scrollbar{
+    display: none;
+}
+.board-con li{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 16px;
+    color: #444;
+    line-height: 40px;
+}
+
+.allBoard{
+    display: block;
+    width: 80px;
+    background: #fff;
+    display: block;
+    font-size: 16px;
+    line-height: 40px;
+    color: #dd0202;
+    text-align: center;
+    -webkit-box-shadow: -2px 0px 4px rgba(235,235,235,0.9);
+    -moz-box-shadow: -2px 0px 4px rgba(235,235,235,0.9);
+    box-shadow: -2px 0px 4px rgba(235,235,235,0.9);
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.allBoard:hover,.allBoard:visited{
+    color: #dd0202;
+}

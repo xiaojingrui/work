@@ -1,0 +1,70 @@
+{
+  "baseurl": "http://m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": 1,
+  "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/my/usersetting?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+  "uid": "5365981",
+  "username": "nevergivejun",
+  "showAdvertise": 0,
+  "description": "虎扑体育",
+  "pclink": "http://my.hupu.com/usersetting?test=710998fd1b7c0235170265650770a4b1",
+  "hottitlelen": 16,
+  "columncontentlen": 46,
+  "footerword": {
+    "word": "我专注于一件事，而且只专注这一件事，那就是尽可能多地赢得冠军。",
+    "person": "科比"
+  },
+  "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "http://m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "http://m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "http://m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "彩票",
+      "url": "http://t.hupu.lecai.com/",
+      "router": "caipiaoindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "返回",
+      "url": "http://m.hupu.com/my"
+    }
+  ],
+  "usersetting": {
+    "album": "2",
+    "blog": "2",
+    "thread": "2",
+    "casino": null,
+    "xhw": null,
+    "friend": null,
+    "comment": null,
+    "battle": null,
+    "note": "2",
+    "recommend": "0"
+  }
+}

@@ -1,0 +1,132 @@
+@import "../../static/sass/sassCore/base";
+
+.match-board{
+    padding: 0;
+    background-color: #f3f3f3;
+    ul{
+        background-color: #FFF;
+    }
+    li{
+        border-bottom: 1px solid #e3e4e5;
+        padding: 5px 0;
+        height: 40px;
+        
+        &.ing{
+            .game-status{
+                line-height: 15px;
+                color: #c80c01;
+            }
+        }
+        &.wait{
+            .game-status{
+                line-height: 15px;
+            }
+        }
+        &.end{
+            .game-status{
+                color: #444;
+                line-height: 30px;
+            }
+            .result .lose{
+                color: #999;
+            }
+        }
+        .game-link{
+            display: block;
+            @include display-flex;
+        }
+    }
+    .game-info{
+        @include flex(1);
+        @include display-flex;
+        padding: 0 5px;
+        border-right: 1px solid #e3e4e5;
+        .league{
+            // width: 30px;
+            height: 16px;
+            text-align: center;
+            font-size: 12px;
+            line-height: 16px;
+            margin-top: 6px;
+            margin-right: 5px;
+            padding: 0 2px;
+            &.basketball{
+                color: #c80c01;
+                border: 1px solid #c80c01;
+            }
+            &.soccer{
+                color: #1669bb;
+                border: 1px solid #1669bb;
+            }
+        }
+        .team{
+            @include flex(1);
+            font-size: 14px;
+            line-height: 30px;
+            color: #444;
+        }
+        .result{
+            font-size: 14px;
+            line-height: 30px;
+            color: #444;
+        }
+    }
+    .game-status{
+        width: 15%;
+        text-align: center;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+}
+.prediction-entry{
+    font-size: 14px;
+    text-align: center;
+    color: #005eac;
+    a{
+        display: block;
+        padding: 8px 0;
+        color: #005eac;
+        span{
+            color: #005eac;
+        }
+        &:link{
+            color: #005eac;
+            span{
+                color: #005eac;
+            }
+        }
+        &:visited{
+            color: #005eac;
+            span{
+                color: #005eac;
+            }
+        }
+        &:active{
+            color: #005eac;
+            span{
+                color: #005eac;
+            }
+        }
+    }
+    span{
+        vertical-align: middle;
+    }
+    i{
+        display: inline-block;
+        width: 6px;
+        height: 6px;
+        border-top: 1px solid #005eac;
+        border-right: 1px solid #005eac;
+        @include rotate(45deg);
+        vertical-align: middle;
+        margin-left: 5px;
+    }
+}
+@media screen and (max-width: 320px){
+    .match-board .game-info{
+        .team{
+            font-size: 12px;
+        }
+    }
+}

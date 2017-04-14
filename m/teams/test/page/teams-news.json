@@ -1,0 +1,428 @@
+{
+  "pageheader": {
+    "title": "黄蜂新闻|黄蜂队最新资讯_虎扑体育"
+  },
+  "bottomtitle": "虎扑篮球-最篮球的世界",
+  "project": "nba",
+  "site": "nba",
+  "logo": "nba_logo_new.png",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//test-m.hupu.com",
+  "test": null,
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2Fnba%2Fhornets%2Fnews%3Ftest&from=m&project=hupu",
+  "uid": "29212169",
+  "username": "前200名全是本子啊",
+  "showAdvertise": 0,
+  "pclink": "http://nba.hupu.com/hornets/news?test",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "如果你害怕失败，那你很可能就会失败。",
+    "person": "科比"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "daceChannel": "nba",
+  "keywords": "黄蜂新闻",
+  "description": "虎扑体育NBA频道赛事中心为您提供最新的黄蜂队新闻资讯，包含黄蜂比赛新闻、球队以及球员新闻，精彩赛事，互动无限。",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "level2": [
+    {
+      "name": "比赛",
+      "router": "nbacenter",
+      "url": "//test-m.hupu.com/nba/game"
+    },
+    {
+      "name": "新闻",
+      "router": "nbanewsindex",
+      "url": "//test-m.hupu.com/nba/news/"
+    },
+    {
+      "name": "球队",
+      "router": "nbateam",
+      "url": "//test-m.hupu.com/nba/standings"
+    },
+    {
+      "name": "论坛",
+      "router": "forumindex",
+      "param": {
+        "fid": "1048"
+      },
+      "url": "//test-m.hupu.com/bbs/1048"
+    }
+  ],
+  "node": [
+    {
+      "title": "NBA球队",
+      "url": "//test-m.hupu.com/nba/standings"
+    }
+  ],
+  "id4dace": "2133",
+  "mark4dace": "page_nba_team_news_30",
+  "teamInfo": {
+    "id": "30",
+    "fid": "125",
+    "tagid": "3019",
+    "name": "黄蜂",
+    "eng_name": "Hornets",
+    "full_name": "夏洛特黄蜂",
+    "eng_full_name": "Charlotte Hornets",
+    "city": "Charlotte",
+    "bbr": "CHA2",
+    "logo": "CHA2.png",
+    "home": "时代华纳有线球馆",
+    "homepage_link": "http://www.nba.com/bobcats/",
+    "intro": "夏洛特黄蜂队是NBA现有30支球队之一，2004年NBA扩军时组建，原名山猫队，于2014夏更名为黄蜂，属于东部联盟东南赛区。",
+    "conference": "E",
+    "eng_division": "Southeast",
+    "cn_division": "东南赛区",
+    "stoped": "0",
+    "chief_coach": "史蒂夫-克利福德",
+    "found_year": "1988",
+    "players": "1343,3562,3639,3649,4842,150010,150068,1347,1431,3020,3025,3713,1054,150143,150085",
+    "team_link": "http://g.hupu.com/nba/teams/hornets",
+    "logo_link": "https://c2.hoopchina.com.cn//images/gamespace/team/123x124/CHA2.png",
+    "rank": "31",
+    "conferenceCn": "东部联盟",
+    "winCn": "6胜",
+    "lostCn": "1负",
+    "rankCn": "东部第一"
+  },
+  "teamBgColor": "30,17,97",
+  "news": [
+    {
+      "id": "2087682",
+      "title": "黄蜂主帅：我们球队至今都不完整",
+      "media": "夏洛特观察者报",
+      "reply_count": "7",
+      "light_count": "1",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2087682.html",
+      "dateline": "2016-11-09 16:01:23",
+      "pub_date": "1478678483",
+      "overview": "本赛季，夏洛特黄蜂队取得了5胜1负的战绩...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161109/f279ec3f3ea484ddfa25b54c12358ca1bd2e5619.png"
+    },
+    {
+      "id": "2087664",
+      "title": "黄蜂主帅：感谢杰弗森当年加盟球队",
+      "media": "夏洛特观察者报",
+      "reply_count": "7",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2087664.html",
+      "dateline": "2016-11-09 14:45:24",
+      "pub_date": "1478673924",
+      "overview": "今年夏天，艾尔-杰弗森以3年3000万美...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161109/d5a4c2967bf578db6190ca743aac884fd14700ad.jpg"
+    },
+    {
+      "id": "2087262",
+      "title": "黄蜂前6场5胜1负创队史最佳开局",
+      "media": "Twitter",
+      "reply_count": "51",
+      "light_count": "2",
+      "support": "1",
+      "against": "1",
+      "url": "//test-m.hupu.com/nba/news/2087262.html",
+      "dateline": "2016-11-08 10:36:06",
+      "pub_date": "1478572566",
+      "overview": "黄蜂今天主场122-100战胜了步行者，...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161108/e4cc7382cb6cd645f8cdbb13b12ae277f1b430d0.jpg"
+    },
+    {
+      "id": "2087249",
+      "title": "迈基吉因腰部酸痛本场不会回归",
+      "media": "Twitter",
+      "reply_count": "7",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2087249.html",
+      "dateline": "2016-11-08 10:15:01",
+      "pub_date": "1478571301",
+      "overview": "离开比赛前，迈基吉出场19分钟4投全中，...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161108/dce6694157bc2f0facbf8fd846b5536e6a531bcb.jpg"
+    },
+    {
+      "id": "2086596",
+      "title": "巴图姆：我被交易后就猜阿德要走了",
+      "media": "Blazer's Edge",
+      "reply_count": "27",
+      "light_count": "2",
+      "support": "3",
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2086596.html",
+      "dateline": "2016-11-06 15:15:34",
+      "pub_date": "1478416534",
+      "overview": "尼古拉斯-巴图姆回顾了自己在开拓者的一些...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161106/348b09d40f0b36f1028e49f458febb224b67ee68.png"
+    },
+    {
+      "id": "2086504",
+      "title": "太阳鹈鹕昨日比赛最后有4次争议判罚",
+      "media": "NBA官网",
+      "reply_count": "2",
+      "light_count": "0",
+      "support": 0,
+      "against": "2",
+      "url": "//test-m.hupu.com/nba/news/2086504.html",
+      "dateline": "2016-11-06 06:33:10",
+      "pub_date": "1478385190",
+      "overview": "太阳最终经过加时1分险胜鹈鹕。...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161106/8d003cc50d526b4bdec5457ae9ee82ebdb7d2ba6.jpg"
+    },
+    {
+      "id": "2085459",
+      "title": "尤因：恩比德可能是史上最有天赋的中锋",
+      "media": "Twitter",
+      "reply_count": "116",
+      "light_count": "6",
+      "support": "22",
+      "against": "8",
+      "url": "//test-m.hupu.com/nba/news/2085459.html",
+      "dateline": "2016-11-03 06:13:18",
+      "pub_date": "1478124798",
+      "overview": "尤因在季前赛就被大帝的表演征服了……...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161103/f632e089fb4769cfbdbefa70b1fa95fc1b087ef3.jpg"
+    },
+    {
+      "id": "2085303",
+      "title": "巴图姆带孩子：一起看篮球比赛，备战2036年选秀",
+      "media": "Twitter",
+      "reply_count": "5",
+      "light_count": "1",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2085303.html",
+      "dateline": "2016-11-02 18:40:49",
+      "pub_date": "1478083249",
+      "overview": "巴图姆表示，他和儿子也会看欧洲篮球。...",
+      "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGd3cyLnNpbmFpbWcuY24lMkZsYXJnZSUyRjY1ZTRmMWU2Z3cxZjlkeTY0dWNvZ2oyMHAwMHhjMHdoLmpwZw"
+    },
+    {
+      "id": "2084761",
+      "title": "官方：科迪-泽勒4年5600万提前续约黄蜂",
+      "media": "NBA官网",
+      "reply_count": "11",
+      "light_count": "1",
+      "support": "1",
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2084761.html",
+      "dateline": "2016-11-01 10:16:47",
+      "pub_date": "1477966607",
+      "overview": "泽勒的这份新合同中不包含球队或者球员选项...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161101/a50049fbc1a4c184dfc4df746de249d5987ddabc.jpg"
+    },
+    {
+      "id": "2084648",
+      "title": "兰姆因左腿腿筋拉伤将缺阵1到2周",
+      "media": "NBA官网",
+      "reply_count": "1",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2084648.html",
+      "dateline": "2016-11-01 00:28:25",
+      "pub_date": "1477931305",
+      "overview": "兰姆是在前天与凯尔特人队的比赛中受伤的。...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161101/00d0ddec41a1c94f195c4d9708723564dbeaecfe.jpg"
+    },
+    {
+      "id": "2084330",
+      "title": "Woj：黄蜂与科迪-泽勒正商讨续约事宜",
+      "media": "Twitter",
+      "reply_count": "1",
+      "light_count": "0",
+      "support": "1",
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2084330.html",
+      "dateline": "2016-10-31 05:04:59",
+      "pub_date": "1477861499",
+      "overview": "科迪-泽勒是2013年的4号秀。...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161031/46eb686117fa0df6bbe6602097b8c5a62894465e.jpg"
+    },
+    {
+      "id": "2084238",
+      "title": "黄蜂执行卡明斯基新秀合同的球队选项",
+      "media": "Twitter",
+      "reply_count": "3",
+      "light_count": "0",
+      "support": "2",
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2084238.html",
+      "dateline": "2016-10-30 22:11:00",
+      "pub_date": "1477836660",
+      "overview": "卡明斯基是2015年第1轮第9顺位的新秀...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161030/e6e815e31fe605ed6fc392b8a0aa8694d33d5ff3.jpg"
+    },
+    {
+      "id": "2084061",
+      "title": "乔丹身穿黄色小马甲观战黄蜂比赛",
+      "media": "Twitter",
+      "reply_count": "10",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2084061.html",
+      "dateline": "2016-10-30 10:23:27",
+      "pub_date": "1477794207",
+      "overview": "这是黄蜂队新赛季第一个主场比赛。...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161030/54781a1b61d5da7d927cf52a882308fe11c8fac6.png"
+    },
+    {
+      "id": "2084039",
+      "title": "兰姆左侧腿筋拉伤已经退出比赛",
+      "media": "Twitter",
+      "reply_count": "0",
+      "light_count": "0",
+      "support": "1",
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2084039.html",
+      "dateline": "2016-10-30 08:21:21",
+      "pub_date": "1477786881",
+      "overview": "黄蜂今天在主场迎战凯尔特人。...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161030/001ad175c5deff9c5d7c716506442303393fc20e.jpg"
+    },
+    {
+      "id": "2083707",
+      "title": "罗伊-希伯特因右膝盖酸痛退出了比赛",
+      "media": "Twitter",
+      "reply_count": "0",
+      "light_count": "0",
+      "support": "1",
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2083707.html",
+      "dateline": "2016-10-29 09:15:00",
+      "pub_date": "1477703700",
+      "overview": "今年夏天，希伯特和黄蜂签下了一份1年50...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161029/f245f185364f485a4e719237abd45f8edeab708e.jpg"
+    },
+    {
+      "id": "2082995",
+      "title": "卡明斯基和罗伯茨将缺席黄蜂队揭幕战",
+      "media": "Twitter",
+      "reply_count": "1",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2082995.html",
+      "dateline": "2016-10-27 01:28:55",
+      "pub_date": "1477502935",
+      "overview": "科迪-泽勒可以出席黄蜂队今天与雄鹿队的常...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161027/4b83611ffc40138bd8e48297d61eeccce5bc3adb.jpg"
+    },
+    {
+      "id": "2081728",
+      "title": "黄蜂裁掉佩里-埃利斯等三名球员",
+      "media": "Twitter",
+      "reply_count": "3",
+      "light_count": "0",
+      "support": 0,
+      "against": "1",
+      "url": "//test-m.hupu.com/nba/news/2081728.html",
+      "dateline": "2016-10-23 07:06:00",
+      "pub_date": "1477177560",
+      "overview": "黄蜂还裁掉了拉希德-苏莱曼和迈克-托比，...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161023/3f22c5ea4b13869a557988191f8dcd14f301ff92.jpg"
+    },
+    {
+      "id": "2081385",
+      "title": "卡明斯基右脚扭伤，退出比赛",
+      "media": "Twitter",
+      "reply_count": "2",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2081385.html",
+      "dateline": "2016-10-22 09:44:22",
+      "pub_date": "1477100662",
+      "overview": "卡明斯基今天上场8分钟，3投1中得到2分...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161022/3d86a2617845fe1e5b27e11f51312700bc2be000.jpg"
+    },
+    {
+      "id": "2081046",
+      "title": "黄蜂裁掉安德鲁-安德鲁斯",
+      "media": "NBA官网",
+      "reply_count": "2",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2081046.html",
+      "dateline": "2016-10-21 07:18:00",
+      "pub_date": "1477005480",
+      "overview": "安德鲁斯参加了今年的NBA选秀大会，但是...",
+      "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161021/f79eb34beec16537d0002319d3a502cc8e07be71.jpg"
+    },
+    {
+      "id": "2080715",
+      "title": "马文-威廉姆斯中指非位移性骨折，明日缺阵",
+      "media": "Twitter",
+      "reply_count": "6",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "//test-m.hupu.com/nba/news/2080715.html",
+      "dateline": "2016-10-20 04:31:00",
+      "pub_date": "1476909060",
+      "overview": "威廉姆斯是在10月18日对公牛的比赛中造...",
+      "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161020/af4dd559bd4d817575a991d44b05832450317d59.jpg"
+    }
+  ]
+}

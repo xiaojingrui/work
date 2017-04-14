@@ -1,0 +1,386 @@
+{
+  "pageheader": {
+    "title": "NBA新闻_手机虎扑网"
+  },
+  "title": "虎扑篮球 - 最篮球的世界",
+  "project": "nba",
+  "site": "voice",
+  "id4dace": 2110,
+  "mark4dace": "page_nba_news",
+  "baseurl": "http://m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": 0,
+  "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://192.168.8.36/nba/news/tag/821/?test=710998fd1b7c0235170265650770a4b1&from=tieba&from=m&project=hupu",
+  "uid": "",
+  "username": "",
+  "showAdvertise": 0,
+  "description": "虎扑体育",
+  "pclink": "http://voice.hupu.com/nba/tag/821/?test=710998fd1b7c0235170265650770a4b1&from=tieba",
+  "hottitlelen": 16,
+  "columncontentlen": 46,
+  "footerword": {
+    "word": "如果自己专心做一件事情，集中注意力就可以做好。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+  "bottomtitle": "虎扑篮球 - 最篮球的世界",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "http://m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "http://m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "http://m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "彩票",
+      "url": "http://t.hupu.lecai.com/",
+      "router": "caipiaoindex",
+      "target": "_blank"
+    }
+  ],
+  "level2": [
+    {
+      "name": "比赛",
+      "router": "nbacenter",
+      "url": "http://m.hupu.com/nba/game"
+    },
+    {
+      "name": "新闻",
+      "router": "nbanewsindex",
+      "url": "http://m.hupu.com/nba/news/"
+    },
+    {
+      "name": "球队",
+      "router": "gnbastanding",
+      "url": "http://m.hupu.com/nba/standing"
+    },
+    {
+      "name": "论坛",
+      "router": "forumindex",
+      "param": {
+        "fid": 1048
+      },
+      "url": "http://m.hupu.com/bbs/1048"
+    }
+  ],
+  "node": [
+    {
+      "title": "NBA",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "新闻",
+      "url": "#"
+    }
+  ],
+  "newsList": [
+    {
+      "id": "1927752",
+      "title": "活塞总经理：今年的新秀都很棒",
+      "media": "底特律自由报",
+      "reply_count": "3",
+      "light_count": "0",
+      "support": 0,
+      "against": 1,
+      "url": "http://m.hupu.com/nba/news/1927752.html",
+      "dateline": "2015-06-30 13:12:41",
+      "overview": "活塞队总经理鲍尔，在接受采访时表达了对于...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150630/deea7d7b9d419073f743da4f652d9059a2db06cb.jpg",
+      "date": "2小时前"
+    },
+    {
+      "id": "1927635",
+      "title": "Woj：尼克斯在争夺门罗中领跑",
+      "media": "Twitter",
+      "reply_count": "34",
+      "light_count": "1",
+      "support": 3,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1927635.html",
+      "dateline": "2015-06-30 03:01:39",
+      "overview": "尼克斯目前在争夺格雷格-门罗和阿隆-阿弗...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150630/cfcfbc3e9162bbc51eb9522c669c7d3f55bf46a1.jpg",
+      "date": "12小时前"
+    },
+    {
+      "id": "1927554",
+      "title": "门罗：想去一支需要我的球队",
+      "media": "The Advocate",
+      "reply_count": "53",
+      "light_count": "1",
+      "support": 6,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1927554.html",
+      "dateline": "2015-06-29 21:16:57",
+      "overview": "大范甘迪之前表示，他们对留下门罗感到不是...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150629/f27545e08413d07ce5b4d052a9fc6d3af0edd8a1.jpg",
+      "date": "18小时前"
+    },
+    {
+      "id": "1927230",
+      "title": "除了丹尼-格林，活塞还将追求卡罗尔？",
+      "media": "Twitter",
+      "reply_count": "23",
+      "light_count": "0",
+      "support": 1,
+      "against": 1,
+      "url": "http://m.hupu.com/nba/news/1927230.html",
+      "dateline": "2015-06-28 18:10:47",
+      "overview": "卡罗尔年薪可能达到1500万美元。之前还...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150628/078d18eb379a15b830f39c96b5df8339d4602f3b.png",
+      "date": "06-28 18:10"
+    },
+    {
+      "id": "1927134",
+      "title": "大范甘迪：对自己人我们从不隐瞒",
+      "media": "今日美国",
+      "reply_count": "13",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1927134.html",
+      "dateline": "2015-06-28 08:49:40",
+      "overview": "底特律活塞队内线门罗，在今年夏天很可能会...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150628/4504674c04f966088507a4ff77e4ef832565fbd2.jpg",
+      "date": "06-28 08:49"
+    },
+    {
+      "id": "1927132",
+      "title": "斯坦利-约翰逊：我性格很多面",
+      "media": "今日美国",
+      "reply_count": "8",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1927132.html",
+      "dateline": "2015-06-28 08:34:52",
+      "overview": "活塞在今年的选秀大会上，选中了亚利桑那大...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150628/75fc386ddf6e792f26dc46d095b03b8eafcbc6bc.jpg",
+      "date": "06-28 08:34"
+    },
+    {
+      "id": "1927024",
+      "title": "希利亚德：跑步才能让我冷静下来",
+      "media": "费城问询报",
+      "reply_count": "3",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1927024.html",
+      "dateline": "2015-06-27 21:19:01",
+      "overview": "活塞队在第38位选中了来自维拉诺瓦大学的...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150627/406d6aedcfcab56b17f44ccbca8e98015b37fd45.jpg",
+      "date": "06-27 21:19"
+    },
+    {
+      "id": "1926957",
+      "title": "活塞不会裁掉安东尼-托利弗",
+      "media": "Twitter",
+      "reply_count": "15",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1926957.html",
+      "dateline": "2015-06-27 14:29:36",
+      "overview": "在上赛季中期的一笔交易中，活塞从太阳得到...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150627/1278b2d7474ca524a6ee90b0069386f8f8ceaef3.jpg",
+      "date": "06-27 14:29"
+    },
+    {
+      "id": "1926927",
+      "title": "活塞和凯尔特人领跑魔术哈里斯争夺战？",
+      "media": "RealGM",
+      "reply_count": "21",
+      "light_count": "1",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1926927.html",
+      "dateline": "2015-06-27 11:35:30",
+      "overview": "托拜厄斯-哈里斯的合同将在今夏到期。联盟...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150627/38946f3640e66ba76b5865bad28b158b653c9b4e.jpg",
+      "date": "06-27 11:35"
+    },
+    {
+      "id": "1926846",
+      "title": "门罗将会见尼克斯等队，没活塞",
+      "media": "Twitter",
+      "reply_count": "77",
+      "light_count": "3",
+      "support": 7,
+      "against": 2,
+      "url": "http://m.hupu.com/nba/news/1926846.html",
+      "dateline": "2015-06-27 05:33:36",
+      "overview": "门罗即将成为一名自由球员。到时候，他将会...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150627/1fdf29d73b961427b2cf6a994d8b10a39cd024cc.jpg",
+      "date": "06-27 05:33"
+    },
+    {
+      "id": "1926471",
+      "title": "活塞在首轮第八顺位选择斯坦利-约翰逊",
+      "media": "虎扑体育",
+      "reply_count": "14",
+      "light_count": "0",
+      "support": 4,
+      "against": 1,
+      "url": "http://m.hupu.com/nba/news/1926471.html",
+      "dateline": "2015-06-26 08:22:00",
+      "overview": "他场均13.8分6.5篮板1.7助攻1....",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150626/4bb40e184b37bd6b2afcb4f367dd9159a6f1b6ce.jpg",
+      "date": "06-26 08:22"
+    },
+    {
+      "id": "1926274",
+      "title": "活塞向雷吉-杰克逊开出报价合同",
+      "media": "Twitter",
+      "reply_count": "26",
+      "light_count": "1",
+      "support": 0,
+      "against": 2,
+      "url": "http://m.hupu.com/nba/news/1926274.html",
+      "dateline": "2015-06-25 18:53:13",
+      "overview": "杰克逊的新秀合同将在今夏到期，他在上赛季...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150625/498406ce9c2149d6e3de47a5cffbff33e01cb577.jpg",
+      "date": "06-25 18:53"
+    },
+    {
+      "id": "1926236",
+      "title": "詹宁斯：库里超保罗成第一控卫",
+      "media": "Twitter",
+      "reply_count": "165",
+      "light_count": "8",
+      "support": 7,
+      "against": 12,
+      "url": "http://m.hupu.com/nba/news/1926236.html",
+      "dateline": "2015-06-25 15:25:21",
+      "overview": "詹宁斯还表示，若哈登得一冠将成史上第三S...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150625/0e71a5b8f0d77e7fe909d955b689d277f7d6532c.jpg",
+      "date": "06-25 15:25"
+    },
+    {
+      "id": "1926117",
+      "title": "大范：还在考虑选哪个侧翼球员",
+      "media": "Yahoo!",
+      "reply_count": "3",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1926117.html",
+      "dateline": "2015-06-25 08:29:39",
+      "overview": "底特律活塞队下赛季的首发阵容中，在小前锋...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150625/4ed14d586cc825a0f3756b64d62cb9ed28efc381.jpg",
+      "date": "06-25 08:29"
+    },
+    {
+      "id": "1925942",
+      "title": "海佐尼亚父亲：希望儿子每场能打25分钟",
+      "media": "丹佛邮报",
+      "reply_count": "6",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1925942.html",
+      "dateline": "2015-06-24 19:30:00",
+      "overview": "海佐尼亚的选秀行情一路看涨。根据NBAD...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150624/a8e08b9a3160e2533db48298149e6c5fa1feb9c6.jpg",
+      "date": "06-24 19:30"
+    },
+    {
+      "id": "1925926",
+      "title": "克拉夫佐夫将为雄鹿征战夏季联赛",
+      "media": "Twitter",
+      "reply_count": "4",
+      "light_count": "0",
+      "support": 1,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1925926.html",
+      "dateline": "2015-06-24 18:22:47",
+      "overview": "克拉夫佐夫是2009年的落选秀，他曾在活...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150624/a4a8f9bbad959671504f962e4cac9b87caa0d65a.jpg",
+      "date": "06-24 18:22"
+    },
+    {
+      "id": "1925829",
+      "title": "若活塞得到穆迪埃会放走雷吉？",
+      "media": "CBS体育",
+      "reply_count": "14",
+      "light_count": "0",
+      "support": 0,
+      "against": 2,
+      "url": "http://m.hupu.com/nba/news/1925829.html",
+      "dateline": "2015-06-24 11:22:31",
+      "overview": "消息人士称，如果活塞得到了穆迪埃的话，他...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150624/c6c757ece0f6ffdff103e9db109f8145b5a44c5d.jpg",
+      "date": "06-24 11:22"
+    },
+    {
+      "id": "1925826",
+      "title": "活塞已经锁定斯坦利-约翰逊？",
+      "media": "RealGM",
+      "reply_count": "5",
+      "light_count": "0",
+      "support": 0,
+      "against": 0,
+      "url": "http://m.hupu.com/nba/news/1925826.html",
+      "dateline": "2015-06-24 11:19:01",
+      "overview": "根据RealGM记者的报道，活塞队将会在...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150624/de54032ddf5ccc7c80f02f29bcaf4fc9ec8dd338.jpg",
+      "date": "06-24 11:19"
+    },
+    {
+      "id": "1925598",
+      "title": "埃内斯-坎特将缺席今夏欧锦赛",
+      "media": "Eurohoops",
+      "reply_count": "9",
+      "light_count": "0",
+      "support": 1,
+      "against": 1,
+      "url": "http://m.hupu.com/nba/news/1925598.html",
+      "dateline": "2015-06-23 20:13:00",
+      "overview": "土耳其男篮已经公布了参加今夏欧锦赛的球员...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150623/a708855a87601e6b882212ba9620a549e0bac6da.jpg",
+      "date": "06-23 20:13"
+    },
+    {
+      "id": "1925593",
+      "title": "活塞已经单独试训51名新秀",
+      "media": "Mlive",
+      "reply_count": "5",
+      "light_count": "0",
+      "support": 1,
+      "against": 1,
+      "url": "http://m.hupu.com/nba/news/1925593.html",
+      "dateline": "2015-06-23 19:40:10",
+      "overview": "活塞在今年选秀大会上拥有两个选秀权，分别...",
+      "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c1.hoopchina.com.cn/uploads/star/event/images/150623/89fe44e38ad68728e65f5440b87947dbbc63a422.jpg",
+      "date": "06-23 19:40"
+    }
+  ],
+  "page": 1,
+  "pageCount": 8,
+  "tags": [],
+  "tagName": null,
+  "router": "nbanewstagindex",
+  "newspageurl": "http://m.hupu.com/nba/news/tag/821/",
+  "routerparam": "tag=821",
+  "from": "?from=tieba"
+}

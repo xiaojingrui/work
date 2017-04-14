@@ -1,0 +1,154 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+
+.match-soccer-battle {
+    .stadium {
+        position: relative;
+        background-color: #6eb163;
+        background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(.5, rgba(255, 255, 255, 0.05)), color-stop(.5, transparent), to(transparent));
+        background-image: linear-gradient(rgba(255, 255, 255, 0.05) 50%, transparent 50%, transparent);
+        -webkit-background-size: .4rem .4rem;
+        background-size: .4rem .4rem;
+        text-align: center;
+        color: $white;
+        a {
+            color: $white;
+        }
+        .stadium-list {
+            position: relative;
+            z-index: 2;
+            margin-bottom: -.5rem;
+        }
+        .team-name {
+            position: absolute;
+            bottom: .1rem;
+            min-height: inherit;
+            padding: 0 .1rem;
+            text-align: left;
+            color: #376e2f;
+        }
+        .stadium-list-top {
+            margin: -.5rem 0 0 0;
+            .team-name {
+                bottom: inherit;
+                top: .1rem;
+            }
+        }
+        // 场景
+        .goal {
+            position: relative;
+            width: 1.4rem;
+            height: .6rem;
+            margin: 0 auto;
+            border: 2px solid #7bbb71;
+            &:before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 50%;
+                width: .7rem;
+                height: .3rem;
+                margin-left: -.35rem;
+                border: .02rem solid #7bbb71;
+                border-top: none;
+            }
+            .goal-content {
+                position: absolute;
+                bottom: -.1rem;
+                left: 50%;
+                width: .55rem;
+                height: .1rem;
+                margin-left: -.28rem;
+                overflow: hidden;
+                &:after {
+                    content: "";
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    width: 100%;
+                    height: .2rem;
+                    border: .02rem solid #7bbb71;
+                    -webkit-border-radius: .22rem / .1rem;
+
+                }
+            }
+
+        }
+        .goal-bottom {
+            @include rotate(180deg);
+        }
+        .center-line {
+            position: relative;
+            border-top: 2px solid #7bbb71;
+            &:after {
+                content: "";
+                position: absolute;
+                top: -.47rem;
+                left: 50%;
+                width: .96rem;
+                height: .96rem;
+                margin-left: -.48rem;
+                overflow: hidden;
+                border: .02rem solid #7bbb71;
+                @include border-radius(50%);
+            }
+        }
+
+        .stadium-list-top {
+            .players-list {
+                .players-number {
+                    background-image: url(team-bg-1.png);
+                    color: $grayDark;
+                }
+            }
+        }
+        li {
+            min-height: .52rem;
+            padding: .05rem 0;
+            &:nth-child(odd) {
+//                background: #79b76f;
+            }
+        }
+        .players-list {
+            display: inline-block;
+            width: 20%;
+            vertical-align: top;
+            .players-number {
+                display: inline-block;
+                width: .3rem;
+                height: .24rem;
+                font-size: .16rem;
+                margin-bottom: .05rem;
+                line-height: .24rem;
+                background: url(team-bg-2.png) no-repeat top left;
+                background-size: 100% 100%;
+                color: $white;
+            }
+            .name {
+
+            }
+        }
+    }
+
+    .table {
+        width: 100%;
+        line-height: .35rem;
+        thead {
+            background: #fbfbfb;
+            border-bottom: 1px solid #e3e4e5;
+            th {
+                font-weight: 400;
+                text-align: center;
+            }
+        }
+        td {
+            padding: 0 .05rem;
+            border-bottom: 1px solid #e3e4e5;
+        }
+        .number-2 {
+            text-align: right;
+        }
+    }
+}

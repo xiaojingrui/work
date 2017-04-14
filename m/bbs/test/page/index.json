@@ -1,0 +1,2001 @@
+{
+  "pageheader": {
+    "title": "虎扑体育论坛"
+  },
+  "bottomtitle": "虎扑体育 - 你的体育全世界！",
+  "site": "sports",
+  "id4dace": "5000",
+  "mark4dace": "page_bbs",
+  "keywords": "虎扑论坛,体育论坛,篮球论坛,足球论坛",
+  "description": "虎扑体育论坛是国内最大的体育垂直论坛，这里以NBA话题为主,包含CBA、足球、F1等内容的讨论,拥有热情而不失理性的良好讨论氛围,提供论坛版块定制等个性化功能。",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//dev-m.hupu.com",
+  "test": null,
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Fdev-m.hupu.com%2Fbbs%3Ftest&from=m&project=hupu",
+  "uid": "29212169",
+  "username": "前200名全是本子啊",
+  "showAdvertise": 0,
+  "pclink": "http://bbs.hupu.com?test",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "我相信自己每一天所付出的艰辛努力，在某一天一定会得到回报。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//dev-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//dev-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//dev-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//dev-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "论坛",
+      "url": "#"
+    }
+  ],
+  "adInfo": [],
+  "goto_script": "<script type=\"text/javascript\" src=\"https://goto.hupu.com/js/c/90.js\"></script>",
+  "collected": [],
+  "hotNav": [
+    {
+      "name": "爆照区",
+      "fid": "4614",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/4614",
+      "todayAddNum": 0
+    },
+    {
+      "name": "手机壁纸区",
+      "fid": "4604",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/4604",
+      "todayAddNum": 0
+    },
+    {
+      "name": "开放区",
+      "fid": "1594",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/1594",
+      "todayAddNum": 0
+    },
+    {
+      "name": "股票区",
+      "fid": "161",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/161",
+      "todayAddNum": 0
+    },
+    {
+      "name": "手游区",
+      "fid": "4657",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/4657",
+      "todayAddNum": 0
+    },
+    {
+      "name": "电竞区",
+      "fid": "3441",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/3441",
+      "todayAddNum": "37"
+    },
+    {
+      "name": "影视区",
+      "fid": "120",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/120",
+      "todayAddNum": 0
+    },
+    {
+      "name": "音乐区",
+      "fid": "3442",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/3442",
+      "todayAddNum": "30"
+    },
+    {
+      "name": "ACG区",
+      "fid": "1580",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/1580",
+      "todayAddNum": "9"
+    },
+    {
+      "name": "步行街",
+      "fid": "34",
+      "uv": 0,
+      "tag": "1",
+      "forumindex": "//dev-m.hupu.com/bbs/34",
+      "todayAddNum": "60"
+    }
+  ],
+  "forums": [
+    {
+      "fid": "1",
+      "name": "NBA论坛",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "1048",
+              "name": "湿乎乎的话题",
+              "logo": "https://i3.hoopchina.com.cn//blogfile/201510/15/BbsImg14448787146242_110*88.png",
+              "description": "工业时代是干巴巴的，我们在虚拟世界的关系是湿乎乎的。每一个话题，都会让我们更多一些交集，更多一些黏着力O(∩_∩)O~",
+              "forumtag": "",
+              "vieworder": "6",
+              "user_password": 0,
+              "count": "82",
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201504/09/BbsImg142856959956847_1200*600big.png",
+              "is_skip": "1",
+              "skip_url": "https://m.hupu.com/nba/teams/rockets",
+              "skip_content": "点击进入查看啦",
+              "forumindex": "//dev-m.hupu.com/bbs/1048"
+            },
+            {
+              "fid": "3480",
+              "name": "十万俱乐部",
+              "logo": "",
+              "description": "十万俱乐部，话题区浏览量过十万的帖子的集中地！",
+              "forumtag": "",
+              "vieworder": "101",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100930976617_990*686.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3480"
+            }
+          ],
+          "weight": 0,
+          "name": "主板"
+        },
+        {
+          "data": [
+            {
+              "fid": "85",
+              "name": "骑士专区",
+              "logo": "https://i2.hoopchina.com.cn//blogfile/201512/18/BbsImg145042526145353_110*90small.png",
+              "description": "Bleeding Wine Craving Gold",
+              "forumtag": "",
+              "vieworder": "31",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100930617996_1024*682.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/85"
+            },
+            {
+              "fid": "44",
+              "name": "火箭专区",
+              "logo": "https://i3.hoopchina.com.cn//blogfile/201510/15/BbsImg144487871261583_110*88.png",
+              "description": "A New Age！Red 4 Ever！ Clutch City！Red Nation! #Pursuit#",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": "26",
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201504/09/BbsImg142856959956847_1200*600big.png",
+              "is_skip": "1",
+              "skip_url": "kanqiu://nba/nba/team/21",
+              "skip_content": "查看圣安东尼马刺赛程",
+              "forumindex": "//dev-m.hupu.com/bbs/44"
+            },
+            {
+              "fid": "102",
+              "name": "勇士专区",
+              "logo": "https://i3.hoopchina.com.cn//blogfile/201512/18/BbsImg145042530578861_110*90.png",
+              "description": " 爱上一场认真的消遣。",
+              "forumtag": "",
+              "vieworder": "23",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100930345627_560*340.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/102"
+            },
+            {
+              "fid": "105",
+              "name": "马刺专区",
+              "logo": "https://i3.hoopchina.com.cn//blogfile/201512/18/BbsImg145042526145353_110*90small.png",
+              "description": "One Team，One Goal",
+              "forumtag": "",
+              "vieworder": "12",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100930629811_1024*539.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/105"
+            },
+            {
+              "fid": "108",
+              "name": "雷霆专区",
+              "logo": "https://i3.hoopchina.com.cn//blogfile/201512/18/BbsImg145042526227165_110*90small.png",
+              "description": "TEAM IS ONE",
+              "forumtag": "",
+              "vieworder": "13",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100930485385_960*800.jpg",
+              "is_skip": "1",
+              "skip_url": "kanqiu://nba/nba/team/108",
+              "skip_content": "查看雷霆赛程",
+              "forumindex": "//dev-m.hupu.com/bbs/108"
+            },
+            {
+              "fid": "77",
+              "name": "热火专区",
+              "logo": "https://i3.hoopchina.com.cn//blogfile/201512/18/BbsImg145042528815806_110*90small.png",
+              "description": "白热力量，熊熊燃烧；新的热火，新的征途！",
+              "forumtag": "",
+              "vieworder": "3",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg14510093029661_800*533.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/77"
+            },
+            {
+              "fid": "82",
+              "name": "凯尔特人区",
+              "logo": "https://i1.hoopchina.com.cn//blogfile/201512/18/BbsImg145042530578861_110*90.png",
+              "description": "凯尔特人绿衫军的球迷大本营，我们都爱这个球队，如果你有对凯尔特人的评论、感言、图片等，欢迎来与我们分享！",
+              "forumtag": "",
+              "vieworder": "4",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100930145267_1024*603.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/82"
+            },
+            {
+              "fid": "80",
+              "name": "小牛专区",
+              "logo": "",
+              "description": "关于小牛队的一切",
+              "forumtag": "",
+              "vieworder": "9",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg14510093008263_1024*545.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/80"
+            },
+            {
+              "fid": "76",
+              "name": "森林狼专区",
+              "logo": "",
+              "description": "United Wolves",
+              "forumtag": "",
+              "vieworder": "28",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/76"
+            },
+            {
+              "fid": "68",
+              "name": "公牛专区",
+              "logo": "",
+              "description": "牛蜜搅基地",
+              "forumtag": "",
+              "vieworder": "10",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100929965721_1024*699.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/68"
+            },
+            {
+              "fid": "126",
+              "name": "老鹰专区",
+              "logo": "",
+              "description": "群鹰基地",
+              "forumtag": "",
+              "vieworder": "36",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/126"
+            },
+            {
+              "fid": "87",
+              "name": "活塞专区",
+              "logo": "",
+              "description": "Go Pistons！",
+              "forumtag": "",
+              "vieworder": "24",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/87"
+            },
+            {
+              "fid": "92",
+              "name": "尼克斯专区",
+              "logo": "",
+              "description": "纽约黑帮打手们的集散地。归去，也无风雨也无晴。",
+              "forumtag": "",
+              "vieworder": "15",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/92"
+            },
+            {
+              "fid": "88",
+              "name": "魔术专区",
+              "logo": "",
+              "description": "Gina歌迷会&刘谦粉丝团",
+              "forumtag": "",
+              "vieworder": "18",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100929492494_1440*900.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/88"
+            },
+            {
+              "fid": "84",
+              "name": "篮网专区",
+              "logo": "",
+              "description": "Welcome to Brooklyn",
+              "forumtag": "",
+              "vieworder": "21",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201504/09/BbsImg142856959956847_1200*600big.png",
+              "is_skip": "1",
+              "skip_url": "kanqiu://nba/nba/team/182",
+              "skip_content": "点击跳转篮网球队页",
+              "forumindex": "//dev-m.hupu.com/bbs/84"
+            }
+          ],
+          "weight": "1",
+          "name": "球队分区"
+        },
+        {
+          "data": [
+            {
+              "fid": "607",
+              "name": "街球实战",
+              "logo": "",
+              "description": "全国最火的“非职业篮球”版块，欢迎所有热爱打球的兄弟。实战健身官方微博：http://weibo.com/hupuszjz",
+              "forumtag": "",
+              "vieworder": "3",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/607"
+            }
+          ],
+          "weight": "2",
+          "name": "街球实战"
+        }
+      ]
+    },
+    {
+      "fid": "232",
+      "name": "CBA论坛",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "24",
+              "name": "中国篮球",
+              "logo": "",
+              "description": "介绍一切关于中国男篮国家队、CBA联赛、校园篮球联赛及中国篮球运动员的动态信息！",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/24"
+            },
+            {
+              "fid": "1498",
+              "name": "中国篮球话题区",
+              "logo": "",
+              "description": "做最好的中国篮球话题讨论区！大家有话题在这发就好，不要跑国区发啦~最后希望大家理性聊球(*^__^*) ~",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1498"
+            }
+          ],
+          "weight": 0,
+          "name": "主板"
+        },
+        {
+          "data": [
+            {
+              "fid": "218",
+              "name": "广东华南虎",
+              "logo": "",
+              "description": "厚于德 诚于信 敏于行！这是宏远球迷的家，”若批评不自由，则赞美无意义“",
+              "forumtag": "",
+              "vieworder": "5",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/218"
+            },
+            {
+              "fid": "2297",
+              "name": "北京鸭",
+              "logo": "https://i2.hoopchina.com.cn//blogfile/201512/18/BbsImg145042526114274_110*90small.png",
+              "description": "这里是北京篮球的主战场，这里欢迎所有球迷前来谈天说地，祝各位在这里玩好!",
+              "forumtag": "",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2297"
+            },
+            {
+              "fid": "2519",
+              "name": "东莞烈豹",
+              "logo": "",
+              "description": "这里是东莞新世纪官方论坛，欢迎各地球迷前来球话，讨论。同时不要在官网对新世纪挑衅！",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2519"
+            },
+            {
+              "fid": "221",
+              "name": "江苏龙",
+              "logo": "",
+              "description": "当全中国最好的江苏南钢龙球迷社区！！！！！！！龙腾云霄会有时 不见风雨怎见彩虹 GO dragons ！！！！！！！",
+              "forumtag": "",
+              "vieworder": "6",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/221"
+            },
+            {
+              "fid": "2691",
+              "name": "福建中华鲟",
+              "logo": "",
+              "description": "我们的球队，我们的球星，我们的论坛。",
+              "forumtag": "福建&&&||浔兴&&&||华侨大学&&&||厦门大学&&&||",
+              "vieworder": "17",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2691"
+            },
+            {
+              "fid": "1215",
+              "name": "山西猛龙",
+              "logo": "https://i3.hoopchina.com.cn//forumlogo/1215small.jpg",
+              "description": "努力做最专注的山西猛龙球迷社区",
+              "forumtag": "CBA&&&||山西&&&||中宇&&&||猛龙&&&||汾酒",
+              "vieworder": "12",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1215"
+            },
+            {
+              "fid": "2978",
+              "name": "青岛雄鹰",
+              "logo": "",
+              "description": "作为资历最短的CBA球队，本赛季青岛异军突起，希望到这里的球迷能给球队带来好运！",
+              "forumtag": "",
+              "vieworder": "20",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2978"
+            },
+            {
+              "fid": "2977",
+              "name": "佛山龙狮",
+              "logo": "",
+              "description": "这里是所有球迷们热情交流的地方，愿天下球迷论我佛山精彩。。",
+              "forumtag": "",
+              "vieworder": "4",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2977"
+            },
+            {
+              "fid": "1800",
+              "name": "吉林东北虎",
+              "logo": "https://i1.hoopchina.com.cn//forumlogo/1800small.jpg",
+              "description": "吉林东北虎球迷HC大本营",
+              "forumtag": "吉林&&&||东北虎&&&||CBA&&&||中国&&&||篮球",
+              "vieworder": "16",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1800"
+            },
+            {
+              "fid": "2976",
+              "name": "天津金狮",
+              "logo": "",
+              "description": "努力让这里成为天津男篮球迷们的家！",
+              "forumtag": "",
+              "vieworder": "18",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2976"
+            },
+            {
+              "fid": "4497",
+              "name": "江苏大圣",
+              "logo": "",
+              "description": "",
+              "forumtag": "",
+              "vieworder": "21",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/4497"
+            }
+          ],
+          "weight": "1",
+          "name": "CBA球队"
+        }
+      ]
+    },
+    {
+      "fid": "198",
+      "name": "国际足球论坛",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "109",
+              "name": "足球场",
+              "logo": "",
+              "description": "跨联赛无疆界讨论区，所有球迷共同的家园",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg14510093345350_1600*900.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/109"
+            },
+            {
+              "fid": "1389",
+              "name": "足球话题区",
+              "logo": "",
+              "description": "激辩包容，互相学习，小话题有大学问！",
+              "forumtag": "",
+              "vieworder": "3",
+              "user_password": 0,
+              "count": "26",
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100933481220_1024*1010.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1389"
+            },
+            {
+              "fid": "213",
+              "name": "妖人银河系",
+              "logo": "",
+              "description": "更新来自世界各地的足球妖人资料介绍供球迷讨论",
+              "forumtag": "",
+              "vieworder": "9",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg14510093325656_650*400.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/213"
+            }
+          ],
+          "weight": 0,
+          "name": "主板"
+        },
+        {
+          "data": [
+            {
+              "fid": "138",
+              "name": "英超专区",
+              "logo": "https://i2.hoopchina.com.cn//blogfile/201510/15/BbsImg14448787146242_110*88.png",
+              "description": "无雄心，不英超！",
+              "forumtag": "",
+              "vieworder": "4",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100933289750_1024*643.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/138"
+            },
+            {
+              "fid": "2918",
+              "name": "阿森纳专区",
+              "logo": "",
+              "description": "Victoria Concordia Crescit  愿在圆梦的焰火下，与你欣然相见",
+              "forumtag": "",
+              "vieworder": "2",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100933019022_1024*562.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2918"
+            },
+            {
+              "fid": "4050",
+              "name": "阿斯顿维拉官方专区",
+              "logo": "",
+              "description": "英超阿斯顿维拉俱乐部官方论坛",
+              "forumtag": "",
+              "vieworder": "8",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/4050"
+            },
+            {
+              "fid": "3230",
+              "name": "英冠专区",
+              "logo": "",
+              "description": "更纯粹的英伦足球，更纯粹的汉子",
+              "forumtag": "",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3230"
+            }
+          ],
+          "weight": "1",
+          "name": "英超"
+        },
+        {
+          "data": [
+            {
+              "fid": "140",
+              "name": "西甲专区",
+              "logo": "",
+              "description": "相信西甲，相信西班牙",
+              "forumtag": "",
+              "vieworder": "5",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100932719851_3264*1836.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/140"
+            },
+            {
+              "fid": "2892",
+              "name": "瓦伦西亚专区",
+              "logo": "",
+              "description": "Amunt València, Vixca el València, del nostre cor!",
+              "forumtag": "",
+              "vieworder": "4",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2892"
+            },
+            {
+              "fid": "3812",
+              "name": "塞维利亚官方专区",
+              "logo": "",
+              "description": "西甲塞维利亚俱乐部中文官方论坛",
+              "forumtag": "",
+              "vieworder": "5",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3812"
+            }
+          ],
+          "weight": "2",
+          "name": "西甲"
+        },
+        {
+          "data": [
+            {
+              "fid": "139",
+              "name": "意甲专区",
+              "logo": "",
+              "description": "关注亚平宁“七姐妹”浮沉断代史，见证下一个“小世界杯”时代",
+              "forumtag": "",
+              "vieworder": "6",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/139"
+            },
+            {
+              "fid": "1845",
+              "name": "米兰专区",
+              "logo": "https://i1.hoopchina.com.cn//blogfile/201512/18/BbsImg145042530578861_110*90.png",
+              "description": "我们并不强大，但请让我们一起进步。",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1845"
+            },
+            {
+              "fid": "1847",
+              "name": "国米专区",
+              "logo": "",
+              "description": "不抛弃     不放弃     共患难     共辉煌",
+              "forumtag": "",
+              "vieworder": "2",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1847"
+            },
+            {
+              "fid": "1846",
+              "name": "尤文专区",
+              "logo": "",
+              "description": "寒冬之后，是春晓的梦想   |   A sniff of spring. Still proud of Ju!",
+              "forumtag": "",
+              "vieworder": "15",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1846"
+            },
+            {
+              "fid": "1848",
+              "name": "罗马专区",
+              "logo": "",
+              "description": "Hungry for Glory!~ 流浪狗快回家踢欧冠！",
+              "forumtag": "",
+              "vieworder": "20",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1848"
+            }
+          ],
+          "weight": "3",
+          "name": "意甲"
+        },
+        {
+          "data": [
+            {
+              "fid": "141",
+              "name": "德意志城堡",
+              "logo": "",
+              "description": "德迷一家亲，河蟹贵如金",
+              "forumtag": "",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/141"
+            }
+          ],
+          "weight": "4",
+          "name": "德甲"
+        },
+        {
+          "data": [
+            {
+              "fid": "151",
+              "name": "国家队-世界杯",
+              "logo": "",
+              "description": "2014年世界杯，虎扑主战场",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/151"
+            },
+            {
+              "fid": "1259",
+              "name": "法兰西足球",
+              "logo": "https://i2.hoopchina.com.cn//forumlogo/1259small.gif",
+              "description": "你赢时，陪你君临天下；你输时，待你东山再起！ALLEZ LES BLEUS！",
+              "forumtag": "足球&&&||法兰西&&&||法甲&&&||法国国家队&&&||",
+              "vieworder": "8",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1259"
+            },
+            {
+              "fid": "152",
+              "name": "足总",
+              "logo": "",
+              "description": "欢迎提出所有对虎扑足球的意见与建议，请勿在此版块闲聊，投诉请使用规范标题",
+              "forumtag": "",
+              "vieworder": "23",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/152"
+            }
+          ],
+          "weight": "5",
+          "name": "其他"
+        },
+        {
+          "data": [
+            {
+              "fid": "223",
+              "name": "翻译团-足球",
+              "logo": "",
+              "description": "翻译国外最新最热的深度报道和专家分析 [本版主要用于翻译团招工和审稿工作，推荐和评论请去相关专区，禁止使用Word]",
+              "forumtag": "",
+              "vieworder": "20",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100932998054_1024*646.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/223"
+            },
+            {
+              "fid": "172",
+              "name": "足球装备",
+              "logo": "",
+              "description": "最新最炫最全的足球运动装备交流区（交流区禁止一切广告贴，如需交易/求购请在咨询&交易大楼发帖）",
+              "forumtag": "",
+              "vieworder": "11",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/172"
+            },
+            {
+              "fid": "142",
+              "name": "足球视频下载",
+              "logo": "",
+              "description": "全面覆盖所有中文足球视频下载站，多片源版本，回复即可下载，页面更清爽，努力成为最好的足球下载频道",
+              "forumtag": "",
+              "vieworder": "18",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/142"
+            },
+            {
+              "fid": "182",
+              "name": "足球游戏",
+              "logo": "",
+              "description": "FM、实况、FIFA等等各种足球游戏的讨论区",
+              "forumtag": "",
+              "vieworder": "19",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/182"
+            }
+          ],
+          "weight": "6",
+          "name": "资源"
+        }
+      ]
+    },
+    {
+      "fid": "4596",
+      "name": "中国足球论坛",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "155",
+              "name": "中国足球场",
+              "logo": "https://i1.hoopchina.com.cn//blogfile/201510/15/BbsImg144487871261583_110*88.png",
+              "description": "中国足球和中超联赛，中国足球迷永远最割舍不掉的情结",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/155"
+            }
+          ],
+          "weight": 0,
+          "name": "主版"
+        },
+        {
+          "data": [
+            {
+              "fid": "2933",
+              "name": "北京国安",
+              "logo": "https://i2.hoopchina.com.cn//blogfile/201510/15/BbsImg144487871261583_110*88.png",
+              "description": "胜利永远属于你，国安永远争第一！",
+              "forumtag": "",
+              "vieworder": "2",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2933"
+            },
+            {
+              "fid": "3617",
+              "name": "上海上港",
+              "logo": "https://i2.hoopchina.com.cn//blogfile/201510/15/BbsImg14448787146242_110*88.png",
+              "description": "上海上港纵横长城内外，教父根宝笑傲大江南北！！！",
+              "forumtag": "",
+              "vieworder": "11",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3617"
+            },
+            {
+              "fid": "3082",
+              "name": "山东鲁能",
+              "logo": "",
+              "description": "我们是风 我们是电 我们是橘红色的火焰",
+              "forumtag": "",
+              "vieworder": "4",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3082"
+            },
+            {
+              "fid": "3129",
+              "name": "河南建业",
+              "logo": "",
+              "description": "红魔吹响集结号！HoopChina&GoalHi河南网友集结地！来了先收藏！",
+              "forumtag": "",
+              "vieworder": "9",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3129"
+            },
+            {
+              "fid": "3053",
+              "name": "上海申花",
+              "logo": "",
+              "description": "努力拼搏，赢得胜利，我们永不放弃",
+              "forumtag": "",
+              "vieworder": "3",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3053"
+            },
+            {
+              "fid": "4513",
+              "name": "石家庄永昌",
+              "logo": "",
+              "description": "用足球的力量，焕发城市精神",
+              "forumtag": "",
+              "vieworder": "16",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/4513"
+            },
+            {
+              "fid": "3084",
+              "name": "江苏舜天",
+              "logo": "",
+              "description": "新的赛季，新的面貌，舜天加油。",
+              "forumtag": "",
+              "vieworder": "6",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3084"
+            },
+            {
+              "fid": "3154",
+              "name": "长春亚泰",
+              "logo": "",
+              "description": "",
+              "forumtag": "",
+              "vieworder": "13",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3154"
+            },
+            {
+              "fid": "4512",
+              "name": "重庆力帆",
+              "logo": "",
+              "description": "几度春秋几沉浮，从今迈步从头越！",
+              "forumtag": "",
+              "vieworder": "15",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/4512"
+            },
+            {
+              "fid": "3153",
+              "name": "辽宁宏运",
+              "logo": "",
+              "description": "群策群力 赫赫声威扬狗孩  竭诚竭挚 盈盈乡心满虎扑",
+              "forumtag": "",
+              "vieworder": "14",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3153"
+            },
+            {
+              "fid": "3155",
+              "name": "广州富力",
+              "logo": "",
+              "description": "2015，富力 越秀山 重新启程~!!! 蓝色信仰，一路追随~!!!",
+              "forumtag": "",
+              "vieworder": "8",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3155"
+            },
+            {
+              "fid": "3127",
+              "name": "杭州绿城",
+              "logo": "",
+              "description": "绿色巨人向前进，我们歌声永不停，一路不管风和雨，我们永不分离！",
+              "forumtag": "",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3127"
+            },
+            {
+              "fid": "3083",
+              "name": "天津泰达",
+              "logo": "",
+              "description": "勿忘球队所给你难忘的记忆，随泰达继续前行",
+              "forumtag": "",
+              "vieworder": "5",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3083"
+            }
+          ],
+          "weight": "1",
+          "name": "中超"
+        },
+        {
+          "data": [
+            {
+              "fid": "3644",
+              "name": "中甲联赛",
+              "logo": "",
+              "description": "远离聚光灯的联赛同样精彩",
+              "forumtag": "",
+              "vieworder": "17",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3644"
+            },
+            {
+              "fid": "1764",
+              "name": "亚洲足球",
+              "logo": "",
+              "description": "关注亚洲足球，关注我们的对手。",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1764"
+            }
+          ],
+          "weight": "2",
+          "name": "其他"
+        }
+      ]
+    },
+    {
+      "fid": "233",
+      "name": "运动&装备",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "49",
+              "name": "运动装备",
+              "logo": "",
+              "description": "篮球鞋，Sneaker文化，球星卡，各种篮球用品，前瞻与交流，经典收藏赏析，禁止交流晒假货厂货。 在装备区发各种广告或出售物品者一律永久封禁，装备鉴定欢迎到鉴定中心：http://bbs.hupu.com/jianding",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100916764153_787*443.jpg",
+              "is_skip": "1",
+              "skip_url": "kanqiu://bbs/topic/13068891",
+              "skip_content": "11111111",
+              "forumindex": "//dev-m.hupu.com/bbs/49"
+            },
+            {
+              "fid": "135",
+              "name": "球衣区",
+              "logo": "",
+              "description": "★ 发鉴定贴，咨询帖，求购贴，出售帖，一律关小黑屋后转水库 ★  欢迎展示个人收藏，分享经验心得，讨论球衣话题，开展球衣活动！",
+              "forumtag": "",
+              "vieworder": "3",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100916851358_1024*683.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/135"
+            },
+            {
+              "fid": "726",
+              "name": "潮流区",
+              "logo": "https://i2.hoopchina.com.cn//forumlogo/726small.jpg",
+              "description": "玩出精彩。be true, stay cool, and love triphop。严禁任何形式的广告宣传交易转让，taobao卖家止步。支持原创，禁止纯转载的帖子。请初接触这个板块的同学发问询帖详细避免变成水帖。",
+              "forumtag": "潮流&&&||球鞋&&&||服装&&&||眼镜&&&||美女",
+              "vieworder": "5",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100916677666_1000*500.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/726"
+            }
+          ],
+          "weight": 0,
+          "name": "主板"
+        },
+        {
+          "data": [
+            {
+              "fid": "112",
+              "name": "交易区(新品)",
+              "logo": "",
+              "description": "交易全新运动装备，禁止出售厂货，假货，出售者一律永久封禁。禁售版规之外的禁售物品（例如：Vans，Puma，Kappa等具体请看版规，特别是袜子禁售需注意！）。禁止恶性竞争不满七天重复发帖。小心假货卖家“品鞋汇”“XTS正品运动”“顺业广东体育”",
+              "forumtag": "",
+              "vieworder": "17",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100916597591_1024*639.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/112"
+            },
+            {
+              "fid": "195",
+              "name": "二手交易区",
+              "logo": "",
+              "description": "【禁止先款】仅限交易版规限定物品，物品必须实物图明码标价带ID。新品禁止打出“试穿成色或9.99新等旗号”在二手区发布！售厂售假者一律永久封禁。禁止恶性竞争不满七天重复发帖。禁止出售禁售物品（例如Kappa，Vans，Puma等特别是袜子禁售需注意！）",
+              "forumtag": "",
+              "vieworder": "18",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100916598770_1024*647.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/195"
+            },
+            {
+              "fid": "1056",
+              "name": "虎扑求购区",
+              "logo": "",
+              "description": "求购的一切都与hc官方无关，请各位买家三思再下手，请大家熟悉版规，一切违规将给予删除至封禁的处理，发帖请注明选择类别，标题请规范，如“求aj15 黑红43”特别提醒：禁止在求购区发交易帖或广告及变相广告，发现者永久封禁！！",
+              "forumtag": "求购&&&||耐克&&&||阿迪达斯&&&||李宁&&&||匹克",
+              "vieworder": "19",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100916371299_559*289.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1056"
+            }
+          ],
+          "weight": "1",
+          "name": "交易"
+        },
+        {
+          "data": [
+            {
+              "fid": "1887",
+              "name": "鉴定中心",
+              "logo": "",
+              "description": "运动装备鉴定讨论，欢迎拍实物图来鉴定，欢迎倡言评论，骨干鉴定团队火热征召中! 在鉴定区发交易帖子出售物品者，一律永久封禁。禁止发大尺度和鉴定内容无关图片，禁发交易帖，违者小黑屋处理。",
+              "forumtag": "",
+              "vieworder": "15",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1887"
+            },
+            {
+              "fid": "196",
+              "name": "装备咨询问答",
+              "logo": "",
+              "description": "装备问题咨询专区，帮助大家解决运动装备的各种疑问，与咨询无关的内容禁止讨论，情节严重者封禁处理",
+              "forumtag": "",
+              "vieworder": "9",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/196"
+            }
+          ],
+          "weight": "2",
+          "name": "求助"
+        },
+        {
+          "data": [
+            {
+              "fid": "1479",
+              "name": "球鞋手稿",
+              "logo": "",
+              "description": "球鞋设计，DIY交流，一切对设计有爱的同鞋！！！",
+              "forumtag": "球鞋&&&||设计&&&||摄影&&&||手稿&&&||",
+              "vieworder": "6",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1479"
+            },
+            {
+              "fid": "194",
+              "name": "装备区意见受理",
+              "logo": "",
+              "description": "处理虎扑装备区交易区纠纷的投诉举报专区。请投诉举报者提供明确的证据方能受理（交易原帖、违规ID、交谈记录，交易记录等等，最好是清晰截图）；已经处理完毕的帖子请不要随意盗墓，一经查证将给于7天到永封的处罚；一个纠纷发一个帖子即可，重复发贴会给予合并或者删除。",
+              "forumtag": "",
+              "vieworder": "4",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/194"
+            }
+          ],
+          "weight": "3",
+          "name": "其他"
+        }
+      ]
+    },
+    {
+      "fid": "174",
+      "name": "甘比亚大陆",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "34",
+              "name": "步行街",
+              "logo": "",
+              "description": "逛虎扑步行街极易上瘾，请各位注意控制时间哟^_^",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": "59",
+              "backImg": "https://i2.hoopchina.com.cn/hupuapp/kanqiu/kanqiu_0_20160307163930_2108431928.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/34"
+            }
+          ],
+          "weight": 0,
+          "name": "步行"
+        },
+        {
+          "data": [
+            {
+              "fid": "120",
+              "name": "影视区",
+              "logo": "https://i3.hoopchina.com.cn//blogfile/201510/15/BbsImg144487875072432_110*88.png",
+              "description": "影海视界，一切尽在这里，一切皆有可能！本版随意盗墓，严禁讨论zz，开动吧！",
+              "forumtag": "",
+              "vieworder": "6",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/120"
+            },
+            {
+              "fid": "3442",
+              "name": "音乐区",
+              "logo": "https://i1.hoopchina.com.cn//blogfile/201512/18/BbsImg145042526114274_110*90small.png",
+              "description": "从古典到流行，从蓝调到爵士，从民乐到乡村，从摇滚到说唱，爱音乐、爱生活，感受这世上最美妙的食物！",
+              "forumtag": "",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": "29",
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3442"
+            },
+            {
+              "fid": "1580",
+              "name": "动漫区",
+              "logo": "https://i3.hoopchina.com.cn//forumlogo/1580small.jpg",
+              "description": "从旧石器时代的石洞壁画到现在阿宅们电子屏上的动画，我们一直在被人类无限的想象力与可能性所感动，你们啊，拜托多听听香菜的作品！欢迎收藏动漫专区！",
+              "forumtag": "动画&&&||漫画&&&||游戏&&&||ACG&&&||",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1580"
+            },
+            {
+              "fid": "3441",
+              "name": "游戏区",
+              "logo": "",
+              "description": "虎扑游戏区，做最好的游戏讨论区！",
+              "forumtag": "",
+              "vieworder": "8",
+              "user_password": 0,
+              "count": "32",
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3441"
+            }
+          ],
+          "weight": "1",
+          "name": "影音娱乐"
+        },
+        {
+          "data": [
+            {
+              "fid": "1594",
+              "name": "开放区",
+              "logo": "",
+              "description": "文学、历史、生物、军事、科技、人文、地理、生活等所有话题。",
+              "forumtag": "",
+              "vieworder": "5",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1594"
+            },
+            {
+              "fid": "203",
+              "name": "健身和运动健康",
+              "logo": "",
+              "description": "用运动保持健康，欢迎所有参与运动健身的网友！ 实战健身区微博：http://weibo.com/hupuszjz！欢迎各位",
+              "forumtag": "",
+              "vieworder": "9",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/203"
+            }
+          ],
+          "weight": "3",
+          "name": "生活"
+        }
+      ]
+    },
+    {
+      "fid": "41",
+      "name": "综合体育",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "57",
+              "name": "体育场",
+              "logo": "",
+              "description": "体育没有止境，只要你有那颗想赢的心！",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100920716389_1024*652.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/57"
+            }
+          ],
+          "weight": 0,
+          "name": "主板"
+        },
+        {
+          "data": [
+            {
+              "fid": "118",
+              "name": "F1赛车场",
+              "logo": "https://i1.hoopchina.com.cn/user/348/13348/1266809815150c5big.jpg",
+              "description": "Racing is in my blood! 欢迎关注虎扑赛车官方微博http://weibo.com/hellof1",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg14510092063734_1024*648.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/118"
+            },
+            {
+              "fid": "237",
+              "name": "车友交流",
+              "logo": "",
+              "description": "众hoopers的汽车家园，我们一起分享国外车讯，新车测评体验，当然还有街拍的好车与各类车模mm。 ",
+              "forumtag": "",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100920581193_1024*641.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/237"
+            },
+            {
+              "fid": "2968",
+              "name": "赛车视频分享区",
+              "logo": "https://i2.hoopchina.com.cn//forumlogo/2968small.jpg",
+              "description": "欢迎大家分享一切赛车比赛视频，车手视频，纪录片等，欢迎大家积极上传下载。分享不是一种义务，而是一种态度。",
+              "forumtag": "F1&&&||比赛视频&&&||赛车&&&||塞纳&&&||舒马赫",
+              "vieworder": "11",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100920358880_1024*650.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2968"
+            }
+          ],
+          "weight": "1",
+          "name": "赛车"
+        },
+        {
+          "data": [
+            {
+              "fid": "132",
+              "name": "NFL美式橄榄球场",
+              "logo": "",
+              "description": "NFL，超级碗，以及美式橄榄球的一切。电视及网络转播信息请参考置顶导航帖。QQ群： 366957590",
+              "forumtag": "",
+              "vieworder": "3",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/132"
+            },
+            {
+              "fid": "3556",
+              "name": "跑步区",
+              "logo": "",
+              "description": "与跑步有关的比赛、训练、装备和知识等一切内容",
+              "forumtag": "",
+              "vieworder": "2",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100919878271_1000*673.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/3556"
+            },
+            {
+              "fid": "117",
+              "name": "网球场",
+              "logo": "",
+              "description": "We get together because of tennis, but not only of tennis, just of love.",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100920186176_1000*667.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/117"
+            },
+            {
+              "fid": "171",
+              "name": "台球区",
+              "logo": "",
+              "description": "大家一起努力，打造一片属于台球迷的乐土~单月贡献杰出者可获得小盾牌一面！",
+              "forumtag": "",
+              "vieworder": "5",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100920860688_600*398.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/171"
+            },
+            {
+              "fid": "1573",
+              "name": "自行车运动",
+              "logo": "",
+              "description": "公路车、山地车、死飞、折叠车、大环赛、古典赛、中国赛事、自行车训练",
+              "forumtag": "",
+              "vieworder": "6",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100920934697_786*488.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1573"
+            },
+            {
+              "fid": "2824",
+              "name": "MMA综合格斗",
+              "logo": "",
+              "description": "UFC、StrikeForce打击力量、K-1、Pride、拳击等一切搏击/综合格斗内容！",
+              "forumtag": "",
+              "vieworder": "4",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2824"
+            },
+            {
+              "fid": "163",
+              "name": "棒球场",
+              "logo": "",
+              "description": "",
+              "forumtag": "",
+              "vieworder": "10",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "https://i1.hoopchina.com.cn/blogfile/201512/25/BbsImg145100920842525_1024*641.jpg",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/163"
+            },
+            {
+              "fid": "1985",
+              "name": "NHL冰球",
+              "logo": "https://i3.hoopchina.com.cn//forumlogo/1985small.jpg",
+              "description": "高速、冲撞、技巧---欢迎你来到刺激的冰球世界！虎扑体育NHL冰球版微博地址：http://weibo.com/hupuhockey",
+              "forumtag": "冰球&&&||NHL&&&||运动&&&||&&&||",
+              "vieworder": "7",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/1985"
+            },
+            {
+              "fid": "208",
+              "name": "棋牌室",
+              "logo": "",
+              "description": "棋牌风云，等你来战！",
+              "forumtag": "",
+              "vieworder": "102",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/208"
+            },
+            {
+              "fid": "147",
+              "name": "英式橄榄Rugby",
+              "logo": "",
+              "description": "关注Rugby世界，南半球SUPER14、三国赛；北半球国家杯、各国联赛、喜力杯冠军联赛；中国橄榄球……尽收眼底。",
+              "forumtag": "",
+              "vieworder": "107",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/147"
+            }
+          ],
+          "weight": "2",
+          "name": "体育世界"
+        }
+      ]
+    },
+    {
+      "fid": "42",
+      "name": "彩票中心",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "2884",
+              "name": "篮彩神棍区",
+              "logo": "https://b1.hoopchina.com.cn/images/cai/zqsg-logo.jpg",
+              "description": "在可能是中国最好的篮球网站，我们努力做最好的NBA篮彩讨论区，在这里有最专业、最用心的篮彩推荐和讨论，欢迎各位真球迷和真彩民入驻！杜绝一切收费推荐！",
+              "forumtag": "",
+              "vieworder": "0",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2884"
+            },
+            {
+              "fid": "2882",
+              "name": "足彩讨论区",
+              "logo": "https://b1.hoopchina.com.cn/images/cai/zqtlq-logo.jpg",
+              "description": "在可能是中国最好的足球网站，我们努力做最好的足彩讨论区，在这里有最专业、最用心的足彩推荐和讨论，欢迎各位真球迷和真彩民入驻！杜绝一切收费推荐！",
+              "forumtag": "",
+              "vieworder": "1",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2882"
+            },
+            {
+              "fid": "2736",
+              "name": "虎扑彩票客服区",
+              "logo": "https://b1.hoopchina.com.cn/images/cai/hpcpke-logo.jpg",
+              "description": "敬请留下您的问题和建议，我们会一一解答和吸纳",
+              "forumtag": "",
+              "vieworder": "21",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/2736"
+            }
+          ],
+          "weight": 0,
+          "name": "主板"
+        }
+      ]
+    },
+    {
+      "fid": "7",
+      "name": "站务管理",
+      "sub": [
+        {
+          "data": [
+            {
+              "fid": "8",
+              "name": "版务意见与建议",
+              "logo": "",
+              "description": "如果对虎扑的社区管理有任何意见，或者对虎扑社区的功能有任何宝贵建议，都请在这里提出，虎扑为您竭诚服务",
+              "forumtag": "",
+              "vieworder": "2",
+              "user_password": 0,
+              "count": 0,
+              "backImg": "",
+              "is_skip": "0",
+              "skip_url": "",
+              "skip_content": "",
+              "forumindex": "//dev-m.hupu.com/bbs/8"
+            }
+          ],
+          "weight": 0,
+          "name": "主板"
+        }
+      ]
+    }
+  ],
+  "open_up": "all",
+  "level2": [
+    {
+      "name": "NBA",
+      "router": "nbaindex",
+      "url": "//dev-m.hupu.com/nba"
+    },
+    {
+      "name": "CBA",
+      "router": "cbanewsindex",
+      "url": "//dev-m.hupu.com/cba/news/"
+    },
+    {
+      "name": "足球",
+      "router": "soccerindex",
+      "url": "//dev-m.hupu.com/soccer"
+    },
+    {
+      "name": "论坛",
+      "router": "bbsindex",
+      "url": "//dev-m.hupu.com/bbs"
+    },
+    {
+      "name": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "name": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ]
+}

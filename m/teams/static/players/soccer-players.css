@@ -1,0 +1,28 @@
+.table {
+    width: 100%;
+    line-height: 40px;
+    white-space: nowrap;
+    text-align: center;
+    background: #fbfbfb;
+    
+}
+.table td {
+    border-top: 1px solid #eee;
+}
+.technical-content .number-1{
+    width: 48%;
+    padding-left:2%;
+    text-align:left;
+}
+
+
+.technical-content .number-2{
+    width: 48%;
+    padding-right:2%;
+    text-align: right;
+}
+
+.technical-content .noresult{
+    text-align: center;
+    line-height: 60px;
+}

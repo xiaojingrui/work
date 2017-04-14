@@ -1,0 +1,735 @@
+{
+    "pageheader": {
+        "title": "本赛季欧冠18人最佳阵容_虎扑新声"
+    },
+    "bottomtitle": "虎扑足球-最足球的世界",
+    "project": "soccer",
+    "site": "voice",
+    "logo": "voice_logo_new.png",
+    "id4dace": 3011,
+    "mark4dace": "page_soccer_news_detail",
+    "baseurl": "http://m.hupu.com",
+    "test": "710998fd1b7c0235170265650770a4b1",
+    "_islogin": 0,
+    "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/soccer/news/1921506.html?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+    "uid": "",
+    "username": "",
+    "showAdvertise": 0,
+    "description": "虎扑体育",
+    "pclink": "http://voice.hupu.com/1921506.html?test=710998fd1b7c0235170265650770a4b1",
+    "hottitlelen": 16,
+    "columncontentlen": 46,
+    "footerword": {
+        "word": "只需要好好打比赛，找到乐趣，享受比赛。",
+        "person": "乔丹"
+    },
+    "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+    "topNav": [
+        {
+            "title": "NBA",
+            "router": "nbaindex",
+            "url": "http://m.hupu.com/nba"
+        },
+        {
+            "title": "CBA",
+            "router": "cbanewsindex",
+            "url": "http://m.hupu.com/cba/news/"
+        },
+        {
+            "title": "足球",
+            "router": "soccerindex",
+            "url": "http://m.hupu.com/soccer"
+        },
+        {
+            "title": "论坛",
+            "router": "bbsindex",
+            "url": "http://m.hupu.com/bbs"
+        },
+        {
+            "title": "识货",
+            "url": "http://m.shihuo.cn/",
+            "router": "shihuoindex",
+            "target": "_blank"
+        },
+        {
+            "title": "彩票",
+            "url": "http://t.hupu.lecai.com/",
+            "router": "caipiaoindex",
+            "target": "_blank"
+        }
+    ],
+    "level2": [
+        {
+            "name": "比赛",
+            "router": "nbacenter",
+            "url": "http://m.hupu.com/nba/game"
+        },
+        {
+            "name": "新闻",
+            "router": "nbanewsindex",
+            "url": "http://m.hupu.com/nba/news/"
+        },
+        {
+            "name": "球队",
+            "router": "gnbastanding",
+            "url": "http://m.hupu.com/nba/standing"
+        },
+        {
+            "name": "论坛",
+            "router": "forumindex",
+            "param": {
+                "fid": 1389
+            },
+            "url": "http://m.hupu.com/bbs/1389"
+        }
+    ],
+    "id": 1921506,
+    "node": [
+        {
+            "title": "国际足球新闻",
+            "url": "http://m.hupu.com/soccer/news/"
+        },
+        {
+            "title": "新闻",
+            "url": "#"
+        }
+    ],
+    "custom": [],
+    "detail": {
+        "id": "1921506",
+        "m_url": "http://m.hupu.com/soccer/news/1921506.html",
+        "url": "http://voice.hupu.com/soccer/1921506.html",
+        "title": "本赛季欧冠18人最佳阵容",
+        "content": "<p>欧足联官方刚刚公布了本赛季欧冠最佳18人阵容，冠军巴塞罗那成为最大赢家共有10人入选，亚军尤文图斯入选了5人，皇马和切尔西共有3人入选。</p>\r\n\r\n<p>门将：布冯（尤文图斯）、特尔施特根（巴塞罗那）</p>\r\n\r\n<p>后卫：伊万诺维奇（切尔西）、马斯切拉诺（巴塞罗那）、皮克（巴塞罗那）、基耶利尼（尤文图斯）、阿尔巴（巴塞罗那）</p>\r\n\r\n<p>中场：布斯克茨（巴塞罗那）、拉基蒂奇（巴塞罗那）、伊涅斯塔（巴塞罗那）、皮尔洛（尤文图斯）、马尔基西奥（尤文图斯）、克罗斯（皇家马德里）</p>\r\n\r\n<p>前锋：梅西（巴塞罗那）、苏亚雷斯（巴塞罗那）、内马尔（巴塞罗那）、莫拉塔（尤文图斯）、C罗（皇家马德里）</p>",
+        "media": "欧足联官网",
+        "img": "http://img04.store.sogou.com/net/a/66/link?appid=66&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150610/6b0754c1a476fededeaa80610bf254f27b2ec263.jpg",
+        "dateline": "2015-06-10 01:46:57",
+        "date": "14小时前",
+        "type": "6",
+        "support": "6",
+        "against": "2",
+        "reply_count": "52",
+        "show_imgs": "",
+        "tags": [
+            {
+                "tag_id": "225",
+                "tag_name": "西甲",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/225"
+            },
+            {
+                "tag_id": "261",
+                "tag_name": "尤文图斯",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/261"
+            },
+            {
+                "tag_id": "344",
+                "tag_name": "切尔西",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/344"
+            },
+            {
+                "tag_id": "380",
+                "tag_name": "巴萨",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/380"
+            },
+            {
+                "tag_id": "396",
+                "tag_name": "皇马",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/396"
+            },
+            {
+                "tag_id": "439",
+                "tag_name": "巴塞罗那",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/439"
+            },
+            {
+                "tag_id": "496",
+                "tag_name": "英超",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/496"
+            },
+            {
+                "tag_id": "700",
+                "tag_name": "意甲",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/700"
+            },
+            {
+                "tag_id": "2011",
+                "tag_name": "欧冠",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/2011"
+            },
+            {
+                "tag_id": "2269",
+                "tag_name": "皇家马德里",
+                "category": "soccer",
+                "url": "http://m.hupu.com/soccer/news/tag/2269"
+            }
+        ]
+    },
+    "hot": [
+        {
+            "id": "1921644",
+            "title": "盘点西甲月最佳榜单：无巴萨球员",
+            "media": "虎扑足球",
+            "reply_count": "11",
+            "light_count": "1",
+            "support": 0,
+            "against": 1,
+            "url": "http://m.hupu.com/soccer/news/1921644.html",
+            "dateline": "2015-06-10 10:57:55",
+            "pub_date": 1433905075,
+            "overview": "有球迷在盘点西甲月最佳球员历史榜单之后发...",
+            "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150610/f056f916280dfa0383e5029fcb1461d957bdf064.jpg",
+            "date": "6小时前"
+        },
+        {
+            "id": "1921448",
+            "title": "官方：尤文图斯宣布签下赫迪拉",
+            "media": "尤文图斯官网",
+            "reply_count": "103",
+            "light_count": "7",
+            "support": 6,
+            "against": 1,
+            "url": "http://m.hupu.com/soccer/news/1921448.html",
+            "dateline": "2015-06-09 21:07:05",
+            "pub_date": 1433855225,
+            "overview": "尤文图斯在官网宣布与德国国脚赫迪拉签约4...",
+            "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150609/2459610aa8192b2042843e679ac96fb68200c2f0.jpg",
+            "date": "20小时前"
+        },
+        {
+            "id": "1921528",
+            "title": "传AC米兰有意马竞中卫米兰达",
+            "media": "迪马济奥个人网站",
+            "reply_count": "13",
+            "light_count": "0",
+            "support": 0,
+            "against": 0,
+            "url": "http://m.hupu.com/soccer/news/1921528.html",
+            "dateline": "2015-06-10 07:29:26",
+            "pub_date": 1433892566,
+            "overview": "知名记者迪马济奥透露，米兰看中了马竞中卫...",
+            "img": "http://img04.store.sogou.com/net/a/46/link?appid=46&url=http://c2.hoopchina.com.cn/uploads/star/event/images/150610/6b1a609cb313708166d3103dd7ea70eabc454db5.jpg",
+            "date": "10小时前"
+        }
+    ],
+    "commentsInfo": [
+        {
+            "id": "6313362",
+            "uid": "18840322",
+            "user": "黑弹巢范",
+            "content": "在给你生弟弟呢",
+            "togglecontent": "",
+            "smallcontent": "在给你生弟...",
+            "light": "0",
+            "floor": "54",
+            "is_hide": 0,
+            "write": 1433929655,
+            "time": "6分钟前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/18517455\"><font color=\"#326ca6\">东北还往东</font></a> 发表的",
+                "content": "英糙吹的跟神一样的阿扎尔去哪儿了？",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6313309",
+            "uid": "276751",
+            "user": "zsm1019",
+            "content": "巴萨居然有10个入选......",
+            "togglecontent": "",
+            "smallcontent": "巴萨居然有...",
+            "light": "0",
+            "floor": "53",
+            "is_hide": 0,
+            "write": 1433928985,
+            "time": "17分钟前",
+            "quote": []
+        },
+        {
+            "id": "6313279",
+            "uid": "15770711",
+            "user": "竹安君",
+            "content": "英超倒是没有吹苏亚雷斯 一直黑 然后呢",
+            "togglecontent": "",
+            "smallcontent": "英超倒是没...",
+            "light": "1",
+            "floor": "52",
+            "is_hide": 0,
+            "write": 1433928467,
+            "time": "25分钟前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/18517455\"><font color=\"#326ca6\">东北还往东</font></a> 发表的",
+                "content": "英糙吹的跟神一样的阿扎尔去哪儿了？",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6313242",
+            "uid": "18346795",
+            "user": "56164357",
+            "content": "我靠 拜仁一个没有？？？",
+            "togglecontent": "",
+            "smallcontent": "我靠 拜仁...",
+            "light": "0",
+            "floor": "51",
+            "is_hide": 0,
+            "write": 1433928128,
+            "time": "31分钟前",
+            "quote": []
+        },
+        {
+            "id": "6312723",
+            "uid": "3015533",
+            "user": "KG最强",
+            "content": "拜仁强人如林 却没有发挥出来水品",
+            "togglecontent": "",
+            "smallcontent": "拜仁强人如...",
+            "light": "0",
+            "floor": "50",
+            "is_hide": 0,
+            "write": 1433921502,
+            "time": "2小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/18441923\"><font color=\"#326ca6\">行至水穷处</font></a> 发表的",
+                "content": "我其冠军时，金球才第三，这些个评选算了吧!&#039;",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6312603",
+            "uid": "20131826",
+            "user": "骆驼在发呆",
+            "content": "切尔西和皇马一共3人入选（1+2）",
+            "togglecontent": "",
+            "smallcontent": "切尔西和皇...",
+            "light": "0",
+            "floor": "49",
+            "is_hide": 1,
+            "write": 1433920141,
+            "time": "2小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/16570741\"><font color=\"#326ca6\">fo1018</font></a> 发表的",
+                "content": "皇马几个人?我咋就瞅见俩&hellip;",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6312571",
+            "uid": "16568813",
+            "user": "itisdream",
+            "content": "擦。。原来是和皇马一共有3个。。。",
+            "togglecontent": "",
+            "smallcontent": "擦。。原来...",
+            "light": "0",
+            "floor": "48",
+            "is_hide": 1,
+            "write": 1433919728,
+            "time": "2小时前",
+            "quote": []
+        },
+        {
+            "id": "6312562",
+            "uid": "16568813",
+            "user": "itisdream",
+            "content": "我想知道有两个切尔西的人隐身了嘛",
+            "togglecontent": "",
+            "smallcontent": "我想知道有...",
+            "light": "0",
+            "floor": "47",
+            "is_hide": 1,
+            "write": 1433919663,
+            "time": "2小时前",
+            "quote": []
+        },
+        {
+            "id": "6312482",
+            "uid": "18716689",
+            "user": "司绩",
+            "content": "别理会某些人，来年球场上见",
+            "togglecontent": "",
+            "smallcontent": "别理会某些...",
+            "light": "0",
+            "floor": "46",
+            "is_hide": 1,
+            "write": 1433918700,
+            "time": "3小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/18844187\"><font color=\"#326ca6\">snyang</font></a> 发表的",
+                "content": "是复仇了 羞辱谈的上吗？梅球王神发挥第二场谁教谁呢？",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6312467",
+            "uid": "18716689",
+            "user": "司绩",
+            "content": "如果基耶利尼上场，真不好说。至于裁判，对双方都公平",
+            "togglecontent": "",
+            "smallcontent": "如果基耶利...",
+            "light": "0",
+            "floor": "45",
+            "is_hide": 1,
+            "write": 1433918518,
+            "time": "3小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/18047944\"><font color=\"#326ca6\">衷爱罗贝里</font></a> 发表的",
+                "content": "算了兄弟，这年头赢球蜜冠军蜜都烂大街了。你说句中肯的话，瞬间被反对，反对了你的被亮好几十，说啥呢。明年冠军一变，他们换个ID，或者找个曾经用过的ID就又上来维护主队了，不值当的。",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6312442",
+            "uid": "18716689",
+            "user": "司绩",
+            "content": "师太那球不是点球，不过比达尔确实逃掉红牌",
+            "togglecontent": "",
+            "smallcontent": "师太那球不...",
+            "light": "0",
+            "floor": "44",
+            "is_hide": 1,
+            "write": 1433918238,
+            "time": "3小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/16111187\"><font color=\"#326ca6\">桀骜天狼星</font></a> 发表的",
+                "content": "如果师太的手球吹了，如果比达尔的犯规给牌了，比赛上半场就结束了",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6312204",
+            "uid": "18188672",
+            "user": "苏7要逆天",
+            "content": "博格巴缺阵几次",
+            "togglecontent": "",
+            "smallcontent": "博格巴缺阵...",
+            "light": "0",
+            "floor": "43",
+            "is_hide": 1,
+            "write": 1433915845,
+            "time": "3小时前",
+            "quote": []
+        },
+        {
+            "id": "6311999",
+            "uid": "17211963",
+            "user": "kudo1982",
+            "content": "诺伊尔首回合表现不好？不是煤球王爆种，内马尔和苏亚根本都没信心射门了",
+            "togglecontent": "",
+            "smallcontent": "诺伊尔首回...",
+            "light": "2",
+            "floor": "42",
+            "is_hide": 1,
+            "write": 1433914120,
+            "time": "4小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/18160142\"><font color=\"#326ca6\">红尘灬过客</font></a> 发表的",
+                "content": "说的诺伊尔首回合表现很好一样",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6311918",
+            "uid": "15789249",
+            "user": "ac舞谱",
+            "content": "看到这个挺感慨的，C罗30了",
+            "togglecontent": "",
+            "smallcontent": "看到这个挺...",
+            "light": "1",
+            "floor": "41",
+            "is_hide": 1,
+            "write": 1433913349,
+            "time": "4小时前",
+            "quote": []
+        },
+        {
+            "id": "6311570",
+            "uid": "3220414",
+            "user": "铁笛仙",
+            "content": "切尔西和皇马共三个",
+            "togglecontent": "",
+            "smallcontent": "切尔西和皇...",
+            "light": "0",
+            "floor": "40",
+            "is_hide": 1,
+            "write": 1433911462,
+            "time": "5小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/16570741\"><font color=\"#326ca6\">fo1018</font></a> 发表的",
+                "content": "皇马几个人?我咋就瞅见俩&hellip;",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6311425",
+            "uid": "5238629",
+            "user": "灵芙醉客",
+            "content": "羞辱。。",
+            "togglecontent": "",
+            "smallcontent": "",
+            "light": "0",
+            "floor": "39",
+            "is_hide": 1,
+            "write": 1433910931,
+            "time": "5小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/15709139\"><font color=\"#326ca6\">lingfei201</font></a> 发表的",
+                "content": "给你穆勒还是诺伊尔？关键被巴萨复仇+&ldquo;羞辱&rdquo;。排不上正常。。",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6311363",
+            "uid": "17507603",
+            "user": "Logik",
+            "content": "SX朝鲜棒子",
+            "togglecontent": "",
+            "smallcontent": "SX朝鲜棒...",
+            "light": "0",
+            "floor": "38",
+            "is_hide": 1,
+            "write": 1433910709,
+            "time": "5小时前",
+            "quote": []
+        },
+        {
+            "id": "6311281",
+            "uid": "17090892",
+            "user": "xjl880716",
+            "content": "上半场尤文各种背后犯规，严一点下半场9人出战",
+            "togglecontent": "",
+            "smallcontent": "上半场尤文...",
+            "light": "0",
+            "floor": "37",
+            "is_hide": 1,
+            "write": 1433910243,
+            "time": "5小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/25861942\"><font color=\"#326ca6\">新罗老大</font></a> 发表的",
+                "content": "如果师太手球判了？如果裁判再稍微严格点对待比达尔？哪怕上半场 可惜没有如果！",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6311185",
+            "uid": "16720581",
+            "user": "关键熊17号",
+            "content": "小便把莫拉塔算给我破团了",
+            "togglecontent": "",
+            "smallcontent": "小便把莫拉...",
+            "light": "0",
+            "floor": "36",
+            "is_hide": 1,
+            "write": 1433909683,
+            "time": "5小时前",
+            "quote": []
+        },
+        {
+            "id": "6311067",
+            "uid": "18844187",
+            "user": "snyang",
+            "content": "是复仇了 羞辱谈的上吗？梅球王神发挥第二场谁教谁呢？",
+            "togglecontent": "",
+            "smallcontent": "是复仇了 ...",
+            "light": "0",
+            "floor": "35",
+            "is_hide": 1,
+            "write": 1433909197,
+            "time": "5小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/15709139\"><font color=\"#326ca6\">lingfei201</font></a> 发表的",
+                "content": "给你穆勒还是诺伊尔？关键被巴萨复仇+&ldquo;羞辱&rdquo;。排不上正常。。",
+                "togglecontent": ""
+            }
+        }
+    ],
+    "lightComments": [
+        {
+            "id": "6309887",
+            "uid": "25861942",
+            "user": "新罗老大",
+            "content": "如果师太手球判了？如果裁判再稍微严格点对待比达尔？哪怕上半场 可惜没有如果！",
+            "togglecontent": "",
+            "smallcontent": "如果师太手...",
+            "light": "98",
+            "floor": "11",
+            "is_hide": 0,
+            "time": "8小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/16665357\"><font color=\"#326ca6\">placio</font></a> 发表的",
+                "content": "如果基耶利尼决赛能上场&hellip;&hellip;如果阿尔维斯的犯规吹了&hellip;&hellip;可惜没有如果。",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6309212",
+            "uid": "25335070",
+            "user": "看球不用充电",
+            "content": "同样进了4强，拜仁为什么1个也没有。。。不信服啊",
+            "togglecontent": "",
+            "smallcontent": "同样进了4...",
+            "light": "61",
+            "floor": "1",
+            "is_hide": 0,
+            "time": "15小时前",
+            "quote": []
+        },
+        {
+            "id": "6309792",
+            "uid": "18441923",
+            "user": "行至水穷处",
+            "content": "我其冠军时，金球才第三，这些个评选算了吧!&#039;",
+            "togglecontent": "",
+            "smallcontent": "我其冠军时...",
+            "light": "32",
+            "floor": "9",
+            "is_hide": 0,
+            "time": "8小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/25335070\"><font color=\"#326ca6\">看球不用充电</font></a> 发表的",
+                "content": "同样进了4强，拜仁为什么1个也没有。。。不信服啊",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6309354",
+            "uid": "18517455",
+            "user": "东北还往东",
+            "content": "英糙吹的跟神一样的阿扎尔去哪儿了？",
+            "togglecontent": "",
+            "smallcontent": "英糙吹的跟...",
+            "light": "30",
+            "floor": "4",
+            "is_hide": 0,
+            "time": "12小时前",
+            "quote": []
+        },
+        {
+            "id": "6309958",
+            "uid": "16228723",
+            "user": "益达高",
+            "content": "说的诺伊尔首回合表现很差一样。。。",
+            "togglecontent": "",
+            "smallcontent": "说的诺伊尔...",
+            "light": "10",
+            "floor": "13",
+            "is_hide": 0,
+            "time": "8小时前",
+            "quote": {
+                "header": "引用 @<a href=\"http://m.hupu.com/my/18980800\"><font color=\"#326ca6\">带血大黄瓜</font></a> 发表的",
+                "content": "诺伊尔明显顶替不了小狮子，巴萨拜仁过招，小狮子的表现逆天。",
+                "togglecontent": ""
+            }
+        },
+        {
+            "id": "6309820",
+            "uid": "3653837",
+            "user": "championsun",
+            "content": "居然没有阿尔维斯。。。",
+            "togglecontent": "",
+            "smallcontent": "居然没有阿...",
+            "light": "8",
+            "floor": "10",
+            "is_hide": 0,
+            "time": "8小时前",
+            "quote": []
+        },
+        {
+            "id": "6309921",
+            "uid": "17175419",
+            "user": "zqm1437",
+            "content": "居然没有波巴啊。",
+            "togglecontent": "",
+            "smallcontent": "居然没有波...",
+            "light": "8",
+            "floor": "12",
+            "is_hide": 0,
+            "time": "8小时前",
+            "quote": []
+        },
+        {
+            "id": "6309575",
+            "uid": "16665357",
+            "user": "placio",
+            "content": "如果基耶利尼决赛能上场&hellip;&hellip;如果阿尔维斯的犯规吹了&hellip;&hellip;可惜没有如果。",
+            "togglecontent": "",
+            "smallcontent": "如果基耶利...",
+            "light": "7",
+            "floor": "7",
+            "is_hide": 0,
+            "time": "9小时前",
+            "quote": []
+        },
+        {
+            "id": "6310021",
+            "uid": "18465955",
+            "user": "richthoffen",
+            "content": "现在终于明白为什么拜仁叫我其了",
+            "togglecontent": "",
+            "smallcontent": "现在终于明...",
+            "light": "7",
+            "floor": "16",
+            "is_hide": 0,
+            "time": "8小时前",
+            "quote": []
+        }
+    ],
+    "commentsCount": 54,
+    "page": 1,
+    "ispics": false,
+    "pageCount": 3,
+    "restNum": 34,
+    "perPage": 20,
+    "router": "soccernewsreplys",
+    "urlprefix": "id=1921506",
+    "my_url": "http://m.hupu.com/my/",
+    "hotThread": [],
+    "custom":{
+        "m_top":[{
+            "title":"",
+            "url":""
+        },
+        {
+            "title":"",
+            "url":""
+        }]
+    },
+    "bottomList": {
+        "nba": {
+            "title": "NBA",
+            "url": "http://m.hupu.com/nba/news/"
+        },
+        "cba": {
+            "title": "CBA",
+            "url": "http://m.hupu.com/cba/news/"
+        },
+        "soccer": {
+            "title": "国际足球",
+            "url": "http://m.hupu.com/soccer/news/"
+        },
+        "china": {
+            "title": "中国足球",
+            "url": "http://m.hupu.com/soccer/news/china/"
+        },
+        "f1": {
+            "title": "赛车",
+            "url": "http://m.hupu.com/f1/news/"
+        },
+        "tennis": {
+            "title": "网球",
+            "url": "http://m.hupu.com/tennis/news/"
+        },
+        "sports": {
+            "title": "综合体育",
+            "url": "http://m.hupu.com/sports/news/"
+        }
+    },
+    "from": "?from=tieba"
+}

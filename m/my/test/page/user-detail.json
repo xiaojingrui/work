@@ -1,0 +1,142 @@
+{
+  "baseurl": "http://m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": 1,
+  "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/my/userdetail?uid=19009252&test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+  "uid": "19760431",
+  "username": "moyizizhu",
+  "showAdvertise": 0,
+  "description": "虎扑体育",
+  "pclink": "http://my.hupu.com/userdetail?uid=19009252&test=710998fd1b7c0235170265650770a4b1",
+  "hottitlelen": 16,
+  "columncontentlen": 46,
+  "footerword": {
+    "word": "最重要的就是去做你真正想做的事情，跟着兴趣走。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "http://m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "http://m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "http://m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "彩票",
+      "url": "http://t.hupu.lecai.com/",
+      "router": "caipiaoindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "返回",
+      "url": "http://m.hupu.com/my/19009252"
+    }
+  ],
+  "isself": false,
+  "userinfos": {
+    "uid": "19009252",
+    "level": "6",
+    "username": "Jason_Hooper",
+    "signature": "音乐心情每一天~",
+    "groups": "3",
+    "mobile": "0",
+    "email": "lc_zhy@live.com",
+    "header": "http://i2.hoopchina.com.cn/user/252/19009252/19009252_small_1.jpg",
+    "domain": "http://my.hupu.com",
+    "linkname": "Jason_Hooper",
+    "sex": "0",
+    "t_num": "6",
+    "project": "basketball",
+    "spaceurl": "http://my.hupu.com/Jason_Hooper",
+    "checkSpam": "",
+    "deleted": "",
+    "bank": {
+      "allmoney": "3187",
+      "money": "21",
+      "ddeposits": "3166",
+      "tdepostis": "0"
+    }
+  },
+  "moreuserinfos": {
+    "username": "moyizizhu",
+    "sex": "保密",
+    "birthday": "2014年11月24日",
+    "level": "23",
+    "money": "150",
+    "onlinetime": "296",
+    "regdate": "2014-11-24 13:29:00",
+    "lastvisit": "2015-09-14 16:14:26",
+    "aboutme": "反倒是反反复复凤飞飞凤飞飞凤飞飞\n放大很哈哈哈哈哈哈哈//、\n进货款合计规划局、、、、\\\\\\",
+    "lovesports": [
+      "篮球",
+      "美式橄榄球",
+      "羽毛球"
+    ],
+    "loveleague": [
+      "NBA",
+      "NFL"
+    ],
+    "loveteam": [
+      "洛杉矶湖人",
+      "丹佛野马"
+    ],
+    "hometeam": {
+      "nba": {
+        "url": "http://www.hupu.com",
+        "name": "湖人",
+        "fid": "81"
+      },
+      "cba": {
+        "name": "广东华南虎",
+        "fid": "218"
+      },
+      "epl": {
+        "name": "阿森纳",
+        "fid": "2918"
+      },
+      "seriea": {
+        "name": "AC米兰",
+        "fid": "1845"
+      },
+      "laliga": {
+        "name": "巴萨",
+        "fid": "2544"
+      },
+      "bundesliga": {
+        "name": "多特蒙德",
+        "fid": "2433"
+      },
+      "ligue1": {
+        "name": "圣日耳曼",
+        "fid": "1259"
+      },
+      "csl": {
+        "name": "恒大",
+        "fid": "2932"
+      }
+    }
+  }
+}

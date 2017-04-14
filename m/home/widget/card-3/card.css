@@ -1,0 +1,42 @@
+.card-shihuo{
+    border-bottom:1px solid #e3e4e5;
+}
+.card-shihuo .pic-list {
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+}
+.card-shihuo .pic-list .news-text,.card-shihuo .pic-list .title{
+    display: block;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+}
+.card-shihuo .pic-list .title{
+    padding:0 0 0 8px;
+    height: auto;
+    border-bottom: none;
+}
+.card-shihuo .pic-list .title h4{
+    font-size:16px;
+}
+.card-shihuo .pic-list .title span{
+    font-size:14px;
+    color:#999;
+}
+.card-shihuo .list .name{
+    padding: 0 10px;
+}
+.card-shihuo .pic-list .small-pic {
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    display: block;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.card-shihuo .list:last-child{
+    border-bottom: none;
+}

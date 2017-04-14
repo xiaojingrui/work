@@ -1,0 +1,64 @@
+@charset "UTF-8";
+.hide-body-scroll{
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+.blur-body nav, 
+.blur-body section, 
+.blur-body footer{
+    -webkit-filter:blur(5px);
+    -moz-filter: blur(5px);
+    filter: blur(5px);
+}
+.hp-login-mask{
+    position:absolute;
+    left:0;
+    top:0;
+    z-index:1000;
+    background-color:rgba(0, 0, 0, 0.4);
+}
+.hp-login-container{
+    position:fixed;
+    width: 240px;
+    height: 120px;
+    left:50%;
+    top:50%;
+    -webkit-transform: translate(-50%,-50%);
+       -moz-transform: translate(-50%,-50%);
+            transform: translate(-50%,-50%);
+    z-index:1001;
+    background-color: #fff;  
+    padding: 18px;
+
+}
+
+.hp-login-container p{
+    color: #000;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.hp-login-container .btn-item{
+    text-align: center;
+}
+.hp-login-container .btn-item span{
+    display: inline-block;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 30px;
+}
+.hp-login-container .btn-item span.cancel{
+    margin-right: 6px;
+    background-color: #f7f7f7;
+}
+.hp-login-container .btn-item span.submit{
+    margin-left: 6px;
+    background-color: #c92727;
+    color: #fff;
+}
+.hp-login-container .btn-item span.submit img{
+    width: 18px;
+    vertical-align: text-top;
+    margin-right: 5px;
+}

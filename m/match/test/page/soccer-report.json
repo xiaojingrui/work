@@ -1,0 +1,109 @@
+{
+  "baseurl": "http://m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": 0,
+  "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://192.168.8.36/soccer/england/game/recap/5000342?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+  "uid": "",
+  "username": "",
+  "showAdvertise": 0,
+  "description": "虎扑体育",
+  "pclink": "http://soccer.hupu.com/england/game/recap/5000342?test=710998fd1b7c0235170265650770a4b1",
+  "hottitlelen": 16,
+  "columncontentlen": 46,
+  "footerword": {
+    "word": "如果你认同别人对你的看法，特别是消极的看法，那么你永远都无法改变结果。",
+    "person": "乔丹"
+  },
+  "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+  "daceChannel": "soccer",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "http://m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "http://m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "http://m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "彩票",
+      "url": "http://t.hupu.lecai.com/",
+      "router": "caipiaoindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "返回",
+      "url": "http://m.hupu.com/soccer"
+    }
+  ],
+  "gameInfo": {
+    "game_id": 5000342,
+    "league_id": 2,
+    "season_id": 2014,
+    "home_id": 286,
+    "home_name": "胡尔城",
+    "away_id": 161,
+    "away_name": "阿森纳",
+    "match_date": 1430740800,
+    "round_number": null,
+    "round_type": null,
+    "group_name": null,
+    "match_day": 35,
+    "match_timezone": "BST",
+    "match_date_cn": 1430766000,
+    "away_score": 3,
+    "home_score": 1,
+    "half_score": "0:3",
+    "away_shoot_out_score": null,
+    "home_shoot_out_score": null,
+    "game_status": 1,
+    "game_period": 2,
+    "game_time": 5700,
+    "period_1_start": 1430766033,
+    "period_2_start": 1430769767,
+    "period_3_start": null,
+    "period_4_start": null,
+    "period_5_start": null,
+    "away_formation": 8,
+    "home_formation": 12,
+    "away_team_official_id": 35,
+    "home_team_official_id": 41,
+    "sport_match_id": 5583158,
+    "detail_id": 1,
+    "date": [
+      "2015-05-05",
+      "03:00:00"
+    ],
+    "week": "星期二",
+    "home_url": "http://m.hupu.com/soccer/england/team/286/stats",
+    "away_url": "http://m.hupu.com/soccer/england/team/161/stats",
+    "logo_url": "http://b3.hoopchina.com.cn/material/games/gdc/football/team/",
+    "page_urls": {
+      "event_url": "http://m.hupu.com/soccer/england/game/event/5000342",
+      "stat_url": "http://m.hupu.com/soccer/england/game/stats/5000342",
+      "lineup_url": "http://m.hupu.com/soccer/england/game/lineup/5000342",
+      "recap_url": "http://m.hupu.com/soccer/england/game/recap/5000342"
+    }
+  },
+  "gameRecap": "<meta name=\"format-detection\" content=\"telephone=no\" />\n                \n                <div class=\"m\"><div class=\"bd\"><div class=\"video-play\"><a id=\"v-play\" href='http://kanqiu.hupu.com/link?hid=6205d0c954917aa219a2bd2182091a8c'><img style=\"width:240px;max-height:140px;\" src=\"http://i1.hoopchina.com.cn/blogfile/201505/05/BbsImg143077316630191_240*140.jpg\"/><i class=\"video-blackMack\"></i><i class=\"btn-video-play\" id=\"btn-play\"></i></a></div><script>\n    var aobj=document.getElementById(\"v-play\"),btn=document.getElementById(\"btn-play\");aobj.addEventListener(\"touchstart\",function(e){btn.className=\"btn-video-play-hover\"},!1),aobj.addEventListener(\"touchend\",function(e){btn.className=\"btn-video-play\"})\n    </script><p><strong>桑切斯梅开二度，<strong>拉姆塞破门得分</strong></strong><br /></p><p><strong><strong><a href='http://kanqiu.hupu.com/link?hid=a87fee68be41f8cd7ff420db6c850012'>参与赛后讨论→</a><br /></strong></strong></p><p>北京时间5月5日凌晨3时，2014-2015赛季英超联赛第35轮的最后一场较量在英国约克郡赫尔河畔的京斯敦通讯运动场（KC运动场）展开较量，客场作战的阿森纳3-1战胜摆擂主场的对手胡尔城。上半时比赛中阿森纳凭借桑切斯的梅开二度和拉姆塞的传射确立领先地位，易边再战后奎因为主队扳回一球，最终阿森纳客场取胜后以70分追平曼城位列积分榜第三位。</p><p>客场作战的阿森纳33轮战罢后以20胜7平6负积67分的战绩位列联赛积分榜第3位，上轮联赛中球队鏖战90分钟后与劲敌切尔西以0-0握手言和各取一分。摆擂主场的胡尔城目前以34分的成绩位居英超积分榜第16位，上轮联赛中球队凭借恩多耶的梅开二度2-0击败水晶宫。开场后双方较快进入状态，第8分钟科奎林争顶拼抢中受伤倒地接受治疗，随后不久赫德尔斯通禁区内的解围险些造成乌龙。第21分钟卡索拉中场带球失误，恩多耶断球后尝试远距离吊射偏出球门，2分钟后利弗莫尔战术犯规，主裁果断向其出示本场比赛首张黄牌，随后不久拉姆塞对抗中被赫德尔斯通放倒后痛苦倒地接受治疗。</p><p><strong>第28分钟阿森纳获得禁区前沿任意球机会，桑切斯操刀主罚直接攻门，皮球碰到人墙中的防守球员后折射入网，0-1，阿森纳取得领先。第33分钟卡索拉左侧送出精准长传，拉姆塞快速插上接球后转身射门，皮球再次碰到防守球员后产生折射窜入球网，0-2。</strong>上半时尾声阶段阿森纳利用传接球展开配合，厄齐尔禁区内左脚推射被哈珀没收，随后不久桑切斯突入禁区单刀挑射再度被哈珀扑救化解。<strong>补时第1分钟，拉姆塞中场精妙直传穿透对手防线，桑切斯迅速插上接球晃过门将后射门得手，0-3。</strong>2分钟补时后比赛进入中场休息，阿森纳暂时3球领先。</p><p>易边再战后落后的胡尔城率先选择在中场休息进行人员调整，梅勒替补上半时表现吃力的利弗莫尔登场。<strong>第56分钟胡尔城前场拼抢觅得良机，艾尔-穆罕马迪禁区前沿送出过顶长传，奎因插上头球攻门，皮球弹地后窜入球网，1-3，胡尔城扳回一分。</strong>阿森纳球员抗议胡尔城进攻中有球员侵犯科斯切尔尼犯规，主裁则未作表示，随后不久麦克舍恩前插抢点头球攻门，皮球擦着横梁稍稍高出，胡尔城险些再次破门。第65分钟胡尔城再做调整，罗伯逊替补阿鲁科登场，随后不久阿森纳派遣威尔希尔登场替下进球功臣拉姆塞。</p><p>5分钟后梅勒与科斯切尔尼拼抢中面部受伤倒地接受治疗。第81分钟急于挽回颓势的胡尔城做出最后一搏，耶拉维奇替补首发中场奎因上阵试图继续加强进攻，随后不久卡索拉禁区前沿得球调整后起脚劲射被哈珀倒地用腿挡出。第85分钟阿森纳再度觅得良机，贝莱林右侧起脚劲射被被哈珀扑出，威尔希尔随即起脚补射被防守球员挡出，慢镜头显示切斯特阻挡射门过程中有手球嫌疑，主裁则未做判罚，胡尔城逃过一劫。接下来的时间里比分未能再被改写，4分钟补时后主裁李-梅森鸣哨结束了全场比赛。</p></div></div><table class='statics' style='width:100%;'>\n             <tr>\n                    <td>8</td>\n                    <td>射门</td>\n                    <td>22</td>\n                    </tr><tr>\n                    <td>1</td>\n                    <td>射正</td>\n                    <td>9</td>\n                    </tr><tr>\n                    <td>0</td>\n                    <td>角球</td>\n                    <td>5</td>\n                    </tr><tr>\n                    <td>32.3%</td>\n                    <td>控球率</td>\n                    <td>67.7%</td>\n                    </tr><tr>\n                    <td>4</td>\n                    <td>越位</td>\n                    <td>1</td>\n                    </tr><tr>\n                    <td>2</td>\n                    <td>黄牌</td>\n                    <td>0</td>\n                    </tr><tr>\n                    <td>0</td>\n                    <td>红牌</td>\n                    <td>0</td>\n                    </tr><tr>\n                    <td>20</td>\n                    <td>传中</td>\n                    <td>15</td>\n                    </tr><tr>\n                    <td>8</td>\n                    <td>犯规</td>\n                    <td>11</td>\n                    </tr><tr>\n                    <td>0</td>\n                    <td>点球</td>\n                    <td>0</td>\n                    </tr><tr>\n                    <td>13</td>\n                    <td>抢断</td>\n                    <td>17</td>\n                    </tr><tr>\n                    <td>6</td>\n                    <td>拦截</td>\n                    <td>14</td>\n                    </tr><tr>\n                    <td>315</td>\n                    <td>传球</td>\n                    <td>685</td>\n                    </tr>\n             </table>"
+}

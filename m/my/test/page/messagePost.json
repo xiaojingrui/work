@@ -1,0 +1,66 @@
+{
+  "at_remind": 5,
+  "reply_remind": 0,
+  "light_remind": 99,
+  "baseurl": "//test-m.hupu.com",
+  "test": null,
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2Fmy%2Fremind%2Freply%3Ftest&from=m&project=hupu",
+  "uid": "26794990",
+  "username": "小熊2015",
+  "showAdvertise": 0,
+  "pclink": "http://my.hupu.com/remind/reply?test",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "比赛状态总是有起伏，但是你永远都不能忘记你的目标，也不能因为不够努力而失败。",
+    "person": "乔丹"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "返回",
+      "url": "//test-m.hupu.com/my"
+    }
+  ],
+  "messages": {
+    "list": [
+
+    ],
+    "nextPage": false
+  }
+}

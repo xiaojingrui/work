@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+
+.authcode-content {
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    padding-bottom: 20px;
+    .input-authcode {
+        display: block;
+        -moz-box-flex: 1;
+        -webkit-box-flex: 1;
+        box-flex: 1;
+        height: 36px;
+        line-height: 36px;
+        margin-right: 10px;
+        font-size: 16px;
+        border: 1px solid #e3e4e5;
+        padding: 0 10px;
+        color: #333;
+    }
+    .button-authcode {
+        display: block;
+        margin-top: 2px;
+    }
+}

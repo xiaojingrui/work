@@ -1,0 +1,290 @@
+{
+  "baseurl": "http://m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": 0,
+  "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://192.168.8.36/soccer/game/event/5000342?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+  "uid": "",
+  "username": "",
+  "showAdvertise": 0,
+  "description": "虎扑体育",
+  "pclink": "http://g.hupu.com/soccer/event/5000342?test=710998fd1b7c0235170265650770a4b1",
+  "hottitlelen": 16,
+  "columncontentlen": 46,
+  "footerword": {
+    "word": "足球无关生死，足球高于生死！",
+    "person": "香克利"
+  },
+  "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+  "daceChannel": "soccer",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "http://m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "http://m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "http://m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "http://m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "彩票",
+      "url": "http://t.hupu.lecai.com/",
+      "router": "caipiaoindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "返回",
+      "url": "http://m.hupu.com/soccer"
+    }
+  ],
+
+  "events": [
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 21,
+      "event_type": 21,
+      "player_id": null,
+      "player_name": null,
+      "game_period": 1,
+      "game_min": 0,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": 0,
+      "other_side_score": 0
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 2059305396,
+      "event_type": 2,
+      "player_id": 26587,
+      "player_name": "利弗莫尔",
+      "game_period": 1,
+      "game_min": 23,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": null,
+      "other_side_score": null
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 161,
+      "event_id": 2063508090,
+      "event_type": 11,
+      "player_id": 2439,
+      "player_name": "桑切斯",
+      "game_period": 1,
+      "game_min": 28,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": 1,
+      "other_side_score": 0
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 1460484761,
+      "event_type": 2,
+      "player_id": 2397448,
+      "player_name": "恩多耶",
+      "game_period": 1,
+      "game_min": 30,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": null,
+      "other_side_score": null
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 161,
+      "event_id": 1132766076,
+      "event_type": 11,
+      "player_id": 385,
+      "player_name": "拉姆塞",
+      "game_period": 1,
+      "game_min": 33,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": 2,
+      "other_side_score": 0
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 161,
+      "event_id": 1344056179,
+      "event_type": 11,
+      "player_id": 2439,
+      "player_name": "桑切斯",
+      "game_period": 1,
+      "game_min": 46,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": 3,
+      "other_side_score": 0
+    },
+    {
+      "event_type": 999,
+      "game_period": "上半场",
+      "score": 3,
+      "other_side_score": 0
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 25,
+      "event_type": 25,
+      "player_id": null,
+      "player_name": null,
+      "game_period": 11,
+      "game_min": 45,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": 0,
+      "other_side_score": 2
+    },
+    {
+      "event_type": 999,
+      "game_period": "中场休息",
+      "score": 0,
+      "other_side_score": 2
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 1872749633,
+      "event_type": 22,
+      "player_id": 26587,
+      "player_name": "利弗莫尔",
+      "game_period": 2,
+      "game_min": 45,
+      "game_sec": 0,
+      "player2_id": 29087,
+      "player2_name": "梅勒",
+      "score": null,
+      "other_side_score": null
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 996881528,
+      "event_type": 17,
+      "player_id": 19837,
+      "player_name": "奎因",
+      "game_period": 2,
+      "game_min": 56,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": 1,
+      "other_side_score": 3
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 997316636,
+      "event_type": 22,
+      "player_id": 212,
+      "player_name": "阿鲁科",
+      "game_period": 2,
+      "game_min": 65,
+      "game_sec": 0,
+      "player2_id": 160216,
+      "player2_name": "罗伯逊",
+      "score": null,
+      "other_side_score": null
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 161,
+      "event_id": 1800249248,
+      "event_type": 22,
+      "player_id": 385,
+      "player_name": "拉姆塞",
+      "game_period": 2,
+      "game_min": 68,
+      "game_sec": 0,
+      "player2_id": 397,
+      "player2_name": "威尔希尔",
+      "score": null,
+      "other_side_score": null
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 1791634431,
+      "event_type": 22,
+      "player_id": 19837,
+      "player_name": "奎因",
+      "game_period": 2,
+      "game_min": 81,
+      "game_sec": 0,
+      "player2_id": 32417,
+      "player2_name": "耶拉维奇",
+      "score": null,
+      "other_side_score": null
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 161,
+      "event_id": 916659312,
+      "event_type": 22,
+      "player_id": 34468,
+      "player_name": "吉鲁",
+      "game_period": 2,
+      "game_min": 86,
+      "game_sec": 0,
+      "player2_id": 395,
+      "player2_name": "沃尔科特",
+      "score": null,
+      "other_side_score": null
+    },
+    {
+      "game_id": 5000342,
+      "team_id": 286,
+      "event_id": 30,
+      "event_type": 30,
+      "player_id": null,
+      "player_name": null,
+      "game_period": 2,
+      "game_min": 95,
+      "game_sec": 0,
+      "player2_id": null,
+      "player2_name": null,
+      "score": 1,
+      "other_side_score": 3
+    },
+    {
+      "event_type": 999,
+      "game_period": "下半场",
+      "score": 1,
+      "other_side_score": 3
+    }
+  ]
+}

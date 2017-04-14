@@ -1,0 +1,377 @@
+{
+    "pageheader": {
+        "title": "06月15日勇士vs骑士文字直播_手机虎扑网"
+    },
+    "suffix": "文字直播",
+    "bottomtitle": "虎扑篮球-最篮球的世界",
+    "project": "nba",
+    "site": "nba",
+    "logo": "nba_logo_new.png",
+    "id4dace": "2122",
+    "mark4dace": "page_nba_game_live_150123",
+    "baseurl": "http://m.hupu.com",
+    "test": "710998fd1b7c0235170265650770a4b1",
+    "_islogin": 0,
+    "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/nba/game/playbyplay_150123.html?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+    "uid": "",
+    "username": "",
+    "showAdvertise": 0,
+    "description": "手机虎扑网NBA频道赛事中心为您提供06月15日勇士vs骑士文字直播，用文字第一时间播报NBA今日赛事，精彩赛事，互动无限。",
+    "pclink": "http://g.hupu.com/nba/daily/playbyplay_150123.html?test=710998fd1b7c0235170265650770a4b1",
+    "hottitlelen": 16,
+    "columncontentlen": 46,
+    "footerword": {
+        "word": "足球是有魔力的运动。",
+        "person": "贝克汉姆"
+    },
+    "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+    "daceChannel": "nba",
+    "keywords": "06月15日勇士vs骑士文字直播",
+    "topNav": [
+        {
+            "title": "NBA",
+            "router": "nbaindex",
+            "url": "http://m.hupu.com/nba"
+        },
+        {
+            "title": "CBA",
+            "router": "cbanewsindex",
+            "url": "http://m.hupu.com/cba/news/"
+        },
+        {
+            "title": "足球",
+            "router": "soccerindex",
+            "url": "http://m.hupu.com/soccer"
+        },
+        {
+            "title": "论坛",
+            "router": "bbsindex",
+            "url": "http://m.hupu.com/bbs"
+        },
+        {
+            "title": "识货",
+            "url": "http://m.shihuo.cn/",
+            "router": "shihuoindex",
+            "target": "_blank"
+        },
+        {
+            "title": "彩票",
+            "url": "http://t.hupu.lecai.com/",
+            "router": "caipiaoindex",
+            "target": "_blank"
+        }
+    ],
+    "level2": [
+        {
+            "name": "比赛",
+            "router": "nbacenter",
+            "url": "http://m.hupu.com/nba/game"
+        },
+        {
+            "name": "新闻",
+            "router": "nbanewsindex",
+            "url": "http://m.hupu.com/nba/news/"
+        },
+        {
+            "name": "球队",
+            "router": "gnbastanding",
+            "url": "http://m.hupu.com/nba/standing"
+        },
+        {
+            "name": "论坛",
+            "router": "forumindex",
+            "param": {
+                "fid": 1048
+            },
+            "url": "http://m.hupu.com/bbs/1048"
+        }
+    ],
+    "node": [
+        {
+            "title": "NBA",
+            "url": "http://m.hupu.com/nba"
+        },
+        {
+            "title": "比赛",
+            "url": "http://m.hupu.com/nba/game"
+        }
+    ],
+    "gameForcastInfo": {
+        "homeWidth": "49.86%",
+        "awayWidth": "50.14%"
+    },
+    "gameInfo": {
+        "match_id": "150123",
+        "time": "2015-06-15 08:00:00",
+        "home": {
+            "id": "28",
+            "shortcut": "warriors",
+            "forum": "102",
+            "name": "勇士",
+            "fullname": "金州勇士",
+            "logo": "GSW.png",
+            "score": "104",
+            "link": "http://m.hupu.com/nba/teams/warriors",
+            "logourl": "http://c2.hoopchina.com.cn//images/gamespace/team/123x124/GSW.png",
+            "color": "14,95,172"
+        },
+        "away": {
+            "id": "10",
+            "shortcut": "cavaliers",
+            "forum": "85",
+            "name": "骑士",
+            "fullname": "克利夫兰骑士",
+            "logo": "CLE.png",
+            "score": "91",
+            "link": "http://m.hupu.com/nba/teams/cavaliers",
+            "color": "143,9,54",
+            "logourl": "http://c2.hoopchina.com.cn//images/gamespace/team/123x124/CLE.png"
+        },
+        "process": "已结束",
+        "recap_title": "詹皇三双骑士坠落天王山",
+        "pics_link": "",
+        "status": "1",
+        "lottery": null,
+        "match_time": "4,0:0",
+        "match_type": "PLAYOFF",
+        "usa_time": "2015-06-14 17:00:00",
+        "home_win": 3,
+        "away_win": 2,
+        "status_text": "已结束",
+        "year_desc": "2015年6月15日",
+        "time_desc": "8:00",
+        "scoreortime": "104 - 91",
+        "isover": 2,
+        "recaptext": "詹皇三双骑士坠落天王山",
+        "hasvideo": 1,
+        "innerurl": "http://m.hupu.com/nba/game/recap_150123.html"
+    },
+    "status": 200,
+    "live": {
+        "liveText": [
+            {
+                "section": "1",
+                "left_time": "6:22",
+                "vs": "8-5",
+                "event": "第一节",
+                "event_type": "14",
+                "team": "away",
+                "score_change": 1,
+                "home_score": "8",
+                "away_score": "5"
+            },
+            {
+                "section": "1",
+                "left_time": "6:00",
+                "vs": "10-5",
+                "event": "德雷蒙德-格林接到哈里森-巴恩斯的助攻，带球上篮得分",
+                "event_type": "3",
+                "team": "home",
+                "score_change": 1,
+                "home_score": "10",
+                "away_score": "5"
+            },
+            {
+                "section": "1",
+                "left_time": "5:47",
+                "vs": "10-7",
+                "event": "詹姆斯带球上篮得分",
+                "event_type": "3",
+                "team": "away",
+                "score_change": 1,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:35",
+                "vs": "10-7",
+                "event": "克莱-汤普森上篮，被JR-史密斯盖掉",
+                "event_type": "4",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:34",
+                "vs": "10-7",
+                "event": "勇士抢到前场篮板",
+                "event_type": "5",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:34",
+                "vs": "10-7",
+                "event": "勇士换人，利文斯顿换下了哈里森-巴恩斯",
+                "event_type": "10",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:29",
+                "vs": "10-7",
+                "event": "克莱-汤普森跳投，被JR-史密斯盖掉",
+                "event_type": "4",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:28",
+                "vs": "10-7",
+                "event": "特里斯坦-汤普森拿到后场篮板",
+                "event_type": "6",
+                "team": "away",
+                "score_change": 0,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:24",
+                "vs": "10-7",
+                "event": "香珀特跳投不中",
+                "event_type": "4",
+                "team": "away",
+                "score_change": 0,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:23",
+                "vs": "10-7",
+                "event": "伊格达拉拿到后场篮板",
+                "event_type": "6",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "10",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "5:15",
+                "vs": "13-7",
+                "event": "德雷蒙德-格林接到克莱-汤普森的助攻，28英尺外跳投三分入网",
+                "event_type": "3",
+                "team": "home",
+                "score_change": 1,
+                "home_score": "13",
+                "away_score": "7"
+            },
+            {
+                "section": "1",
+                "left_time": "4:57",
+                "vs": "13-10",
+                "event": "JR-史密斯接到詹姆斯的助攻，26英尺外后仰跳投三分入网",
+                "event_type": "3",
+                "team": "away",
+                "score_change": 1,
+                "home_score": "13",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:46",
+                "vs": "13-10",
+                "event": "JR-史密斯一级恶意犯规 (德雷蒙德-格林造成了犯规)",
+                "event_type": "8",
+                "team": "away",
+                "score_change": 0,
+                "home_score": "13",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:46",
+                "vs": "13-10",
+                "event": "恶意犯规罚球，德雷蒙德-格林罚球不中 (两罚第一罚)",
+                "event_type": "2",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "13",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:46",
+                "vs": "13-10",
+                "event": "勇士抢到前场篮板",
+                "event_type": "5",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "13",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:46",
+                "vs": "14-10",
+                "event": "恶意犯规罚球，德雷蒙德-格林罚球命中 (两罚第二罚)",
+                "event_type": "1",
+                "team": "home",
+                "score_change": 1,
+                "home_score": "14",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:36",
+                "vs": "14-10",
+                "event": "德雷蒙德-格林26英尺外三分跳投不中",
+                "event_type": "4",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "14",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:35",
+                "vs": "14-10",
+                "event": "詹姆斯拿到后场篮板",
+                "event_type": "6",
+                "team": "away",
+                "score_change": 0,
+                "home_score": "14",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:26",
+                "vs": "14-10",
+                "event": "德雷蒙德-格林防守3秒违例",
+                "event_type": "8",
+                "team": "home",
+                "score_change": 0,
+                "home_score": "14",
+                "away_score": "10"
+            },
+            {
+                "section": "1",
+                "left_time": "4:26",
+                "vs": "14-11",
+                "event": "技术犯规罚球，詹姆斯罚球命中",
+                "event_type": "1",
+                "team": "away",
+                "score_change": 1,
+                "home_score": "14",
+                "away_score": "11"
+            }
+        ],
+        "nextpid": 60
+    },
+
+    "gameId": 150123
+}

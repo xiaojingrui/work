@@ -1,0 +1,170 @@
+{
+    "pageheader": {
+        "title": "12\u670826\u65e5\u6e56\u4ebavs\u5feb\u8239\u6bd4\u8d5b\u524d\u77bb_\u864e\u6251\u4f53\u80b2"
+    },
+    "bottomtitle": "\u864e\u6251\u7bee\u7403-\u6700\u7bee\u7403\u7684\u4e16\u754c",
+    "project": "nba",
+    "site": "nba",
+    "logo": "nba_logo_new.png",
+    "id4dace": "2121",
+    "mark4dace": "page_nba_game_preview_152783",
+    "pageBottomSpread": [{
+        "name": "NBA",
+        "url": "\/bbs\/1048"
+    }, {
+        "name": "\u8db3\u7403",
+        "url": "\/bbs\/1389"
+    }, {
+        "name": "\u6b65\u884c\u8857",
+        "url": "\/bbs\/34"
+    }, {
+        "name": "\u60c5\u611f",
+        "url": "\/bbs\/160"
+    }, {
+        "name": "\u5f71\u89c6",
+        "url": "\/bbs\/120"
+    }],
+    "baseurl": "\/\/dev-m.hupu.com",
+    "test": "1",
+    "_islogin": "1",
+    "loginurl": "https:\/\/passport.hupu.com\/m\/2?jumpurl=http%3A%2F%2Fdev-m.hupu.com%2Fnba%2Fgame%2Fpreview_152783.html%3Ftest%3D1&from=m&project=hupu",
+    "uid": "26078995",
+    "username": "\u55e8\u55bdhupu",
+    "showAdvertise": 0,
+    "pclink": "http:\/\/g.hupu.com\/nba\/preview_152783.html?test=1",
+    "hottitlelen": "16",
+    "columncontentlen": "46",
+    "footerword": {
+        "word": "\u6211\u7684\u4eba\u751f\u6001\u5ea6\u662f\uff0c\u4f60\u82e5\u4e00\u76f4\u653b\u51fb\u6211\u7684\u5f31\u70b9\uff0c\u90a3\u4e48\u6211\u4f1a\u5c06\u6b64\u88ab\u89c9\u5bdf\u5230\u7684\u5f31\u70b9\u8f6c\u53d8\u6210\u4f18\u70b9\u3002",
+        "person": "\u4e54\u4e39"
+    },
+    "videoImgUrlPrefix": "https:\/\/bbsstaticoss.hoopchina.com.cn\/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+    "daceChannel": "nba",
+    "keywords": "12\u670826\u65e5\u6e56\u4ebavs\u5feb\u8239\u6bd4\u8d5b\u524d\u77bb",
+    "topNav": [{
+        "title": "NBA",
+        "router": "nbaindex",
+        "url": "\/\/dev-m.hupu.com\/nba"
+    }, {
+        "title": "CBA",
+        "router": "cbanewsindex",
+        "url": "\/\/dev-m.hupu.com\/cba\/news\/"
+    }, {
+        "title": "\u8db3\u7403",
+        "router": "soccerindex",
+        "url": "\/\/dev-m.hupu.com\/soccer"
+    }, {
+        "title": "\u8bba\u575b",
+        "router": "bbsindex",
+        "url": "\/\/dev-m.hupu.com\/bbs"
+    }, {
+        "title": "\u8bc6\u8d27",
+        "url": "http:\/\/m.shihuo.cn\/",
+        "router": "shihuoindex",
+        "target": "_blank"
+    }, {
+        "title": "\u6e38\u620f",
+        "url": "http:\/\/youxi.hupu.com\/mzhan",
+        "router": "youxiindex",
+        "target": "_blank"
+    }],
+    "level2": [{
+        "name": "NBA",
+        "router": "nbaindex",
+        "url": "\/\/dev-m.hupu.com\/nba",
+        "is_current": false
+    }, {
+        "name": "\u65b0\u95fb",
+        "router": "nbanewsindex",
+        "url": "\/\/dev-m.hupu.com\/nba\/news",
+        "is_current": false
+    }, {
+        "name": "\u6bd4\u8d5b",
+        "router": "nbacenter",
+        "url": "\/\/dev-m.hupu.com\/nba\/game",
+        "is_current": false
+    }, {
+        "name": "\u6570\u636e",
+        "router": "nbateam",
+        "url": "\/\/dev-m.hupu.com\/nba\/standings",
+        "is_current": false
+    }, {
+        "name": "\u8bba\u575b",
+        "router": "bbsindex",
+        "url": "\/\/dev-m.hupu.com\/bbs",
+        "is_current": false
+    }],
+    "node": [{
+        "title": "NBA",
+        "url": "\/\/dev-m.hupu.com\/nba"
+    }, {
+        "title": "\u6bd4\u8d5b",
+        "url": "\/\/dev-m.hupu.com\/nba\/game"
+    }],
+    "gameInfo": {
+        "match_id": "152783",
+        "time": "2016-12-26 11:30:00",
+        "home": {
+            "id": "24",
+            "shortcut": "lakers",
+            "forum": "81",
+            "name": "\u6e56\u4eba",
+            "fullname": "\u6d1b\u6749\u77f6\u6e56\u4eba",
+            "logo": "b718254a88cc2e70.png",
+            "score": "0",
+            "link": "\/\/dev-m.hupu.com\/nba\/teams\/lakers",
+            "logourl": "\/\/gdc.hupucdn.com\/gdc\/nba\/team\/logo\/123x124\/b718254a88cc2e70.png",
+            "color": "4,72,171"
+        },
+        "away": {
+            "id": "29",
+            "shortcut": "clippers",
+            "forum": "127",
+            "name": "\u5feb\u8239",
+            "fullname": "\u6d1b\u6749\u77f6\u5feb\u8239",
+            "logo": "LAC.png",
+            "score": "0",
+            "link": "\/\/dev-m.hupu.com\/nba\/teams\/clippers",
+            "color": "77,31,125",
+            "logourl": "\/\/gdc.hupucdn.com\/gdc\/nba\/team\/logo\/123x124\/LAC.png"
+        },
+        "process": "\u672a\u5f00\u59cb",
+        "recap_title": "",
+        "pics_link": "",
+        "status": "3",
+        "lottery": null,
+        "match_time": "0,0:0.0",
+        "match_type": "REGULAR",
+        "usa_time": "2016-12-25 19:30:00",
+        "status_text": "\u672a\u5f00\u59cb",
+        "year_desc": "2016\u5e7412\u670826\u65e5",
+        "time_desc": "11:30",
+        "scoreortime": "11:30",
+        "isover": 0,
+        "recaptext": "",
+        "hasvideo": 0,
+        "innerurl": "\/\/dev-m.hupu.com\/nba\/game\/preview_152783.html"
+    },
+    "gameForcastInfo": {
+        "homeWidth": "%",
+        "awayWidth": "%",
+        "number": null
+    },
+    "notice": "\u6bd4\u8d5b\u5c1a\u672a\u5f00\u59cb\uff0c\u8bf7\u5173\u6ce8\u522b\u7684\u6bd4\u8d5b\uff0c\u6216\u8005\u67e5\u770b\u7403\u961f\u76f8\u5173\u4fe1\u606f",
+    "teamRankInfo": {
+        "home": {
+            "pts": "16",
+            "ast": "24",
+            "reb": "15",
+            "tno": "28",
+            "lts": "27"
+        },
+        "away": {
+            "pts": "5",
+            "ast": "11",
+            "reb": "18",
+            "tno": "7",
+            "lts": "7"
+        }
+    }
+}

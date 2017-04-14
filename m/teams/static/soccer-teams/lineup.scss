@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+.teams-lineup{
+    overflow:hidden;
+
+    li{
+       line-height:40px;
+       overflow:hidden;
+       background-color:#fbfbfb;
+       span{
+          display:inline-block;
+          text-align:left;
+          min-width:13%;
+          padding-left:3%;
+          white-space: nowrap;
+          overflow:hidden;
+       }
+       span:first-child{
+          width:33%;
+       }
+       .w1{
+         width: 33%;
+         text-align: center;
+       }
+       h3{
+         line-height:24px;
+         display:inline-block;
+         padding:0 10px;
+         -webkit-border-radius:12px;
+         border-radius:12px;
+         color:#fff;
+         font-size:14px;
+         height:24px;
+       }
+    }
+    .teams-position{
+        padding:8px 0 8px 20px;
+        overflow: hidden;
+        background-color:#fff;
+    }
+}

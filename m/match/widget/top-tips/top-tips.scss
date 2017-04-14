@@ -1,0 +1,27 @@
+@import "../../static/sass/sassCore/base";
+
+.top-tips{
+    @include display-flex();
+    height: 30px;
+    overflow: hidden;
+    background: url(./tips-bg.png) 0 0 repeat;
+    background-size: 2px 2px;
+    p{
+        @include flex(1);
+        padding: 0 0 0 10px;
+        color: #005eac;
+        font-size: 14px;
+        line-height: 30px;
+        a{
+            display: block;
+            color: #0065ba;
+        }
+    }
+    span{
+        display: block;
+        width: 25px;
+        height: 30px;
+        background: url(./close.png) center center no-repeat;
+        background-size: 9px 8px;
+    }
+}

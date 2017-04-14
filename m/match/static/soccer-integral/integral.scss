@@ -1,0 +1,91 @@
+@import "../sass/sassCore/base";
+
+body{
+    background-color: #f1f1f1;
+    -webkit-transition: all .3s; /* Safari */
+    transition:all .3s ease;
+}
+.table-scroll {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+.table {
+    width: 100%;
+    line-height: 40px;
+    white-space: nowrap;
+    border-collapse:separate;
+    th,
+    td {
+        padding: 0 8px;
+        border-top: 1px solid #eee;
+        color: #444;
+    }
+    th {
+        text-align: left;
+        font-weight: 400;
+        color: #999;
+        background: #fbfbfb;
+    }
+    
+    .number-1 {
+        width: 18%;
+        &.td-align{
+            text-align: center;
+        }
+    }
+    .text-center{
+        text-align: center;
+    }
+}
+
+.table-col-1 {
+    @include display-flex();
+    .table-fixed {
+        width: 145px;
+        border-right: 1px solid #eee;
+        .table{
+            background: #fff;
+            text-align: left;
+        }
+    }
+    .table-scroll {
+        @include flex(1);
+        .table{
+            background: #fbfbfb;
+            .number-1{
+                text-align:center;
+            }
+        }
+    }
+}
+
+.soccer-mark{
+    overflow: hidden;
+    margin-top: 12px;
+    background-color: #fff;
+    .mark-item{
+        float: left;
+        line-height:40px;
+        width: 48%;
+        padding-left: 2%;
+        color:#444;
+        .mark-icon{
+            width:10px;
+            height:2px;
+            display:inline-block;
+            overflow: hidden;
+            vertical-align: middle;
+        }
+    }
+}
+.score-nodata{
+    text-align: center;
+    color:#999;
+    padding-top: 10px;
+    line-height:50px;
+    height:50px;
+}

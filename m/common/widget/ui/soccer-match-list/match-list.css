@@ -1,0 +1,146 @@
+@charset "UTF-8";
+.match-list-wrap {
+    padding: .1rem .1rem 0;
+}
+.match-list-wrap .time-label {
+    text-align: center;
+}
+.match-list-wrap .time-label span {
+    position: relative;
+    display: inline-block;
+    height: .3rem;
+    line-height: .3rem;
+    padding: 0 .18rem;
+    margin-bottom: .1rem;
+    font-weight: 700;
+    background-color: #f8f8f8;
+    border-radius: .15rem;
+}
+.match-list-wrap .time-label span:before,
+.match-list-wrap .time-label span:after {
+    position: absolute;
+    top: 50%;
+    content: "";
+    width: .04rem;
+    height: .04rem;
+    margin-top: -.02rem;
+    overflow: hidden;
+    background: #f3f3f3;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+.match-list-wrap .time-label span:before {
+    left: .06rem;
+}
+.match-list-wrap .time-label span:after {
+    right: .06rem;
+}
+.match-list-wrap .match-list {
+    margin-bottom: .1rem;
+    background: #fff;
+}
+.match-list-wrap .match-list a {
+    display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+}
+.match-list-wrap .match-list .match-col-1 {
+    min-width: .5rem;
+    padding-top: .12rem;
+    line-height: .24rem;
+    text-align: center;
+    background: #fbfbfb;
+    border-right: 1px dashed #ededed;
+}
+.match-list-wrap .match-list .match-col-1 .tag-overtime,
+.match-list-wrap .match-list .match-col-1 .tag-battle,
+.match-list-wrap .match-list .match-col-1 .tag-thepenalty {
+    display: inline-block;
+    padding: 0 .02rem;
+    font-style: normal;
+    line-height: 1.2;
+    background: #d33d33;
+    color: #fff;
+    -webkit-border-radius: .04rem;
+    border-radius: .04rem;
+}
+.match-list-wrap .match-list .match-col-1 .tag-overtime {
+    background: #444;
+}
+.match-list-wrap .match-list .match-col-1 .tag-thepenalty {
+    background: #74cdf3;
+}
+.match-list-wrap .match-list .match-score {
+    min-width: .41rem;
+    padding-top: .1rem;
+    line-height: .24rem;
+    text-align: center;
+    font-size: .18rem;
+    background: #f9f9f9;
+    border-right: 1px dashed #ededed;
+}
+.match-list-wrap .match-list .match-score .thepenalty {
+    font-size: .14rem;
+    vertical-align: top;
+}
+.match-list-wrap .match-list .team-name {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    flex: 1;
+    padding: .05rem 0 .05rem .1rem;
+}
+.match-list-wrap .match-list .team-name .team-logo {
+    display: inline-block;
+    width: .3rem;
+    vertical-align: .02rem;
+}
+.match-list-wrap .match-list .team-name .team-logo img {
+    width: 100%;
+}
+.match-list-wrap .match-list .team-name h4 {
+    display: inline-block;
+    font-size: .18rem;
+    font-weight: 400;
+    line-height: .2rem;
+    padding: .05rem 0;
+}
+.match-list-wrap .match-list .match-played {
+    padding-right: .08rem;
+    text-align: right;
+    color: #abaeb2;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+}
+.match-list-wrap .match-list .match-lose {
+    color: #999;
+}
+.match-list-wrap .match-state-top {
+    margin-top: .12rem;
+}
+
+/* 比赛结束 */
+.match-list-wrap .match-list-ended .match-state {
+    color: #abaeb2;
+}
+
+
+.bottom-tips,.top-tips{
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    color: #999;
+    display: none;
+}

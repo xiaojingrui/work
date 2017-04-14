@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+
+.nba-wrap {
+    .card-col-4 {
+        &:before {
+            background-color: #edeef0;
+            border-top-color: #edeef0;
+        }
+        .title {
+            h2 {
+                padding-left: 2px;
+                border-left: none;
+            }
+        }
+    }
+}

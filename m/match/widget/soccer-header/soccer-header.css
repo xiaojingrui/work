@@ -1,0 +1,62 @@
+/* 比赛头部 */
+.match-header {
+    padding: .1rem 0 ;
+    text-align: center;
+    font-size: .16rem;
+    background: #000 url(match-bg.jpg) repeat-y top left;
+    background-size: 100% 100%;
+    color: #fff;
+}
+.match-header .match-name {
+    padding-bottom: .05rem;
+}
+.match-header .match-info,
+.match-header .team-name-state {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+}
+.match-header .team-logo,
+.match-header .team-name {
+    display: block;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+    text-align: left;
+}
+.match-header .team-logo img {
+    width: .4rem;
+}
+.match-header .team-name a {
+    color: #fff;
+}
+.match-header .team-name {
+    font-size: .18rem;
+}
+.match-header .home-team-name {
+    text-align: right;
+}
+.match-header .score-number,
+.match-header .match-state {
+    width: 35%;
+}
+.match-header .score-number {
+    font-size: .22rem;
+    line-height: .4rem;
+    font-weight: 700;
+}
+.match-header .score-number .times {
+    margin-top: .1rem;
+    font-size: .16rem;
+    line-height: 1.2;
+}
+.match-header .score-number .line {
+    margin: 0 .05rem;
+}
+.match-header .match-state {
+    font-size: .14rem;
+    line-height: 2;
+}
+.match-header .match-state .match-state-competition {
+    line-height: 1.2;
+}

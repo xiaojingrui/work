@@ -1,0 +1,367 @@
+{
+  "pageheader": {
+    "title": "NBA比赛中心_虎扑篮球"
+  },
+  "bottomtitle": "虎扑篮球-最篮球的世界",
+  "project": "nba",
+  "site": "nba",
+  "logo": "nba_logo_new.png",
+  "id4dace": "2120",
+  "mark4dace": "page_nba_game",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//dev-m.hupu.com",
+  "test": null,
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Fdev-m.hupu.com%2Fnba%2Fgame%3Ftest&from=m&project=hupu",
+  "uid": "26078995",
+  "username": "嗨喽hupu",
+  "showAdvertise": 0,
+  "pclink": "http://g.hupu.com/nba?test",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "有目标是很幸福的。一个又一个的目标，让我有无穷的动力去追赶和超越。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "daceChannel": "nba",
+  "keywords": "NBA比赛中心",
+  "description": "虎扑篮球nba比赛中心为您带来nba直播报道，内容涵盖nba赛程、nba比赛日比分、对阵列表以及nba当时数据统计。",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//dev-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//dev-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//dev-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//dev-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "level2": [
+    {
+      "name": "NBA",
+      "router": "nbaindex",
+      "url": "//dev-m.hupu.com/nba",
+      "is_current": false
+    },
+    {
+      "name": "新闻",
+      "router": "nbanewsindex",
+      "url": "//dev-m.hupu.com/nba/news",
+      "is_current": false
+    },
+    {
+      "name": "比赛",
+      "router": "nbacenter",
+      "url": "//dev-m.hupu.com/nba/game",
+      "is_current": "1"
+    },
+    {
+      "name": "数据",
+      "router": "nbateam",
+      "url": "//dev-m.hupu.com/nba/standings",
+      "is_current": false
+    },
+    {
+      "name": "论坛",
+      "router": "bbsindex",
+      "url": "//dev-m.hupu.com/bbs",
+      "is_current": false
+    }
+  ],
+  "node": [
+    {
+      "title": "NBA",
+      "url": "//dev-m.hupu.com/nba"
+    },
+    {
+      "title": "比赛",
+      "url": "#"
+    }
+  ],
+  "nbaGame": {
+    "1482681600": {
+      "timestr": "今日 12月26日 星期一",
+      "date": "2016-12-26",
+      "id": "1482681600",
+      "gameinfo": [
+        {
+          "match_id": "152779",
+          "time": "2016-12-26 01:00:00",
+          "home": {
+            "id": "4",
+            "shortcut": "knicks",
+            "forum": "92",
+            "name": "尼克斯",
+            "fullname": "纽约尼克斯",
+            "logo": "NYK.png",
+            "score": "114",
+            "link": "//dev-m.hupu.com/nba/teams/knicks",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/NYK.png",
+            "color": "237,111,6"
+          },
+          "away": {
+            "id": "1",
+            "shortcut": "celtics",
+            "forum": "82",
+            "name": "凯尔特人",
+            "fullname": "波士顿凯尔特人",
+            "logo": "e59350a5bc97aa5c.png",
+            "score": "119",
+            "link": "//dev-m.hupu.com/nba/teams/celtics",
+            "color": "0,130,66",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/e59350a5bc97aa5c.png"
+          },
+          "process": "已结束",
+          "recap_title": "甜瓜致命失误，憾负绿衫军",
+          "pics_link": "",
+          "status": "1",
+          "lottery": null,
+          "match_time": "4,0:0.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-12-25 12:00:00",
+          "status_text": "已结束",
+          "year_desc": "2016年12月26日",
+          "time_desc": "1:00",
+          "scoreortime": "119 - 114",
+          "isover": "1",
+          "recaptext": "甜瓜致命失误，憾负绿衫军",
+          "hasvideo": "1",
+          "innerurl": "//dev-m.hupu.com/nba/game/recap_152779.html"
+        },
+        {
+          "match_id": "152780",
+          "time": "2016-12-26 03:30:00",
+          "home": {
+            "id": "10",
+            "shortcut": "cavaliers",
+            "forum": "85",
+            "name": "骑士",
+            "fullname": "克利夫兰骑士",
+            "logo": "CLE.png",
+            "score": "109",
+            "link": "//dev-m.hupu.com/nba/teams/cavaliers",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/CLE.png",
+            "color": "143,9,54"
+          },
+          "away": {
+            "id": "28",
+            "shortcut": "warriors",
+            "forum": "102",
+            "name": "勇士",
+            "fullname": "金州勇士",
+            "logo": "GSW.png",
+            "score": "108",
+            "link": "//dev-m.hupu.com/nba/teams/warriors",
+            "color": "14,95,172",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/GSW.png"
+          },
+          "process": "已结束",
+          "recap_title": "詹皇31分欧文绝杀逆转勇士",
+          "pics_link": "",
+          "status": "1",
+          "lottery": null,
+          "match_time": "4,0:0.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-12-25 14:30:00",
+          "status_text": "已结束",
+          "year_desc": "2016年12月26日",
+          "time_desc": "3:30",
+          "scoreortime": "108 - 109",
+          "isover": "1",
+          "recaptext": "詹皇31分欧文绝杀逆转勇士",
+          "hasvideo": "1",
+          "innerurl": "//dev-m.hupu.com/nba/game/recap_152780.html"
+        },
+        {
+          "match_id": "152781",
+          "time": "2016-12-26 06:00:00",
+          "home": {
+            "id": "21",
+            "shortcut": "spurs",
+            "forum": "105",
+            "name": "马刺",
+            "fullname": "圣安东尼奥马刺",
+            "logo": "SAS.png",
+            "score": "119",
+            "link": "//dev-m.hupu.com/nba/teams/spurs",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/SAS.png",
+            "color": "206,214,218"
+          },
+          "away": {
+            "id": "9",
+            "shortcut": "bulls",
+            "forum": "68",
+            "name": "公牛",
+            "fullname": "芝加哥公牛",
+            "logo": "CHI.png",
+            "score": "100",
+            "link": "//dev-m.hupu.com/nba/teams/bulls",
+            "color": "208,11,56",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/CHI.png"
+          },
+          "process": "已结束",
+          "recap_title": "阿尔德里奇33分马刺胜公牛",
+          "pics_link": "",
+          "status": "1",
+          "lottery": null,
+          "match_time": "4,0:0.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-12-25 16:00:00",
+          "status_text": "已结束",
+          "year_desc": "2016年12月26日",
+          "time_desc": "6:00",
+          "scoreortime": "100 - 119",
+          "isover": "1",
+          "recaptext": "阿尔德里奇33分马刺胜公牛",
+          "hasvideo": "1",
+          "innerurl": "//dev-m.hupu.com/nba/game/recap_152781.html"
+        },
+        {
+          "match_id": "152782",
+          "time": "2016-12-26 09:00:00",
+          "home": {
+            "id": "27",
+            "shortcut": "thunder",
+            "forum": "108",
+            "name": "雷霆",
+            "fullname": "俄克拉荷马城雷霆",
+            "logo": "OKC.png",
+            "score": "110",
+            "link": "//dev-m.hupu.com/nba/teams/thunder",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/OKC.png",
+            "color": "16,120,192"
+          },
+          "away": {
+            "id": "20",
+            "shortcut": "timberwolves",
+            "forum": "76",
+            "name": "森林狼",
+            "fullname": "明尼苏达森林狼",
+            "logo": "MIN.png",
+            "score": "90",
+            "link": "//dev-m.hupu.com/nba/teams/timberwolves",
+            "color": "2,73,129",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/MIN.png"
+          },
+          "process": "第四节剩3:46",
+          "recap_title": "",
+          "pics_link": "",
+          "status": "2",
+          "lottery": null,
+          "match_time": "4,3:46.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-12-25 19:00:00",
+          "status_text": "进行中",
+          "year_desc": "2016年12月26日",
+          "time_desc": "9:00",
+          "scoreortime": "90 - 110",
+          "isover": 0,
+          "recaptext": "",
+          "hasvideo": "1",
+          "innerurl": "//dev-m.hupu.com/nba/game/playbyplay_152782.html"
+        },
+        {
+          "match_id": "152783",
+          "time": "2016-12-26 11:30:00",
+          "home": {
+            "id": "24",
+            "shortcut": "lakers",
+            "forum": "81",
+            "name": "湖人",
+            "fullname": "洛杉矶湖人",
+            "logo": "b718254a88cc2e70.png",
+            "score": "0",
+            "link": "//dev-m.hupu.com/nba/teams/lakers",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/b718254a88cc2e70.png",
+            "color": "4,72,171"
+          },
+          "away": {
+            "id": "29",
+            "shortcut": "clippers",
+            "forum": "127",
+            "name": "快船",
+            "fullname": "洛杉矶快船",
+            "logo": "LAC.png",
+            "score": "0",
+            "link": "//dev-m.hupu.com/nba/teams/clippers",
+            "color": "77,31,125",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/LAC.png"
+          },
+          "process": "未开始",
+          "recap_title": "",
+          "pics_link": "",
+          "status": "3",
+          "lottery": null,
+          "match_time": "0,0:0.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-12-25 19:30:00",
+          "status_text": "未开始",
+          "year_desc": "2016年12月26日",
+          "time_desc": "11:30",
+          "scoreortime": "11:30",
+          "isover": 0,
+          "recaptext": "",
+          "hasvideo": 0,
+          "innerurl": "//dev-m.hupu.com/nba/game/preview_152783.html"
+        }
+      ]
+    }
+  },
+  "time": "1482681600",
+  "date": "2016-12-26",
+  "rookieGameDates": [
+    "2015-02-14"
+  ],
+  "fourDates": [
+    "2015-02-15"
+  ],
+  "allStarGameDates": [
+    "2015-02-16"
+  ]
+}

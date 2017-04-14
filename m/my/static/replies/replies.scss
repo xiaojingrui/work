@@ -1,0 +1,78 @@
+@import "../sass/sassCore/base";
+
+.replies-wrap {
+    word-wrap: break-word;
+    .reply-list {
+        padding: .1rem .1rem;
+        border-bottom: 1px solid #e3e4e5;
+        a {
+            color: #005eac;
+        }
+        .topic-title {
+            padding-bottom: .05rem;
+            font-size: .18rem;
+            color: #005eac;
+        }
+
+        .reply-content {
+            padding-bottom: 10px;
+            font-size: 16px;
+            img {
+                max-width: 100%;
+            }
+        }
+
+        /* 引用 */
+        .reply-quote-content {
+            position: relative;
+            padding: 8px;
+            margin-bottom: 12px;
+            background: #f5f5f5;
+            border: 1px solid #e7e7e7;
+            color: #999;
+            &:after,
+            &:before {
+                position: absolute;
+                left: 18px;
+                bottom: -10px;
+                z-index: 2;
+                content: "";
+                width: 0;
+                height: 0;
+                border-width: 5px;
+                border-style: solid dashed dashed solid;
+                border-color: #f5f5f5 transparent transparent #f5f5f5;
+            }
+            &:before {
+                left: 17px;
+                bottom: -12px;
+                z-index: 1;
+                border-width: 6px;
+                border-color: #e7e7e7 transparent transparent #e7e7e7;
+            }
+            .reply-quote-hd {
+                position: relative;
+                font-size: 14px;
+                color: #444;
+            }
+        }
+        .current-content {
+//            padding: 0 8px;
+        }
+
+
+        .reply-bt {
+//            padding: 0 8px;
+            color: #999;
+            .tag {
+                margin-right: 15px;
+            }
+        }
+
+    }
+    .not-message {
+        padding: 40px 0 40px;
+        text-align: center;
+        color: #999;
+    }
+}

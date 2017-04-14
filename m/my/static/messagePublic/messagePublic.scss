@@ -1,0 +1,311 @@
+@charset "utf-8";
+@import "../sass/sassCore/base";
+
+body {
+     font-size: 15px;
+     line-height: 1.42;
+     color: $morning_gray3_cor;
+     background-color: $morning_gray1_cor;
+     word-break: break-all;
+}
+
+a {
+     color: $morning_gray3_cor;
+}
+
+.tab-wrap {
+    position: relative;
+    height: 49px;
+    padding: 10px 19px;
+    background-color: $morning_gray1_cor;
+    z-index: 10;
+}
+
+.tab {
+    @include display-flex();
+    border: 1px solid $morning_red_cor;
+    border-radius: 4px;
+
+    a {
+        @include flex(1);
+        position: relative;
+        display: block;
+        line-height: 29px;
+        text-align: center;
+        color: $morning_red_cor;
+        border-right: 1px solid $morning_red_cor;
+    }
+
+    a:last-child {
+        border-right: none;
+    }
+
+    a.active {
+        background-color: $morning_red_cor;
+        color: $morning_white_cor;
+    }
+
+    .remind {
+        position: absolute;
+        top: -9px;
+        right: 0;
+        min-width: 18px;
+        padding: 0 4px;
+        line-height: 18px;
+        font-size: 12px;
+        color: $morning_white_cor;
+        background-color: #ff4252;
+        border-radius: 9px;
+    }
+}
+
+.message-post {
+    position: relative;
+
+    .item {
+        @include clearfix();
+        display: block;
+        height: 60px;
+        padding: 0 10px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 60px;
+        background-color: $morning_white_cor;
+
+        &>span {
+            float: left;
+            display: block;
+        }
+
+        &>span:nth-of-type(2) { max-width: 40%;}
+        &>span:nth-of-type(4) {
+            position: absolute;
+            right: 10px;
+            text-align: right;
+        }
+    }
+
+    .title {
+        display: block;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        color: $morning_blue_cor;
+    }
+
+    .time {
+        margin-left: 10px;
+        font-size: 12px;
+        color: $morning_gray2_cor;
+    }
+
+    .history {
+        height: 35px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 35px;
+        text-align: center;
+        color: $morning_gray2_cor;
+    }
+
+    .no-result {
+        position: relative;
+        display: none;
+        color: $morning_gray2_cor;
+
+        p {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+        }
+    }
+}
+
+.message-wrap {
+    position: relative;
+
+    .item {
+        display: block;
+        padding: 0 10px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: $morning_white_cor;
+    }
+
+    .hd {
+        position: relative;
+        padding-top: 6px;
+        margin-bottom: 6px;
+
+        .title {
+            display: inline-block;
+            max-width: 85%;
+        }
+
+        .time {
+            right: 0;
+            top: 8px;
+        }
+    }
+
+    .post-mention {
+        position: relative;
+        height: 60px;
+        line-height: 60px;
+
+        .t-name {
+            max-width: 32%;
+        }
+    }
+
+    .t-name {
+        display: inline-block;
+        max-width: 55%;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        vertical-align: top;
+        color: $morning_blue_cor
+    }
+
+    .time {
+        position: absolute;
+        right: 10px;
+        text-align: right;
+        font-size: 12px;
+        color: $morning_gray2_cor;
+    }
+
+    .other-info {
+        @include display-flex();
+        @include align-items(center);
+    }
+
+    .other-head {
+        position: relative;
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+        border-radius: 15px;
+        overflow: hidden;
+
+        img {
+            width: 30px;
+            height: 30px;
+            border-radius: 15px;
+        }
+    }
+
+    .mask {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .quote {
+        color: $morning_gray3_cor;
+
+        span {
+            color: $morning_blue_cor;
+        }
+    }
+
+    .my-reply {
+        padding: 10px;
+        margin-left: 40px;
+        margin-bottom: 6px;
+        background-color: $morning_gray1_cor;
+
+        .my-name {
+            margin-bottom: 6px;
+        }
+
+        .content {
+            color: $morning_gray2_cor;
+        }
+    }
+
+    .other-reply {
+        margin-left: 40px;
+        padding-bottom: 6px;
+    }
+
+    .other-reply.hidden {
+        @include display-flex();
+        @include align-items(center);
+        @include justify-content(center);
+        line-height: normal;
+        margin-left: 0;
+    }
+
+    .comment-mention {
+        .reply {
+            margin-left: 40px;
+            padding-bottom: 6px;
+
+            span {
+                color: $morning_blue_cor;
+            }
+        }
+    }
+
+    .content, .other-reply {
+        font-size: 16px;
+    }
+
+    .hidden {
+        height: 40px;
+        padding: 0;
+        line-height: 40px;
+        font-size: 15px;
+        text-align: center;
+        color: $morning_gray2_cor;
+    }
+
+    .item-tip {
+        height: 35px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 35px;
+        text-align: center;
+        color: $morning_gray2_cor;
+    }
+
+    .content, .other-reply, .reply {
+        span {
+            color: $morning_blue_cor;
+        }
+    }
+
+    .no-result {
+        position: relative;
+        display: none;
+        color: $morning_gray2_cor;
+
+        p {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+        }
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    .message-wrap {
+        .post-mention {
+            .t-name {
+                max-width: 20%;
+            }
+        }
+
+        .hd .title {
+            max-width: 80%;
+        }
+    }
+}

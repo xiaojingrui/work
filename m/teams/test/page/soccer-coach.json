@@ -1,0 +1,120 @@
+{
+    "baseurl": "http://m.hupu.com",
+    "test": "710998fd1b7c0235170265650770a4b1",
+    "_islogin": 0,
+    "loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/soccer/coach/226?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+    "uid": "",
+    "username": "",
+    "showAdvertise": 0,
+    "description": "虎扑体育",
+    "pclink": "http://soccer.hupu.com/coach/226?test=710998fd1b7c0235170265650770a4b1",
+    "hottitlelen": 16,
+    "columncontentlen": 46,
+    "footerword": {
+        "word": "我听过很多次，人们说，三、四年后，这个联盟就是属于你们的。我不喜欢这句话，因为我觉得现在就是了。",
+        "person": "杜兰特"
+    },
+    "videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+    "topNav": [
+        {
+            "title": "NBA",
+            "router": "nbaindex",
+            "url": "http://m.hupu.com/nba"
+        },
+        {
+            "title": "CBA",
+            "router": "cbanewsindex",
+            "url": "http://m.hupu.com/cba/news/"
+        },
+        {
+            "title": "足球",
+            "router": "soccerindex",
+            "url": "http://m.hupu.com/soccer"
+        },
+        {
+            "title": "论坛",
+            "router": "bbsindex",
+            "url": "http://m.hupu.com/bbs"
+        },
+        {
+            "title": "识货",
+            "url": "http://m.shihuo.cn/",
+            "router": "shihuoindex",
+            "target": "_blank"
+        },
+        {
+            "title": "彩票",
+            "url": "http://m.aicai.com/p/hupu.do?agentId=2334716&vt=5&referer=m&ssid=-1",
+            "router": "caipiaoindex",
+            "target": "_blank"
+        }
+    ],
+    "node": [
+        {
+            "title": "圣日耳曼",
+            "url": "http://m.hupu.com/soccer/coach/226"
+        }
+    ],
+    "coachInfo": {
+        "season_id": 2015,
+        "official_id": 110,
+        "team_id": 226,
+        "team_name": "圣日耳曼",
+        "official_name": "洛朗-布兰科",
+        "official_known_name": "布兰科",
+        "official_name_en": "Laurent Blanc",
+        "official_known_name_en": "Blanc",
+        "official_type": "Manager",
+        "country": "France",
+        "country_cn": "法国",
+        "birth_date": "1965-11-19",
+        "first": "Laurent",
+        "last": "Blanc",
+        "join_date": "2013-06-25",
+        "win_per": 0.7284,
+        "win": 118,
+        "draw": 29,
+        "lose": 15,
+        "description": null,
+        "image_86x120_url": "http://gdc.hupucdn.com/gdc/soccer/official/photo//86x120/110.jpg",
+        "image_130x180_url": "http://gdc.hupucdn.com/gdc/soccer/official/photo//130x180/110.jpg",
+        "age": 50
+    },
+    "coachCareer": [
+        {
+            "appointed_date": "2013/06",
+            "until_date": "2018/06",
+            "team_name_zh": "巴黎圣日耳曼",
+            "matches": 162,
+            "win": 118,
+            "winpercent": 72
+        },
+        {
+            "appointed_date": "2010/07",
+            "until_date": "2012/06",
+            "team_name_zh": "France",
+            "matches": 27,
+            "win": 16,
+            "winpercent": 59
+        },
+        {
+            "appointed_date": "2007/07",
+            "until_date": "2010/05",
+            "team_name_zh": "波尔多",
+            "matches": 153,
+            "win": 90,
+            "winpercent": 58
+        }
+    ],
+    "coachPrefer": {
+        "prefer": "4-3-3(进攻)",
+        "tactic": {
+            "4-3-3(进攻)": 68,
+            "4-5-1": 3,
+            "4-4-2(双后腰)": 2,
+            "4-3-1-2": 1,
+            "4-2-3-1": 1
+        },
+        "total": 75
+    }
+}

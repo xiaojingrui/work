@@ -1,0 +1,23 @@
+<li>
+    <a href="{%$data.url%}{%if isset($smarty.get.m_from) && $smarty.get.m_from == "tieba"%}{%$fromurl|escape:none%}{%/if%}" class="news-link" dace-node="{%$id4dace%}_readNews">
+        <div class="news-wrap">
+            {%if {%$data.img%} != ''%}
+            <div class="img-wrap" style="background-image:url({%$data.img%})"></div>
+            {%/if%}
+            <div class="news-txt">
+                <h3>{%$data.title%}</h3>
+                <div class="news-status-bar">
+                    <div class="news-info">
+                        <span class="news-source">{%$data.media%}</span>
+                        <span class="news-time">{%$data.form_time%}</span>
+                    </div>
+                    {%if !(isset($smarty.get.m_from) && $smarty.get.m_from == "tieba") && !empty($data.reply_count)%}
+                        <div class="news-view">
+                            <i class="icon-comment"></i><span>{%$data.reply_count%}</span>
+                        </div>
+                    {%/if%}
+                </div>
+            </div>
+        </div>
+    </a>
+</li>

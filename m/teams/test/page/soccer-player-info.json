@@ -1,0 +1,166 @@
+{
+	"site": "soccer",
+	"pageheader": {
+		"title": ""
+	},
+	"bottomtitle": "虎扑体育 - 你的体育全世界！",
+	"id4dace": {
+		"csl": 3141,
+		"uefa": 3741,
+		"england": 3241,
+		"spain": 3641,
+		"italy": 3341,
+		"germany": 3441,
+		"france": 3541
+	},
+	"mark4dace": "page_soccer_playerinfo_",
+	"pageBottomSpread": [{
+		"name": "NBA",
+		"url": "/bbs/1048"
+	}, {
+		"name": "足球",
+		"url": "/bbs/1389"
+	}, {
+		"name": "步行街",
+		"url": "/bbs/34"
+	}, {
+		"name": "情感",
+		"url": "/bbs/160"
+	}, {
+		"name": "影视",
+		"url": "/bbs/120"
+	}],
+	"baseurl": "http://m.hupu.com",
+	"test": "710998fd1b7c0235170265650770a4b1",
+	"_islogin": 0,
+	"loginurl": "http://passport.hupu.com/m/2?appid=10017&jumpurl=http://m.hupu.com/soccer/england/team/123/player/19070?test=710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+	"uid": "",
+	"username": "",
+	"showAdvertise": 0,
+	"description": "虎扑体育",
+	"pclink": "http://soccer.hupu.com/england/team/123/player/19070?test=710998fd1b7c0235170265650770a4b1",
+	"hottitlelen": 16,
+	"columncontentlen": 46,
+	"footerword": {
+		"word": "我相信自己每一天所付出的艰辛努力，在某一天一定会得到回报。",
+		"person": "姚明"
+	},
+	"videoImgUrlPrefix": "http://img04.store.sogou.com/net/a/67/link?appid=67&url=",
+	"topNav": [{
+		"title": "NBA",
+		"router": "nbaindex",
+		"url": "http://m.hupu.com/nba"
+	}, {
+		"title": "CBA",
+		"router": "cbanewsindex",
+		"url": "http://m.hupu.com/cba/news/"
+	}, {
+		"title": "足球",
+		"router": "soccerindex",
+		"url": "http://m.hupu.com/soccer"
+	}, {
+		"title": "论坛",
+		"router": "bbsindex",
+		"url": "http://m.hupu.com/bbs"
+	}, {
+		"title": "识货",
+		"url": "http://m.shihuo.cn/",
+		"router": "shihuoindex",
+		"target": "_blank"
+	}, {
+		"title": "彩票",
+		"url": "http://m.aicai.com/p/hupu.do?agentId=2334716&vt=5&referer=m&ssid=-1",
+		"router": "caipiaoindex",
+		"target": "_blank"
+	}],
+	"node": [{
+		"title": "维拉",
+		"url": "http://m.hupu.com/soccer/england/team/123/players"
+	}],
+	"season": "2015-16",
+	"playerInfo": {
+		"league_id": 2,
+		"season_id": 2015,
+		"team_id": 123,
+		"captain": 2,
+		"injury": 2,
+		"injury_info": null,
+		"team_name": "维拉",
+		"player_id": 19070,
+		"name": "",
+		"known_name": "古赞",
+		"position": 1,
+		"name_en": "Brad Guzan",
+		"known_name_en": "Guzan",
+		"birth_date": "1984-09-09",
+		"age": 31,
+		"first_nationality": "USA",
+		"weight": 94,
+		"height": 193,
+		"jersey_num": null,
+		"real_position": 1,
+		"real_position_side": 0,
+		"join_date": "2008-08-01",
+		"country": ["喀麦隆","刚果"],
+		"preferred_foot": 0,
+		"worth": 400,
+		"description": null,
+		"image_86x120_url": "http://gdc.hupucdn.com/gdc/soccer/player/photo/86x120/19070.jpg",
+		"image_130x180_url": "http://gdc.hupucdn.com/gdc/soccer/player/photo/130x180/19070.jpg",
+		"market_value": 3692,
+		"contract_until": "2017-06-30",
+		"detailed_position": {
+			"main_position": {
+				"type": 1,
+				"name_en": "Keeper",
+				"name_zh": "门将"
+			},
+			"side_position": [
+				{
+					"type": 4,
+					"name_en": "Keeper",
+					"name_zh": "左后卫"
+				},
+				{
+					"type": 10,
+					"name_en": "Keeper",
+					"name_zh": "攻击型中场"
+				},
+				{
+					"type": 5,
+					"name_en": "Keeper",
+					"name_zh": "左前卫"
+				}
+			]
+		},
+		"player_video": [],
+		"page_urls": {
+			"info_url": "http://m.hupu.com/soccer/england/team/123/player/19070",
+			"stats_url": "http://m.hupu.com/soccer/england/team/123/stats/19070"
+		},
+		"position_type": 3
+	},
+	"playerStats": {
+	},
+	"PlayerTransfer": [{
+		"transfer_date": "2011-05-07",
+		"moving_to_team_name_zh": "阿斯顿维拉",
+		"transfer_fee": null
+	}, {
+		"transfer_date": "2010-12-31",
+		"moving_to_team_name_zh": null,
+		"transfer_fee": null
+	}, {
+		"transfer_date": "2008-07-31",
+		"moving_to_team_name_zh": "阿斯顿维拉阿斯顿维拉阿斯顿维拉",
+		"transfer_fee": 989
+	}, {
+		"transfer_date": "2004-12-31",
+		"moving_to_team_name_zh": null,
+		"transfer_fee": null
+	}, {
+		"transfer_date": "2002-12-31",
+		"moving_to_team_name_zh": null,
+		"transfer_fee": null
+	}]
+}

@@ -1,0 +1,101 @@
+@import "../sass/sassCore/base";
+
+.collect-wrap {
+    .common-list {
+        li {
+            position: relative;
+            &.on{
+                .select-icon{
+                    background: rgba(213, 64, 64, 0.8);
+                }
+            }
+        }
+        .select-icon {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 20px;
+            height: 20px;
+            margin: -10px 0 0 -10px;
+            overflow: hidden;
+            background: rgba(172,172,172,.8);
+            border: 5px solid rgba(255,255,255,.9);
+        }
+        .active {
+            .select-icon {
+                background: rgba(210,45,45,.8);
+            }
+        }
+    }
+    .not-message {
+        padding: 40px 0 40px;
+        text-align: center;
+        color: #999;
+    }
+}
+
+.select-black-bg {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.2);
+    z-index:10;
+}
+
+.select-fn-tips {
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+    @include display-flex();
+    padding: 6px 20px;
+    line-height: 30px;
+    background: #fff;
+    border-top: 1px solid #b6b6b7;
+    .fn-left {
+        @include flex(1);
+    }
+    .icon-selected {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        margin-right: 10px;
+        overflow: hidden;
+        background: rgba(210,45,45,.8);
+        border: 5px solid rgba(255,255,255,.9);
+    }
+    .button-delete {
+        height: 30px;
+        line-height: 30px;
+        padding: 0 10px;
+        font-size: 16px;
+        border: 1px solid #e6e6e6;
+    }
+}
+
+
+.editor-body {
+    .m-footer-row,
+    .m-page {
+        position: relative;
+        border-bottom: none;
+    }
+    .select-black-bg {
+        display: block;
+    }
+    .collect-wrap {
+        .common-list {
+            .select-icon {
+                display: block;
+            }
+        }
+    }
+}

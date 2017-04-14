@@ -1,0 +1,60 @@
+.m-detail-top-station {
+    height: 37px;
+}
+.m-detail-top-nav {
+    /*position: fixed;*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*z-index: 580;*/
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    width: 100%;
+    height: 37px;
+    line-height: 37px;
+    font-size: 14px;
+    background: #f4f4f4;
+    border-bottom: 1px solid #e1e1e1;
+    color: #000;
+    -webkit-box-shadow: 0px 2px 4px rgba(235,235,235,0.9);
+    -moz-box-shadow: 0px 2px 4px rgba(235,235,235,0.9);
+    box-shadow: 0px 2px 4px rgba(235,235,235,0.9);
+
+}
+.m-detail-top-nav .top-nav-left {
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+}
+.m-detail-top-nav .top-nav-left a {
+    position: relative;
+    display: inline-block;
+    height: 100%;
+    padding-left: 32px;
+    color: #e01b1b;
+}
+.m-detail-top-nav .top-nav-left .button-returnList:after {
+    display: block;
+    content: '';
+    position: absolute;
+    top: 13px;
+    left: 14px;
+    width: 10px;
+    height: 10px;
+    border-top: 1px solid #e01b1b;
+    border-right: 1px solid #e01b1b;
+    -webkit-transform: rotate(225deg);
+    transform: rotate(225deg);
+}
+.m-detail-top-nav .top-nav-right a {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-top: 4px;
+    margin-right: 6px;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    vertical-align: top;
+}

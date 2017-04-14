@@ -1,0 +1,51 @@
+/*select{
+    display: none;
+}*/
+.divSelWrap1{
+    position: relative;
+    width: 65px;
+    height: 35px;
+    border: 1px solid #e3e4e5;
+    border-radius: 4px 0 0 4px;
+    background-color: #f9f9f9;
+    z-index: 10;
+}
+.divSelWrap1 .divSelInner{
+    height: 34px;
+    text-align: center;
+}
+.divSelWrap1 .divSelInner span{
+    font-size: 14px;
+    line-height: 35px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.divSelWrap1 .divSelInner em{
+    display: inline-block;
+    vertical-align: middle;
+    width: 8px;
+    height: 8px;
+    line-height: 30px;
+    border-top: 1px solid #b1b1b1;
+    border-right: 1px solid #b1b1b1;
+    -webkit-transform: rotate(135deg);
+       -moz-transform: rotate(135deg);
+            transform: rotate(135deg);
+    margin-top: -4px;
+    margin-left: 3px;
+
+}  
+.divSelWrap1 ul{
+    display: none;
+    margin-left: -1px;
+}
+.divSelWrap1 li{
+    width: 65px;
+    height: 40px;
+    background-color: #f9f9f9;
+    border: 1px solid #e3e4e5;
+    border-top: none;
+    text-align: center;
+    font-size: 14px;
+    line-height: 40px;
+} 

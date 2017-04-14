@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+html {
+  height: 100%;
+} 
+
+form{
+    width: 220px;
+    margin: 0 auto;
+    padding: 50px 0;
+    p{
+        font-size: 12px;
+        color: #000;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .input-item{
+        @include clearfix;
+        margin-bottom: 20px;
+        .pwd-ipt{
+            float: left;
+            width: 180px;
+            height: 30px;
+        }
+        input{
+            width: 180px;
+            height: 30px;
+            background-color: #fafafa;
+            border: 1px solid #e1e1e1;
+        }
+        .pwd-control{
+            float: left;
+            width: 36px;
+            height: 30px;
+            background: #fff url(/static/authority/eye-icon.png) center center no-repeat;
+            background-size: 18px 9px;
+            border: 1px solid #e1e1e1; 
+            border-left: none;
+            &.cur{
+                background-color: #999;
+            }
+        }
+    }
+    .btn-item{
+        text-align: center;
+        input{
+            width: 85px;
+            height: 28px;
+            margin: 0 5px;
+            background-color: #f7f7f7;
+            text-align: center;
+            font-size: 14px;
+            line-height: 26px;
+            color: #000;
+            border: none;
+            &.submit-btn{
+                color: #c92727;
+            }
+        }
+    }
+}

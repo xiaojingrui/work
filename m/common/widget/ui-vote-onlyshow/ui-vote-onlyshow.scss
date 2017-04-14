@@ -1,0 +1,72 @@
+@import "../../static/sass/sassCore/base";
+
+/* 投票 */
+.vote-wrapper{
+  background-color: #fff;
+  border: 1px solid #eeebeb;
+  border-radius:2px;
+  margin: 5px auto 10px auto;
+  .vote-main{
+    padding: 3px 8px;
+    text-align: left;
+    h2{
+      font-size: 15px;
+      color: #434341;
+    }
+    li{
+      font-size: 14px;
+      padding: 6px 0;
+    }
+    .vate-radio{
+      position: absolute;
+      left: -9999px;
+      opacity: 0;
+    }
+    .vote-selected{
+      border-bottom:1px solid #eeebeb;
+    }
+    .vote-option-title{
+      padding-bottom: 2px;
+    }
+    .vote-detail{
+      @include display-flex();
+      text-align: right;
+      font-size: 12px;
+      color: #aaaab4;
+      white-space: nowrap;
+      line-height:30px;
+      height:30px;
+    }
+    .vote-progress{
+      width: 66%;
+      position: relative;
+      background-color: #dadada;
+      height: 2px;
+      margin-top:13px;
+      .vote-inner{
+        position: absolute;
+        left: 0;
+        height: 2px;
+        background-color: #c01e2f;
+      }
+    }
+    .vote-count{
+      @include flex(2);
+    }
+    .vote-percent{
+      @include flex(1);
+    }
+  }
+  .vote-disabled{
+    color: #a9a9b3 !important;
+  }
+  .vote-bottom{
+    background-color: #fcfbfb;
+    border-top:1px solid #eeebeb;
+    color: #576b95;
+    text-align: center;
+    height:40px;
+    line-height:40px;
+    font-size: 14px;
+  }
+}

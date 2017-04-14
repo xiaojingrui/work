@@ -1,0 +1,21 @@
+.live-text{
+    height: 32px;
+    line-height:32px;
+    padding:0 12px;
+    margin: 1px 1px 0;
+    font-size: 16px;
+    background: url(bg.png) repeat top left;
+    color: #005eac;
+	overflow:hidden;
+}
+.live-text li{
+	width:100%;
+	height:32px;
+}
+.live-text a{
+	display: inline-block;
+	color: #005eac;
+	white-space:nowrap;
+	width: 100%;
+	text-overflow:ellipsis;
+}

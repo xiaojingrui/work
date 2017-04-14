@@ -1,0 +1,254 @@
+{
+  "baseurl": "//test-m.hupu.com",
+  "test": null,
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2Fnba%2Fhornets%2Fschedule%3Ftest&from=m&project=hupu",
+  "uid": "26794990",
+  "username": "小熊2015",
+  "showAdvertise": 0,
+  "pclink": "http://nba.hupu.com/hornets/schedule?test",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "海鸥跟着拖网渔船飞行，那是因为它们以为沙丁鱼会被扔进海里。",
+    "person": "坎通纳"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "daceChannel": "nba",
+  "pageheader": {
+    "title": "NBA黄蜂赛程|2016-2017黄蜂赛程表|黄蜂队赛程_虎扑体育"
+  },
+  "keywords": "黄蜂赛程,黄蜂队赛程表",
+  "description": "虎扑体育NBA频道赛事中心为您提供最新的黄蜂队赛程表，包含黄蜂比赛详细的时间、地点等赛程信息，精彩赛事，互动无限。",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "NBA球队",
+      "url": "//test-m.hupu.com/nba/standings"
+    }
+  ],
+  "id4dace": "2132",
+  "mark4dace": "page_nba_team_schedule_30",
+  "teamInfo": {
+    "id": "30",
+    "fid": "125",
+    "tagid": "3019",
+    "name": "黄蜂",
+    "eng_name": "Hornets",
+    "full_name": "夏洛特黄蜂",
+    "eng_full_name": "Charlotte Hornets",
+    "city": "Charlotte",
+    "bbr": "CHA2",
+    "logo": "CHA2.png",
+    "home": "时代华纳有线球馆",
+    "homepage_link": "http://www.nba.com/bobcats/",
+    "intro": "夏洛特黄蜂队是NBA现有30支球队之一，2004年NBA扩军时组建，原名山猫队，于2014夏更名为黄蜂，属于东部联盟东南赛区。",
+    "conference": "E",
+    "eng_division": "Southeast",
+    "cn_division": "东南赛区",
+    "stoped": "0",
+    "chief_coach": "史蒂夫-克利福德",
+    "found_year": "1988",
+    "players": "1343,3562,3639,3649,4842,150010,150068,1347,1431,3020,3025,3713,1054,150143,150085",
+    "team_link": "http://g.hupu.com/nba/teams/hornets",
+    "logo_link": "https://c2.hoopchina.com.cn//images/gamespace/team/123x124/CHA2.png",
+    "rank": "31",
+    "conferenceCn": "东部联盟",
+    "winCn": "6胜",
+    "lostCn": "3负",
+    "rankCn": "东部第四"
+  },
+  "teamBgColor": "30,17,97",
+  "schedule": [
+    {
+      "timestr": "2016-11-12 星期六",
+      "date": "2016-11-12 ",
+      "id": "1478908800",
+      "gameinfo": [
+        {
+          "match_id": "152447",
+          "time": "2016-11-12 08:00:00",
+          "home": {
+            "id": "30",
+            "shortcut": "hornets",
+            "forum": "125",
+            "name": "黄蜂",
+            "fullname": "夏洛特黄蜂",
+            "logo": "CHA2.png",
+            "score": "111",
+            "link": "//test-m.hupu.com/nba/teams/hornets",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/CHA2.png",
+            "color": "30,17,97"
+          },
+          "away": {
+            "id": "15",
+            "shortcut": "raptors",
+            "forum": "90",
+            "name": "猛龙",
+            "fullname": "多伦多猛龙",
+            "logo": "TOR.png",
+            "score": "113",
+            "link": "//test-m.hupu.com/nba/teams/raptors",
+            "color": "176,176,176",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/TOR.png"
+          },
+          "process": "已结束",
+          "recap_title": "沃克40分黄蜂主场负猛龙",
+          "pics_link": "",
+          "status": "1",
+          "lottery": null,
+          "match_time": "4,0:0.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-11-11 19:00:00",
+          "status_text": "已结束",
+          "year_desc": "2016年11月12日",
+          "time_desc": "8:00",
+          "scoreortime": "113 - 111",
+          "isover": "1",
+          "recaptext": "沃克40分黄蜂主场负猛龙",
+          "hasvideo": "1",
+          "innerurl": "//test-m.hupu.com/nba/game/recap_152447.html"
+        }
+      ]
+    },
+    {
+      "timestr": "2016-11-14 星期一",
+      "date": "2016-11-14 ",
+      "id": "1479069000",
+      "gameinfo": [
+        {
+          "match_id": "152463",
+          "time": "2016-11-14 04:30:00",
+          "home": {
+            "id": "10",
+            "shortcut": "cavaliers",
+            "forum": "85",
+            "name": "骑士",
+            "fullname": "克利夫兰骑士",
+            "logo": "CLE.png",
+            "score": "100",
+            "link": "//test-m.hupu.com/nba/teams/cavaliers",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/CLE.png",
+            "color": "143,9,54"
+          },
+          "away": {
+            "id": "30",
+            "shortcut": "hornets",
+            "forum": "125",
+            "name": "黄蜂",
+            "fullname": "夏洛特黄蜂",
+            "logo": "CHA2.png",
+            "score": "93",
+            "link": "//test-m.hupu.com/nba/teams/hornets",
+            "color": "30,17,97",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/CHA2.png"
+          },
+          "process": "已结束",
+          "recap_title": "詹姆斯准三双骑士取两连胜",
+          "pics_link": "",
+          "status": "1",
+          "lottery": null,
+          "match_time": "4,0:0.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-11-13 15:30:00",
+          "status_text": "已结束",
+          "year_desc": "2016年11月14日",
+          "time_desc": "4:30",
+          "scoreortime": "93 - 100",
+          "isover": "1",
+          "recaptext": "詹姆斯准三双骑士取两连胜",
+          "hasvideo": "1",
+          "innerurl": "//test-m.hupu.com/nba/game/recap_152463.html"
+        }
+      ]
+    },
+    {
+      "timestr": "2016-11-14 星期22",
+      "date": "2016-11-14 ",
+      "id": "1479069000",
+      "gameinfo": [
+        {
+          "match_id": "152463",
+          "time": "2016-11-14 04:30:00",
+          "home": {
+            "id": "10",
+            "shortcut": "cavaliers",
+            "forum": "85",
+            "name": "骑士",
+            "fullname": "克利夫兰骑士",
+            "logo": "CLE.png",
+            "score": "100",
+            "link": "//test-m.hupu.com/nba/teams/cavaliers",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/CLE.png",
+            "color": "143,9,54"
+          },
+          "away": {
+            "id": "30",
+            "shortcut": "hornets",
+            "forum": "125",
+            "name": "黄蜂",
+            "fullname": "夏洛特黄蜂",
+            "logo": "CHA2.png",
+            "score": "93",
+            "link": "//test-m.hupu.com/nba/teams/hornets",
+            "color": "30,17,97",
+            "logourl": "//gdc.hupucdn.com/gdc/nba/team/logo/123x124/CHA2.png"
+          },
+          "process": "已结束",
+          "recap_title": "詹姆斯准三双骑士取两连胜",
+          "pics_link": "",
+          "status": "1",
+          "lottery": null,
+          "match_time": "4,0:0.0",
+          "match_type": "REGULAR",
+          "usa_time": "2016-11-13 15:30:00",
+          "status_text": "已结束",
+          "year_desc": "2016年11月14日",
+          "time_desc": "4:30",
+          "scoreortime": "93 - 100",
+          "isover": "1",
+          "recaptext": "詹姆斯准三双骑士取两连胜",
+          "hasvideo": "1",
+          "innerurl": "//test-m.hupu.com/nba/game/recap_152463.html"
+        }
+      ]
+    }
+  ],
+  "schedule_link": "//test-m.hupu.com/nba/hornets/schedule/",
+  "news_link": "//test-m.hupu.com/nba/hornets/news/",
+  "players_link": "//test-m.hupu.com/nba/hornets/players/",
+  "stats_link": "//test-m.hupu.com/nba/teams/hornets"
+}

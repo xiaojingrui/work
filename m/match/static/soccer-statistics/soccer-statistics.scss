@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+body {
+    background: #f9f9f9;
+}
+
+.match-soccer-statistics {
+    .table {
+        width: 100%;
+        td {
+            padding: .05rem .02rem;
+            line-height: .25rem;
+            border-bottom: 1px solid #e3e4e5;
+        }
+        .ball-number {
+            width: 25%;
+            padding: 0 .1rem;
+        }
+        .td-ball {
+            width: 15%;
+        }
+        .type {
+            text-align: center;
+        }
+        .ball-number-right {
+            text-align: right;
+        }
+        .ball-progress-bar {
+            width: .28rem;
+            height: .03rem;
+            overflow: hidden;
+            background: #89d18e;
+            @include border-radius(.03rem);
+        }
+        .lose-ball {
+            background: #c9dfcb;
+        }
+        .td-ball-left {
+            .ball-progress-bar {
+                @include float(right);
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+@import "../sass/sassCore/base";
+
+html{
+    height: 100%;
+}
+body{
+    background-color: #f3f3f3;
+    min-height: 100%;
+}
+.empty-tip{
+    padding-top: 50%;
+    color: #999;
+    text-align: center;
+}
+.bottom-tip{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #999;
+}
+.my-predict-wrap{
+    @include clearfix();
+    position: relative;
+    .box{
+        position: relative;
+        @include float();
+        width: 45%;
+        margin: 0 2%;
+        padding-bottom: 32%;
+        // background: rgba(0, 0, 0, .4);
+        border-right: 1px solid #fff;
+        border-bottom: 1px solid #fff;
+        // margin: 0 2%;
+        // &:nth-child(odd){
+        //     padding-bottom: 25%;
+        // }
+        // &:nth-child(even){
+        //     padding-bottom: 35%;
+        //     margin-top: 5%;
+        // }
+    }
+    .predict-team{
+        position: absolute;
+        width: 106px;
+        height: 106px;
+        border-radius: 50%;
+        z-index: 10;
+        opacity: 0;
+        -webkit-transition: opacity .9s;
+        transition: opacity .9s;
+
+        .team-info{
+            width: 96px;
+            height: 96px;
+            border-radius: 50%;
+            margin: 2px auto;
+            padding-top: 18px;
+            color: #fff;
+            text-align: center;
+            h4{
+                font-size: 12px;
+                margin-bottom: 2px;
+            }
+            p{
+                font-size: 12px;
+            }
+        }
+        &.medium{
+            width: 128px;
+            height: 128px;
+            .team-info{
+                width: 118px;
+                height: 118px;
+                padding-top: 30px;
+                h4{
+                    font-size: 14px;
+                }
+
+            }
+        }
+        &.large{
+            width: 160px;
+            height: 160px;
+            .team-info{
+                width: 150px;
+                height: 150px;
+                padding-top: 42px;
+                h4{
+                    font-size: 18px;
+                    margin-bottom: 2px;
+                }
+            }
+        }
+    }
+}

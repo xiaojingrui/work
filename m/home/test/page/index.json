@@ -1,0 +1,409 @@
+{
+  "pageheader": {
+    "title": "手机虎扑网"
+  },
+  "bottomtitle": "虎扑体育 - 你的体育全世界！",
+  "logo": "logo_new.png",
+  "site": "sports",
+  "headlink": "<link rel=\"apple-touch-icon\" href=\"//b1.hoopchina.com.cn/common/apple-touch-icon.png\"/>",
+  "id4dace": "1000",
+  "mark4dace": "page_index",
+  "keywords": "虎扑体育,虎扑,体育,运动",
+  "description": "虎扑体育是国内最大的垂直体育网站，拥有包括NBA、篮球、足球、网球、跑步、赛车等体育运动频道，提供最新、独家的体育赛事资讯及周边信息，同时拥有国内最大的体育论坛。",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//test-m.hupu.com",
+  "test": "1",
+  "_islogin": 0,
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2F%3Ftest%3D1&from=m&project=hupu",
+  "uid": "",
+  "username": "",
+  "showAdvertise": 0,
+  "pclink": "http://www.hupu.com?test=1",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "我们的成长离不开别人的帮助。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "custom": [],
+  "gameList": [
+    {
+      "leaguename": "NBA",
+      "leaguetype": 0,
+      "hometeam": "热火",
+      "awayteam": "雷霆",
+      "score": "",
+      "gameurl": "",
+      "status": "2",
+      "progress": "08:30",
+      "gamestatus": "开始"
+    },
+    {
+      "leaguename": "NBA",
+      "leaguetype": 0,
+      "hometeam": "凯尔特人",
+      "awayteam": "灰熊",
+      "score": "",
+      "gameurl": "",
+      "status": "2",
+      "progress": "08:30",
+      "gamestatus": "开始"
+    },
+    {
+      "leaguename": "NBA",
+      "leaguetype": 0,
+      "hometeam": "小牛",
+      "awayteam": "火箭",
+      "score": "",
+      "gameurl": "",
+      "status": "2",
+      "progress": "09:30",
+      "gamestatus": "开始"
+    }
+  ],
+  "homeData": {
+    "nba": [
+      {
+        "title": "修改修改修改66666666",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "修改修改修改66666666",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "修改修改修改66666666",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "CBA总决赛首选的App暗红色",
+        "url": "//test-m.hupu.com/bbs/13068172.html",
+        "type": "bbs",
+        "replies": "0",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "初级阶段妇女活动家的减肥减肥"
+      },
+      {
+        "title": "CBA总决赛首选的App橘黄色",
+        "url": "//test-m.hupu.com/bbs/13068172.html",
+        "type": "bbs",
+        "replies": "0",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "初级阶段妇女活动家的减肥减肥"
+      },
+      {
+        "title": "CBA总决赛首选的App3",
+        "url": "//test-m.hupu.com/bbs/13068172.html",
+        "type": "bbs",
+        "replies": "0",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "初级阶段妇女活动家的减肥减肥"
+      }
+    ],
+    "soccer": [],
+    "f1": [],
+    "tennis": [],
+    "bxj": [
+      {
+        "title": "<img src=\"https://w3.hoopchina.com.cn/index/images/photo.gif\">刘诗诗吴奇隆现身机场",
+        "href": "http://slide.ent.sina.com.cn/star/w/slide_4_704_146349.html#p=1",
+        "tid": "146349",
+        "replies": "",
+        "light": ""
+      },
+      {
+        "title": "测试标题换行",
+        "href": "http://bbs.hupu.com/13068109.html",
+        "tid": "13068109",
+        "replies": "58",
+        "light": "1",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "都会很喜欢薪火相传差距不错不错",
+        "href": "http://bbs.hupu.com/13068176.html",
+        "tid": "13068176",
+        "replies": "0",
+        "light": "0",
+        "url": "//test-m.hupu.com/bbs/13068176.html",
+        "type": "bbs",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "都会很喜欢薪火相传差距不错不错"
+      },
+      {
+        "title": "标题有换行",
+        "href": "http://bbs.hupu.com/13068107.html",
+        "tid": "13068107",
+        "replies": "57",
+        "light": "2",
+        "url": "//test-m.hupu.com/bbs/13068107.html",
+        "type": "bbs",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "标题有换行"
+      },
+      {
+        "title": "发送帖子五 ",
+        "href": "http://bbs.hupu.com/13068164.html",
+        "tid": "13068164",
+        "replies": "1",
+        "light": "0",
+        "url": "//test-m.hupu.com/bbs/13068164.html",
+        "type": "bbs",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "发送帖子五"
+      },
+      {
+        "title": "这里的推介太厉害了竟然全中！太牛了！！",
+        "href": "http://bbs.hupu.com/13068108.html",
+        "tid": "13068108",
+        "replies": "1",
+        "light": "0",
+        "url": "//test-m.hupu.com/bbs/13068108.html",
+        "type": "bbs",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "这里的推介太厉害了竟然全中！太牛了！！"
+      },
+      {
+        "title": "一二三四五六七八九十（测试声望明细里的标题长度）",
+        "href": "http://bbs.hupu.com/13067986.html",
+        "tid": "13067986",
+        "replies": "2",
+        "light": "0",
+        "url": "//test-m.hupu.com/bbs/13067986.html",
+        "type": "bbs",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "一二三四五六七八九十（测试声望明细里的标题长度）"
+      },
+      {
+        "title": "一二三四五六七八九十",
+        "href": "http://bbs.hupu.com/13067986.html",
+        "tid": "13067986",
+        "replies": "2",
+        "light": "0",
+        "url": "//test-m.hupu.com/bbs/13067986.html",
+        "type": "bbs",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "一二三四五六七八九十（测试声望明细里的标题长度）"
+      }
+    ]
+  },
+  "homeDataUrl": {
+    "nba": "/nba",
+    "soccer": "/soccer",
+    "f1": "/bbs/118",
+    "tennis": "/bbs/117",
+    "bxj": "/bbs/34",
+    "shihuo": "http://m.shihuo.cn/",
+    "kaluli": "http://m.kaluli.com/",
+    "youxi": "http://youxi.hupu.com/mzhan"
+  },
+  "homeGameData": [
+    {
+      "gid": "237",
+      "name": "街篮",
+      "enname": "jl",
+      "link": "http://youxi.hupu.com/jl_kqdownload?from=msite",
+      "logo": "https://hupu-game.hupucdn.com/qiniu1477882043600_youxi_logo.png?imageView2/0/q/50"
+    },
+    {
+      "gid": "172",
+      "name": "COC皇室战争",
+      "enname": "cochszz",
+      "link": "http://youxi.hupu.com/cochszz_kqdownload?from=msite",
+      "logo": "https://hupu-game.hupucdn.com/qiniu1459215844392_youxi_logo.png?imageView2/0/q/50"
+    },
+    {
+      "gid": "162",
+      "name": "CBA传奇",
+      "enname": "cbacq",
+      "link": "http://youxi.hupu.com/cbacq_kqdownload?from=msite",
+      "logo": "https://hupu-game.hupucdn.com/qiniu1460944137713_youxi_logo.png?imageView2/0/q/50"
+    },
+    {
+      "gid": "138",
+      "name": "最佳阵容",
+      "enname": "syzjzr",
+      "link": "http://youxi.hupu.com/syzjzr_kqdownload?from=msite",
+      "logo": "https://hupu-game.hupucdn.com/qiniu1453972993757_youxi_logo.png?imageView2/0/q/50"
+    }
+  ],
+  "shihuo": [
+    {
+      "title": "保暖舒适！杰克琼斯 男 针织衫毛衣E|216325501",
+      "subtitle": "199.5元",
+      "intro": "保暖舒适！杰克琼斯 男 针织衫毛衣E|216325501，目前天猫旗舰店199.5元。经典百搭，经典版型设计，含羊绒面料 合体版型 立体针织条纹 罗纹圆领。喜欢的朋友可入手，值得购买！",
+      "img_path": "https://shihuo.hupucdn.com/newsIndex/201612/2814/34cd29e2b8559154fab632cc8cb3de84.jpg",
+      "go_url": "http://go.shihuo.cn/u?url=https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fid%3D534329667181%26spm%3Da1z10.4-b-s.w5003-15733432898.5.CgRVVR%26scene%3Dtaobao_shop%26sku_properties%3D1627207%3A799240160",
+      "detail_url": "http://www.shihuo.cn/youhui/248367.html",
+      "time": "2016-12-28 14:52:31"
+    },
+    {
+      "title": "高雅设计！Air Jordan Spike Forty 男子运动鞋",
+      "subtitle": "549元包邮（需用券）",
+      "intro": "密织工艺网眼鞋面，轻盈耐穿！此款Air Jordan Spike Forty 男子运动鞋，目前天猫579元包邮（在我的资产处领取50元优惠券）多色可选，其他天猫商家640+，该设计依托现代材料和技术，升华演绎来自AJ V的经典设计元素。",
+      "img_path": "https://shihuo.hupucdn.com/newsIndex/201612/2814/7fe899cbcb9fcc042729e769e0508b04.jpg",
+      "go_url": "http://go.shihuo.cn/u?url=https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fspm%3Da1z10.3-b-s.w4011-14594587210.277.SYBqM5%26id%3D528130794254%26rn%3D957fe46750288cc1c8a51db3eeda8dc5%26abbucket%3D18%26sku_properties%3D1627207%3A1051856049",
+      "detail_url": "http://www.shihuo.cn/youhui/248366.html",
+      "time": "2016-12-28 14:51:25"
+    },
+    {
+      "title": "街头制霸！ADIDAS BALL 365 篮球鞋 B72879",
+      "subtitle": "549元包邮（需用券）",
+      "intro": "搭载CLIMA科技全天候穿着 BOUNCE缓震科技提供无与伦比的反弹力！此款ADIDAS BALL 365 篮球鞋 B72879，目前天猫商城549元包邮（在我的资产处领取50元优惠券），淘宝商家599元在售！完全为外场而生，满满的实战配备，让想去球场撒野的小伙伴们心动不已！",
+      "img_path": "https://shihuo.hupucdn.com/newsIndex/201612/2814/8f08fbdd4f29e54126a4f92ce56af0fb.jpg",
+      "go_url": "http://go.shihuo.cn/u?url=https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fspm%3Da220l.1.0.0.eo6meq%26id%3D532582311181",
+      "detail_url": "http://www.shihuo.cn/youhui/248365.html",
+      "time": "2016-12-28 14:46:26"
+    }
+  ],
+  "kaluli": [
+    {
+      "id": "687",
+      "title": "增加肌肉力量！纳诺克斯氮泵400g约206元包邮",
+      "subtitle": "每份含11.6g蛋白质",
+      "img_path": "https://shihuo.hupucdn.com/uploads/kaluli/item/201610/3110/64c8eae7113729254c33e473c3eb8271.jpg",
+      "detail_url": "http://track.kaluli.com/tradelink?union_id=hupuMSY&to=http%3A%2F%2Fm.kaluli.com%2Fproduct%2F368.html%3Ffrom%3DhupuMSY",
+      "time": "2016-12-28 00:00:00.0"
+    },
+    {
+      "id": "686",
+      "title": "仅需9元！活力达番茄红素软胶囊100粒",
+      "subtitle": "呵护男性前列腺健康",
+      "img_path": "https://shihuo.hupucdn.com/uploads/kaluli/item/201612/2021/28328bc983bece761338b26a0416a7d4.jpg",
+      "detail_url": "http://track.kaluli.com/tradelink?union_id=hupuMSY&to=http%3A%2F%2Fm.kaluli.com%2Fproduct%2F590.html%3Ffrom%3DhupuMSY",
+      "time": "2016-12-28 00:00:00.0"
+    },
+    {
+      "id": "685",
+      "title": "4折热促！Doctor'sBest产品多样任你挑",
+      "subtitle": "补钙、助睡眠、帮助减重",
+      "img_path": "https://shihuo.hupucdn.com/uploads/kaluli/item/201612/2615/7d9b9183dc8f410de95fd2e0000a4b61.jpg",
+      "detail_url": "http://track.kaluli.com/tradelink?union_id=hupuMSY&to=http%3A%2F%2Fm.kaluli.com%2Ftopic%3Fid%3D766%26from%3DhupuMSY",
+      "time": "2016-12-28 00:00:00.0"
+    }
+  ],
+  "adInfo": {
+    "m_adbanner": {
+      "m_home": {
+        "adcode": "<!-- 广告位：M端 虎扑体育首页-底部通栏2 --> <script> (function() {     var s = \"_\" + Math.random().toString(36).slice(2);     document.write('<div id=\"' + s + '\"></div>');     (window.slotbydup=window.slotbydup || []).push({         id: '2763198',         container: s,         size: '20,3',         display: 'inlay-fix'     }); })(); </script>",
+        "isopen": "on"
+      }
+    },
+    "m_adword": {
+      "m_home_nba": [],
+      "m_home_tennis": []
+    },
+    "m_adapp": {
+      "hupusports": {
+        "adword": "虎扑体育下载",
+        "adurl": "http://mobile.hupu.com/download/games/?_r=wapbottombanner",
+        "isopen": "on",
+        "pic": "http://i1.hoopchina.com.cn/touch/508/18581508/touch_adlist_18581508_1482897566.6138.png"
+      }
+    },
+    "m_partner": {
+      "m_home_soccer_upside": []
+    }
+  },
+  "isPredict": "1",
+  "predicturl": "//test-m.hupu.com/predict",
+  "goto_script": "<script type=\"text/javascript\" src=\"https://goto.hupu.com/js/c/86.js\"></script>",
+  "message_unread": "8"
+}

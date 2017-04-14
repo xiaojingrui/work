@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <title>2015年虎扑征程</title>
+    <style type="text/css">
+    	 *{
+    	 	padding:0;
+    	 	margin:0
+    	 }
+    	 html,body{
+    	 	height:100%;
+    	 	width:100%;
+    	 	overflow:hidden;
+    	 	background: -webkit-gradient(linear, left top, left bottom, from(#0e1327), color-stop(0.6,#2c3050), to(#494164));
+    	 	background: gradient(linear, left top, left bottom, from(#0e1327), color-stop(0.6,#2c3050), to(#494164));
+    	 }
+    	 #background{
+    	 	position:absolute;
+    	 	left:0;
+    	 	top:0;
+    	 	z-index:0;
+    	 	width:100%;
+    	 }
+    </style>
+    <link rel="stylesheet" type="text/css" href="./css/xwg.css" />
+</head>
+<body>
+	<canvas id="background"></canvas>
+	<div id="result">	
+		<div class="state">
+			<div class="inner">
+				<div>统计</div>
+				<div>说明</div>
+			</div>
+		</div>
+		<div class="main">
+			<ul class="circle-data clearfix">
+				<li class="item1">
+					<div class="mod-annulus">
+						<div class="bg"></div>
+						<div class="round"></div>
+						<div class="bg2"></div>
+						<div class="round2"></div>
+						<div class="num"><div>50%</div></div>
+					</div>
+					<div class="title">入侵值</div>
+				</li>
+				<li class="item2">
+					<div class="mod-annulus">
+						<div class="bg"></div>
+						<div class="round"></div>
+						<div class="bg2"></div>
+						<div class="round2"></div>
+						<div class="num"><div>90%</div></div>
+					</div>
+					<div class="title">声望值</div>
+				</li>
+				<li class="item3">
+					<div class="mod-annulus">
+						<div class="bg"></div>
+						<div class="round"></div>
+						<div class="bg2"></div>
+						<div class="round2"></div>
+						<div class="num"><div>30%</div></div>
+					</div>
+					<div class="title">永久性</div>
+				</li>
+			</ul>
+			<ul class="line-data">
+				<li class="item1 clearfix">
+					<div class="fl">高科技值</div>
+					<div class="fr">
+						<div class="progress">
+							<div class="inner">
+								<div class="point">60%<i class="triangle-down"></i></div>
+							</div>
+						</div>
+						<div class="desc">2015年内总发帖数、回帖数、新闻总评论数</div>
+					</div>
+				</li>
+				<li class="item2 clearfix">
+					<div class="fl">神棍等级</div>
+					<div class="fr">
+						<div class="progress">
+							<div class="inner">
+								<div class="point">60%<i class="triangle-down"></i></div>
+							</div>
+						</div>
+						<div class="desc">2015年内总发帖数、回帖数、新闻总评论数</div>
+					</div>
+				</li>
+				<li class="item3 clearfix">
+					<div class="fl">生产力</div>
+					<div class="fr">
+						<div class="progress">
+							<div class="inner">
+								<div class="point">60%<i class="triangle-down"></i></div>
+							</div>
+						</div>
+						<div class="desc">2015年内总发帖数、回帖数、新闻总评论数</div>
+					</div>
+				</li>
+				<li class="item4 clearfix">
+					<div class="fl">财富值</div>
+					<div class="fr">
+						<div class="progress">
+							<div class="inner">
+								<div class="point">60%<i class="triangle-down"></i></div>
+							</div>
+						</div>
+						<div class="desc">2015年内总发帖数、回帖数、新闻总评论数</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- <div class="mask"></div>
+	<div class="state-popup">
+		<dl>
+			<dt>个人能力值定义说明</dt>
+			<dd>势力范围：（疆域占领数/全部疆域数）%</dd>
+			<dd>持久能力：（登录天数/365）%</dd>
+			<dd>纯洁指数：被关小黑屋次数，按一定等级划分排列</dd>
+			<dd>生产力：发帖数或回帖数量衡量</dd>
+			<dd>声望值：以发帖被推荐或回帖被点亮数量衡量</dd>
+			<dd>神棍值：竞猜胜率或预测准确率</dd>
+			<dd>财富值：送礼数额或打赏数额</dd>
+		</dl>
+	</div> -->
+	
+
+
+
+
+
+
+	<script type="text/javascript" src="js/zepto.min.js"></script>
+	<script type="text/javascript" src="js/move.min.js"></script>
+	<script type="text/javascript" src="js/particle.js"></script>
+	<script type="text/javascript" src="js/requestAnimationFrame.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript">
+		$(function(){
+		  pager.main.init();
+		});
+	</script>
+</body>
+</html>

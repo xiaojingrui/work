@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+body {
+    background: #edeef0;
+}
+
+.detail-wrap {
+    .detail-content {
+        padding-bottom: 0;
+    }
+    .artical-title {
+        text-align: center;
+        .headline {
+            text-align: center;
+        }
+        .artical-info {
+            display: block;
+            .comment-number {
+                display: inline-block;
+                @include flex(0);
+                margin-left: 20px;
+                text-align: center;
+            }
+        }
+    }
+
+    .common-list,
+    .m-reply {
+        border-bottom-color: #edeef0;
+        .title {
+            h2 {
+                padding-left: 2px;
+                border-left: none;
+            }
+        }
+    }
+
+    .m-reply {
+        .user-name {
+            color: #7a7c80;
+        }
+    }
+}

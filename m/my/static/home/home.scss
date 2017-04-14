@@ -1,0 +1,303 @@
+@import "../sass/sassCore/base";
+
+.personal-info {
+    .personal-list {
+        position: relative;
+        @include display-flex();
+        padding: .1rem;
+        border-bottom: 1px solid #f3f3f3;
+        &:after {
+            position: absolute;
+            top: 50%;
+            right: 15px;
+            content: "";
+            width: 10px;
+            height: 10px;
+            margin-top: -5px;
+            overflow: hidden;
+            border-top: 1px solid #afafaf;
+            border-right: 1px solid #afafaf;
+            @include rotate(45deg);
+        }
+    }
+    .user-col {
+        @include flex(1);
+        color: #999;
+    }
+    .avatar {
+        width: .65rem;
+        height: .65rem;
+        margin-right: .08rem;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        @include border-radius(50%);
+    }
+    .name {
+        padding-bottom: .05rem;
+        font-weight: 700;
+        color: #444;
+    }
+}
+
+.m-card {
+    background-color: #fff;
+    padding: 10px;
+    .card-head {
+        height: 24px;
+    }
+    .not-ignore {
+        display: none;
+        padding: 10px 10px 15px;
+        text-align: center;
+        color: #999;
+    }
+}
+
+.my-board {
+    padding-left: 5px;
+    padding-right: 5px;
+    .card-head {
+        padding-left: 5px;
+    }
+    .icon-myboard {
+        display: inline-block;
+        margin-right: 10px;
+        width: 11px;
+        height: 11px;
+        background: url(my_board_icon.png) no-repeat 0 0;
+        background-size: 100% 100%;
+    }
+    .board-item {
+        position: relative;
+        max-height: 72px;
+        overflow: hidden;
+        .button-unfold {
+            display: none;
+            position: absolute;
+            right: 5px;
+            bottom: 8px;
+            width: 20px;
+            height: 20px;
+            &:after {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                content: "";
+                width: 10px;
+                height: 10px;
+                margin: -8px 0 0 -5px;
+                overflow: hidden;
+                border-bottom: 1px solid #afafaf;
+                border-right: 1px solid #afafaf;
+                @include rotate(45deg);
+            }
+        }
+        .button-collapse {
+            &:after {
+                margin-top: -2px;
+                @include rotate(225deg);
+            }
+        }
+        .board-list-wrap a {
+            display: inline-block;
+            border: 1px solid #e1e1e1;
+            @include border-radius(5px);
+            height: 28px;
+            line-height: 28px;
+            padding: 0 8px;
+            color: #444;
+            margin: 4px 5px;
+        }
+    }
+    .board-item-collapse {
+        max-height: inherit;
+        overflow: visible;
+    }
+}
+
+.my-notif {
+    padding-bottom: 0;
+    .ignore-all {
+//        display: none;
+        margin-left: 6px;
+        color: #005eac;
+        cursor: pointer;
+    }
+    li {
+        position: relative;
+       // height: 36px;
+//        padding-right: 20px;
+        //line-height: 36px;
+        overflow: hidden;
+        color: #999;
+        padding: 5px 0;
+        a {
+            color: #999;
+        }
+        .name {
+            color: #005eac;
+            display: inline-block;
+            margin-right: 4px;
+        }
+        .close {
+            display: none;
+            position: absolute;
+            top: 8px;
+            right: 0;
+            width: 18px;
+            height: 19px;
+            cursor: pointer;
+        }
+        .close:before,
+        .close:after {
+            content: '';
+            position: absolute;
+            height: 1px;
+            width: 14px;
+            top: 50%;
+            left: 2px;
+            background: #e22929;
+        }
+        .close::before {
+            -webkit-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+        .close::after {
+            -webkit-transform: rotate(-45deg);
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -o-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+    }
+    .no-view {
+        color: #444;
+        .close {
+            display: none;
+        }
+        a {
+            display: inline-block;
+            max-width: 60%;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            vertical-align: top;
+            color: #005eac;
+        }
+    }
+}
+
+.button-view-all {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-top: 1px solid #e3e4e5;
+    color: #005eac;
+}
+
+.my-info {
+    .icon-info {
+        display: inline-block;
+        margin-right: 10px;
+        width: 11px;
+        height: 13px;
+        background: url(my_info_icon.png) no-repeat 0 0;
+        background-size: 100% 100%;
+    }
+    .info-item span {
+        height: 15px;
+        line-height: 15px;
+        display: inline-block;
+        margin: 7px 0;
+    }
+    .key {
+        width: 30%;
+    }
+}
+
+
+.fn-list {
+    li {
+        border-bottom: 1px solid #e3e4e5;
+    }
+    a {
+        position: relative;
+        height: 40px;
+        line-height: 40px;
+        padding: 0 30px 0 10px;
+        font-size: 16px;
+        @include display-flex();
+        &:after {
+            position: absolute;
+            top: 50%;
+            right: 15px;
+            content: "";
+            width: 7px;
+            height: 7px;
+            margin-top: -4px;
+            overflow: hidden;
+            border-top: 1px solid #afafaf;
+            border-right: 1px solid #afafaf;
+            @include rotate(45deg);
+        }
+    }
+    .text-inner {
+        @include flex(1);
+    }
+    .predict-link{
+        color: #005eac;
+    }
+    .predict-result{
+        color: #444;
+    }
+    .new-number {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        margin-top: 9px;
+        text-align: center;
+        font-size: 12px;
+        background: #d8544c;
+        color: #fff;
+        vertical-align: middle;
+        @include border-radius(50%);
+    }
+}
+
+
+/* 动态 */
+.latest-activity {
+     .card-head {
+         margin-bottom: .05rem;
+     }
+    .button-login {
+        display: block;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        color: #005eac;
+    }
+}
+
+.message-unread-num {
+    position: relative;
+    top: -2px;
+    left: 0px;
+    display: inline-block;
+    padding: 0 3px;
+    min-width: 14px;
+    line-height: 14px;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 10px;
+    font-style: normal;
+    color: #fff;
+    background-color: #ff505e;
+}

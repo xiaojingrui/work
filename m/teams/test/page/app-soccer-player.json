@@ -1,0 +1,368 @@
+{
+  "site": "soccer",
+  "pageheader": {
+    "title": "斯隆-普里瓦特_足球明星_手机虎扑网"
+  },
+  "bottomtitle": "虎扑体育 - 你的体育全世界！",
+  "id4dace": "3541",
+  "mark4dace": "page_soccer_playerinfo_",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//m.hupu.com",
+  "test": "710998fd1b7c0235170265650770a4b1",
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Fm.hupu.com%2Fsoccer%2Ffrance%2Fteam%2F220%2Fplayer%2F103784%3Ftest%3D710998fd1b7c0235170265650770a4b1&from=m&project=hupu",
+  "uid": "29212169",
+  "username": "前200名全是本子啊",
+  "showAdvertise": 0,
+  "description": "手机虎扑网足球频道赛事中心斯隆-普里瓦特个人主页，内容包含斯隆-普里瓦特职业生涯各项比赛数据、斯隆-普里瓦特薪资、斯隆-普里瓦特视频以及斯隆-普里瓦特图片和内容资讯。",
+  "pclink": "http://soccer.hupu.com/france/team/220/player/103784?test=710998fd1b7c0235170265650770a4b1",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "如果我想要简单的工作，我会留在波尔图。那里美丽的蓝椅子和欧洲冠军奖杯，那里有上帝，上帝之后就是我。",
+    "person": "穆里尼奥"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "keywords": "Privat,Sloan Privat,普里瓦特,斯隆-普里瓦特",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "甘冈",
+      "url": "//m.hupu.com/soccer/france/team/220/players"
+    }
+  ],
+  "player_info": {
+    "league_id": "6",
+    "season_id": "2016",
+    "team_id": "220",
+    "captain": "2",
+    "injury": "2",
+    "injury_info": null,
+    "team_name": "甘冈",
+    "player_id": "103784",
+    "name": "斯隆-普里瓦特",
+    "known_name": "普里瓦特",
+    "position": "前锋",
+    "name_en": "Sloan Privat",
+    "known_name_en": "Privat",
+    "birth_date": "1989年7月24日",
+    "age": "27",
+    "first_nationality": "France",
+    "weight": "88",
+    "height": "1.87",
+    "jersey_num": "11",
+    "real_position": "6",
+    "real_position_side": "4",
+    "join_date": "2016-07-01",
+    "country": [
+      "法属圭亚那"
+    ],
+    "preferred_foot": "",
+    "worth": "175",
+    "description": null,
+    "image_86x120_url": "https://gdc.hupucdn.com/gdc/soccer/player/photo/86x120/103784.jpg",
+    "image_130x180_url": "https://gdc.hupucdn.com/gdc/soccer/player/photo/130x180/103784.jpg",
+    "market_value": "175万欧元",
+    "contract_until": "2017年6月30日",
+    "detailed_position": {
+      "main_position": {
+        "type": "11",
+        "name_en": "Centre Forward",
+        "name_zh": "中锋"
+      },
+      "side_position": null
+    },
+    "player_video": [],
+    "page_urls": {
+      "info_url": "//m.hupu.com/soccer/france/team/220/player/103784",
+      "stats_url": "//m.hupu.com/soccer/france/team/220/stats/103784"
+    },
+    "position_type": "4",
+    "team_info": [
+      {
+        "name": "甘冈",
+        "number": "11",
+        "is_captain": "2"
+      }
+    ],
+    "player_article": []
+  },
+  "is_goalkeeper": false,
+  "is_birthday": false,
+  "season": "16/17",
+  "playerStats": {
+    "league_data": {
+      "2015": [
+        {
+          "league": "法甲",
+          "order": "5",
+          "played": "27",
+          "shoufa": "14",
+          "mins_played": "1250",
+          "goals": "7",
+          "goal_assist": "1"
+        },
+        {
+          "league": "法国杯",
+          "played": "2",
+          "shoufa": "2",
+          "mins_played": "76",
+          "goals": "1",
+          "goal_assist": 0,
+          "order": "12"
+        }
+      ],
+      "2016": [
+        {
+          "league": "法甲",
+          "order": "5",
+          "played": "8",
+          "shoufa": "7",
+          "mins_played": "468",
+          "goals": "2",
+          "goal_assist": 0
+        }
+      ]
+    },
+    "league_dataTotal": {
+      "2015": {
+        "team_name": "甘冈",
+        "played": "29",
+        "season":"111",
+        "shoufa": "16",
+        "mins_played": "1326",
+        "goals": "8",
+        "goal_assist": "1"
+      },
+      "2016": {
+        "team_name": "甘冈",
+        "played": "8",
+        "shoufa": "7",
+        "season":"222",
+        "mins_played": "468",
+        "goals": "2",
+        "goal_assist": 0
+      }
+    },
+    "cups_data": []
+  },
+  "player_season_data": [
+    {
+      "league_id": "6",
+      "league_name": "",
+      "season":"333",
+      "data": [
+        {
+          "item": "射门",
+          "value": "1.8",
+          "order": "50"
+        },
+        {
+          "item": "射正",
+          "value": "0.9",
+          "order": "35"
+        },
+        {
+          "item": "传球",
+          "value": "9.6",
+          "order": "-"
+        },
+        {
+          "item": "传球成功率",
+          "value": "0.6",
+          "order": "-"
+        },
+        {
+          "item": "抢断",
+          "value": "0.4",
+          "order": "-"
+        },
+        {
+          "item": "过人",
+          "value": "0.3",
+          "order": "-"
+        },
+        {
+          "item": "拦截",
+          "value": "0.2",
+          "order": "-"
+        },
+        {
+          "item": "解围",
+          "value": "0.1",
+          "order": "-"
+        },
+        {
+          "item": "黄牌(总计)",
+          "value": "1",
+          "order": "3"
+        },
+        {
+          "item": "红牌(总计)",
+          "value": 0,
+          "order": "-"
+        }
+      ]
+    }
+  ],
+  "player_transfer": [
+    {
+      "transfer_date": "2016/06/30",
+      "moving_to_team_name_zh": "甘冈",
+      "transfer_fee": 0,
+      "loan": null,
+      "other": "不祥"
+    },
+    {
+      "transfer_date": "2016/06/29",
+      "moving_to_team_name_zh": "根特",
+      "transfer_fee": 0,
+      "loan": "EOL",
+      "other": "结束租借"
+    },
+    {
+      "transfer_date": "2015/06/30",
+      "moving_to_team_name_zh": "甘冈",
+      "transfer_fee": 0,
+      "loan": "L",
+      "other": "租借"
+    },
+    {
+      "transfer_date": "2015/06/29",
+      "moving_to_team_name_zh": "根特",
+      "transfer_fee": 0,
+      "loan": "EOL",
+      "other": "结束租借"
+    },
+    {
+      "transfer_date": "2014/06/30",
+      "moving_to_team_name_zh": "卡昂",
+      "transfer_fee": 0,
+      "loan": "L",
+      "other": "租借"
+    },
+    {
+      "transfer_date": "2013/08/25",
+      "moving_to_team_name_zh": "根特",
+      "transfer_fee": "150万欧元",
+      "loan": null
+    },
+    {
+      "transfer_date": "2011/06/29",
+      "moving_to_team_name_zh": "FC Sochaux-Montbéliard",
+      "transfer_fee": 0,
+      "loan": "EOL",
+      "other": "结束租借"
+    },
+    {
+      "transfer_date": "2010/07/04",
+      "moving_to_team_name_zh": "Clermont Foot Auvergne 63",
+      "transfer_fee": 0,
+      "loan": "L",
+      "other": "租借"
+    },
+    {
+      "transfer_date": "2008/06/30",
+      "moving_to_team_name_zh": "FC Sochaux-Montbéliard",
+      "transfer_fee": 0,
+      "loan": null,
+      "other": "不祥"
+    }
+  ],
+  "player_career": [
+    {
+      "team_name": "FC Sochaux-Montbéliard",
+      "goals": "24",
+      "assists": "5",
+      "yellow_card": "-"
+    },
+    {
+      "team_name": "Clermont Foot Auvergne 63",
+      "goals": "22",
+      "assists": "5",
+      "yellow_card": "-"
+    },
+    {
+      "team_name": "根特",
+      "goals": "4",
+      "assists": "-",
+      "yellow_card": "-"
+    },
+    {
+      "team_name": "卡昂",
+      "goals": "7",
+      "assists": "1",
+      "yellow_card": "-"
+    },
+    {
+      "team_name": "甘冈",
+      "goals": "10",
+      "assists": "1",
+      "yellow_card": "-"
+    }
+  ],
+  "type": "soccer",
+  "is_app": true,
+  "cur_url": "https://m.hupu.com/playernews",
+  "kanqiu": {
+    "projectId": null,
+    "version": null,
+    "client": null,
+    "night": 1,
+    "b7016": true
+  }
+}

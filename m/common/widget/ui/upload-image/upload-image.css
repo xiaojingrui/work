@@ -1,0 +1,186 @@
+@charset "UTF-8";
+
+/* 上传图片 */
+.upload-image {
+    overflow: hidden;
+     -webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+.upload-image .title {
+    color: #999;
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    height: 50px;
+    line-height: 50px;
+    border-bottom:1px solid #e3e4e5;
+}
+.upload-image #J_uploadImageWrap{
+    display:none;
+    margin-top:12px;
+}
+.upload-image .title p{
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.upload-image .title span{
+    background:#d8544c;
+    padding:8px 32px;
+    color:#fff;
+    border-radius:6px;
+}
+.upload-image .title img{
+    width:28px;
+}
+.upload-image .add-image{
+    display: none;
+    background: #fff;
+}
+.upload-image .has-upload-list,
+.upload-image .add-image {
+    position: relative;
+    float: left;
+    width: 28%;
+    height: .8rem;
+    margin: 0 6.8% .15rem 0;
+    text-align: center;  
+}
+.upload-image .has-upload-list:nth-child(3n){
+    margin:0 0 .15rem 0;
+}
+.upload-image .add-image{
+    margin: 0 0 .15rem 0;
+}
+.upload-image .has-upload-list {
+    border: 1px solid #e3e4e5;
+}
+.upload-image .has-upload-list .gif-icon-upload{
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-image: url(./gif_d.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 10;
+}
+.upload-image .has-upload-list img {
+    max-width: 100%;
+}
+.upload-image .has-upload-list .button-delete {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    z-index: 3;
+    width: .25rem;
+    height: .25rem;
+    background: #d8544c;
+    border-radius:50%;
+    z-index:99;
+}
+.has-upload-list .mask{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background: #000;
+    opacity: 0;
+    filter:alphy(opacity=0);
+    z-index: 10;
+}
+
+.upload-image .has-upload-list .button-delete:before,
+.upload-image .has-upload-list .button-delete:after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 15px;
+    top: 49%;
+    left: 5px;
+    background: #fff;
+ }
+.upload-image .has-upload-list .button-delete:before {
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+.upload-image .has-upload-list .button-delete:after {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.upload-image .has-upload-list .load-image {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.upload-image .border-white-bd:before {
+    top: 0;
+}
+.upload-image .border-white-bd:after {
+    bottom: 0;
+}
+.upload-image .add-image .border-add:before,
+.upload-image .add-image .border-add:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: .25rem;
+    height: 2px;
+    margin: 0 0 0 -.12rem;
+    overflow: hidden;
+    background: #999;
+}
+.upload-image .add-image .border-add:after {
+    width: 1px;
+    height: .25rem;
+    margin: -.12rem 0 0 0;
+}
+.upload-image .border-white {
+    display: block;
+    height: .8rem;
+    border: 1px solid #e3e4e5;
+}
+
+.upload-image .border-white:before,
+.upload-image .border-white:after {
+    top: 50%;
+    width: 1px;
+    height: .1rem;
+    margin: -.05rem 0 0 0;
+}
+.upload-image .border-white:before {
+    left: 0;
+}
+.upload-image .border-white:after {
+    left: inherit;
+    right: 0;
+}
+
+.upload-image .button-upload-image {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    margin: 0;
+    opacity: 0;
+    font-size: 2rem;
+    direction: ltr;
+    cursor: pointer;
+}
+
+
+
+
+
+

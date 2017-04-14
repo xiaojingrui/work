@@ -1,0 +1,204 @@
+/* 比赛前瞻样式 */
+.match-title-info:before, .match-detail:before, .balance-info:before, .match-title-info:after, .match-detail:after, .balance-info:after {
+  content: "";
+  display: table; }
+.match-title-info:after, .match-detail:after, .balance-info:after {
+  clear: both; }
+
+.match-banner {
+  height: 175px;
+  background: url(match-banner.jpg) top center no-repeat;
+  background-size: 100% 100%;
+  padding-top: 12px;
+  position: relative; }
+
+.match-date {
+  text-align: center;
+  margin-bottom: 6px;
+  color: #fff;
+  font-size: 12px; }
+
+.match-title-info {
+  margin-bottom: 10px; }
+  .match-title-info .team-logo {
+    float: left;
+    width: 32%; }
+    .team-logo a{
+       display: inline-block;
+    }
+    .match-title-info .team-logo.home-team-logo {
+      text-align: left; }
+    .match-title-info .team-logo.away-team-logo {
+      text-align: right; }
+    .match-title-info .team-logo img {
+      display: inline-block;
+      width: 42px; }
+  .match-title-info strong {
+    float: left;
+    width: 36%;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2px; }
+
+.match-detail {
+  margin-bottom: 10px; }
+  .match-detail .team-name {
+    float: left;
+    width: 32%;
+    color: #fff; }
+    .match-detail .team-name.home-team-name {
+      text-align: left; }
+    .match-detail .team-name.away-team-name {
+      text-align: right; }
+    .match-detail .team-name.home-team-name a,.match-detail .team-name.away-team-name a{
+        color: #fff;
+    }
+    .match-detail .team-name strong {
+      font-size: 14px;
+      line-height: 16px;
+      margin: 0 6px 0 8px; }
+    .match-detail .team-name span {
+      font-size: 12px;
+      line-height: 16px;
+      vertical-align: text-bottom; }
+  .match-detail .team-status {
+    float: left;
+    width: 36%;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 2px; }
+
+.balance-info .bal-btn,.home-rate-result,.away-rate-result {
+  float: left;
+  width: 22%; }
+  .home-rate-result,.away-rate-result{
+    color: #fff;
+    font-size: 10px;
+    text-align: right;
+    margin-top: 16px;
+  }
+  .away-rate-result{
+    text-align: left;
+  }
+  .balance-info .bal-btn.home-btn {
+    text-align: left; }
+    .balance-info .bal-btn.home-btn .btn {
+      background-color: #e40000; }
+  .balance-info .bal-btn.away-btn {
+    text-align: right; }
+    .balance-info .bal-btn.away-btn .btn {
+      background-color: #14345c; }
+.balance-info .btn,.balance-info .btn-result {
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  border-radius: 23px;
+  position: relative;
+  overflow: hidden; }
+  .balance-info .btn-result{
+      text-align: center;
+      font-size: 30px;
+      color: #fff;
+      line-height: 38px;
+  }
+  .balance-info .btn .load-right {
+    width: 23px;
+    height: 23px;
+    position: relative;
+    top: 0;
+    left: 0;
+    transform-origin: 0% 100%; }
+  .balance-info .btn .load-right span {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    border-radius: 23px;
+    border-width: 23px;
+    border-style: solid;
+    border-color: #fff transparent transparent transparent;
+    opacity: 0.4;
+    overflow: hidden;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    display: none; }
+    .balance-info .btn .load-right span.cur {
+      display: block;
+      -webkit-animation: rot_right 0.5s linear 1;
+      animation: rot_right 0.5s linear 1; }
+  .balance-info .btn .inner {
+    position: absolute;
+    margin: 4px;
+    width: 38px;
+    height: 38px;
+    background-color: #FFF;
+    border-radius: 19px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 38px;
+    top: 50%;
+    left: 50%;
+    margin-left: -19px;
+    margin-top: -19px; }
+.balance-info .balance-bar-area {
+  float: left;
+  width: 54%;
+  margin: 0 1%; }
+  .balance-info .balance-bar-area .bar {
+    width: 100%;
+    position: relative;
+    height: 2px;
+    margin-top: 18px;
+    background-color: #14345c;
+    margin-bottom: 5px; }
+    .balance-info .balance-bar-area .bar span {
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: 2px;
+      width: 50%;
+      background-color: #e40000; }
+       .balance-info .balance-bar-area .bar span em{
+          position: absolute;
+          width: 1px;
+          height: 6px;
+          right:0px;
+          top: -2px;
+          background-color: #e40000;
+       }
+  .balance-info .balance-bar-area .rate {
+    font-size: 10px;
+    color: #fff; }
+    .balance-info .balance-bar-area .rate .home-rate {
+      float: right;
+      margin-right: 8px; }
+    .balance-info .balance-bar-area .rate .away-rate {
+      float: left;
+      margin-left: 8px; }
+
+@-webkit-keyframes rot_right {
+  0%{transform: rotate(45deg);}
+  100%{transform: rotate(405deg);}
+}
+@keyframes rot_right {
+  0%{transform: rotate(45deg);}
+  100%{transform: rotate(405deg);}
+}
+
+.tips {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 40;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 2px 10px;
+  color: #fff;
+  font-size: 14px;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  display: none; }

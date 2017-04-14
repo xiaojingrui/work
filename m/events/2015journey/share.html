@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <title>2015年虎扑征程</title>
+    <style type="text/css">
+    	 *{
+    	 	padding:0;
+    	 	margin:0
+    	 }
+    	 html,body{
+    	 	height:100%;
+    	 	width:100%;
+    	 	overflow:hidden;
+    	 	background: -webkit-gradient(linear, left top, left bottom, from(#0e1327), color-stop(0.6,#2c3050), to(#494164));
+    	 	background: gradient(linear, left top, left bottom, from(#0e1327), color-stop(0.6,#2c3050), to(#494164));
+    	 }
+    	 #background{
+    	 	position:absolute;
+    	 	left:0;
+    	 	top:0;
+    	 	z-index:0;
+    	 	width:100%;
+    	 }
+    </style>
+    <link rel="stylesheet" type="text/css" href="./css/share.css" />
+</head>
+<body>
+	<canvas id="background"></canvas>
+	<div id="share">
+		<div class="earth">
+			<img src="./img/share-earth.png" width="80" alt="">
+		</div>
+		<div class="mod-text">
+			<i class="triangle-bottomright"></i>
+			<p>我们的征途是星辰大海，2016未完待续...</p>
+		</div>
+		<!-- 微信分享 -->
+		<div class="bottom weixin-bottom" style="display: none;">
+			<div class="share">分享</div>
+			<div class="mine">查看我的2015</div>
+		</div>
+		<!-- 其他分享 -->
+		<div class="bottom others-bottom">
+			<div class="mine">查看我的2015</div>
+			<div class="title clearfix">
+				<div class="line fl"></div>
+				<div class="text fl">分享</div>
+				<div class="line fl"></div>
+			</div>
+			<div class="others clearfix">
+				<div class="weibo fl">
+					<div class="img">
+						<img src="./img/weibo-share.png" width="36" alt="">
+					</div>
+					<div class="name">新浪微博</div>
+				</div>
+				<div class="QZone fr">
+					<div class="img">
+						<img src="./img/QZone-share.png" width="36" alt="">
+					</div>
+					<div class="name">QQ空间</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+
+
+
+
+
+	<script type="text/javascript" src="js/zepto.min.js"></script>
+	<script type="text/javascript" src="js/move.min.js"></script>
+	<script type="text/javascript" src="js/particle.js"></script>
+	<script type="text/javascript" src="js/requestAnimationFrame.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript">
+		$(function(){
+		  pager.main.init();
+		});
+	</script>
+</body>
+</html>

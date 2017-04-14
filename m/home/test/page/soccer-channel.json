@@ -1,0 +1,681 @@
+{
+  "site": "soccer",
+  "project": "soccer",
+  "pageheader": {
+    "title": "英超联赛_虎扑足球"
+  },
+  "bottomtitle": "虎扑体育 - 你的体育全世界！",
+  "id4dace": null,
+  "mark4dace": "page_soccer_leagueindex_",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//dev-m.hupu.com",
+  "test": null,
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Fdev-m.hupu.com%2Fsoccer%2Fepl%3Ftest&from=m&project=hupu",
+  "uid": "26078995",
+  "username": "嗨喽hupu",
+  "showAdvertise": 0,
+  "pclink": "http://soccer.hupu.com/epl?test",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "人年轻的时候可以张狂一点，因为年轻人不怕犯错误，错了还有机会重来。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "level2": [
+    {
+      "name": "足球",
+      "router": "soccerindex",
+      "url": "//dev-m.hupu.com/soccer",
+      "is_current": false
+    },
+    {
+      "name": "新闻",
+      "router": "soccerleaguenews",
+      "param": {
+        "league": "csl"
+      },
+      "url": "//dev-m.hupu.com/soccer/csl/news",
+      "is_current": false
+    },
+    {
+      "name": "比赛",
+      "router": "soccermatchindex",
+      "url": "//dev-m.hupu.com/soccer/match",
+      "is_current": false
+    },
+    {
+      "name": "论坛",
+      "router": "bbsindex",
+      "url": "//dev-m.hupu.com/bbs",
+      "is_current": false
+    },
+    {
+      "name": "积分榜",
+      "router": "soccerleaguerank",
+      "param": {
+        "league": "epl",
+        "type": "tables"
+      },
+      "url": "//dev-m.hupu.com/soccer/epl/tables",
+      "is_current": false
+    },
+    {
+      "name": "射手榜",
+      "router": "soccerleaguerank",
+      "param": {
+        "league": "epl",
+        "type": "topscorers"
+      },
+      "url": "//dev-m.hupu.com/soccer/epl/topscorers",
+      "is_current": false
+    }
+  ],
+  "keywords": "英超, 英超联赛_虎扑足球",
+  "description": "英超联赛首页是虎扑足球制作的英超联赛中文页面，包括了英超新闻，英超数据，英超联赛视频,英超积分榜和射手榜等英超相关信息。",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//dev-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//dev-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//dev-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//dev-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "node": [
+    {
+      "title": "足球",
+      "url": "//dev-m.hupu.com/soccer"
+    },
+    {
+      "title": "英超",
+      "url": "#"
+    }
+  ],
+  "customSoccer": [],
+  "newsurl": "//dev-m.hupu.com/soccer/news/tag/496",
+  "bbsurl": "//dev-m.hupu.com/bbs/138",
+  "homeData": {
+    "news": [
+      {
+        "id": "2104437",
+        "title": "瓜迪奥拉：范迪克不会在1月加盟曼城",
+        "media": "卫报",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104437.html",
+        "dateline": "2016-12-26 11:26:58",
+        "pub_date": "1482722818",
+        "overview": "瓜迪奥拉目前对现有的阵容很满意。...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161226/f23401d35ca685d85684715943849978b40e8fbf.jpg@.webp",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "2104434",
+        "title": "穆里尼奥：温格未被英足总处罚？我不意外",
+        "media": "每日邮报",
+        "reply_count": "1",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104434.html",
+        "dateline": "2016-12-26 11:21:43",
+        "pub_date": "1482722503",
+        "overview": "穆帅暗示温格总能得到宽大处理。...",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161226/f29690aa5cc4e2cc6faf740dde07323db81199f0.png@.webp",
+        "type": "news",
+        "replies": "1"
+      },
+      {
+        "id": "2104362",
+        "title": "邮报：特里冬窗不离开，兰帕德或回归蓝军",
+        "media": "每日邮报",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104362.html",
+        "dateline": "2016-12-26 10:09:00",
+        "pub_date": "1482718140",
+        "overview": "有传闻恒大欲免转会费签下特里。...",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161226/1164505a56d4be603f16b0d29aa6b085b5027205.jpg@.webp",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "2104359",
+        "title": "他是谁？桑切斯竟不认识曼城中场京多安",
+        "media": "太阳报",
+        "reply_count": "5",
+        "light_count": "0",
+        "support": "1",
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104359.html",
+        "dateline": "2016-12-26 10:03:14",
+        "pub_date": "1482717794",
+        "overview": "桑切斯对布拉沃穿京多安球衣很困惑。...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161226/a2d7594380378badeff36ed927adfdfc9b9be639.jpg@.webp",
+        "type": "news",
+        "replies": "5"
+      },
+      {
+        "id": "2104351",
+        "title": "佩德罗：孔蒂在切尔西的所有改革都基于信任",
+        "media": "每日电讯",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104351.html",
+        "dateline": "2016-12-26 09:52:00",
+        "pub_date": "1482717120",
+        "overview": "佩德罗还谈到了加盟蓝军的决定。...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161226/fb2e1955b5552cd3842213a5c18f7b8832304da6.jpg@.webp",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "2104294",
+        "title": "克洛普：不惧圣诞赛程，我们接受挑战",
+        "media": "利物浦回声报",
+        "reply_count": "1",
+        "light_count": "0",
+        "support": "1",
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104294.html",
+        "dateline": "2016-12-26 08:22:35",
+        "pub_date": "1482711755",
+        "overview": "利物浦即将迎来六天三赛的考验。...",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161226/cf8d8399d5c54340177f5798edf95eb8a2b72ec2.jpg@.webp",
+        "type": "news",
+        "replies": "1"
+      },
+      {
+        "id": "2104290",
+        "title": "回声报：斯特林卖豪宅不成，已撤销挂牌",
+        "media": "利物浦回声报",
+        "reply_count": "4",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104290.html",
+        "dateline": "2016-12-26 08:03:14",
+        "pub_date": "1482710594",
+        "overview": "斯特林降价30万仍不能将豪宅出手。...",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161226/55b002f295e5a4a47c10c892695c7715b4cfc302.jpg@.webp",
+        "type": "news",
+        "replies": "4"
+      },
+      {
+        "id": "2104287",
+        "title": "小罗：库蒂尼奥杰出表现已吸引巴萨关注",
+        "media": "每日镜报",
+        "reply_count": "8",
+        "light_count": "0",
+        "support": 0,
+        "against": "1",
+        "url": "//dev-m.hupu.com/soccer/news/2104287.html",
+        "dateline": "2016-12-26 07:38:04",
+        "pub_date": "1482709084",
+        "overview": "这名中场本赛季在红军表现出色。...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161226/cadea91ccaca9713296819f205a17181d75e662f.jpg@.webp",
+        "type": "news",
+        "replies": "8"
+      },
+      {
+        "id": "2104284",
+        "title": "曝国米将报价400万求购红军中场卢卡斯",
+        "media": "每日镜报",
+        "reply_count": "4",
+        "light_count": "0",
+        "support": 0,
+        "against": "2",
+        "url": "//dev-m.hupu.com/soccer/news/2104284.html",
+        "dateline": "2016-12-26 07:25:55",
+        "pub_date": "1482708355",
+        "overview": "这名中场如今在红军上场机会不多。...",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161226/a3da34942672afc673f808bf13e228e34533a052.jpg@.webp",
+        "type": "news",
+        "replies": "4"
+      },
+      {
+        "id": "2104283",
+        "title": "曝热刺追逐扎哈，水晶宫标价3000万镑",
+        "media": "每日镜报",
+        "reply_count": "4",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//dev-m.hupu.com/soccer/news/2104283.html",
+        "dateline": "2016-12-26 07:18:41",
+        "pub_date": "1482707921",
+        "overview": "热刺有意在下月再次求购扎哈。...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161226/5f2866082a898fa3313088d49957b6c8b3656fc4.jpg@.webp",
+        "type": "news",
+        "replies": "4"
+      }
+    ],
+    "bbs": {
+      "url": "//dev-m.hupu.com/bbs/138",
+      "name": "英超",
+      "data": [
+        {
+          "title": "[流言板]足球新声通知欧联联赛",
+          "username": "念12",
+          "url": "//dev-m.hupu.com/bbs/13068354.html",
+          "fid": "138",
+          "type": "bbs",
+          "replies": "5",
+          "boardname": "英超专区",
+          "boardurl": "//dev-m.hupu.com/bbs/138"
+        },
+        {
+          "title": "[流言板]足球新声通知美洲杯用户",
+          "username": "念12",
+          "url": "//dev-m.hupu.com/bbs/13068348.html",
+          "fid": "138",
+          "type": "bbs",
+          "replies": "2",
+          "boardname": "英超专区",
+          "boardurl": "//dev-m.hupu.com/bbs/138"
+        },
+        {
+          "title": "[流言板]足球新声通知欧洲杯用户",
+          "username": "念12",
+          "url": "//dev-m.hupu.com/bbs/13068342.html",
+          "fid": "138",
+          "type": "bbs",
+          "replies": "0",
+          "boardname": "英超专区",
+          "boardurl": "//dev-m.hupu.com/bbs/138"
+        },
+        {
+          "title": "[流言板]足球新声通知法甲用户",
+          "username": "念12",
+          "url": "//dev-m.hupu.com/bbs/13068336.html",
+          "fid": "138",
+          "type": "bbs",
+          "replies": "0",
+          "boardname": "英超专区",
+          "boardurl": "//dev-m.hupu.com/bbs/138"
+        },
+        {
+          "title": "[流言板]足球（英超）推送全部用户新声通知",
+          "username": "安静向日葵28",
+          "url": "//dev-m.hupu.com/bbs/13068219.html",
+          "fid": "138",
+          "type": "bbs",
+          "replies": "0",
+          "boardname": "英超专区",
+          "boardurl": "//dev-m.hupu.com/bbs/138"
+        }
+      ]
+    },
+    "teamBbs": [
+      {
+        "name": "曼联",
+        "fid": "2916",
+        "url": "//dev-m.hupu.com/bbs/2916",
+        "data": [
+          {
+            "title": "[流言板]阿森纳曼联同步到帖子（修改）",
+            "username": "念12",
+            "url": "//dev-m.hupu.com/bbs/13068614.html",
+            "fid": "2916",
+            "type": "bbs",
+            "replies": "0",
+            "boardname": "曼联专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2916"
+          },
+          {
+            "title": "曼联专区是英超专区的子版块12.21发帖",
+            "username": "安静向日葵28",
+            "url": "//dev-m.hupu.com/bbs/13066593.html",
+            "fid": "2916",
+            "type": "bbs",
+            "replies": "5",
+            "boardname": "曼联专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2916"
+          },
+          {
+            "title": "Rtyuioooolpppo",
+            "username": "dff6g",
+            "url": "//dev-m.hupu.com/bbs/13066582.html",
+            "fid": "2916",
+            "type": "bbs",
+            "replies": "0",
+            "boardname": "曼联专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2916"
+          },
+          {
+            "title": "丹丹-12月15日测试下英超子版块的帖子",
+            "username": "test_Bektu",
+            "url": "//dev-m.hupu.com/bbs/13066454.html",
+            "fid": "2916",
+            "type": "bbs",
+            "replies": "3",
+            "boardname": "曼联专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2916"
+          }
+        ]
+      },
+      {
+        "name": "切尔西",
+        "fid": "2919",
+        "url": "//dev-m.hupu.com/bbs/2919",
+        "data": [
+          {
+            "title": "[流言板]天体：佛罗伦萨将续租萨拉赫",
+            "username": "Costa1988",
+            "url": "//dev-m.hupu.com/bbs/13064285.html",
+            "fid": "2919",
+            "type": "bbs",
+            "replies": "5",
+            "boardname": "切尔西专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2919"
+          },
+          {
+            "title": "[翻译团]Sid Lowe：法尔考和科斯塔能在切尔西再续马竞战友情吗？",
+            "username": "趴趴黑白熊",
+            "url": "//dev-m.hupu.com/bbs/13059547.html",
+            "fid": "2919",
+            "type": "bbs",
+            "replies": "5",
+            "boardname": "切尔西专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2919"
+          },
+          {
+            "title": "[流言板]经纪人：奥斯卡不可能加盟尤文",
+            "username": "juvenian",
+            "url": "//dev-m.hupu.com/bbs/13059088.html",
+            "fid": "2919",
+            "type": "bbs",
+            "replies": "12",
+            "boardname": "切尔西专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2919"
+          },
+          {
+            "title": "[流言板]切尔西将租借阿克和卡拉斯到米堡",
+            "username": "飘雪又一年",
+            "url": "//dev-m.hupu.com/bbs/13058824.html",
+            "fid": "2919",
+            "type": "bbs",
+            "replies": "19",
+            "boardname": "切尔西专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2919"
+          }
+        ]
+      },
+      {
+        "name": "阿森纳",
+        "fid": "2918",
+        "url": "//dev-m.hupu.com/bbs/2918",
+        "data": [
+          {
+            "title": "测试图片lazyload（M站）",
+            "username": "Edward伯爵",
+            "url": "//dev-m.hupu.com/bbs/13068910.html",
+            "fid": "2918",
+            "type": "bbs",
+            "replies": "0",
+            "boardname": "阿森纳专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2918"
+          },
+          {
+            "title": "测试图片lazyload（app上传）",
+            "username": "Edward伯爵",
+            "url": "//dev-m.hupu.com/bbs/13068909.html",
+            "fid": "2918",
+            "type": "bbs",
+            "replies": "7",
+            "boardname": "阿森纳专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2918"
+          },
+          {
+            "title": "[流言板]BBC名记：切赫将体检加盟阿森纳",
+            "username": "Santiago47",
+            "url": "//dev-m.hupu.com/bbs/13064303.html",
+            "fid": "2918",
+            "type": "bbs",
+            "replies": "16",
+            "boardname": "阿森纳专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2918"
+          },
+          {
+            "title": "[流言板]乌拉圭前锋：桑切斯是gay和爱哭鬼",
+            "username": "诞V生",
+            "url": "//dev-m.hupu.com/bbs/13063906.html",
+            "fid": "2918",
+            "type": "bbs",
+            "replies": "21",
+            "boardname": "阿森纳专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2918"
+          }
+        ]
+      },
+      {
+        "name": "利物浦",
+        "fid": "2917",
+        "url": "//dev-m.hupu.com/bbs/2917",
+        "data": [
+          {
+            "title": "[流言板]天空体育：利物浦接近签下克莱因",
+            "username": "L.Cattermole",
+            "url": "//dev-m.hupu.com/bbs/13064135.html",
+            "fid": "2917",
+            "type": "bbs",
+            "replies": "11",
+            "boardname": "利物浦专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2917"
+          },
+          {
+            "title": "利物浦vs布里斯班狮吼 有人一起？",
+            "username": "Rayson_Ng",
+            "url": "//dev-m.hupu.com/bbs/13063882.html",
+            "fid": "2917",
+            "type": "bbs",
+            "replies": "0",
+            "boardname": "利物浦专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2917"
+          },
+          {
+            "title": "[流言板]詹：希望跟随德国队征战欧洲杯",
+            "username": "贺兰牛",
+            "url": "//dev-m.hupu.com/bbs/13063199.html",
+            "fid": "2917",
+            "type": "bbs",
+            "replies": "4",
+            "boardname": "利物浦专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2917"
+          },
+          {
+            "title": "利物浦 15/16 赛季热线认领专帖",
+            "username": "考拉爱桉树",
+            "url": "//dev-m.hupu.com/bbs/13062849.html",
+            "fid": "2917",
+            "type": "bbs",
+            "replies": "13",
+            "boardname": "利物浦专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2917"
+          }
+        ]
+      },
+      {
+        "name": "曼城",
+        "fid": "2908",
+        "url": "//dev-m.hupu.com/bbs/2908",
+        "data": [
+          {
+            "title": "曼联专区11.4发帖",
+            "username": "zhangguichuan001",
+            "url": "//dev-m.hupu.com/bbs/13065731.html",
+            "fid": "2908",
+            "type": "bbs",
+            "replies": "5",
+            "boardname": "曼城专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2908"
+          },
+          {
+            "title": "[流言板]孔帕尼提前开始备战新赛季",
+            "username": "godblessxz",
+            "url": "//dev-m.hupu.com/bbs/13063019.html",
+            "fid": "2908",
+            "type": "bbs",
+            "replies": "1",
+            "boardname": "曼城专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2908"
+          },
+          {
+            "title": "[翻译]埃内斯-乌纳尔——你所需要知道的三件事",
+            "username": "mv_jason",
+            "url": "//dev-m.hupu.com/bbs/13062591.html",
+            "fid": "2908",
+            "type": "bbs",
+            "replies": "2",
+            "boardname": "曼城专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2908"
+          },
+          {
+            "title": "[流言板]官方：土超小妖乌纳尔加盟曼城",
+            "username": "小七",
+            "url": "//dev-m.hupu.com/bbs/13061287.html",
+            "fid": "2908",
+            "type": "bbs",
+            "replies": "13",
+            "boardname": "曼城专区",
+            "boardurl": "//dev-m.hupu.com/bbs/2908"
+          }
+        ]
+      }
+    ]
+  },
+  "adInfo": [],
+  "gameList": [
+    {
+      "leaguename": "epl",
+      "leaguetype": "2",
+      "hometeam": "沃特福德",
+      "awayteam": "水晶宫",
+      "score": "",
+      "gameurl": "//dev-m.hupu.com/soccer/epl/game/lineup/10714877",
+      "status": "2",
+      "progress": "20:30",
+      "gamestatus": "开始"
+    },
+    {
+      "leaguename": "epl",
+      "leaguetype": "2",
+      "hometeam": "阿森纳",
+      "awayteam": "西布罗姆维奇",
+      "score": "",
+      "gameurl": "//dev-m.hupu.com/soccer/epl/game/lineup/10714868",
+      "status": "2",
+      "progress": "23:00",
+      "gamestatus": "开始"
+    },
+    {
+      "leaguename": "epl",
+      "leaguetype": "2",
+      "hometeam": "伯恩利",
+      "awayteam": "米德尔斯堡",
+      "score": "",
+      "gameurl": "//dev-m.hupu.com/soccer/epl/game/lineup/10714869",
+      "status": "2",
+      "progress": "23:00",
+      "gamestatus": "开始"
+    }
+  ],
+  "subNav": {
+    "all": {
+      "name": "全部",
+      "url": "//dev-m.hupu.com/soccer",
+      "is_current": false
+    },
+    "csl": {
+      "name": "中国足球",
+      "url": "//dev-m.hupu.com/soccer/csl",
+      "is_current": false
+    },
+    "epl": {
+      "name": "英超",
+      "url": "//dev-m.hupu.com/soccer/epl",
+      "is_current": "1"
+    },
+    "laliga": {
+      "name": "西甲",
+      "url": "//dev-m.hupu.com/soccer/laliga",
+      "is_current": false
+    },
+    "1bund": {
+      "name": "德甲",
+      "url": "//dev-m.hupu.com/soccer/1bund",
+      "is_current": false
+    },
+    "seriea": {
+      "name": "意甲",
+      "url": "//dev-m.hupu.com/soccer/seriea",
+      "is_current": false
+    },
+    "ucl": {
+      "name": "欧冠",
+      "url": "//dev-m.hupu.com/soccer/ucl",
+      "is_current": false
+    },
+    "ligue1": {
+      "name": "法甲",
+      "url": "//dev-m.hupu.com/soccer/ligue1",
+      "is_current": false
+    }
+  },
+  "canonical_link": "<link rel='canonical' href='http://soccer.hupu.com/england/'>"
+}

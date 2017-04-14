@@ -1,0 +1,711 @@
+{
+  "pageheader": {
+    "title": "虎扑足球_虎扑体育"
+  },
+  "project": "soccer",
+  "bottomtitle": "虎扑足球-最足球的世界",
+  "site": "soccer",
+  "logo_url": "/soccer",
+  "id4dace": "3000",
+  "mark4dace": "page_soccer",
+  "keywords": "足球,虎扑足球",
+  "description": "足球,虎扑足球是以英超意甲等五大联赛和中超等足球赛事为主的专业足球网站,原创的足球新闻与专栏,最全的足球直播和视频,百万铁杆足球迷尽在虎扑足球。",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//test-m.hupu.com",
+  "test": "1",
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2Fsoccer%3Ftest%3D1&from=m&project=hupu",
+  "uid": "26078995",
+  "username": "嗨喽hupu",
+  "showAdvertise": 0,
+  "message_unread": 0,
+  "pclink": "http://soccer.hupu.com?test=1",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "我一直在追求完美。",
+    "person": "科比"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "level2": [
+    {
+      "name": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer",
+      "is_current": "1"
+    },
+    {
+      "name": "新闻",
+      "router": "soccerleaguenews",
+      "param": {
+        "league": "csl"
+      },
+      "url": "//test-m.hupu.com/soccer/csl/news",
+      "is_current": false
+    },
+    {
+      "name": "比赛",
+      "router": "soccer_match_index",
+      "url": "//test-m.hupu.com/soccer/match",
+      "is_current": false
+    },
+    {
+      "name": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs",
+      "is_current": false
+    },
+    {
+      "name": "积分榜",
+      "router": "soccerleaguerank",
+      "param": {
+        "league": "epl",
+        "type": "tables"
+      },
+      "url": "//test-m.hupu.com/soccer/epl/tables",
+      "is_current": false
+    },
+    {
+      "name": "射手榜",
+      "router": "soccerleaguerank",
+      "param": {
+        "league": "epl",
+        "type": "topscorers"
+      },
+      "url": "//test-m.hupu.com/soccer/epl/topscorers",
+      "is_current": false
+    }
+  ],
+  "node": [
+    {
+      "title": "足球",
+      "url": "#"
+    }
+  ],
+  "customSoccer": [],
+  "engnewsurl": "//test-m.hupu.com/bbs/138",
+  "espnewsurl": "//test-m.hupu.com/bbs/140",
+  "iltnewsurl": "//test-m.hupu.com/bbs/139",
+  "homeData": {
+    "soccer": [],
+    "china": null,
+    "huati": [
+      {
+        "title": "水晶宫宣布帕杜下课，英超生存环境太恶劣？",
+        "url": "//test-m.hupu.com/bbs/18080126.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "除了拉莫斯时间，还有哪些人名命名的名词？",
+        "url": "//test-m.hupu.com/bbs/18074418.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "队报称六成球迷反对召回本泽马，太绝情了？",
+        "url": "//test-m.hupu.com/bbs/18080970.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "FIFA年终排名出炉阿根廷居首，你有何看法？",
+        "url": "//test-m.hupu.com/bbs/18078298.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "皇马和马竞在俱乐部层面上到底关系如何？",
+        "url": "//test-m.hupu.com/bbs/18078685.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "巅峰期的阿德里亚诺相比伊卡尔迪水平如何？",
+        "url": "//test-m.hupu.com/bbs/18078954.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "很少有人成为主教练后再回头去做助理教练？",
+        "url": "//test-m.hupu.com/bbs/18078762.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "名宿称巴黎不是德拉克斯勒首选，你怎么看？",
+        "url": "//test-m.hupu.com/bbs/18078376.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "苏比萨雷塔和瓦刀能否入选巴萨历史最佳阵？",
+        "url": "//test-m.hupu.com/bbs/18076387.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "那不勒斯街边惊现奇葩纪念品，到处是死敌？",
+        "url": "//test-m.hupu.com/bbs/18080754.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "迪玛利亚表现不佳恐沦为替补，你怎么看？",
+        "url": "//test-m.hupu.com/bbs/18080412.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "一般俱乐部会在什么情况下更换球队队徽？",
+        "url": "//test-m.hupu.com/bbs/18077265.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      }
+    ],
+    "eng": [
+      {
+        "id": "1346270",
+        "title": "足球新声通知英超用户",
+        "media": "虎扑体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346270.html",
+        "dateline": "2016-08-24 17:15:39",
+        "pub_date": "1472030139",
+        "overview": "更多详细报道，稍后为您带来。...",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/default/breakingnews.jpg@.webp",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1346257",
+        "title": "soccer发送世预赛和英超新声新闻（通知）5",
+        "media": "没品足球",
+        "reply_count": "1",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346257.html",
+        "dateline": "2016-08-22 14:47:44",
+        "pub_date": "1471848464",
+        "overview": "soccer发送世预赛和英超新声新闻（通...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGcGljbS5waG90b3Bob3RvLmNuJTJGMDA1JTJGMDA4JTJGMDE3JTJGMDA4MDE3MDQzMy5qcGc",
+        "type": "news",
+        "replies": "1"
+      },
+      {
+        "id": "1346192",
+        "title": "足球推送球队新闻通知",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346192.html",
+        "dateline": "2016-08-11 17:05:19",
+        "pub_date": "1470906319",
+        "overview": "足球推送球队新闻通知...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGd3d3LnBwdGJ6LmNvbSUyRnBwdHBpYyUyRlVwbG9hZEZpbGVzXzY5MDklMkYyMDEyMDQlMkYyMDEyMDQxNDExNDMzODY3LmpwZw",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1346151",
+        "title": "足球推送球队新声通知22",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346151.html",
+        "dateline": "2016-08-08 11:08:22",
+        "pub_date": "1470625702",
+        "overview": "足球推送法国球队通知新声足球推送法国球队...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGc2NpbWcuamI1MS5uZXQlMkZhbGxpbWclMkYxNjA2MTglMkY3Ny0xNjA2MVE0NFU2NDQ0LmpwZw",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1346142",
+        "title": "足球（英超）推送全部用户新声通知",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346142.html",
+        "dateline": "2016-08-05 14:17:39",
+        "pub_date": "1470377859",
+        "overview": "足球（英超）推送全部用户新声通知足球（英...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGd3d3LnBwdGJ6LmNvbSUyRnBwdHBpYyUyRlVwbG9hZEZpbGVzXzY5MDklMkYyMDEyMDQlMkYyMDEyMDQxNDExNDMzODY3LmpwZw",
+        "type": "news",
+        "replies": "0"
+      }
+    ],
+    "esp": [
+      {
+        "id": "1346271",
+        "title": "足球新声通知西甲用户",
+        "media": "虎扑体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346271.html",
+        "dateline": "2016-08-24 17:18:12",
+        "pub_date": "1472030292",
+        "overview": "更多详细报道，稍后为您带来。...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/default/breakingnews.jpg@.webp",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1346193",
+        "title": "足球跨联赛用户推送几个球队通知",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346193.html",
+        "dateline": "2016-08-11 17:06:38",
+        "pub_date": "1470906398",
+        "overview": "足球跨联赛用户推送几个球队通知...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGd3d3LnBwdGJ6LmNvbSUyRnBwdHBpYyUyRlVwbG9hZEZpbGVzXzY5MDklMkYyMDEyMDQlMkYyMDEyMDQxNDExNDMzODY3LmpwZw",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1346172",
+        "title": "欧冠，欧洲杯，美洲杯，欧联，国际足球，西甲",
+        "media": "没品足球",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346172.html",
+        "dateline": "2016-08-09 10:31:05",
+        "pub_date": "1470709865",
+        "overview": "欧冠，欧洲杯，美洲杯，欧联，国际足球，西...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGaW1nLmp1aW1nLmNvbSUyRnR1a3UlMkZ5dWxhbnR1JTJGMTQwMzIxJTJGMzMwODc1LTE0MDMyMTBVMzUwNDcuanBn",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1346143",
+        "title": "足球（西甲）推送西甲用户新声通知",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346143.html",
+        "dateline": "2016-08-05 14:22:22",
+        "pub_date": "1470378142",
+        "overview": "足球（西甲）推送西甲用户新声通知足球（西...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGd3d3LnBwdGJ6LmNvbSUyRnBwdHBpYyUyRlVwbG9hZEZpbGVzXzY5MDklMkYyMDEyMDQlMkYyMDEyMDQxNDExNDMzODY3LmpwZw",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1345914",
+        "title": "soccer新声同步，tag为西甲",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1345914.html",
+        "dateline": "2016-05-19 13:53:26",
+        "pub_date": "1463637206",
+        "overview": "soccer新声同步，tag为西甲...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGcGljMzEubmlwaWMuY29tJTJGMjAxMzA3MjYlMkY4MTU3NTYzXzEwNDY1NTcxNDAwMF8yLmpwZw",
+        "type": "news",
+        "replies": "0"
+      }
+    ],
+    "itl": [
+      {
+        "id": "1346273",
+        "title": "足球新声通知意甲用户",
+        "media": "虎扑体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346273.html",
+        "dateline": "2016-08-24 17:20:43",
+        "pub_date": "1472030443",
+        "overview": "更多详细报道，稍后为您带来。...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/default/breakingnews.jpg@.webp",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1346145",
+        "title": "足球（意甲）推送意甲用户发送通知",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1346145.html",
+        "dateline": "2016-08-05 14:26:40",
+        "pub_date": "1470378400",
+        "overview": "足球（意甲）推送意甲用户发送通知...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGd3d3LnBwdGJ6LmNvbSUyRnBwdHBpYyUyRlVwbG9hZEZpbGVzXzY5MDklMkYyMDEyMDQlMkYyMDEyMDQxNDExNDMzODY3LmpwZw",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1345913",
+        "title": "soccer新声同步，tag为意甲",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1345913.html",
+        "dateline": "2016-05-19 13:52:07",
+        "pub_date": "1463637127",
+        "overview": "soccer新声同步，tag为意甲...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGcGljNDEubmlwaWMuY29tJTJGMjAxNDA1MjAlMkYxODUwNTcyMF8xNDQwMzI1NTYxMzVfMi5qcGc",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1345886",
+        "title": "欧联杯：意甲的那不勒斯新声新闻",
+        "media": "腾讯体育",
+        "reply_count": "0",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1345886.html",
+        "dateline": "2016-05-05 18:36:09",
+        "pub_date": "1462444569",
+        "overview": "欧联杯：意甲的那不勒斯...",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGd3c0LnNpbmFpbWcuY24lMkZtdzY5MCUyRjYxYjQ1NGQzancxZjJrdDJwbXVoemoyMWt3MmRjMWt4LmpwZw",
+        "type": "news",
+        "replies": "0"
+      },
+      {
+        "id": "1345779",
+        "title": "新声同步标签国际米兰新闻",
+        "media": "腾讯体育",
+        "reply_count": "1",
+        "light_count": "0",
+        "support": 0,
+        "against": 0,
+        "url": "//test-m.hupu.com/soccer/news/1345779.html",
+        "dateline": "2015-08-20 13:11:13",
+        "pub_date": "1440047473",
+        "overview": "新声同步国际米兰新闻...",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/150820/422d740f03a789a1f02b29b27235a968aa514143.png@.webp",
+        "type": "news",
+        "replies": "1"
+      }
+    ],
+    "hotnews": [
+      {
+        "title": "官方：日本乐天株式会社成为巴萨新赞助商",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089859.html",
+        "media": "巴塞罗那官网",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161116/356667ed74661277f617fe92a52ba83accf352d9.jpg@.webp",
+        "date": "2016-11-16 21:10:21",
+        "reply_count": "40",
+        "light_count": "3",
+        "replies": "40"
+      },
+      {
+        "title": "借酒浇愁？鲁尼深夜酩酊大醉照片曝光",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089803.html",
+        "media": "太阳报",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161116/e57c8622879bf4119716cea4fe520a0b27846875.jpg@.webp",
+        "date": "2016-11-16 16:22:33",
+        "reply_count": "15",
+        "light_count": "3",
+        "replies": "15"
+      },
+      {
+        "title": "曝乐天曾欲赞助曼城，改球队主色调为红色",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089903.html",
+        "media": "每日镜报",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161116/74d1cceb5f0a417df171b838dd46c4ca0b76ab88.jpg@.webp",
+        "date": "2016-11-16 23:19:12",
+        "reply_count": "9",
+        "light_count": "0",
+        "replies": "9"
+      },
+      {
+        "title": "鲁尼就国际比赛日醉酒事件发表道歉声明",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089934.html",
+        "media": "天空体育",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161117/b8ee5400a91704ea08efe73f8d9d9c9da90084b8.png@.webp",
+        "date": "2016-11-17 02:48:00",
+        "reply_count": "12",
+        "light_count": "2",
+        "replies": "12"
+      },
+      {
+        "title": "足坛前五胸前广告赞助：巴萨领衔、曼联第二",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089873.html",
+        "media": "世界体育报",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161116/89d4cba89027f8378662ec1570e213b6dcfd27a6.jpg@.webp",
+        "date": "2016-11-16 21:49:42",
+        "reply_count": "17",
+        "light_count": "0",
+        "replies": "17"
+      },
+      {
+        "title": "瓦茨克不满莱比锡：他们踢球就是为了卖饮料",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089956.html",
+        "media": "转会市场",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161117/fa95aac27986d55ebfa40678c70f01898ccea353.jpg@.webp",
+        "date": "2016-11-17 06:38:56",
+        "reply_count": "18",
+        "light_count": "1",
+        "replies": "18"
+      },
+      {
+        "title": "巴托梅乌：皮克牵线巴萨与乐天的合作",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089871.html",
+        "media": "Twitter",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161116/01ac0f85a0db02a0036850f32970634ff6936b94.jpg@.webp",
+        "date": "2016-11-16 21:48:42",
+        "reply_count": "13",
+        "light_count": "3",
+        "replies": "13"
+      },
+      {
+        "title": "红军申请更改赛程遭拒，48小时将战两场",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089954.html",
+        "media": "每日邮报",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161117/66569bf13c299459ec0b6ade8a7bae12730e1ba4.jpg@.webp",
+        "date": "2016-11-17 06:17:50",
+        "reply_count": "12",
+        "light_count": "1",
+        "replies": "12"
+      },
+      {
+        "title": "曼城青年队一周内三次重创曼联青年队",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089861.html",
+        "media": "每日邮报",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/161116/8f149f0a3ced013d1e5257ceead94781e8d1c633.jpg@.webp",
+        "date": "2016-11-16 21:21:30",
+        "reply_count": "16",
+        "light_count": "1",
+        "replies": "16"
+      },
+      {
+        "title": "阿根廷记者引众怒？民众纷纷声援梅西",
+        "type": "news",
+        "url": "//test-m.hupu.com/soccer/news/2089818.html",
+        "media": "Twitter",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/161116/e8774b0dec5910d6296d3cff46fa021c3a065d24.jpg@.webp",
+        "date": "2016-11-16 18:13:37",
+        "reply_count": "8",
+        "light_count": "1",
+        "replies": "8"
+      }
+    ],
+    "zhizao": [
+      {
+        "title": "马内：年年制造惊爆，人见人爱的宇宙黑马",
+        "desc": "登陆英超后马内锋芒尽现，他是红军真正的进攻核心。",
+        "link": "http://bbs.hupu.com/18079443.html",
+        "bigPic": "https://soccer.hupucdn.com/2016-12-23/362e51d0c63219c7_2016-12-23.jpg",
+        "smallPic": "",
+        "url": "//test-m.hupu.com/bbs/18079443.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      },
+      {
+        "title": "当年功臣今何在？弗爵爷首冠成员记忆",
+        "desc": "布鲁斯临危受命入主维拉，另有两人在英超球队执教。",
+        "link": "http://bbs.hupu.com/18081295.html",
+        "bigPic": "https://soccer.hupucdn.com/2016-12-23/957e7e2a8294ebc9_2016-12-23.jpg",
+        "smallPic": "",
+        "url": "//test-m.hupu.com/bbs/18081295.html",
+        "type": "bbs",
+        "replies": 0,
+        "fid": "34",
+        "boardname": "",
+        "boardurl": ""
+      }
+    ]
+  },
+  "adInfo": {
+    "m_adbanner": {
+      "soccer_home": {
+        "adcode": "<!-- 广告位：M端 虎扑足球首页-底部通栏 --> <script> (function() {     var s = \"_\" + Math.random().toString(36).slice(2);     document.write('<div id=\"' + s + '\"></div>');     (window.slotbydup=window.slotbydup || []).push({         id: '2821425',         container: s,         size: '20,3',         display: 'inlay-fix'     }); })(); </script>",
+        "isopen": "on"
+      }
+    },
+    "m_adword": {
+      "soccer_home_top": [],
+      "soccer_home_laliga": []
+    },
+    "m_adapp": {
+      "hupusports": {
+        "adword": "虎扑体育下载",
+        "adurl": "http://mobile.hupu.com/download/games/?_r=wapbottombanner",
+        "isopen": "on",
+        "pic": "https://i1.hoopchina.com.cn/touch/508/18581508/touch_adlist_18581508_1482897566.6138.png"
+      }
+    },
+    "m_partner": {
+      "m_soccer_home_epl_upside": []
+    }
+  },
+  "gamelist": [],
+  "subnav": {
+    "all": {
+      "name": "全部",
+      "url": "//test-m.hupu.com/soccer",
+      "is_current": "1"
+    },
+    "csl": {
+      "name": "中国足球",
+      "url": "//test-m.hupu.com/soccer/csl",
+      "is_current": false
+    },
+    "epl": {
+      "name": "英超",
+      "url": "//test-m.hupu.com/soccer/epl",
+      "is_current": false
+    },
+    "laliga": {
+      "name": "西甲",
+      "url": "//test-m.hupu.com/soccer/laliga",
+      "is_current": false
+    },
+    "1bund": {
+      "name": "德甲",
+      "url": "//test-m.hupu.com/soccer/1bund",
+      "is_current": false
+    },
+    "seriea": {
+      "name": "意甲",
+      "url": "//test-m.hupu.com/soccer/seriea",
+      "is_current": false
+    },
+    "ucl": {
+      "name": "欧冠",
+      "url": "//test-m.hupu.com/soccer/ucl",
+      "is_current": false
+    },
+    "ligue1": {
+      "name": "法甲",
+      "url": "//test-m.hupu.com/soccer/ligue1",
+      "is_current": false
+    }
+  },
+  "goto_script": "<script type=\"text/javascript\" src=\"https://goto.hupu.com/js/c/89.js\"></script>"
+}

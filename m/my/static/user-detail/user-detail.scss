@@ -1,0 +1,35 @@
+@import "../sass/sassCore/base";
+
+.record-wrap {
+    word-wrap: break-word;
+    .record-col {
+        padding: .1rem .2rem;
+    }
+    a {
+        color: #005eac;
+    }
+    .title {
+        padding-bottom: 5px;
+    }
+    .record-list {
+        li {
+            @include display-flex();
+            padding: .05rem 0;
+            line-height: .2rem;
+        }
+        .lable-title {
+            display: block;
+            width: 1rem;
+            color: #999;
+        }
+        .info {
+            display: block;
+            text-align: left;
+            @include flex(1);
+        }
+    }
+    .name-col {
+        padding-top: .05rem;
+        padding-bottom: .05rem;
+    }
+}

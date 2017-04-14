@@ -1,0 +1,21 @@
+/* 动态 */
+.news-list li {
+    margin-bottom: .15rem;
+}
+.news-list .sub-title {
+    padding: .08rem .1rem;
+    font-weight: 400;
+    background: #f9f9f9;
+}
+.news-list .sub-title a {
+    color: #005eac;
+}
+.news-list .time {
+    padding: .05rem .1rem 0;
+    color: #999;
+}
+.news-list .not-tip {
+    padding: 20px 0 40px;
+    text-align: center;
+    color: #999;
+}

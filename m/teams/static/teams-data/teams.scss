@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+
+body .nav-tab{
+    border-top: none;
+    border-bottom: 1px solid #eee;
+    margin-bottom: -1px;
+}
+.teams-data-wrap {
+    .main-content {
+        background: #eee;
+    }
+    .table-scroll {
+        @include flex(1);
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        &::-webkit-scrollbar {
+            display: none;
+        }
+    }
+    .table {
+        width: 100%;
+        line-height: 30px;
+        white-space: nowrap;
+        text-align: center;
+        background: #fbfbfb;
+        th,
+        td {
+            padding: 0 8px;
+            border-top: 1px solid #eee;
+        }
+        th {
+            text-align: center;
+            font-weight: 400;
+            color: #999;
+        }
+
+    }
+    .table-col-1 {
+        @include display-flex();
+        width: 100%;
+        overflow-x: hidden;
+    }
+    .table-2 {
+        width: 100px;
+        background: #fff;
+        text-align: left;
+        border-right: 1px solid #eee;
+    }
+    .table-3 {
+        margin-top: 10px;
+        .number-1 {
+            padding-left: 15px;
+            text-align: left;
+        }
+    }
+}

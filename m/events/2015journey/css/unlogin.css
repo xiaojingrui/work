@@ -1,0 +1,58 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	position: relative;
+	font-size: 14px;
+	color: #fff;
+}
+
+.mod-world-bg {
+	background-image: url(../img/world-bg.png);
+	background-position: center;
+	background-repeat: no-repeat; 
+	background-size: 100%;
+}
+
+#unlogin ul {
+	padding-left: 20%;
+	padding-top: 10%; 
+}
+
+#unlogin li {
+	margin-bottom: 50px;
+}
+
+#unlogin .title {
+	color: #fff;
+}
+
+#unlogin .num {
+	font-size: 36px;
+}
+
+#unlogin .item1 .num {
+	color: #c467bc;
+}
+
+#unlogin .item2 .num {
+	color: #7b98f9;
+}
+
+#unlogin .item3 .num {
+	color: #d49127;
+}
+#unlogin .item4 .num {
+	color: #49fff4;
+}
+
+
+
+

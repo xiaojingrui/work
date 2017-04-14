@@ -1,0 +1,87 @@
+{
+  "pageheader": {
+    "title": "_虎扑论坛"
+  },
+  "bottomtitle": "虎扑体育 - 你的体育全世界！",
+  "id4dace": "9070",
+  "mark4dace": "page_404",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//test-m.hupu.com",
+  "test": null,
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2Fbbs%2F4614%3Ftest%3D&from=m&project=hupu",
+  "uid": "26366901",
+  "username": "念12",
+  "showAdvertise": 0,
+  "pclink": "http://bbs.hupu.com/4614?test=",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "人如果有目标的话，他就会尽全力达到目标；如果没有目标，他就会松懈下来。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "msg": "版块不存在",
+  "redirectUrl": "//test-m.hupu.com/bbs",
+  "refresh":"1",
+  "tkd": {
+    "title": "_虎扑论坛",
+    "keywords": null,
+    "description": "虎扑论坛版块，这里汇聚了来自全国关注的虎扑JRS，请使用文明语言进行发帖和回帖，共同维护论坛的良好次序。"
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "pageheader": {
+    "title": "NBA|虎扑篮球_虎扑体育"
+  },
+  "project": "nba",
+  "bottomtitle": "虎扑篮球-最篮球的世界",
+  "site": "nba",
+  "logo_url": "/nba",
+  "id4dace": "2100",
+  "mark4dace": "page_nba",
+  "title": "NBA|虎扑篮球_虎扑体育",
+  "keywords": "NBA,NBA中文网,篮球",
+  "description": "NBA中文网虎扑篮球最专业的篮球网站，专注于最全的NBA直播、NBA视频、图片及原创NBA新闻、分析等深入内容，拥有良好氛围的NBA火箭、湖人、热火等全部NBA球队论坛。",
+  "pageBottomSpread": [
+    {
+      "name": "NBA",
+      "url": "/bbs/1048"
+    },
+    {
+      "name": "足球",
+      "url": "/bbs/1389"
+    },
+    {
+      "name": "步行街",
+      "url": "/bbs/34"
+    },
+    {
+      "name": "情感",
+      "url": "/bbs/160"
+    },
+    {
+      "name": "影视",
+      "url": "/bbs/120"
+    }
+  ],
+  "baseurl": "//test-m.hupu.com",
+  "test": "1",
+  "_islogin": "1",
+  "loginurl": "https://passport.hupu.com/m/2?jumpurl=http%3A%2F%2Ftest-m.hupu.com%2Fnba%3Ftest%3D1&from=m&project=hupu",
+  "uid": "26078995",
+  "username": "嗨喽hupu",
+  "showAdvertise": 0,
+  "message_unread": 0,
+  "pclink": "http://nba.hupu.com?test=1",
+  "hottitlelen": "16",
+  "columncontentlen": "46",
+  "footerword": {
+    "word": "只有你足够坚强，才能做得更好。",
+    "person": "姚明"
+  },
+  "videoImgUrlPrefix": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS82Ny9saW5rP2FwcGlkPTY3JnVybD0",
+  "topNav": [
+    {
+      "title": "NBA",
+      "router": "nbaindex",
+      "url": "//test-m.hupu.com/nba"
+    },
+    {
+      "title": "CBA",
+      "router": "cbanewsindex",
+      "url": "//test-m.hupu.com/cba/news/"
+    },
+    {
+      "title": "足球",
+      "router": "soccerindex",
+      "url": "//test-m.hupu.com/soccer"
+    },
+    {
+      "title": "论坛",
+      "router": "bbsindex",
+      "url": "//test-m.hupu.com/bbs"
+    },
+    {
+      "title": "识货",
+      "url": "http://m.shihuo.cn/",
+      "router": "shihuoindex",
+      "target": "_blank"
+    },
+    {
+      "title": "游戏",
+      "url": "http://youxi.hupu.com/mzhan",
+      "router": "youxiindex",
+      "target": "_blank"
+    }
+  ],
+  "level2": [
+      {
+        "name": "NBA",
+        "router": "nbaindex",
+        "url": "//dev-m.hupu.com/nba",
+        "is_current": "1"
+      },
+      {
+        "name": "新闻",
+        "router": "nbanewsindex",
+        "url": "//dev-m.hupu.com/nba/news",
+        "is_current": false
+      },
+      {
+        "name": "比赛",
+        "router": "nbacenter",
+        "url": "//dev-m.hupu.com/nba/game",
+        "is_current": false
+      },
+      {
+        "name": "数据",
+        "router": "nbateam",
+        "url": "//dev-m.hupu.com/nba/standings",
+        "is_current": false
+      },
+      {
+        "name": "论坛",
+        "router": "bbsindex",
+        "url": "//dev-m.hupu.com/bbs",
+        "is_current": false
+      }
+  ],
+  "node": [
+    {
+      "title": "NBA",
+      "url": "#"
+    }
+  ],
+  "customNba": [],
+  "gameList": [
+    {
+      "hometeam": "尼克斯",
+      "awayteam": "凯尔特人",
+      "score": "",
+      "gameurl": "",
+      "status": "2",
+      "progress": "01:00",
+      "gamestatus": "开始"
+    },
+    {
+      "hometeam": "骑士",
+      "awayteam": "勇士",
+      "score": "",
+      "gameurl": "",
+      "status": "2",
+      "progress": "03:30",
+      "gamestatus": "开始"
+    },
+    {
+      "hometeam": "马刺",
+      "awayteam": "公牛",
+      "score": "",
+      "gameurl": "",
+      "status": "2",
+      "progress": "06:00",
+      "gamestatus": "开始"
+    }
+  ],
+  "homeData": {
+    "nba": [
+      {
+        "title": "帕克18+16马刺胜开拓者3",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "帕克18+16马刺胜开拓者4",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "帕克18+16马刺胜开拓者5",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "帕克18+16马刺胜开拓者6",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "帕克18+16马刺胜开拓者7",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "帕克18+16马刺胜开拓者8",
+        "url": "//test-m.hupu.com/bbs/13068109.html",
+        "type": "bbs",
+        "replies": "58",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "修改修改修改66666666"
+      },
+      {
+        "title": "伦纳德：欢迎来可爱岛3",
+        "url": "//test-m.hupu.com/bbs/13068176.html",
+        "type": "bbs",
+        "replies": "0",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "都会很喜欢薪火相传差距不错不错"
+      },
+      {
+        "title": "伦纳德：欢迎来可爱岛4",
+        "url": "//test-m.hupu.com/bbs/13068176.html",
+        "type": "bbs",
+        "replies": "0",
+        "fid": "44",
+        "boardname": "火箭专区",
+        "boardurl": "//test-m.hupu.com/bbs/44",
+        "subject": "都会很喜欢薪火相传差距不错不错"
+      }
+    ],
+    "zhizao": null,
+    "topic": [],
+    "teams": [
+      [
+        {
+          "title": "投票测试APP",
+          "url": "//test-m.hupu.com/bbs/13097188.html",
+          "type": "bbs",
+          "replies": 0,
+          "light": "0",
+          "fid": "44",
+          "boardname": "火箭专区",
+          "boardurl": "//test-m.hupu.com/bbs/44"
+        },
+        {
+          "title": "论坛消息测试",
+          "url": "//test-m.hupu.com/bbs/13097117.html",
+          "type": "bbs",
+          "replies": "6",
+          "light": "0",
+          "fid": "44",
+          "boardname": "火箭专区",
+          "boardurl": "//test-m.hupu.com/bbs/44"
+        },
+        {
+          "title": "主贴里有黄土广告",
+          "url": "//test-m.hupu.com/bbs/13097165.html",
+          "type": "bbs",
+          "replies": 0,
+          "light": "0",
+          "fid": "44",
+          "boardname": "火箭专区",
+          "boardurl": "//test-m.hupu.com/bbs/44"
+        }
+      ],
+      [
+        {
+          "title": "骑士专区推荐帖子5",
+          "url": "//test-m.hupu.com/bbs/13096800.html",
+          "type": "bbs",
+          "replies": "7",
+          "light": "0",
+          "fid": "85",
+          "boardname": "骑士专区",
+          "boardurl": "//test-m.hupu.com/bbs/85"
+        },
+        {
+          "title": "骑士专区推荐帖子4",
+          "url": "//test-m.hupu.com/bbs/13096799.html",
+          "type": "bbs",
+          "replies": "7",
+          "light": "0",
+          "fid": "85",
+          "boardname": "骑士专区",
+          "boardurl": "//test-m.hupu.com/bbs/85"
+        },
+        {
+          "title": "骑士专区推荐帖子3",
+          "url": "//test-m.hupu.com/bbs/13096798.html",
+          "type": "bbs",
+          "replies": "7",
+          "light": "0",
+          "fid": "85",
+          "boardname": "骑士专区",
+          "boardurl": "//test-m.hupu.com/bbs/85"
+        }
+      ],
+      [
+        {
+          "title": "测试",
+          "url": "//test-m.hupu.com/bbs/13096733.html",
+          "type": "bbs",
+          "replies": "1",
+          "light": "0",
+          "fid": "81",
+          "boardname": "湖人专区",
+          "boardurl": "//test-m.hupu.com/bbs/81"
+        },
+        {
+          "title": "[流言板]测试同步到火箭专区和湖人专区(标题修改)",
+          "url": "//test-m.hupu.com/bbs/13096731.html",
+          "type": "bbs",
+          "replies": "1",
+          "light": "0",
+          "fid": "81",
+          "boardname": "湖人专区",
+          "boardurl": "//test-m.hupu.com/bbs/81"
+        },
+        {
+          "title": "000001-丹丹测试大叔，电饭锅电饭锅电饭锅地方宫东风",
+          "url": "//test-m.hupu.com/bbs/13068568.html",
+          "type": "bbs",
+          "replies": "3",
+          "light": "0",
+          "fid": "81",
+          "boardname": "湖人专区",
+          "boardurl": "//test-m.hupu.com/bbs/81"
+        }
+      ]
+    ],
+    "hotnews": [
+      {
+        "title": "123456",
+        "type": "news",
+        "url": "//test-m.hupu.com/nba/news/1346381.html",
+        "media": "不吐槽会死星人",
+        "img": "https://c1.hoopchina.com.cn/uploads/star/event/images/default/breakingnews.jpg@.webp",
+        "date": "2016-12-22 16:00:58",
+        "reply_count": "0",
+        "light_count": "0",
+        "replies": "0"
+      },
+      {
+        "title": "11111111111444443",
+        "type": "news",
+        "url": "//test-m.hupu.com/nba/news/1346380.html",
+        "media": "不吐槽会死星人",
+        "img": "https://c2.hoopchina.com.cn/uploads/star/event/images/default/breakingnews.jpg@.webp",
+        "date": "2016-12-22 15:53:04",
+        "reply_count": "0",
+        "light_count": "0",
+        "replies": "0"
+      },
+      {
+        "title": "沃顿：数据不能完全体现南斯的作用",
+        "type": "news",
+        "url": "//test-m.hupu.com/nba/news/1346379.html",
+        "media": "不吐槽会死星人",
+        "img": "https://bbsstaticoss.hoopchina.com.cn/aHR0cDovL2ltZzA0LnN0b3JlLnNvZ291LmNvbS9uZXQvYS80Ni9saW5rP2FwcGlkPTQ2JnVybD1odHRwJTNBJTJGJTJGYzEuaG9vcGNoaW5hLmNvbS5jbiUyRnVwbG9hZHMlMkZzdGFyJTJGZXZlbnQlMkZpbWFnZXMlMkYxNjEyMjIlMkZ0aHVtYm5haWwtODg3Y2Y4M2U0NmRkMDY2YzRmNWI2ZmQ2NmQwYTExYjRmZjBiMmU2OC5wbmc",
+        "date": "2016-12-22 14:25:24",
+        "reply_count": "0",
+        "light_count": "0",
+        "replies": "0"
+      }
+    ]
+  },
+  "adInfo": {
+    "m_adbanner": {
+      "nba_home": []
+    },
+    "m_adword": {
+      "nba_home_top": [],
+      "nba_home_lakers": []
+    },
+    "m_adapp": {
+      "hupusports": []
+    },
+    "m_partner": {
+      "m_nba_home_rockets_upside": []
+    }
+  },
+  "from": "",
+  "goto_script": "<script type=\"text/javascript\" src=\"https://goto.hupu.com/js/c/87.js\"></script>"
+}

@@ -1,0 +1,181 @@
+@charset "utf-8";
+
+@import "../sass/sassCore/base";
+body .nav-tab{
+    border-top: none;
+    border-bottom: 1px solid #eee;
+}
+.playersGameData-wrap {
+    .season-content {
+        background: #fbfbfb;
+        .main-title {
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            h2 {
+                font-size: 14px;
+                line-height: 40px;
+            }
+        } 
+        .table-col-1 {
+            //display:flex;
+             @include display-flex();
+            width: 100%; 
+            flex:50px;
+            overflow-x: hidden;
+        }  
+        /* .table-scroll0{
+            display:flex;
+            //width:30px;
+        }    */
+        .table-scroll {
+            display:flex;
+            @include flex(1);
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            &::-webkit-scrollbar {
+                display: none;
+            }
+        }
+
+        .table {
+            width: 100%;
+            line-height: 30px;
+            white-space: nowrap;
+            text-align: center;
+            th,
+            td {
+                padding: 0 8px;
+                border-top: 1px solid #eee;
+            }
+            th {
+                text-align: center;
+                font-weight: 400;
+                color: #999;
+                border-top: none;
+            }
+            .number-1 {
+                width: 15%;
+                background-color:#fff;
+                border-right:1px solid #eee;
+            }
+            
+        }
+        .table-1 {
+            .number-2 {
+               // min-width: 70px;
+                text-align: left;
+            }
+            .number-3 {
+               //min-width: 95px;
+                text-align: left;
+            }
+        }
+    }
+   
+    // 技术统计
+    .technical-content {
+        text-align: center;
+        .table-3 {
+            th {
+                text-align: center;
+            }
+            .number-1,
+            .number-2 {
+                width: 33%;
+            }
+            .number-1 {
+                text-align: left;
+            }
+        }
+    }
+}
+
+//球员个人（生涯数据）
+ .main-title2 {
+    background-color: #f6f6f6;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+     padding-left:18px;
+     color:#999;
+     border-top: 1px solid #eee;
+     border-bottom: 1px solid #eee;
+    span {
+        font-weight:600;
+        font-size: 14px;
+        padding-left: 6px;
+    }
+    img{
+        padding-bottom:2px;
+    }
+}
+
+.playersGameData-wrap {
+    .season-content {
+        .table1 { 
+             .number-1{
+                background-color:#fff;
+             } 
+            thead{
+                .number-1,.number-2,.number-3,.number-4,.number-5,.number-6,.number-7,
+                .number-8,.number-9,.number-10,.number-11,.number-12,.number-13,.number-14,
+                .number-15,.number-16,.number-17,.number-18,.number-19 {
+                    color:#999;
+                }
+               }
+            tbody{
+                .number-2,.number-3,.number-4,.number-5,.number-6,.number-7{
+                    background-color:#fbfbfb;
+                }
+            }
+            tfoot{
+                background-color:#bac2cc;
+                line-height:45px;
+                color:#fbfbfb;
+                .number-2{
+                    border-right:1px solid #eee;
+                }
+            }
+
+          
+            line-height: 40px;
+            white-space: nowrap;
+            text-align: center;
+            th,
+            td {
+                padding: 0 8px;
+                border-top: 1px solid #eee;
+            }
+            th {
+                text-align: center;
+                font-weight: 400;
+                color: #000;
+                border-top: none;
+            }
+        }
+    }
+}
+
+.playername{
+    line-height: 50px;
+    height:50px;
+    padding-left:15px;
+    font-size:18px;
+    background-color:#f6f6f6;
+    //color:#c00;
+    font-weight:600;
+    a{
+       color:#c00; 
+    }
+    span{
+        padding-left:20px;
+        margin-bottom:2px;
+        font-size:14px;
+    }
+    img{
+        padding-left:5px;
+        padding-right:5px;
+    }
+}

@@ -1,0 +1,79 @@
+@import "../sass/sassCore/base";
+
+.message-wrap {
+    margin-top: 20px;
+    .not-message {
+        padding: 20px 0 40px;
+        text-align: center;
+        color: #999;
+    }
+    .message-list {
+        padding: 0 .1rem;
+        li {
+            position: relative;
+            margin-bottom: .15rem;
+        }
+        .sub-title {
+            padding: .08rem .3rem .08rem .1rem;
+            font-weight: 400;
+            background: #f9f9f9;
+            color: #999;
+            &:before {
+                display: none;
+                content: '';
+                position: absolute;
+                top: .16rem;
+                left: .04rem;
+                width: .04rem;
+                height: .04rem;
+                background: #d7534a;
+                @include border-radius(50%);
+            }
+            a {
+                color: #999;
+            }
+        }
+        .time {
+            padding: .05rem .1rem 0;
+            color: #999;
+        }
+        .button-close {
+            display: none;
+            position: absolute;
+            top: .08rem;
+            right: .05rem;
+            width: .2rem;
+            height: .2rem;
+            &:before,
+            &:after {
+                content: '';
+                position: absolute;
+                height: 1px;
+                width: 14px;
+                top: 50%;
+                left: 2px;
+                background: #e22929;
+            }
+            &:before {
+                @include rotate(-45deg);
+            }
+            &:after {
+                @include rotate(45deg);
+            }
+        }
+        .no-view {
+            .sub-title {
+                color: #444;
+                &:before {
+                    display: block;
+                }
+                a {
+                    color: #005eac;
+                }
+            }
+            .button-close {
+                display: none;
+            }
+        }
+    }
+}
